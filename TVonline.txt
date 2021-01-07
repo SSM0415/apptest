@@ -368,19 +368,7 @@ KID影視輪播,#genre#
 新科動漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 日本動漫,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
 假面騎士,http://117.148.187.37/PLTV/88888888/224/3221226178/index.m3u8
-黃渤,http://tv.rdys888.top/bak/proxy/youku.php?id=8021910
-張學友,http://tv.rdys888.top/bak/proxy/youku.php?id=8027929
-張國榮,http://tv.rdys888.top/bak/proxy/youku.php?id=8019325
-周星馳,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
-周星馳,http://mtv.jdvip.win/tv/mgutv.php?id=623338112
-周潤發,http://tv.rdys888.top/bak/proxy/youku.php?id=8021907
-劉德華,http://tv.rdys888.top/bak/proxy/youku.php?id=8018618
-宋慧喬,http://tv.rdys888.top/bak/proxy/youku.php?id=8020223
-風雲二,http://tv.rdys888.top/bak/proxy/youku.php?id=8019979
-奧斯卡,http://tv.rdys888.top/bak/proxy/youku.php?id=8018655
-酷影廳,http://tv.rdys888.top/bak/proxy/youku.php?id=8032840
-擇天記,http://tv.rdys888.top/bak/proxy/youku.php?id=8019978
-封神榜,http://tv.rdys888.top/bak/proxy/youku.php?id=8034750
+
 
 新聞頻道TVB,#genre#
 有線新聞,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo#tvbus://89ka2EwsEPEhnFhvSE5J8QZE2LNzWQYJia8tHfzy5W3UUy8ZvP
