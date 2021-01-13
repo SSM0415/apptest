@@ -283,6 +283,7 @@ https://videozm.whqhyg.com:8091/20200705/QhCNmjxz/index.m3u8
 https://videozm.whqhyg.com:8091/20201220/kSRnOfCN/1000kb/hls/index.m3u8
 
 
+
 #EXTINF:-1 group-title="18x美短片",成人視頻15
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
 #EXTINF:-1 group-title="18x美短片",成人視頻18
@@ -3988,6 +3989,16 @@ http://videocdn.quweikm.com:8091/20181001/ABP-697Bc/index.m3u8
 http://videocdn.quweikm.com:8091/20180730/SET-014c/index.m3u8
 #EXTINF:-1 group-title="JP中文字幕" tvg-logo="http://ttdbj.com/2018-8/PS/SET-010.jpg",SET-010c-巨乳美人
 http://videocdn.quweikm.com:8091/20180730/SET-010c/index.m3u8
+#EXTINF:-1 group-title="JP中文字幕" tvg-logo="http://a241.static-file.com/shared/upload/video/202007/20200710065825_1506.jpg.thumb.jpg",JUL-269-C黑母乳人妻OL被最的男人幹到想死
+http://videozm.whqhyg.com:8091/20200711/fVqOk81I/index.m3u8
+#EXTINF:-1 group-title="JP中文字幕" tvg-logo="http://a515.static-file.com/shared/upload/video/202007/20200705201934_3375.jpg.thumb.jpg",STARS-253-C對憧憬女主播本莊鈴使用洗腦精華水讓她變成徹徹底底的淫娃
+http://videozm.whqhyg.com:8091/20200711/lJ4xsMgX/index.m3u8
+#EXTINF:-1 group-title="JP中文字幕" tvg-logo="http://a433.static-file.com/shared/upload/video/202006/20200603092356_9576.jpg.thumb.jpg",WANZ-961-C忍住春高超淫技就你套射
+http://videozm.whqhyg.com:8091/20200629/WANZ-961-C/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="真實生活秀1302",reallifecam_1
 https://cdn.reallifecamhd.net/1.mp4
 #EXTINF:-1 group-title="真實生活秀1302",reallifecam_2
