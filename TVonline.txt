@@ -100,15 +100,7 @@ ELEVEN SPORT2,rtmp://59.124.75.156:1935/sat/md032
 民視台灣,rtmp://59.124.75.156:1935/sat/md052
 民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-三立台灣台,http://125.227.210.55:9181/VideoInput/play.ts
 天映經典,rtmp://v3948069e.live.126.net:1935/live/hdhhxhsgxhjshyrgfzhsf/mszb201211tyjd202111
-東森洋片,http://v3948069e.live.126.net:1935/live/hdhhxhsgxhjshyrgfzhsf/mszb2021dsypabcd.flv
-三立台灣台,http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立綜合台,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-中天綜合台,http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-中天娛樂台,http://198.16.106.58:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-TVBS新聞台,http://198.16.106.58:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-HBO,http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖天戲劇,http://61.58.60.230:9319/live/203.m3u8
@@ -131,13 +123,9 @@ CNEX紀實,http://61.58.60.230:9319/live/257.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv/chunklist_w1474469129.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-Style,https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
-希望電視台,http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 上德電視台,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
-佛衛慈悲台,http://btsu4k5-hisng.cdn.hinet.net/live/pool/bts-Live1/hievent-hls/index.m3u8
-信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 
@@ -955,6 +943,224 @@ MLB Network,tvbus://5qD5b3kCL2Vu54sgfgv8sy7Rk7Msps1z43tBUuGPUY6G5J3VNjDsiG2nYyRb
 高爾夫美國,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG
 新動力600news,tvbus://5jYymnbuNFPoHM9MVy6rRqgGakMhZnNKQUQS7ubW57HxmwRkKngHpXSS4UTLz
 
+港台測試1,#genre#
+翡翠台,http://jieting.yugg.cf/vip2021/jieting.php?id=429
+翡翠台1,http://jieting.yugg.cf/vip2021/jieting.php?id=390
+翡翠台2,http://jieting.yugg.cf/vip2021/jieting.php?id=1084
+明珠台,http://jieting.yugg.cf/vip2021/jieting.php?id=391
+J2,http://jieting.yugg.cf/vip2021/jieting.php?id=392
+香港開電視,http://jieting.yugg.cf/vip2021/jieting.php?id=17
+RTHK31,http://jieting.yugg.cf/vip2021/jieting.php?id=353
+RTHK32,http://jieting.yugg.cf/vip2021/jieting.php?id=397
+有線娛樂,http://jieting.yugg.cf/vip2021/jieting.php?id=360
+有線體育2,http://jieting.yugg.cf/vip2021/jieting.php?id=356
+無線財經,http://jieting.yugg.cf/vip2021/jieting.php?id=393
+無線新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=394
+有線新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=395
+無線新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=45
+ViUtv,http://jieting.yugg.cf/vip2021/jieting.php?id=72
+星衛娛樂台,http://jieting.yugg.cf/vip2021/jieting.php?id=89
+衛視電影,http://jieting.yugg.cf/vip2021/jieting.php?id=93
+星衛電影,http://jieting.yugg.cf/vip2021/jieting.php?id=496
+影迷數位電影,http://jieting.yugg.cf/vip2021/jieting.php?id=497
+有線電影,http://jieting.yugg.cf/vip2021/jieting.php?id=354
+鳳凰資訊,http://jieting.yugg.cf/vip2021/jieting.php?id=1080
+鳳凰電影,http://jieting.yugg.cf/vip2021/jieting.php?id=18
+鳳凰電影,http://jieting.yugg.cf/vip2021/jieting.php?id=19
+鳳凰資訊,http://jieting.yugg.cf/vip2021/jieting.php?id=21
+鳳凰中文,http://jieting.yugg.cf/vip2021/jieting.php?id=357
+鳳凰香港,http://jieting.yugg.cf/vip2021/jieting.php?id=358
+鳳凰資訊,http://jieting.yugg.cf/vip2021/jieting.php?id=359
+香港衛視,http://jieting.yugg.cf/vip2021/jieting.php?id=399
+美亞電影,http://jieting.yugg.cf/vip2021/jieting.php?id=375
+NOW新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=396
+NOW直播,http://jieting.yugg.cf/vip2021/jieting.php?id=400
+有線體育1,http://jieting.yugg.cf/vip2021/jieting.php?id=401
+新時代溫哥華,http://jieting.yugg.cf/vip2021/jieting.php?id=1032
+新時代多倫多2,http://jieting.yugg.cf/vip2021/jieting.php?id=1033
+TVB星河,http://jieting.yugg.cf/vip2021/jieting.php?id=1079
+衛視卡式台,http://jieting.yugg.cf/vip2021/jieting.php?id=1085
+18台,http://jieting.yugg.cf/vip2021/jieting.php?id=44
+澳門蓮花,http://jieting.yugg.cf/vip2021/jieting.php?id=70
+澳視葡語,http://jieting.yugg.cf/vip2021/jieting.php?id=24
+澳門衛星,http://jieting.yugg.cf/vip2021/jieting.php?id=29
+豬哥亮歌廳秀,http://jieting.yugg.cf/vip2021/jieting.php?id=75
+台視,http://jieting.yugg.cf/vip2021/jieting.php?id=27
+台視,http://jieting.yugg.cf/vip2021/jieting.php?id=326
+台視新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=1
+台視綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=309
+台視財經,http://jieting.yugg.cf/vip2021/jieting.php?id=300
+民視,http://jieting.yugg.cf/vip2021/jieting.php?id=26
+民視,http://jieting.yugg.cf/vip2021/jieting.php?id=336
+民視新聞台,http://jieting.yugg.cf/vip2021/jieting.php?id=13
+民視綜藝,http://jieting.yugg.cf/vip2021/jieting.php?id=98
+民視第一台,http://jieting.yugg.cf/vip2021/jieting.php?id=34
+民視台灣台,http://jieting.yugg.cf/vip2021/jieting.php?id=36
+民視影劇,http://jieting.yugg.cf/vip2021/jieting.php?id=1023
+民視旅遊,http://jieting.yugg.cf/vip2021/jieting.php?id=78
+華視,http://jieting.yugg.cf/vip2021/jieting.php?id=32
+華視,http://jieting.yugg.cf/vip2021/jieting.php?id=327
+華視資訊,http://jieting.yugg.cf/vip2021/jieting.php?id=6
+華納電影,http://jieting.yugg.cf/vip2021/jieting.php?id=83
+華藝綜合台,http://jieting.yugg.cf/vip2021/jieting.php?id=310
+中視,http://jieting.yugg.cf/vip2021/jieting.php?id=333
+中視經典,http://jieting.yugg.cf/vip2021/jieting.php?id=185
+中視新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=7
+中視新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=28
+中視菁採,http://jieting.yugg.cf/vip2021/jieting.php?id=74
+中天新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=3
+中天綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=54
+中天娛樂,http://jieting.yugg.cf/vip2021/jieting.php?id=324
+中天綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=325
+中天亞洲台,http://jieting.yugg.cf/vip2021/jieting.php?id=322
+公視,http://jieting.yugg.cf/vip2021/jieting.php?id=86
+ANIMAX,http://jieting.yugg.cf/vip2021/jieting.php?id=59
+公視,http://jieting.yugg.cf/vip2021/jieting.php?id=361
+公視戲劇,http://jieting.yugg.cf/vip2021/jieting.php?id=69
+八大精彩台,http://jieting.yugg.cf/vip2021/jieting.php?id=1024
+八大綜合台,http://jieting.yugg.cf/vip2021/jieting.php?id=90
+八大戲劇台,http://jieting.yugg.cf/vip2021/jieting.php?id=81
+東森幼幼,http://jieting.yugg.cf/vip2021/jieting.php?id=371
+東森綜合台,http://jieting.yugg.cf/vip2021/jieting.php?id=372
+龍祥時代,http://jieting.yugg.cf/vip2021/jieting.php?id=373
+東森新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=9
+東森新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=12
+東森戲劇,http://jieting.yugg.cf/vip2021/jieting.php?id=321
+東森電影,http://jieting.yugg.cf/vip2021/jieting.php?id=350
+東森洋片,http://jieting.yugg.cf/vip2021/jieting.php?id=1128
+東森購物1,http://jieting.yugg.cf/vip2021/jieting.php?id=1155
+東森購物2,http://jieting.yugg.cf/vip2021/jieting.php?id=1156
+龍華經典,http://jieting.yugg.cf/vip2021/jieting.php?id=364
+龍華戲劇,http://jieting.yugg.cf/vip2021/jieting.php?id=365
+龍華動畫,http://jieting.yugg.cf/vip2021/jieting.php?id=366
+龍華電影,http://jieting.yugg.cf/vip2021/jieting.php?id=311
+龍華經典,http://jieting.yugg.cf/vip2021/jieting.php?id=100
+龍華偶像,http://jieting.yugg.cf/vip2021/jieting.php?id=347
+龍華日韓,http://jieting.yugg.cf/vip2021/jieting.php?id=382
+緯來日本,http://jieting.yugg.cf/vip2021/jieting.php?id=46
+緯來日本,http://jieting.yugg.cf/vip2021/jieting.php?id=337
+緯來體育,http://jieting.yugg.cf/vip2021/jieting.php?id=52
+緯來電影,http://jieting.yugg.cf/vip2021/jieting.php?id=96
+緯來體育,http://jieting.yugg.cf/vip2021/jieting.php?id=118
+緯來育樂,http://jieting.yugg.cf/vip2021/jieting.php?id=312
+靖天育樂台,http://jieting.yugg.cf/vip2021/jieting.php?id=1029
+靖天卡通台,http://jieting.yugg.cf/vip2021/jieting.php?id=344
+靖天國際台,http://jieting.yugg.cf/vip2021/jieting.php?id=345
+靖洋卡通台,http://jieting.yugg.cf/vip2021/jieting.php?id=348
+靖天映畫,http://jieting.yugg.cf/vip2021/jieting.php?id=349
+靖洋戲劇台,http://jieting.yugg.cf/vip2021/jieting.php?id=319
+靖天綜合台,http://jieting.yugg.cf/vip2021/jieting.php?id=308
+靖天日本台,http://jieting.yugg.cf/vip2021/jieting.php?id=108
+靖天戲劇台,http://jieting.yugg.cf/vip2021/jieting.php?id=109
+靖天電影台,http://jieting.yugg.cf/vip2021/jieting.php?id=110
+靖天資訊台,http://jieting.yugg.cf/vip2021/jieting.php?id=49
+靖天歡樂台,http://jieting.yugg.cf/vip2021/jieting.php?id=51
+TVBS,http://jieting.yugg.cf/vip2021/jieting.php?id=16
+TVBS,http://jieting.yugg.cf/vip2021/jieting.php?id=88
+TVBS歡樂台,http://jieting.yugg.cf/vip2021/jieting.php?id=40
+TVBS精采台,http://jieting.yugg.cf/vip2021/jieting.php?id=66
+三立LIVE新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=4
+三立台灣台,http://jieting.yugg.cf/vip2021/jieting.php?id=35
+三立都會台,http://jieting.yugg.cf/vip2021/jieting.php?id=38
+三立戲劇台,http://jieting.yugg.cf/vip2021/jieting.php?id=64
+寰宇綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=190
+寰宇新聞台,http://jieting.yugg.cf/vip2021/jieting.php?id=304
+寰宇新聞台灣台,http://jieting.yugg.cf/vip2021/jieting.php?id=87
+寰宇財經台,http://jieting.yugg.cf/vip2021/jieting.php?id=320
+壹綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=305
+壹新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=303
+YouTube健康2.0,http://jieting.yugg.cf/vip2021/jieting.php?id=2
+JET綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=41
+好萊塢電影,http://jieting.yugg.cf/vip2021/jieting.php?id=37
+天映經典,http://jieting.yugg.cf/vip2021/jieting.php?id=328
+SET iNEWS,http://jieting.yugg.cf/vip2021/jieting.php?id=8
+幸福空間居家,http://jieting.yugg.cf/vip2021/jieting.php?id=61
+採昌影劇,http://jieting.yugg.cf/vip2021/jieting.php?id=62
+國興衛視,http://jieting.yugg.cf/vip2021/jieting.php?id=65
+希望電視,http://jieting.yugg.cf/vip2021/jieting.php?id=67
+達文西頻道,http://jieting.yugg.cf/vip2021/jieting.php?id=68
+時尚運動X,http://jieting.yugg.cf/vip2021/jieting.php?id=71
+韓國娛樂,http://jieting.yugg.cf/vip2021/jieting.php?id=73
+HakkqTV,http://jieting.yugg.cf/vip2021/jieting.php?id=76
+亞洲旅遊,http://jieting.yugg.cf/vip2021/jieting.php?id=77
+衛視體育,http://jieting.yugg.cf/vip2021/jieting.php?id=79
+智林體育,http://jieting.yugg.cf/vip2021/jieting.php?id=82
+CinemaWorld,http://jieting.yugg.cf/vip2021/jieting.php?id=84
+爆笑頻道,http://jieting.yugg.cf/vip2021/jieting.php?id=85
+AXN最愛電影,http://jieting.yugg.cf/vip2021/jieting.php?id=92
+世新綜合5,http://jieting.yugg.cf/vip2021/jieting.php?id=95
+高點綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=99
+人間衛視,http://jieting.yugg.cf/vip2021/jieting.php?id=101
+好消息TV,http://jieting.yugg.cf/vip2021/jieting.php?id=104
+國興衛視,http://jieting.yugg.cf/vip2021/jieting.php?id=105
+博斯魅力,http://jieting.yugg.cf/vip2021/jieting.php?id=175
+大愛,http://jieting.yugg.cf/vip2021/jieting.php?id=184
+金光布袋戲,http://jieting.yugg.cf/vip2021/jieting.php?id=1060
+第1商業,http://jieting.yugg.cf/vip2021/jieting.php?id=186
+EYE戲劇,http://jieting.yugg.cf/vip2021/jieting.php?id=191
+Nick兒童,http://jieting.yugg.cf/vip2021/jieting.php?id=50
+Boomerang,http://jieting.yugg.cf/vip2021/jieting.php?id=57
+AFN,http://jieting.yugg.cf/vip2021/jieting.php?id=195
+中文字Smithsonian,http://jieting.yugg.cf/vip2021/jieting.php?id=291
+中文字FoodNetwork,http://jieting.yugg.cf/vip2021/jieting.php?id=294
+Eleven 體育2,http://jieting.yugg.cf/vip2021/jieting.php?id=301
+國家地理,http://jieting.yugg.cf/vip2021/jieting.php?id=302
+非凡商業,http://jieting.yugg.cf/vip2021/jieting.php?id=187
+年代新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=236
+探索亞洲,http://jieting.yugg.cf/vip2021/jieting.php?id=306
+探索頻道,http://jieting.yugg.cf/vip2021/jieting.php?id=1035
+國家野生,http://jieting.yugg.cf/vip2021/jieting.php?id=1038
+AFN,http://jieting.yugg.cf/vip2021/jieting.php?id=307
+空中英語教,http://jieting.yugg.cf/vip2021/jieting.php?id=313
+非凡新聞,http://jieting.yugg.cf/vip2021/jieting.php?id=314
+立綜合台,http://jieting.yugg.cf/vip2021/jieting.php?id=315
+曼迪日本台,http://jieting.yugg.cf/vip2021/jieting.php?id=316
+中華財經台,http://jieting.yugg.cf/vip2021/jieting.php?id=317
+生活英語台,http://jieting.yugg.cf/vip2021/jieting.php?id=323
+探索科學,http://jieting.yugg.cf/vip2021/jieting.php?id=343
+ELTA娛樂,http://jieting.yugg.cf/vip2021/jieting.php?id=351
+CATCHPLAY電影台,http://jieting.yugg.cf/vip2021/jieting.php?id=362
+好消息2,http://jieting.yugg.cf/vip2021/jieting.php?id=363
+衛視西片,http://jieting.yugg.cf/vip2021/jieting.php?id=369
+Love Nature,http://jieting.yugg.cf/vip2021/jieting.php?id=388
+TV5MONDE STYLE,http://jieting.yugg.cf/vip2021/jieting.php?id=389
+ELTA影劇,http://jieting.yugg.cf/vip2021/jieting.php?id=500
+CLASSICA 古典樂,http://jieting.yugg.cf/vip2021/jieting.php?id=1027
+ELTA綜合,http://jieting.yugg.cf/vip2021/jieting.php?id=1137
+MOMO親子台,http://jieting.yugg.cf/vip2021/jieting.php?id=1149
+CN卡通頻道,http://jieting.yugg.cf/vip2021/jieting.php?id=107
+愛放,http://jieting.yugg.cf/vip2021/jieting.php?id=1127
+愛放2,http://jieting.yugg.cf/vip2021/jieting.php?id=299
+愛放3,http://jieting.yugg.cf/vip2021/jieting.php?id=259
+唯心電視,http://jieting.yugg.cf/vip2021/jieting.php?id=1150
+光影歐洲,http://jieting.yugg.cf/vip2021/jieting.php?id=1157
+History 2,http://jieting.yugg.cf/vip2021/jieting.php?id=1158
+CI罪案偵查,http://jieting.yugg.cf/vip2021/jieting.php?id=1159
+AXN亞洲,http://jieting.yugg.cf/vip2021/jieting.php?id=1066
+MOMO親子,http://jieting.yugg.cf/vip2021/jieting.php?id=1126
+Z頻道,http://jieting.yugg.cf/vip2021/jieting.php?id=1130
+Cartoon,http://jieting.yugg.cf/vip2021/jieting.php?id=48
+FOX 體育1,http://jieting.yugg.cf/vip2021/jieting.php?id=1131
+FOX 體育2,http://jieting.yugg.cf/vip2021/jieting.php?id=1132
+FOX,http://jieting.yugg.cf/vip2021/jieting.php?id=384
+FOX ACTION,http://jieting.yugg.cf/vip2021/jieting.php?id=385
+FOX CRIME,http://jieting.yugg.cf/vip2021/jieting.php?id=386
+Eleven 體育1,http://jieting.yugg.cf/vip2021/jieting.php?id=1133
+Eleven 體育2,http://jieting.yugg.cf/vip2021/jieting.php?id=301
+TRACE體育Stars,http://jieting.yugg.cf/vip2021/jieting.php?id=1037
+動物星球1,http://jieting.yugg.cf/vip2021/jieting.php?id=367
+動物星球2,http://jieting.yugg.cf/vip2021/jieting.php?id=368
+博斯高球1,http://jieting.yugg.cf/vip2021/jieting.php?id=377
+博斯無限,http://jieting.yugg.cf/vip2021/jieting.php?id=381
+博斯無限2,http://jieting.yugg.cf/vip2021/jieting.php?id=426
+博斯高球2,http://jieting.yugg.cf/vip2021/jieting.php?id=378
+博斯運動1,http://jieting.yugg.cf/vip2021/jieting.php?id=379
+博斯運動2,http://jieting.yugg.cf/vip2021/jieting.php?id=380
+博斯網球,http://jieting.yugg.cf/vip2021/jieting.php?id=498
+ELTA體育一台,http://jieting.yugg.cf/vip2021/jieting.php?id=192
+ELTA體育二台,http://jieting.yugg.cf/vip2021/jieting.php?id=193
+ELTA體育三台,http://jieting.yugg.cf/vip2021/jieting.php?id=194
+
 港澳P198,#genre#
 J2,P2p://198.255.74.56:41196/602fedf4000a656879fa384be71fdc50
 J2,P2p://198.255.74.56:41196/602fed750000c5b479f845bdea465bea
@@ -1574,17 +1780,17 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 娛樂測試_1234,#genre#
 松視2台p0818,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e
 松視2台p104,p5p://104.194.8.20:20012/5f486541000e03532e4b74511bfe562e
-🍓松視1台備🍓,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
-🍓松視2台備🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
-🍓潘多拉完美備🍓,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
-🍓潘多拉粉紅備🍓,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
-🍓彩虹電影備🍓,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
-🍓彩虹e台備🍓,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
-🍓香蕉台備🍓,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
-🍓驚豔台備🍓,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
-🍓K頻道備🍓,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
-🍓HAPPY備🍓,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
-🍓HOT星顏備🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+🍓松視1台🍓,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+🍓松視2台🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+🍓潘多拉完美🍓,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+🍓潘多拉粉紅🍓,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
+🍓彩虹電影🍓,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+🍓彩虹e台🍓,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+🍓香蕉台🍓,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+🍓驚豔台🍓,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+🍓K頻道🍓,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
+🍓HAPPY🍓,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
+🍓HOT星顏🍓,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
 
 
 加值測試_1234,#genre#
