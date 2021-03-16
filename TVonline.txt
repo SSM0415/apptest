@@ -1151,7 +1151,7 @@ CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/5fbe640a0004f803294d68c96e9644
 TV5Monde,mitv://ns2.hellotvvod.com:9906/5fb514f60001968104f081ce58e101c9.ts
 Arirang TV,mitv://ns2.hellotvvod.com:9906/5fddbcac000687bd0953331b467833b1.ts
 
-港台測試1
+港台測試1,#genre#
 國家地理悠人,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
 FoodNetwork,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b
 BABYFIRST,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
