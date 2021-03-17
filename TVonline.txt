@@ -264,6 +264,7 @@ HBO家庭,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw
 tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
 FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
 AXN,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
+國家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
 國家地理野生,tvbus://5oRJxmZ4F1mga6wmLhCEkCZDiJWrbydZc9rvG4eynVwHRLqgKW38fVjchKJML
 國家地理悠人,tvbus://5rcm8hf7wJMULKec5YcP7MSV4s7fd7LHhfjpWrBqmoLP4M8Xb4r8DJGSqTTfa
 國家地理,tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W
@@ -417,6 +418,7 @@ BBC_Earth,tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m#
 探索頻道,tvbus://7bUgAd7xJ69SxFTEQNYuXUvZ29XHegkD8TzuEeAUwoKKrWXdUf
 DMAX,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 國家地理台灣,tvbus://7QKVgcPmfMJvgrmXBBCh34GBN7bm271hCY5mHxJCaWNF6FxXF4#tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W
+國家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
 國家地理野生,tvbus://6qni8v3MJ1Q6xNTcqvzwvigYXwR7yBrJD5Ue2a6EGkX6EnVb3C
 國家地理悠人,tvbus://7Z3ELBQobcBea2d82ADshNYh5J3ZceGcCK23j1nTZyUyaEX6Sg
 歷史頻道H1,tvbus://5e5WsYxPHbGNzugLb4WNbiJx523VzgDtGXd9L44e5YUKwLuKHLgR4R3xdPYYZ
