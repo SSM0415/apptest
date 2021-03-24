@@ -1154,40 +1154,40 @@ TV5Monde,mitv://ns2.hellotvvod.com:9906/5fb514f60001968104f081ce58e101c9.ts
 Arirang TV,mitv://ns2.hellotvvod.com:9906/5fddbcac000687bd0953331b467833b1.ts
 
 港台測試1,#genre#
-有線新聞台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=6
-有線新聞台,http://qj. yyrjdp.cn/jiuban/iptv3456.php?id=7
-香港有線603,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=8
-有線電影台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=9
-有線財經資訊台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=10
-有線18台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=12
-無線新聞,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=13
-翡翠台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=15
-J2,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=18
-ViuTV,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=20
-now新聞台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=21
-HBO,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=24
-中天新聞台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=26
-東森新聞台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=27
-東森財經新聞,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=28
-寰宇新聞,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=30
-台視新聞台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=31
-中視新聞,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=32
-華視新聞資訊,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=33
-TVBS新聞台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=34
-三立LIVE新聞,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=35
-民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=37
-民視,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=41
-台視,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=42
-中視,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=43
-華視,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=44
-公視,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=45
+有線新聞台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=6
+有線新聞台,http://qj. yyrjdp.cn/jiuban/iptv939.php?id=7
+香港有線603,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=8
+有線電影台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=9
+有線財經資訊台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=10
+有線18台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=12
+無線新聞,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=13
+翡翠台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=15
+J2,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=18
+ViuTV,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=20
+now新聞台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=21
+HBO,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=24
+中天新聞台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=26
+東森新聞台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=27
+東森財經新聞,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=28
+寰宇新聞,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=30
+台視新聞台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=31
+中視新聞,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=32
+華視新聞資訊,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=33
+TVBS新聞台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=34
+三立LIVE新聞,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=35
+民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=37
+民視,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=41
+台視,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=42
+中視,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=43
+華視,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=44
+公視,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=45
 TVBS歡樂台,http://qj.yyrjdp.cn/jiuban/iptv5.php?id=47
-緯來體育台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=48
-三立台灣台,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=49
-東森超視,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=50
-緯來體育,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=52
-緯來日本,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=53
-緯來育樂,http://qj.yyrjdp.cn/jiuban/iptv3456.php?id=54
+緯來體育台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=48
+三立台灣台,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=49
+東森超視,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=50
+緯來體育,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=52
+緯來日本,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=53
+緯來育樂,http://qj.yyrjdp.cn/jiuban/iptv939.php?id=54
 
 
 港台測試2,#genre#
@@ -1672,6 +1672,1374 @@ CCTV中視購物 標清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/322122
 北京家有購物 標清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226343/1.m3u8
 聚鯊環球精選 標清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226345/1.m3u8
 
+TW台灣安測,#genre#
+民視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=26#http://a.laoxiang.cf/jqkjzy/crtv.php?id=336
+台視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=27#http://a.laoxiang.cf/jqkjzy/crtv.php?id=326
+中視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=28#http://a.laoxiang.cf/jqkjzy/crtv.php?id=333
+華視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=32#http://a.laoxiang.cf/jqkjzy/crtv.php?id=327
+公視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=86#http://a.laoxiang.cf/jqkjzy/crtv.php?id=361
+幸福空間居家,http://a.laoxiang.cf/jqkjzy/crtv.php?id=61
+好消息,http://a.laoxiang.cf/jqkjzy/crtv.php?id=104#http://a.laoxiang.cf/jqkjzy/crtv.php?id=104
+原住民電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=95
+客家電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=76
+緯來綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=340
+八大第一,http://a.laoxiang.cf/jqkjzy/crtv.php?id=318
+八大綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=325
+東風衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2152
+三立臺灣,http://a.laoxiang.cf/jqkjzy/crtv.php?id=21#http://a.laoxiang.cf/jqkjzy/crtv.php?id=35
+三立都會,http://a.laoxiang.cf/jqkjzy/crtv.php?id=38#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1001
+衛視中文,http://a.laoxiang.cf/jqkjzy/crtv.php?id=342
+東森綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=372
+東森超視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=80
+東森購物2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1156
+中天綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=54
+中天娛樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=324
+TVBS歡樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=40
+八大精彩,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1024
+JET綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=41
+東森購物1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1155
+TVBS綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=16
+緯來育樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=338#http://a.laoxiang.cf/jqkjzy/crtv.php?id=312
+緯來日本,http://a.laoxiang.cf/jqkjzy/crtv.php?id=337#http://a.laoxiang.cf/jqkjzy/crtv.php?id=46
+國興衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=65
+信吉電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=422
+壹電視綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=305
+八大娱乐,http://a.laoxiang.cf/jqkjzy/crtv.php?id=105
+公視3台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1340
+好消息2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=363#http://a.laoxiang.cf/jqkjzy/crtv.php?id=363
+高點綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=99
+中天亞洲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=322
+民視綜藝,http://a.laoxiang.cf/jqkjzy/crtv.php?id=98
+民視第一台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=34
+民視台灣,http://a.laoxiang.cf/jqkjzy/crtv.php?id=36
+公視台語,http://a.laoxiang.cf/jqkjzy/crtv.php?id=58
+龍華偶像,http://a.laoxiang.cf/jqkjzy/crtv.php?id=347
+龍華日韓,http://a.laoxiang.cf/jqkjzy/crtv.php?id=382
+豬哥亮歌廳秀,http://a.laoxiang.cf/jqkjzy/crtv.php?id=75
+ELTA娛樂台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=351
+韓國娛樂台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=73
+星衛娛樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=89
+靖天國際,http://a.laoxiang.cf/jqkjzy/crtv.php?id=345
+靖天育樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1029
+靖天日本,http://a.laoxiang.cf/jqkjzy/crtv.php?id=108
+靖天歡樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=51
+三立綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=315
+靖天資訊,http://a.laoxiang.cf/jqkjzy/crtv.php?id=49
+中視經典,http://a.laoxiang.cf/jqkjzy/crtv.php?id=185
+靖天娛樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1589
+寰宇綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=190
+中視菁采,http://a.laoxiang.cf/jqkjzy/crtv.php?id=74
+TVBS精采,http://a.laoxiang.cf/jqkjzy/crtv.php?id=66
+華藝綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=310
+年代much,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1359
+臺視綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=309
+ELTA綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1137
+番薯電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=29
+TVN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=295#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1170
+世新綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1048
+東森購物3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1584
+MOMO購物1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1585
+MOMO購物2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1586
+天良綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1587
+誠心電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1590
+美好購物1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1591
+美好購物2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1592
+大立電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1593
+三立LIVE新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=4#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1008#http://a.laoxiang.cf/jqkjzy/crtv.php?id=4#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1008
+東森新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=9#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1016#http://a.laoxiang.cf/jqkjzy/crtv.php?id=9#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1016
+中天新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=3#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1002#http://a.laoxiang.cf/jqkjzy/crtv.php?id=3#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1002
+民視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=13#http://a.laoxiang.cf/jqkjzy/crtv.php?id=13
+TVBS新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1004#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1004
+東森財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=12#http://a.laoxiang.cf/jqkjzy/crtv.php?id=12
+華視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=6#http://a.laoxiang.cf/jqkjzy/crtv.php?id=6
+iNEWS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=8#http://a.laoxiang.cf/jqkjzy/crtv.php?id=8
+台視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1
+年代新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1099#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1099
+非凡商業,http://a.laoxiang.cf/jqkjzy/crtv.php?id=187#http://a.laoxiang.cf/jqkjzy/crtv.php?id=187
+寰宇財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=320#http://a.laoxiang.cf/jqkjzy/crtv.php?id=320
+台視財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=300#http://a.laoxiang.cf/jqkjzy/crtv.php?id=300
+寰宇新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=304#http://a.laoxiang.cf/jqkjzy/crtv.php?id=304
+壹電視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=303#http://a.laoxiang.cf/jqkjzy/crtv.php?id=303
+FRANCE 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2137#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1781
+CBN News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=499#http://a.laoxiang.cf/jqkjzy/crtv.php?id=499
+第1商業,http://a.laoxiang.cf/jqkjzy/crtv.php?id=186#http://a.laoxiang.cf/jqkjzy/crtv.php?id=186
+緯來體育,http://a.laoxiang.cf/jqkjzy/crtv.php?id=52#http://a.laoxiang.cf/jqkjzy/crtv.php?id=52#http://a.laoxiang.cf/jqkjzy/crtv.php?id=118
+大愛一臺,http://a.laoxiang.cf/jqkjzy/crtv.php?id=11#http://a.laoxiang.cf/jqkjzy/crtv.php?id=11
+海豚綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1505#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1505
+HK港澳安測,#genre#
+TVB翡翠,http://a.laoxiang.cf/jqkjzy/crtv.php?id=30#http://a.laoxiang.cf/jqkjzy/crtv.php?id=390
+TVB明珠,http://a.laoxiang.cf/jqkjzy/crtv.php?id=391
+無線新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=45#http://a.laoxiang.cf/jqkjzy/crtv.php?id=394
+有線新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=395
+Viutv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=72
+TVB無線財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=393
+TVB J2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=392
+NOW新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=396
+Now財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=111
+NOW直播,http://a.laoxiang.cf/jqkjzy/crtv.php?id=400
+鳳凰香港,http://a.laoxiang.cf/jqkjzy/crtv.php?id=358
+鳳凰衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=357
+鳳凰資訊,http://a.laoxiang.cf/jqkjzy/crtv.php?id=359
+星空衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=56
+港臺31,http://a.laoxiang.cf/jqkjzy/crtv.php?id=353
+港臺32,http://a.laoxiang.cf/jqkjzy/crtv.php?id=397
+香港開電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=17
+HKC電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=354
+HKC體育1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=401
+HKC體育2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=356
+HKS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=399
+澳視澳門,http://a.laoxiang.cf/jqkjzy/crtv.php?id=23
+澳視葡語,http://a.laoxiang.cf/jqkjzy/crtv.php?id=24
+澳門Macau,http://a.laoxiang.cf/jqkjzy/crtv.php?id=364
+有線603,http://a.laoxiang.cf/jqkjzy/crtv.php?id=398
+廣東珠江,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1034
+18台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=44
+澳門蓮花,http://a.laoxiang.cf/jqkjzy/crtv.php?id=70
+鳳凰電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=19
+Viutv 6,http://a.laoxiang.cf/jqkjzy/crtv.php?id=176
+耀才财经,http://a.laoxiang.cf/jqkjzy/crtv.php?id=355
+創世電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1317
+ATV亞視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1457
+陽光衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1607
+美亞電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=375#http://a.laoxiang.cf/jqkjzy/crtv.php?id=375
+爆穀台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=152#http://a.laoxiang.cf/jqkjzy/crtv.php?id=152
+NOW SPORTS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1358#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1358
+TLC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1533#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206
+嶺南戲曲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502
+新時代東部,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1286#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1286
+新時代西部,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1287#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1287
+城市電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1289#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1289
+新時代2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1288#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1288
+TVB星河,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1079#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1079
+TVB經典,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1083#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1083
+TVB Jade,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1084#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1084
+衛視卡式臺,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1085#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1085
+News新聞安測,#genre#
+三立LIVE新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=4#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1008#http://a.laoxiang.cf/jqkjzy/crtv.php?id=4#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1008
+東森新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=9#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1016#http://a.laoxiang.cf/jqkjzy/crtv.php?id=9#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1016
+中天新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=3#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1002#http://a.laoxiang.cf/jqkjzy/crtv.php?id=3#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1002
+民視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=13#http://a.laoxiang.cf/jqkjzy/crtv.php?id=13
+民視新聞HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=317
+TVBS新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1004#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1004
+東森財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=12#http://a.laoxiang.cf/jqkjzy/crtv.php?id=12
+華視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=6#http://a.laoxiang.cf/jqkjzy/crtv.php?id=6
+iNEWS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=8#http://a.laoxiang.cf/jqkjzy/crtv.php?id=8
+台視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1
+中視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=7
+年代新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1099#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1099
+非凡商業,http://a.laoxiang.cf/jqkjzy/crtv.php?id=187#http://a.laoxiang.cf/jqkjzy/crtv.php?id=187
+非凡新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=314
+寰宇財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=320#http://a.laoxiang.cf/jqkjzy/crtv.php?id=320
+DW德國之聲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1059
+DW News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=14
+VOA美國之音,http://a.laoxiang.cf/jqkjzy/crtv.php?id=495
+VOA衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=22
+台視財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=300#http://a.laoxiang.cf/jqkjzy/crtv.php?id=300
+寰宇新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=304#http://a.laoxiang.cf/jqkjzy/crtv.php?id=304
+壹電視新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=303#http://a.laoxiang.cf/jqkjzy/crtv.php?id=303
+FRANCE 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2137#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1781
+新唐人亞太台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=10
+CBN News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=499#http://a.laoxiang.cf/jqkjzy/crtv.php?id=499
+THE WORLD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1013
+RT News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1025
+TRTWORLD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1022
+Bloomberg Financial,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1046
+Al Jazeera,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1144
+Bloomberg Europe,http://a.laoxiang.cf/jqkjzy/crtv.php?id=370
+第1商業,http://a.laoxiang.cf/jqkjzy/crtv.php?id=186#http://a.laoxiang.cf/jqkjzy/crtv.php?id=186
+CNN頭條新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=43#http://a.laoxiang.cf/jqkjzy/crtv.php?id=43
+CNN國際新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=420#http://a.laoxiang.cf/jqkjzy/crtv.php?id=420
+BBC World News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1308
+運通財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=79
+歐洲新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1343
+SBN全球財經,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1497
+半島國際新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1498
+影視安測,#genre#
+MOMO追劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=494
+愛爾達影劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=500
+東森戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=321
+八大戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=81
+緯來戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=339
+衛視電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=93
+東森電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=350
+緯來電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=96
+HBO HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=332#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2019#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1663
+東森洋片,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1128
+好萊塢電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=37
+FOX MOVIES,http://a.laoxiang.cf/jqkjzy/crtv.php?id=387
+CineMAX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=346#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1518#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1123
+FOX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=384#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1218
+靖天映畫,http://a.laoxiang.cf/jqkjzy/crtv.php?id=349
+靖洋戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=319
+EYE戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=191
+三立戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=64
+FOX ACTION,http://a.laoxiang.cf/jqkjzy/crtv.php?id=385
+霹靂臺灣,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1339
+美亞電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=375#http://a.laoxiang.cf/jqkjzy/crtv.php?id=375
+民視影劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1023
+FOX CRIME,http://a.laoxiang.cf/jqkjzy/crtv.php?id=386
+FOX Family,http://a.laoxiang.cf/jqkjzy/crtv.php?id=383
+HBOSignature,http://a.laoxiang.cf/jqkjzy/crtv.php?id=329
+HBO Hits,http://a.laoxiang.cf/jqkjzy/crtv.php?id=330
+采昌影劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=62
+影迷數位電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=497
+龍華戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=365
+龍華經典,http://a.laoxiang.cf/jqkjzy/crtv.php?id=100
+龍翔時代,http://a.laoxiang.cf/jqkjzy/crtv.php?id=373
+AXN臺灣,http://a.laoxiang.cf/jqkjzy/crtv.php?id=423
+AMC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=92#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1228
+星衛電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=496
+公視戲劇,http://a.laoxiang.cf/jqkjzy/crtv.php?id=69
+光影歐洲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1157
+AXN亞洲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1066
+Trill恐怖電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=18
+HBO Family,http://a.laoxiang.cf/jqkjzy/crtv.php?id=331#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1512#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1113
+龍華電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=311
+華納電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=83
+金光布袋戲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1060
+衛視西片,http://a.laoxiang.cf/jqkjzy/crtv.php?id=369
+CATCHPLAY,http://a.laoxiang.cf/jqkjzy/crtv.php?id=362
+Blue Ant Extreme,http://a.laoxiang.cf/jqkjzy/crtv.php?id=103
+爆穀台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=152#http://a.laoxiang.cf/jqkjzy/crtv.php?id=152
+CHC高清電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1345
+CHC動作電影,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1346
+CHC家庭影院,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1347
+CBN每日影院,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1348
+SETONE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1349
+GEM,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1350
+HITS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2227
+廣東影視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1499#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1499
+嶺南戲曲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502
+Sport體育安測,#genre#
+緯來體育,http://a.laoxiang.cf/jqkjzy/crtv.php?id=52#http://a.laoxiang.cf/jqkjzy/crtv.php?id=52#http://a.laoxiang.cf/jqkjzy/crtv.php?id=118
+FOX Sport 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1131#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1186
+FOX Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1132#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1187
+FOX Sport 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=376
+Eleven Sport 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1133
+Eleven Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=301
+ELEVEN SPORTS PLUS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=419
+ELTA體育1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=192
+ELTA體育2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=193
+ELTA體育3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=194
+Z頻道,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1130
+博斯無限,http://a.laoxiang.cf/jqkjzy/crtv.php?id=381
+博斯無限2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=426
+博斯網球,http://a.laoxiang.cf/jqkjzy/crtv.php?id=498
+博斯高球1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=377
+博斯高球2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=378
+博斯魅力,http://a.laoxiang.cf/jqkjzy/crtv.php?id=175
+博斯運動1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=379
+博斯運動2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=380
+TRACE Sport Stars,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1037
+智林體育,http://a.laoxiang.cf/jqkjzy/crtv.php?id=82
+時尚運動X,http://a.laoxiang.cf/jqkjzy/crtv.php?id=71
+歐洲體育,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1342
+Edge Sport,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1341
+Ginx電競,http://a.laoxiang.cf/jqkjzy/crtv.php?id=425
+NOW SPORTS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1358#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1358
+風雲足球,http://a.laoxiang.cf/jqkjzy/crtv.php?id=463
+魅力足球,http://a.laoxiang.cf/jqkjzy/crtv.php?id=464
+高爾夫,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1503#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1503
+jsport1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=129#http://a.laoxiang.cf/jqkjzy/crtv.php?id=129
+jsport2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=130#http://a.laoxiang.cf/jqkjzy/crtv.php?id=130
+jsport3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=131#http://a.laoxiang.cf/jqkjzy/crtv.php?id=131
+jsport4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=132#http://a.laoxiang.cf/jqkjzy/crtv.php?id=132
+BT Sport ESPN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=168#http://a.laoxiang.cf/jqkjzy/crtv.php?id=168
+BT Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=166#http://a.laoxiang.cf/jqkjzy/crtv.php?id=166
+BT Sport 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=167#http://a.laoxiang.cf/jqkjzy/crtv.php?id=167
+BT Sport 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=165#http://a.laoxiang.cf/jqkjzy/crtv.php?id=165
+Sky Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=171#http://a.laoxiang.cf/jqkjzy/crtv.php?id=171#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2177
+Sky Sports 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=172#http://a.laoxiang.cf/jqkjzy/crtv.php?id=172
+Sky Sports F1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=182#http://a.laoxiang.cf/jqkjzy/crtv.php?id=182
+Sky Sport 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=183#http://a.laoxiang.cf/jqkjzy/crtv.php?id=183
+Sky Sport 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=417#http://a.laoxiang.cf/jqkjzy/crtv.php?id=417
+Sky Sport 5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=418#http://a.laoxiang.cf/jqkjzy/crtv.php?id=418
+Astro Sp1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=444#http://a.laoxiang.cf/jqkjzy/crtv.php?id=444
+Astro Sp2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=445#http://a.laoxiang.cf/jqkjzy/crtv.php?id=445
+Astro Sp3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=446#http://a.laoxiang.cf/jqkjzy/crtv.php?id=446
+Astro Sp4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=447#http://a.laoxiang.cf/jqkjzy/crtv.php?id=447
+WWE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1572#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1191#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081
+jishi紀實安測,#genre#
+TVN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=295#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1170
+EYE旅遊,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1494
+國家地理,http://a.laoxiang.cf/jqkjzy/crtv.php?id=302
+探索頻道,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1035
+TLC旅遊生活,http://a.laoxiang.cf/jqkjzy/crtv.php?id=102
+TLC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1533#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206
+動物星球,http://a.laoxiang.cf/jqkjzy/crtv.php?id=367
+民視旅遊,http://a.laoxiang.cf/jqkjzy/crtv.php?id=78
+探索亞洲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=306
+探索科學,http://a.laoxiang.cf/jqkjzy/crtv.php?id=343
+國家野生,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1038
+探索EVE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1036
+History,http://a.laoxiang.cf/jqkjzy/crtv.php?id=116#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1530#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1204#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1413
+BBC Lifestyle,http://a.laoxiang.cf/jqkjzy/crtv.php?id=424
+視納華仁紀實,http://a.laoxiang.cf/jqkjzy/crtv.php?id=91
+美食星球,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1360
+AFN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=307#http://a.laoxiang.cf/jqkjzy/crtv.php?id=195
+Travel Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=63
+BBC EARTH,http://a.laoxiang.cf/jqkjzy/crtv.php?id=97#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1706
+探索動力DMAX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=335
+FoodNetwork,http://a.laoxiang.cf/jqkjzy/crtv.php?id=294
+Pet Club,http://a.laoxiang.cf/jqkjzy/crtv.php?id=368
+Outdoor,http://a.laoxiang.cf/jqkjzy/crtv.php?id=374#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1368
+國家人文,http://a.laoxiang.cf/jqkjzy/crtv.php?id=334
+國家地理悠人,http://a.laoxiang.cf/jqkjzy/crtv.php?id=114
+NASA TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=25
+Earth Views,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1017
+NASA Live,http://a.laoxiang.cf/jqkjzy/crtv.php?id=196
+Astronaut Spacewalk Earth,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1026
+少兒安測,#genre#
+BabyBus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2150
+Talking Tom,http://a.laoxiang.cf/jqkjzy/crtv.php?id=20
+Peppa Pig,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1344
+CN卡通,http://a.laoxiang.cf/jqkjzy/crtv.php?id=107
+MOMO親子台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1149
+MOMO親子,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1126
+YOYO TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=293
+東森幼幼,http://a.laoxiang.cf/jqkjzy/crtv.php?id=371
+Animax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=59#http://a.laoxiang.cf/jqkjzy/crtv.php?id=139#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2074#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1718
+達文西,http://a.laoxiang.cf/jqkjzy/crtv.php?id=68
+曼迪日本,http://a.laoxiang.cf/jqkjzy/crtv.php?id=316
+靖洋卡通,http://a.laoxiang.cf/jqkjzy/crtv.php?id=348
+BabyFirst,http://a.laoxiang.cf/jqkjzy/crtv.php?id=173
+i,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1127
+愛放2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=299
+靖天卡通,http://a.laoxiang.cf/jqkjzy/crtv.php?id=344
+Nick Jr.,http://a.laoxiang.cf/jqkjzy/crtv.php?id=50
+空中英語教室,http://a.laoxiang.cf/jqkjzy/crtv.php?id=313
+ELTV生活英語,http://a.laoxiang.cf/jqkjzy/crtv.php?id=323
+龍華動畫,http://a.laoxiang.cf/jqkjzy/crtv.php?id=366
+Baby TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1129#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1956#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2077#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1721
+Treehouse,http://a.laoxiang.cf/jqkjzy/crtv.php?id=55#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1283
+Nickj,http://a.laoxiang.cf/jqkjzy/crtv.php?id=53
+Disney,http://a.laoxiang.cf/jqkjzy/crtv.php?id=5#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1581#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1208
+Disneyxd,http://a.laoxiang.cf/jqkjzy/crtv.php?id=31#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1579
+Disneyj,http://a.laoxiang.cf/jqkjzy/crtv.php?id=47
+Boomerang,http://a.laoxiang.cf/jqkjzy/crtv.php?id=57#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1214
+BBC CBeebies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=115#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1588
+Dreamworks,http://a.laoxiang.cf/jqkjzy/crtv.php?id=48
+MY KIDS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1495
+廣東少兒,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1500#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1500
+嘉佳卡通,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1501#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1501
+BabyTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1241#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1522#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1241
+
+音樂宗教安測,#genre#
+好消息,http://a.laoxiang.cf/jqkjzy/crtv.php?id=104#http://a.laoxiang.cf/jqkjzy/crtv.php?id=104
+好消息2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=363#http://a.laoxiang.cf/jqkjzy/crtv.php?id=363
+lofi hip hop,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1594
+Channel V,http://a.laoxiang.cf/jqkjzy/crtv.php?id=151
+Relaxing Jazz Piano,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1351
+Beautiful Piano Music,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1361
+One World Radio,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1153
+Mezzo Live,http://a.laoxiang.cf/jqkjzy/crtv.php?id=60
+Hit Fm,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1021
+4K Nature,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1015
+Coffee Jazz,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1019
+Space Ambient,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1005
+Rolling Cam Venice,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1007
+大愛一臺,http://a.laoxiang.cf/jqkjzy/crtv.php?id=11#http://a.laoxiang.cf/jqkjzy/crtv.php?id=11
+大愛二臺,http://a.laoxiang.cf/jqkjzy/crtv.php?id=197
+M2O,http://a.laoxiang.cf/jqkjzy/crtv.php?id=94
+CLASSICA 古典樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1027
+唯心電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1150
+人間衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=101
+Good Life Radio,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1152
+大愛海外,http://a.laoxiang.cf/jqkjzy/crtv.php?id=184
+Medici Arts,http://a.laoxiang.cf/jqkjzy/crtv.php?id=188
+Rainy Jazz,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1089
+Tropical House,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1090
+自然の音,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1091
+Relaxing Music,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1087
+Calm Piano Music,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1088
+Trace Urban,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1003
+佛衛慈悲台,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1306
+生命電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1124
+華藏電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1053
+海豚綜合,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1505#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1505
+大陸安測,#genre#
+CCTV1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=200
+CCTV2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=201
+CCTV3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=202
+CCTV4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=203
+CCTV5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=204
+CCTV5plus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=205
+CCTV6,http://a.laoxiang.cf/jqkjzy/crtv.php?id=206
+CCTV7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=207
+CCTV8,http://a.laoxiang.cf/jqkjzy/crtv.php?id=208
+CCTV9,http://a.laoxiang.cf/jqkjzy/crtv.php?id=209
+CCTV10,http://a.laoxiang.cf/jqkjzy/crtv.php?id=210
+CCTV11,http://a.laoxiang.cf/jqkjzy/crtv.php?id=211
+CCTV12,http://a.laoxiang.cf/jqkjzy/crtv.php?id=212
+CCTV13,http://a.laoxiang.cf/jqkjzy/crtv.php?id=213
+CCTV14,http://a.laoxiang.cf/jqkjzy/crtv.php?id=214
+CCTV15,http://a.laoxiang.cf/jqkjzy/crtv.php?id=215
+福州電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=216
+浙江衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=217
+江蘇衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=218
+南方衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=219
+北京衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=220
+CCTVNEWS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=221
+CCTV娛樂,http://a.laoxiang.cf/jqkjzy/crtv.php?id=222
+海峽衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=223
+東方衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=224
+湖南衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=226
+湖北衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=227
+東南衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=228
+遼寧衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=229
+深圳衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=230
+廣東衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=231
+安徽衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=232
+四川衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=233
+山東衛視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=234
+廣東影視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1499#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1499
+廣東少兒,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1500#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1500
+嘉佳卡通,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1501#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1501
+嶺南戲曲,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1502
+高爾夫,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1503#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1503
+にっぽん安測,#genre#
+NHK World,http://a.laoxiang.cf/jqkjzy/crtv.php?id=117
+NHK,http://a.laoxiang.cf/jqkjzy/crtv.php?id=121
+NHKE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=120
+BS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=242#http://a.laoxiang.cf/jqkjzy/crtv.php?id=244
+BSプレミアム,http://a.laoxiang.cf/jqkjzy/crtv.php?id=239
+BS日テレ,http://a.laoxiang.cf/jqkjzy/crtv.php?id=240
+BS朝日,http://a.laoxiang.cf/jqkjzy/crtv.php?id=241
+BSテレビ東京,http://a.laoxiang.cf/jqkjzy/crtv.php?id=243
+BS1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=128
+関西テレビ,http://a.laoxiang.cf/jqkjzy/crtv.php?id=235
+サンテレビ,http://a.laoxiang.cf/jqkjzy/crtv.php?id=238
+読売テレビ,http://a.laoxiang.cf/jqkjzy/crtv.php?id=198
+旅チャンネル,http://a.laoxiang.cf/jqkjzy/crtv.php?id=292
+テレビ朝日,http://a.laoxiang.cf/jqkjzy/crtv.php?id=237
+時代劇の専門家,http://a.laoxiang.cf/jqkjzy/crtv.php?id=287
+TV Tokyo,http://a.laoxiang.cf/jqkjzy/crtv.php?id=123
+Tokyo MX1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=33
+Tokyo MX2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1148
+jsport1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=129#http://a.laoxiang.cf/jqkjzy/crtv.php?id=129
+jsport2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=130#http://a.laoxiang.cf/jqkjzy/crtv.php?id=130
+jsport3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=131#http://a.laoxiang.cf/jqkjzy/crtv.php?id=131
+jsport4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=132#http://a.laoxiang.cf/jqkjzy/crtv.php?id=132
+FU JI,http://a.laoxiang.cf/jqkjzy/crtv.php?id=122
+TV asahi,http://a.laoxiang.cf/jqkjzy/crtv.php?id=125
+大阪TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=126
+wowo1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=133
+wowo2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=134
+wowo3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=135
+STAR1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=136
+STAR2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=137
+STAR3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=138
+ABC朝日,http://a.laoxiang.cf/jqkjzy/crtv.php?id=127
+NTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=119
+NTV News24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=42
+毎日放送,http://a.laoxiang.cf/jqkjzy/crtv.php?id=199
+Golf Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=249
+HTB北海道,http://a.laoxiang.cf/jqkjzy/crtv.php?id=39
+GaoRa,http://a.laoxiang.cf/jqkjzy/crtv.php?id=296
+JapaNews24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1043
+TBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=124#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1545#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1234
+animax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=59#http://a.laoxiang.cf/jqkjzy/crtv.php?id=139#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2074#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1718
+Green,http://a.laoxiang.cf/jqkjzy/crtv.php?id=140
+KIDS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=289
+衛星劇場,http://a.laoxiang.cf/jqkjzy/crtv.php?id=298
+KBC NEWS24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=297
+CN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1296
+SKY A,http://a.laoxiang.cf/jqkjzy/crtv.php?id=247
+Discovery,http://a.laoxiang.cf/jqkjzy/crtv.php?id=290#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1529#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1424
+MUSIC JAPAN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=288
+한국安測,#genre#
+TVN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=295#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1170
+연합뉴스TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1039
+KBS WORLD 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1040
+YTN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1061#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1065
+KBS1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=174
+KBS2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=250
+MBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=251
+SBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=252
+SBS FUNE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=254
+SBS CNBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=255
+MBN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=257
+KBS24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=260
+KBSW,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1100
+Channel A,http://a.laoxiang.cf/jqkjzy/crtv.php?id=258
+SBS PLus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=262
+KBSNLife,http://a.laoxiang.cf/jqkjzy/crtv.php?id=263
+KBSN Plus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=264
+KBSKids,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1582
+MBC스포츠,http://a.laoxiang.cf/jqkjzy/crtv.php?id=265
+JTBC골프,http://a.laoxiang.cf/jqkjzy/crtv.php?id=268
+JTBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=253
+KBS joy,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1154
+OCN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=488
+iNet,http://a.laoxiang.cf/jqkjzy/crtv.php?id=490
+CTS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=491
+Spotv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=266
+Spotv2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=267
+THE K,http://a.laoxiang.cf/jqkjzy/crtv.php?id=493
+SBS골프,http://a.laoxiang.cf/jqkjzy/crtv.php?id=486
+Olive,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1063
+한국경제,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1064
+YTN dmb,http://a.laoxiang.cf/jqkjzy/crtv.php?id=492
+YTN 사이언스,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1605
+CNTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=256
+OCNMOVIES,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1020
+TV CHOSUN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=489
+SBS Sports,http://a.laoxiang.cf/jqkjzy/crtv.php?id=487
+Mnet,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1136
+MBCevery1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=476
+Tconvers,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1134
+KBS Drama,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1062
+채널A,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1092
+EBS 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1093
+EBS Kids,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1094
+EBS English,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1095
+EBSPlus 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1096
+EBSPlus 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1097
+EBS1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1098
+SBS Star,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1101
+KBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1307
+MTN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1504
+美國安測,#genre#
+CNN頭條新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=43#http://a.laoxiang.cf/jqkjzy/crtv.php?id=43
+CNN國際新聞,http://a.laoxiang.cf/jqkjzy/crtv.php?id=420#http://a.laoxiang.cf/jqkjzy/crtv.php?id=420
+FOXHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1506
+CNN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1507
+ABC News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1508
+NBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1509#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1217
+Fox News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1510#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1103
+Fox Business,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1511#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1108
+Hbo Family,http://a.laoxiang.cf/jqkjzy/crtv.php?id=331#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1512#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1113
+Hbo East,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1513
+Hbo One,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1514
+Travel ch,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1515
+Coking,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1516
+Bloomberg,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1517#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1107
+Cinemax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=346#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1518#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1123
+Tennis chan,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1519
+Nat Geo,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1520
+Nat Geo Wild,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1521#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1201#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1434
+Babytv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1241#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1522#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1241
+Mlb net,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1523
+TNT,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1524
+Bravo,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1525
+Food network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1526#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1378#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1617
+Fight network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1527#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1366
+Diy network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1528#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1379
+Discovery,http://a.laoxiang.cf/jqkjzy/crtv.php?id=290#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1529#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1424
+History,http://a.laoxiang.cf/jqkjzy/crtv.php?id=116#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1530#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1204#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1413
+World Fishing,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1531
+VH1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1532
+TLC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1533#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206
+NHL net,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1534
+Hallmark,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1535
+E,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1536
+Syfy,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1537#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1221#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1423
+HGTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1538#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2193#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1618#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2106#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1750
+NBC Golf,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1539
+law and crime,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1540
+Msnbc,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1541#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1104
+Goltv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1542
+TVG,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1543
+Willow Cricket,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1544
+TBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=124#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1545#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1234
+MTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1546
+PBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1547#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1371
+WE TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1550#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1229
+FX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1551#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1373
+Lifetime,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1553
+Bet,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1554#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1231
+CNBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1555#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1106#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1414
+CW,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1557#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1220
+Animal,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1558
+AE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1559
+Freeform,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1560
+Game Show Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1562
+Investigation Discovery,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1564
+Lifetime Movie Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1565#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1232
+Showtime,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1568
+StarZ,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1569#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1117
+USA Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1571#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1230
+wwe,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1572#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1191#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081
+Nickelodeon,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1573#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1396
+DisneyJr,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1578
+DisneyXD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=31#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1579
+Disney,http://a.laoxiang.cf/jqkjzy/crtv.php?id=5#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1581#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1208
+NBC2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=460
+Newsmax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=156
+First TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1143
+People,http://a.laoxiang.cf/jqkjzy/crtv.php?id=143
+Right Now,http://a.laoxiang.cf/jqkjzy/crtv.php?id=144
+Bloomberg Television,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1058
+American Horrors,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1054
+30A TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1052
+Atlanta,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1055
+Panama City,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1056
+Pawleys Island,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1057
+NewsNet,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1216
+BT Sport ESPN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=168#http://a.laoxiang.cf/jqkjzy/crtv.php?id=168
+BT Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=166#http://a.laoxiang.cf/jqkjzy/crtv.php?id=166
+BT Sport 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=167#http://a.laoxiang.cf/jqkjzy/crtv.php?id=167
+BT Sport 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=165#http://a.laoxiang.cf/jqkjzy/crtv.php?id=165
+美國安測,#genre#
+IFC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1362
+ESPN NEWS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1363
+CBS Sport,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1364
+Fight Box,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1365
+Fight Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1527#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1366
+Sportsman,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1367
+Outdoor,http://a.laoxiang.cf/jqkjzy/crtv.php?id=374#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1368
+SEC Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1369
+PBS Kids,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1370
+PBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1547#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1371
+WGN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1372
+FX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1551#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1373
+FXX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1374
+TruTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1375
+Fuse,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1376
+Oxygen,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1377
+Food Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1526#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1378#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1617
+DIY Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1528#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1379
+FX Movie,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1380
+Comet,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1381
+CNN USA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1102
+FOX News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1510#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1103
+NBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1509#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1217
+FOX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=384#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1218
+CNBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1555#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1106#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1414
+5 Star Max,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1174
+Action Max,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1175
+MoreMax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1176
+Hallmark Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1177
+Hallmark Drama,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1178
+Hallmark Movie,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1179
+TCM,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1180
+Starz in Black,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1181
+ESPN 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1182
+ESPN 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1183
+NBC Sport,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1184
+NBA TV US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1185
+Fox Sport 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1131#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1186
+Fox Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1132#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1187
+Tennis,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1188
+NFL Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1189
+Golf,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1190
+WWE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1572#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1191#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081
+UFC PASS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1192
+Willow,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1193
+NHL Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1194
+Bein Sports USA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1195
+ESPN U,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1196
+Big Ten Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1197
+Discovery Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1198
+Motor Trend,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1199
+National Geographic,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1200
+Nat Geo Wild,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1521#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1201#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1434
+Investigation Discovery US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1202
+Animal Planet,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1203
+History,http://a.laoxiang.cf/jqkjzy/crtv.php?id=116#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1530#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1204#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1413
+SMITHSONIAN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1205
+TLC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1009#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1533#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1206
+Science,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1207
+Disney,http://a.laoxiang.cf/jqkjzy/crtv.php?id=5#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1581#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1208
+Disney XD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1209#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1719
+Disney Junior,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1210#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2076#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1720
+Cartoon Network US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1211
+Nickelodeon US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1212
+Nick Junior,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1213
+Boomerang,http://a.laoxiang.cf/jqkjzy/crtv.php?id=57#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1214
+Universal Kids,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1215
+CBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1219
+CW,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1557#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1220
+SYFY,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1537#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1221#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1423
+E!,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1222
+Comedy Central,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1223#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1408
+TNT US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1224
+Bravo US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1225
+LifeTime US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1226
+Arts and Entertainment,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1227
+AMC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=92#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1228
+WE TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1550#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1229
+USA Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1571#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1230
+BET,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1554#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1231
+Lifetime Movie Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1565#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1232
+VH,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1233
+TBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=124#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1545#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1234
+OWN US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1235
+GSN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1236
+HGTV US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1237
+Cooking Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1238
+MTV US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1239
+FYI,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1240
+BabyTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1241#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1522#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1241
+TVB1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1242
+TVB DRAMA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1243
+TVBJ1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1244
+TVBE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1245
+NOWTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1246
+MSNBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1541#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1104
+The Weather Nation,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1105
+Bloomberg,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1517#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1107
+Fox Business,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1511#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1108
+HBO Comedy,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1109
+HBO 1 US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1110
+HBO 2 US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1111
+HBO Signature,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1112
+HBO Family,http://a.laoxiang.cf/jqkjzy/crtv.php?id=331#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1512#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1113
+ShowTime 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1114
+ShowTime 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1115
+ShowCase US,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1116
+Starz,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1569#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1117
+Starz Comedy,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1118
+Starz Edge,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1119
+Starz Kids Family,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1120
+Starz Encore,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1121
+Starz Encore Westerns,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1122
+Cinemax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=346#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1518#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1123
+加拿大安測,#genre#
+CP 24 Canada,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1247
+The Weather Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1251
+CBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1252
+CTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1253
+CHCH,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1256
+CTV 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1257
+OMNI 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1258
+OMNI 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1259
+TVO,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1260
+Discovery Canada,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1261
+TLC Canada,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1262
+Love Nature,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1263
+Food Network Canada,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1265
+Cooking Channel Canada,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1266
+CTV Comedy,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1267
+CTV Sci,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1268
+Crave 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1269
+Crave 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1270
+Crave 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1271
+TSN 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1275
+TSN 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1276
+TSN 5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1277
+SportNet ON,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1278
+SportNet One,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1279
+SportNet World,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1280
+SportNet 360,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1281
+NBA CA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1282
+TreeHouse,http://a.laoxiang.cf/jqkjzy/crtv.php?id=55#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1283
+Teletoon,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1284
+YTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1285
+新時代東部,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1286#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1286
+新時代西部,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1287#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1287
+城市電視,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1289#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1289
+新時代2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1288#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1288
+TSN 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1274
+TSN 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1273
+Global,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1254
+City,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1255
+HGTV Canada,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1264
+Business Network News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1250
+CTV News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1249
+CBC News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1248
+Crave 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1272
+英國安測,#genre#
+BBC World News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1308
+BBC one,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1382
+BBC four cbeebies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1383
+BBC three cbbc,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1384
+BBC two,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1385
+True entertainment,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1386
+Discovery turbo,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1387
+Sky greats,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1388
+Channel 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1390
+Channel 5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1391#http://a.laoxiang.cf/jqkjzy/crtv.php?id=449
+E ent,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1392
+BBC red button,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1393
+Citv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1394
+Sony tv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1395
+Nickelodeon,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1573#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1396
+E4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1397
+Alibi,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1398
+CBS action,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1399
+5 star,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1400
+Itv 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1401
+Itv 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1402
+Itv 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1403
+Itv 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1404
+4seven,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1405
+Sky docu,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1406
+Russia Today,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1407#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2142#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1786
+Comedy Central,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1223#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1408
+Rte1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1409
+Rte2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1410
+Premiersp,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1411
+Freesports,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1412
+History,http://a.laoxiang.cf/jqkjzy/crtv.php?id=116#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1530#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1204#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1413
+CNBC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1555#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1106#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1414
+Aljazeera,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1415
+Tv3 virgin,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1416
+Home,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1417
+Dave,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1418
+Film 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1419
+More 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1420
+Food Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1526#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1378#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1617
+Gold,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1422
+Syfy,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1537#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1221#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1423
+Discovery,http://a.laoxiang.cf/jqkjzy/crtv.php?id=290#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1529#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1424
+Discovery science,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1425
+Discovery investigation,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1426
+Tg4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1427
+Real live,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1428
+Cartoonito,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1429
+Watch,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1430
+Challenge,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1431
+Vault,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1432
+Pick,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1433
+Nat Geo Wild,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1521#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1201#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1434
+Nick jr,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1435
+Quest,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1436
+Sky News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1041#http://a.laoxiang.cf/jqkjzy/crtv.php?id=169
+BBC News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=164
+Sky Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=171#http://a.laoxiang.cf/jqkjzy/crtv.php?id=171#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2177
+Sky Sports 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=172#http://a.laoxiang.cf/jqkjzy/crtv.php?id=172
+Sky Sports F1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=182#http://a.laoxiang.cf/jqkjzy/crtv.php?id=182
+Sky Sport 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=183#http://a.laoxiang.cf/jqkjzy/crtv.php?id=183
+Sky Sport 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=417#http://a.laoxiang.cf/jqkjzy/crtv.php?id=417
+Sky Sport 5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=418#http://a.laoxiang.cf/jqkjzy/crtv.php?id=418
+Nickelodeon UK,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1305
+意大利安測,#genre#
+Rai 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2156#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1610
+Rai 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2157#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1611
+Rai 3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2158#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1612
+Rete 4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2161
+Rai News 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2162#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1604
+Mediaset Extra,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2163
+Mediaset Iris,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2164
+Italia 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2166
+La7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2167
+Canale 5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2168#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1615
+Premium Action,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2170
+Sky Sport 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2174
+SKY SPORT F1 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2175
+Sky Sport 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2176
+Sky Sport 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=171#http://a.laoxiang.cf/jqkjzy/crtv.php?id=171#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2177
+Sky Uno,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2179
+Sky Atlantic,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2180#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1619
+LA5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2182
+20 Mediaset,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2185
+Premium Cinema HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2186
+RTL 102.5 TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2188
+m2o TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2189
+Radio Norba TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2190
+Super TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2191
+Food Network HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2192
+HGTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1538#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2193#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1618#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2106#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1750
+Radio Tv Azzura,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2194
+Radio Italia TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2195
+Radio 105,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2196
+TOP CALCIO 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1595
+Rai Italia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1596#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1614
+Sky sport uno,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1597
+Sky sport serie A,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1598
+Inter TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1599
+Deejay TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1601
+Style Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1602
+Babayaga TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1603
+Rai Sport,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1613
+Italia 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1616
+Food Network,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1526#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1378#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1421#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1617
+新馬安測,#genre#
+CNA 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=15
+CERIA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1161
+TVN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1583#http://a.laoxiang.cf/jqkjzy/crtv.php?id=295#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1170
+Arena,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1172
+CRICKET,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1173
+Astro Awani,http://a.laoxiang.cf/jqkjzy/crtv.php?id=440
+天映頻道,http://a.laoxiang.cf/jqkjzy/crtv.php?id=441
+全佳,http://a.laoxiang.cf/jqkjzy/crtv.php?id=427
+KIX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=430#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1446
+歡喜,http://a.laoxiang.cf/jqkjzy/crtv.php?id=432
+Suria,http://a.laoxiang.cf/jqkjzy/crtv.php?id=434#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1076
+雙星,http://a.laoxiang.cf/jqkjzy/crtv.php?id=431#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1086
+AEC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=433#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1073
+華麗,http://a.laoxiang.cf/jqkjzy/crtv.php?id=429
+TV2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=436#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1955#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1453
+TV3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=437#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1454
+TV9,http://a.laoxiang.cf/jqkjzy/crtv.php?id=438#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1456#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1480
+NTV7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=439#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1447
+TV8,http://a.laoxiang.cf/jqkjzy/crtv.php?id=442#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1455
+小太陽,http://a.laoxiang.cf/jqkjzy/crtv.php?id=443#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1080
+AOD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=428
+Channel 5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1391#http://a.laoxiang.cf/jqkjzy/crtv.php?id=449
+TV1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=435#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1954#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1452
+Channel U,http://a.laoxiang.cf/jqkjzy/crtv.php?id=448#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1077
+Astro Sp1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=444#http://a.laoxiang.cf/jqkjzy/crtv.php?id=444
+Astro Sp2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=445#http://a.laoxiang.cf/jqkjzy/crtv.php?id=445
+Astro Sp3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=446#http://a.laoxiang.cf/jqkjzy/crtv.php?id=446
+Astro Sp4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=447#http://a.laoxiang.cf/jqkjzy/crtv.php?id=447
+Channel 8,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1160#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1140
+馬來新安測,#genre#
+FRANCE24 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1950
+TV1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=435#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1954#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1452
+TV2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=436#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1955#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1453
+Baby TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1129#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1956#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2077#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1721
+Boomerang HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1961
+Cinema World HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1962
+Colors Cineplex,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1963
+Dreamworks HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1964
+RTM Sports,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1969
+Sony SetMAX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1972
+Astro Rania HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1975
+Astro Aura HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1976
+DAAI TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1977
+NET TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1978#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1622
+ANTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1979#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1479#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1623#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1300#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1312
+SCTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1980#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1486#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1624
+Trans TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1981#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1625
+Trans 7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1982#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1626
+Rajawali TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1983#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1627
+NET TV FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1984#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1628
+JTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1985#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1484#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1629
+Bali TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1986#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1630
+Dunia Lain,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1987#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1631
+Trans TV FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1988#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1632
+Trans 7 FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1989#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1633
+SCTV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1990#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1634
+U Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1991#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1635
+Life,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1994#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1638
+Indosiar,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1995#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1478#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1639
+Hope Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1999#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1643
+TV ONE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2001#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1645
+Kompas TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2002#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1646#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1146
+TVRI,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2003#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1473#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1647
+CNN Indonesia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2004#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1648#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1145
+Metro TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2005#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1649
+Berita Satu News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2006#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1650
+CNBC Indonesia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2007#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1651
+Metro TV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2008#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1652
+Thrill,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2010#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1654
+Celestial Movies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2011#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1655
+Zee Bioskop,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2012#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1656
+KIX HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2013#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1657
+AXN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2014#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1044#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1658
+FOX Life HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2015#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1659
+FOX HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2016#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1660
+FOX Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2017#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1661
+FOX Action Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2018#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1662
+HBO HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=332#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2019#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1663
+HBO Hits HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2021#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1665
+HBO Family HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2022#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1666
+FOX Crime HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2023#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1667
+Star Chinese Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2025#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1669
+Blue Ant Extreme HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2026#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1670
+LifeTime HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2027#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1671
+HBO Signature HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2028#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1672
+Bioskop Indonesia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2029#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1673
+Hits Movie SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2030#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1674
+Cinema World,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2031#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1675
+HITS HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2032#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1676
+FOX Action Movies FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2033#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1677
+HBO FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2034#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1678
+HBO Signature FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2035#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1679
+Warner TV ID HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2036#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1680
+Star Chinese Movies Legend,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2037#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1681
+CCM,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2038#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1438#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1682
+Cinemax ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2039#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1683
+Red By HBO HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2040#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1684
+FMN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2041#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1685
+HBO Hits FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1686
+FOX Family Movies ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2043#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1687
+HBO SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2044#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1688
+HBO Hits SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2045#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1689
+HBO Signature SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2046#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1690
+HBO Family SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2047#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1691
+Cinemax SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2048#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1692
+FLIK HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2049#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1693
+Galaxy Premium SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2050#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1694
+Galaxy SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2051#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1695
+ATV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2052#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1696
+HBO Family FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2053#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1697
+Cinemax FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2054#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1698
+IMC SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2055#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1699
+Nat Geo HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2056#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1700
+Nat Geo Wild HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2057#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1701
+Discovery Channel HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2058#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1702
+Crime Investigation,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2059#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1703
+Discovery Shed,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2060#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1704
+Nat Geo People HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2063#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1707
+History HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2064#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1708
+Discovery Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2065#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1709
+History FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2066#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1710
+Lingua Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2067#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1711
+Smithsonian Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2068#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1712
+Da Vinci Learning,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2069#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1713
+Ruang Terampil,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2070#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1714
+TV Edukasi,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2071#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1715
+Love Nature 4K,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2072#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1716
+Aniplus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2073#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1717
+Animax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=59#http://a.laoxiang.cf/jqkjzy/crtv.php?id=139#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2074#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1718
+Disney Junior,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1210#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2076#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1720
+Boomerang ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2078#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1722
+Nick Jr ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2080#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1724
+Cartoon Network ID HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2081#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1725
+Dunia Anak,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2082#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1726
+Nickelodeon ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2083#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1727
+Toonmax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2084#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1728
+Baby First,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2085#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1729
+My Kidz,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2086#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1730
+Duck TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2087#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1731
+Disney Channel ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2088#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1732
+Zoo Moo HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2089#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1733
+Horee,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2090#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1734
+Dream Works HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2091#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1735
+XingXong,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2092#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1736
+CBeebies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2093#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1737
+Fox Sports 1 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2094#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1738
+Fox Sports 3 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2095#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1739
+Fox Sports 2 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2096#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1740
+BeIN Sport 1 ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2097#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1741
+BeIN Sport 2 ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2098#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1742
+Badminton 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2102#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1746
+Badminton 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2103#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1747
+Fashion TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2104#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1748
+TLC HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2105#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1749
+HGTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1538#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2193#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1618#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2106#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1750
+Waku Waku Japan HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2107#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1751
+AFN HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2108#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1752
+Citra Drama,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2109#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1753
+Every Good Game,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2110#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1754
+Blue Ant Entertainment HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2111#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1755
+Insert,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2112#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1756
+Eat & Go,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2113#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1757
+.idku,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2114#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1758
+BBC Lifestyle HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2115#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1759
+K Plus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2116#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1760
+Sony ONE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2117#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1761
+TVN ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2118#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1762
+S GEM HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2119#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1763
+tVN Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2120#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1764
+KBS World HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2121#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1765
+K Drama,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2122#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1766
+Channel V HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2123#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1767
+Prambors TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2124#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1768
+ONE African TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2125#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1769
+Citra Dangdut,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2126#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1770
+MTV LIVE HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2127#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1771
+i konser,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2128#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1772
+Makkah TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2129#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1773
+Rodja TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2130#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1774
+Madina TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2131#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1775
+TV Mu,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2132#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1776
+Ahsan TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2133#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1777
+Reformed 21,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2134#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1778
+Bloomberg TV Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2135#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1779
+DW TV Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2136#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1780
+France 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2137#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1781
+BBC World News HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2138#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1782
+Channel News Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2139#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1783
+CNN Int,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2140#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1784
+CGTN News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2141#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1785
+Russia Today,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1407#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2142#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1786
+Aljazeera EN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2143#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1787
+NHK World Japan,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2144#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1788
+TV 5 Monde Asie,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2145#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1789
+Golf Channel FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2146#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1790
+Fight Sports,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2147#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1791
+UFC FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2148#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1792
+NBA TV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2149#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1793
+新馬安測,#genre#
+BOO,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1437
+CCM,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2038#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1438#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1682
+CELESTIAL,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1439
+Citra,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1440
+Fox_Action_Movies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1441
+Fox_Family_Movies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1442
+Fox_Movies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1443
+Hua Hee Dai,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1444
+iQIYI,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1445
+KIX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=430#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1446
+NTV7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=439#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1447
+PRIMA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1448
+Quan Jia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1449
+SCM,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1450
+sony_one,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1451
+TV1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=435#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1954#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1452
+TV2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=436#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1955#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1453
+TV3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=437#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1454
+TV8,http://a.laoxiang.cf/jqkjzy/crtv.php?id=442#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1455
+TV9,http://a.laoxiang.cf/jqkjzy/crtv.php?id=438#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1456#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1480
+Channel8,http://a.laoxiang.cf/jqkjzy/crtv.php?id=142
+Channel5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=141
+ARENA_HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1049
+AOD351,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1050
+AOD352,http://a.laoxiang.cf/jqkjzy/crtv.php?id=450
+AOD353,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1067
+AOD354,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1068
+AOD355,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1069
+ASSP1_HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1070
+ASSP2_HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1071
+ASSP3_HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1072
+ASSP4_HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1074
+AEC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=433#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1073
+AFN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=307#http://a.laoxiang.cf/jqkjzy/crtv.php?id=195
+Channel U,http://a.laoxiang.cf/jqkjzy/crtv.php?id=448#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1077
+Vasantham,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1078
+TVB星河,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1079#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1079
+小太陽,http://a.laoxiang.cf/jqkjzy/crtv.php?id=443#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1080
+WWE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1572#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1191#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1081
+TVN MOVIE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1082
+TVB經典,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1083#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1083
+TVB Jade,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1084#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1084
+衛視卡式臺,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1085#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1085
+雙星,http://a.laoxiang.cf/jqkjzy/crtv.php?id=431#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1086
+Suria,http://a.laoxiang.cf/jqkjzy/crtv.php?id=434#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1076
+OKEY,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1075
+AWANI,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1151
+AXN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2014#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1044#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1658
+BNC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1045
+菲律賓安測,#genre#
+LIGA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1332
+CinemaOne,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1333
+SportsAction,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1334
+Jeepney,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1335
+MYX,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1336
+GMA,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1337
+TV5,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1338
+泰國安測,#genre#
+Thailand ch3,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1839
+Thailand ch7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1840
+Thailand ch8,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1841
+Gmm 25,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1842
+Mono 29,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1843
+NEWS1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1608
+NBT Central,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1609
+Thairath TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1139
+Channel 8,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1160#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1140
+Thai PBS,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1047
+印尼安測,#genre#
+TVRI,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2003#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1473#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1647
+Rcti,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1474#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1637
+Kompass,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1475
+GlobalTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1476#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1642
+BeritaSatu,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1477
+Indosiar,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1995#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1478#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1639
+Antv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1979#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1479#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1623#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1300#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1312
+TV9,http://a.laoxiang.cf/jqkjzy/crtv.php?id=438#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1456#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1480
+Mnctv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1481
+Trans7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1482
+Transtv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1483
+JTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1985#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1484#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1629
+Metrotv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1485
+Sctv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1980#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1486#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1624
+TVone,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1487
+OChannel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1488
+Balitv,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1489
+TVMU,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1490
+PijarTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1491
+UTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1492
+MYTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1493
+NET TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1978#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1622
+Trans TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1981#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1625
+Trans 7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1982#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1626
+Rajawali TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1983#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1627
+NET TV FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1984#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1628
+Bali TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1986#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1630
+Dunia Lain,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1987#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1631
+Trans TV FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1988#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1632
+Trans 7 FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1989#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1633
+SCTV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1990#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1634
+U Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1991#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1635
+Jak TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1636
+Life,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1994#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1638
+MNC,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1641
+Hope Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1999#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1643
+Antara TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1644
+TV ONE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2001#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1645
+Kompas TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2002#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1646#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1146
+CNN Indonesia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2004#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1648#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1145
+Metro TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2005#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1649
+Berita Satu News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2006#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1650
+CNBC Indonesia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2007#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1651
+Metro TV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2008#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1652
+INEWS HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1653
+Thrill,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2010#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1654
+Celestial Movies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2011#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1655
+Zee Bioskop,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2012#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1656
+KIX HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2013#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1657
+AXN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2014#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1044#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1658
+FOX Life HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2015#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1659
+FOX HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2016#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1660
+FOX Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2017#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1661
+FOX Action Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2018#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1662
+HBO HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=332#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2019#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1663
+Star World,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1664
+HBO Hits HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2021#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1665
+HBO Family HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2022#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1666
+FOX Crime HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2023#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1667
+Star Chinese Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2025#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1669
+Blue Ant Extreme HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2026#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1670
+LifeTime HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2027#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1671
+HBO Signature HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2028#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1672
+Bioskop Indonesia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2029#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1673
+Hits Movie SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2030#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1674
+Cinema World,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2031#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1675
+HITS HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2032#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1676
+FOX Action Movies FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2033#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1677
+HBO FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2034#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1678
+HBO Signature FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2035#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1679
+Warner TV ID HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2036#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1680
+Star Chinese Movies Legend,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2037#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1681
+CCM,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2038#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1438#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1682
+Cinemax ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2039#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1683
+Red By HBO HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2040#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1684
+FMN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2041#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1685
+HBO Hits FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1686
+FOX Family Movies ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2043#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1687
+HBO SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2044#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1688
+HBO Hits SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2045#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1689
+HBO Signature SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2046#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1690
+HBO Family SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2047#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1691
+Cinemax SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2048#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1692
+FLIK HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2049#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1693
+Galaxy Premium SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2050#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1694
+Galaxy SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2051#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1695
+ATV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2052#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1696
+HBO Family FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2053#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1697
+Cinemax FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2054#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1698
+IMC SD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2055#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1699
+Nat Geo HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2056#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1700
+Nat Geo Wild HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2057#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1701
+Discovery Channel HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2058#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1702
+Crime Investigation,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2059#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1703
+Discovery Shed,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2060#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1704
+Animal Planet HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1705
+BBC Earth,http://a.laoxiang.cf/jqkjzy/crtv.php?id=97#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1706
+Nat Geo People HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2063#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1707
+History HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2064#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1708
+Discovery Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2065#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1709
+History FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2066#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1710
+Lingua Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2067#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1711
+Smithsonian Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2068#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1712
+Da Vinci Learning,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2069#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1713
+Ruang Terampil,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2070#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1714
+TV Edukasi,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2071#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1715
+Love Nature 4K,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2072#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1716
+Aniplus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2073#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1717
+Animax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=59#http://a.laoxiang.cf/jqkjzy/crtv.php?id=139#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2074#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1718
+Disney XD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1209#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1719
+Disney Junior,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1210#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2076#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1720
+Baby TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1129#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1956#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2077#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1721
+Boomerang ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2078#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1722
+Disney Channel,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1723
+Nick Jr ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2080#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1724
+Cartoon Network ID HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2081#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1725
+Dunia Anak,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2082#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1726
+Nickelodeon ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2083#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1727
+Toonmax,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2084#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1728
+Baby First,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2085#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1729
+My Kidz,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2086#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1730
+Duck TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2087#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1731
+Disney Channel ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2088#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1732
+Zoo Moo HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2089#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1733
+Horee,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2090#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1734
+Dream Works HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2091#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1735
+XingXong,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2092#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1736
+CBeebies,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2093#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1737
+Fox Sports 1 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2094#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1738
+Fox Sports 3 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2095#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1739
+Fox Sports 2 HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2096#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1740
+BeIN Sport 1 ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2097#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1741
+BeIN Sport 2 ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2098#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1742
+Badminton 1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2102#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1746
+Badminton 2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2103#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1747
+Fashion TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2104#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1748
+TLC HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2105#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1749
+HGTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1538#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2193#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1618#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2106#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1750
+Waku Waku Japan HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2107#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1751
+AFN HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2108#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1752
+Citra Drama,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2109#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1753
+Every Good Game,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2110#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1754
+Blue Ant Entertainment HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2111#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1755
+Insert,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2112#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1756
+Eat & Go,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2113#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1757
+.idku,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2114#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1758
+BBC Lifestyle HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2115#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1759
+K Plus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2116#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1760
+Sony ONE,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2117#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1761
+TVN ID,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2118#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1762
+S GEM HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2119#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1763
+tVN Movies HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2120#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1764
+KBS World HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2121#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1765
+K Drama,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2122#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1766
+Channel V HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2123#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1767
+Prambors TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2124#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1768
+ONE African TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2125#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1769
+Citra Dangdut,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2126#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1770
+MTV LIVE HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2127#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1771
+i konser,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2128#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1772
+Makkah TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2129#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1773
+Rodja TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2130#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1774
+Madina TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2131#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1775
+TV Mu,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2132#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1776
+Ahsan TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2133#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1777
+Reformed 21,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2134#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1778
+Bloomberg TV Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2135#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1779
+DW TV Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2136#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1780
+France 24,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1042#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2137#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1781
+BBC World News HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2138#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1782
+Channel News Asia,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2139#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1783
+CNN Int,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2140#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1784
+CGTN News,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2141#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1785
+Russia Today,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1407#http://a.laoxiang.cf/jqkjzy/crtv.php?id=2142#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1786
+Aljazeera EN,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2143#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1787
+NHK World Japan,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2144#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1788
+TV 5 Monde Asie,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2145#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1789
+Golf Channel FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2146#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1790
+Fight Sports,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2147#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1791
+UFC FHD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2148#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1792
+NBA TV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=2149#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1793
+Karaoke,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1141
+Jakarta Globe,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1142
+越南安測,#genre#
+VTV1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1326
+VTV2,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1327
+VTV4,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1328
+VTV7,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1331
+THGL,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1292
+PTP,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1293
+QRT,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1294
+THBT,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1295
+ANTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1979#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1479#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1623#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1300#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1312
+ANTV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1301
+HBTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1302
+KienGiangTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1309#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1319
+KienGiangTV1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1310#http://a.laoxiang.cf/jqkjzy/crtv.php?id=1320
+BenTreTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1313
+Da Nang TV1,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1316
+KhanhHoaTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1318
+PhuYenTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1323
+QuangNamTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1324
+LongAnTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1321
+LA34,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1291
+VITV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1299
+印度安測,#genre#
+Sun TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1458
+Star Vijay,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1459
+Zee Tamil,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1460
+Zee Business,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1461
+Thanthi TV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1462
+Raj Musix,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1463
+Zee Actions,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1464
+KTV Tamil,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1465
+Zee TV HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1466
+Zee Cinema HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1467
+Colors HD,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1468
+Starplus,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1469
+Picture,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1470
+Asianet,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1471
+Times Now,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1472
+TV9 Marathi,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1125
+NDTV India,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1030
+NDTV,http://a.laoxiang.cf/jqkjzy/crtv.php?id=1028
+ZeeNews,http://a.laoxiang.cf/jqkjzy/crtv.php?id=465
+
 
 新唐人系列,#genre#
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
@@ -1808,10 +3176,17 @@ V I P專享_1234,#genre#
 V I P特供_1234,#genre#
 松視1台rtm161,rtmp://161.202.204.248:1935/tv/ttv11
 HAPPY rtm161,rtmp://161.202.204.248:1935/tv/ttv12
-Playboy147,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
-粉紅台147,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
 驚艷台147,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
+彩虹e台147,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
 彩虹電影147,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
+LOOK147,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
+松視1台147,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
+松視2台147,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
+粉紅台147,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
+完美台147,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.ts
+Playboy147,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+HOTns2,mitv://ns2.hellotvvod.com:9906/604c896000002f44ba234c2e19716622
+香蕉台ns2,mitv://ns2.hellotvvod.com:9906/604c896000065d85ba234dc432580abb
 香蕉台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=408
 松視1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=402
 松視2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=403
