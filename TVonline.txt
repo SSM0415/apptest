@@ -1148,7 +1148,7 @@ MX Live,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
 MOVIE,#genre#
-哥吉拉大戰金剛,http://woku.fofoxi.com/video/74e910062e3e07a03f89c039e9fe63fc/index.m3u8
+哥吉拉大戰金剛,https://mhcdn.mhqiyi.com/20210401/9qGBbzHI/index.m3u8
 
 
 影視輪播,#genre#
@@ -1563,21 +1563,69 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 
 加值測試_1234,#genre#
-IBIZA巨乳控頻道,http://uotv.gearhostpreview.com/av.php?id=1
-HEYZO零時差頻道,http://uotv.gearhostpreview.com/av.php?id=2
-IBIZA制服誘惑頻道,http://uotv.gearhostpreview.com/av.php?id=4
-加勒比全球同步頻道,http://uotv.gearhostpreview.com/av.php?id=3
-松視+深夜劇場頻道,http://uotv.gearhostpreview.com/av.php?id=5
-松視+超強企劃頻道,http://uotv.gearhostpreview.com/av.php?id=6
-HOT+西洋黑映畫頻道,http://uotv.gearhostpreview.com/av.php?id=7
-一本道國際放送頻道,http://uotv.gearhostpreview.com/av.php?id=8
-IBIZAD槽素人頻道,http://uotv.gearhostpreview.com/av.php?id=9
-IBIZA日本無碼頻道,http://uotv.gearhostpreview.com/av.php?id=10
+Asian,http://cdn.adultiptv.net/asian.m3u8
+Anal,http://cdn.adultiptv.net/anal.m3u8
+Big Ass,http://live.redtraffic.xyz:80/bigass.m3u8
+Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+Big Ass,http://live.redtraffic.xyz/bigass.m3u8
+Big Dick,http://live.redtraffic.xyz:80/bigdick.m3u8
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+Big Tits,http://live.redtraffic.xyz:80/bigtits.m3u8
+Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Blowjob,http://live.redtraffic.xyz:80/blowjob.m3u8
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Cuckold,http://live.redtraffic.xyz:80/cuckold.m3u8
+Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+Fetish,http://live.redtraffic.xyz:80/fetish.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Gangbang,http://live.redtraffic.net/gangbang.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Hardcore,http://live.redtraffic.xyz:80/hardcore.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+Interracial,http://live.redtraffic.xyz:80/interracial.m3u8
+Interracial,http://cdn.adultiptv.net/interracial.m3u8
+Interracial,http://live.redtraffic.xyz/interracial.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Latina,http://live.redtraffic.xyz/latina.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+MILF,http://live.redtraffic.xyz:80/milf.m3u8
+MILF,http://cdn.adultiptv.net/milf.m3u8
+MILF,http://live.redtraffic.xyz/milf.m3u8
+Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+Pornstar,http://live.redtraffic.xyz:80/pornstar.m3u8
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+POV,http://live.redtraffic.xyz:80/pov.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+POV,http://live.redtraffic.xyz/pov.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Russian,http://live.redtraffic.xyz:80/russian.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8
+shelksd (18+),http://194.190.78.91/shelksd/index.m3u8
+Teen,http://live.redtraffic.xyz:80/teen.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Teen,http://live.redtraffic.xyz/teen.m3u8
+Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
+Threesome,http://live.redtraffic.xyz/threesome.m3u8
+Woman,http://live.redtraffic.net/woman.m3u8
 
 加值測試點_1234,#genre#
 點播快轉區,
-驚艷2017,https://yiqikan.wuyouzuida.com/20191006/1243_73c09eea/1000k/hls/index.m3u8
-驚艷2018,https://yiqikan.wuyouzuida.com/20191006/1244_30b29014/1000k/hls/index.m3u8
+
 V I P專享_1234,#genre#
 19歲巨乳小女生,https://iwant-sex.com/videos/13324/13324.m3u8
 保健按摩服務,https://iwant-sex.com/videos/13418/13418.m3u8
