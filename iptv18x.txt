@@ -43,6 +43,15 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 group-title="美直播CR",Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="美直播CR",Shelk
+http://194.190.78.91:8080/shelk/index.m3u8
+#EXTINF:-1 group-title="美直播CR",RUsskayanoch
+http://93.189.224.117:9030/russkayanoch
+#EXTINF:-1 group-title="美直播CR",Hustler hd
+http://51.15.0.141:88/hustlerhd/index.m3u8
+#EXTINF:-1 group-title="美直播CR",Redlight hd
+http://51.15.0.141:88/redlightHD/index.m3u8
+
 
 
 #EXTINF:-1 group-title="18x美短片",神奇的治療方法
@@ -25241,6 +25250,8 @@ http://video.fxsdp.com:8091/81820170725/MIRD-174B/550kb/hls/index.m3u8
 http://video.fxsdp.com:8091/81820170725/NITR-304/550kb/hls/index.m3u8
 #EXTINF:-1 group-title="強姦亂倫" tvg-logo="http://www.haocai1688.com/pic/uploadimg/2017-7/PS/NACR-093.jpg",NACR-093-美大生の巨乳娘 かなで自由
 http://video.fxsdp.com:8091/81820170725/NACR-093/550kb/hls/index.m3u8
+#EXTINF:-1 group-title="強姦亂倫" tvg-logo="https://www.444.coffee/wp-content/uploads/2018/11/416489.jpg",JUY-543 暴雨 与憧憬的家庭教二人相的夜晚 君美
+https://videocdn.dlyilian.com:8091/20190201/JWK4GRL543/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="合集2491部",台灣寫真TPlmage467
 https://d.syasn.com/3v/3v186.mp4?k1=221.229.168.30&k2=m2&k3=7be6dc548b771406639f11635ab96fdd&k4=a486608c5a9c537399ea650d0a444c77&k5=3v186&k6=7586b6f641b38309afa91b967946f7fd_2190c8cc9ae39d89d2d190d11564f613&k7=12_1
