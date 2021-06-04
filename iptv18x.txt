@@ -23040,4 +23040,39 @@ http://hotstream.asia/2019/8/2/kbj19073102-1.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="KOREA小姐姐-0" ,KOREA-0-29
 http://hotstream.asia/2019/7/25/1970204-4.mp4
 
-
+#EXTINF:-1 group-title="性生活第一季",性生活S1E0
+https://v4.szjal.cn/20200730/0496ZAwP/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E1
+https://v4.szjal.cn/20200616/Qobi9wbu/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E2
+https://v4.szjal.cn/20200616/NUwpeQi1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E3
+https://v4.szjal.cn/20200730/Uf8Qta9r/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E4
+https://v4.szjal.cn/20200730/nNuS3zko/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E5
+https://v4.szjal.cn/20200730/fo42tkgC/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E6
+https://v4.szjal.cn/20200730/8zSuZta1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E7
+https://v4.szjal.cn/20200730/7VQwJ42y/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E8
+https://v4.szjal.cn/20200730/UAZCnAh7/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E0備
+https//v5.szjal.cn/20201120/9yQ5mPoc/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E1備
+https//v6.szjal.cn/20201209/Jw89wMN9/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E2備
+https//v6.szjal.cn/20201209/541XnJc8/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E3備
+https//v6.szjal.cn/20201209/3bwS2Sr8/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E4備
+https//v6.szjal.cn/20201209/NsSQSq0c/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E5備
+https//v6.szjal.cn/20201209/kMUZYGoM/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E6備
+https//v6.szjal.cn/20201209/jQQeqwNH/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E7備
+https//v6.szjal.cn/20201209/KwjtxkRe/index.m3u8
+#EXTINF:-1 group-title="性生活第一季",性生活S1E8備
+https//v6.szjal.cn/20201209/XucNoP0e/index.m3u8
