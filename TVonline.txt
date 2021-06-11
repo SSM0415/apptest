@@ -90,6 +90,7 @@ CNEX紀實,http://61.58.60.230:9319/live/257.m3u8
 上德電視台,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 
 港澳TVB,#genre#
 鳳凰中文,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
@@ -1102,382 +1103,15 @@ Mono綜合,rtmp://59.124.75.130:1935/sat/tv761
 FOX體育,rtmp://59.124.75.130:1935/sat/tv731
 FOX2體育,rtmp://59.124.75.130:1935/sat/tv741
 TVBS新聞,rtmp://59.124.75.130/sat/tv551
-TVB 翡翠台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-81
-TVB J2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-82
-TVB 新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-83
-明珠台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-84
-財經資訊台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-85
-31港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-31
-32港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-32
-33港台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-33
-ViuTV six,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-96
-ViuTV,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-99
-華視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501
-華視教育體育文化台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-502
-華視新聞資訊台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503
-華視國會頻道1,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-504
-華視國會頻道2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-505
-中視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100
-中視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101
-中視經典台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102
-中視菁採台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103
-民視,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300
-民視第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301
-民視新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302
+SEVEN2,rtmp://59.124.75.130/sat/md011
 
 
 港台測試1,#genre#
-HKC電影台,mitv://ns2.hellotvvod.com:9906/29fc6c424bb04f4abf5701ae4dbe59e8.ts
- 鳳凰電影台,mitv://ns2.hellotvvod.com:9906/6bd66634bff74f80a56740b285a3e358.ts
- 衛視電影台,mitv://ns2.hellotvvod.com:9906/a6982db5fa984f8f88268a8d963b2d22.ts
- 東森電影台,mitv://ns2.hellotvvod.com:9906/b252c84d685147e982631f11de728ebd.ts
- 緯來電影台,mitv://ns2.hellotvvod.com:9906/acef7f93a0f74ea6af89e262850a5d8f.ts
- 龍祥電影,mitv://ns2.hellotvvod.com:9906/5330bf1b959548b68ed041358c8414e6.ts
- HBO,mitv://ns2.hellotvvod.com:9906/b93033df9b6a4bf28af8b566257f5da6.ts
- 東森洋片台,mitv://ns2.hellotvvod.com:9906/f22dce75f01347bc95b00c78c877af2b.ts
- AXN,mitv://ns2.hellotvvod.com:9906/f905610f3341488fbffaa1c88d1489d0.ts
- 好萊塢電影台,mitv://ns2.hellotvvod.com:9906/2e5828de8abf40d7a74e6178a7b3547f.ts
- CINEMAX,mitv://ns2.hellotvvod.com:9906/4ed6ae2069b04f08a21c36b973e993d8.ts
- 緯來育樂台,mitv://ns2.hellotvvod.com:9906/83da3006117d4993a452b424138d9303.ts
- 衛視卡式台,mitv://ns2.hellotvvod.com:9906/609244960008becdca86df725dec17a5.ts
- 衛視電影台(亞洲),mitv://ns2.hellotvvod.com:9906/6092449700005ab0ca86e13743085d3c.ts
- HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/bdd5baa234a74d669e24f7334a8de484.ts
- 香港無線新聞台,mitv://ns2.hellotvvod.com:9906/604c79820003412db9e551b942eb0874.ts
- TVB 星河,mitv://ns2.hellotvvod.com:9906/e91c8f49b9bb4174b7cd336aaa8938db.ts
- 陽光衛視,mitv://ns2.hellotvvod.com:9906/8548a9c41bfd4bea9dc94c25617e85a4.ts
- 澳門衛視,mitv://147.135.39.171:9906/5f5f266400058adc32f5c5f52daa336c.ts
- 澳亞衛視,mitv://147.135.39.171:9906/5f5f2acf000683923307082c4d59188d.ts
- 澳門-MACAU,mitv://ns2.hellotvvod.com:9906/892ffc1b77a2461ab29fe45fe72d69b5.ts
- 澳門蓮花,mitv://ns2.hellotvvod.com:9906/6089930824dc4a86921e6bef52a1fc2e.ts
- now新聞台,mitv://ns2.hellotvvod.com:9906/965d29611a8c4fa7a77462a95bc52c5a.ts
- now直播台,mitv://ns2.hellotvvod.com:9906/cbe7973c8191466c9d4939de7f455324.ts
- 迪士尼(粵),mitv://147.135.39.171:9906/60578860000a3515a353117c0c5b1b93.ts
- HKC beIN Sports 1,mitv://ns2.hellotvvod.com:9906/60536006000aa52ed4d9c74d12d50ee8.ts
- HKC beIN Sports 2,mitv://ns2.hellotvvod.com:9906/6053600600046f01d4d9c5b7196a2faa.ts
- HKC新聞台,mitv://ns2.hellotvvod.com:9906/09d02262a19e4deab9463d22c3305e4c.ts
- HKC直播新聞台,mitv://ns2.hellotvvod.com:9906/da5010b099f04ddd9dba414f3f0c7f67.ts
- HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/526faec05f9a4035a379936b87b116f4.ts
- HKC 18,mitv://ns2.hellotvvod.com:9906/60925bda000bdd5acae1c1dd36f87576.ts
- HKC 603,mitv://ns2.hellotvvod.com:9906/60536a0c000375ded500ecd976f06cfd.ts
- HKC體育,mitv://ns2.hellotvvod.com:9906/60925bdb00028a23cae1c3634f536302.ts
- HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/60925bdb0008874ecae1c4ea1c9b6d90.ts
- HKC Sports Plus 2,mitv://ns2.hellotvvod.com:9906/60536a0d0000c6f9d500f01508d81705.ts
- HKC綜合娛樂台,mitv://ns2.hellotvvod.com:9906/c43ce56111dd47e2a52dd79fbadb3626.ts
- 翡翠台,mitv://ns2.hellotvvod.com:9906/1e78ff7373bd46e39f2f40c0a09e81ee.ts
- HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/c0f1dbea5af04096a0a82af32fc838a8.ts
- 美亞電影台,mitv://ns2.hellotvvod.com:9906/16ca164b6e10418ba81a55b8c38bf6b3.ts
- 龍華電影,mitv://ns2.hellotvvod.com:9906/c2b9916b3a4c4f2b9dc3f4390ca9fa82.ts
- 星衛電影台,mitv://ns2.hellotvvod.com:9906/a4c102a3880f4ec7ae2805184563e109.ts
- 靖天映畫,mitv://ns2.hellotvvod.com:9906/b3bd3cfbc9a54eb999a9929c2ed3dba1.ts
- 靖天電影台,mitv://ns2.hellotvvod.com:9906/e7a86b3b8a114e30907926a8a251b813.ts
- WARNER TV,mitv://ns2.hellotvvod.com:9906/e36819c1a5c74ab38705022c3113b6a4.ts
- Star Movies,mitv://ns2.hellotvvod.com:9906/1e2cd72fdcc04eaca28970f5990fccd4.ts
- 福斯家庭電影台,mitv://ns2.hellotvvod.com:9906/ca1570fc4d98422a9539a716ab6978d8.ts
- AMC最愛電影,mitv://ns2.hellotvvod.com:9906/a598bd018db24da5b52bdebf377efcf9.ts
- FOX CRIME,mitv://ns2.hellotvvod.com:9906/22176f0fc72e40a9903b97f64085d913.ts
- CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/f59c62e6b1f24a2c8621e8aa70971ace.ts
- CinemaWorld,mitv://ns2.hellotvvod.com:9906/1c0d7aa542d443349537306a86079caf.ts
- 壹電視電影台,mitv://ns2.hellotvvod.com:9906/31c9b59516e44b2d9d992f946fb84225.ts
- 採昌影劇台,mitv://ns2.hellotvvod.com:9906/80155fa735504f4f928739e35a378f86.ts
- 東森戲劇台,mitv://ns2.hellotvvod.com:9906/606b23f54e9543c99a247bd7e39c1eb6.ts
- 八大戲劇台,mitv://ns2.hellotvvod.com:9906/9726e3d64db3447297f08274ab20bd86.ts
- 緯來戲劇台,mitv://ns2.hellotvvod.com:9906/f55952882cae40c5aa9fbdc9faacd10d.ts
- MOMO追劇台,mitv://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e.ts
- 公視3台,mitv://ns2.hellotvvod.com:9906/05b8469d34ce41d79545d29d897af57b.ts
- 三立戲劇台,mitv://ns2.hellotvvod.com:9906/561a78989ec54e42a3d8125eec178501.ts
- 龍華戲劇,mitv://ns2.hellotvvod.com:9906/33aef6bf34f84309a724b1175b37b200.ts
- 靖天戲劇台,mitv://ns2.hellotvvod.com:9906/6d974d62f64149b5bdac029aee05b45f.ts
- 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/fe3194fd94db457f97449a99e317e863.ts
-J2,mitv://ns2.hellotvvod.com:9906/605452c8000ddf11d88e0de906ea5815.ts
-無線新聞台,mitv://ns2.hellotvvod.com:9906/6054551b0002d25ed8971f526d323462.ts
-明珠台,mitv://ns2.hellotvvod.com:9906/604c6ea3000a5749b9badc760544752d.ts
-無線財經資訊台,mitv://ns2.hellotvvod.com:9906/5ff40b2f00022c296075f64c09b40a99.ts
-ViuTV,mitv://ns2.hellotvvod.com:9906/605459fa0005c934d8aa27250cd57191.ts
-ViuTVsix,mitv://ns2.hellotvvod.com:9906/605459fa000006b3d8aa25ae58fe6a9e.ts
-Mediacorp5,mitv://ns2.hellotvvod.com:9906/60539d7a0006dc52d5c9d3732635679d.ts
-Mediacorp8,mitv://ns2.hellotvvod.com:9906/60539d7a0000928ed5c9d1ce0e4a6e7f.ts
-CHANNEL NEWSASIA,mitv://ns2.hellotvvod.com:9906/5fb659070004c28e09e2650158ba09f4.ts
-MediacorpU,mitv://ns2.hellotvvod.com:9906/60539d79000a3f38d5c9d0667e7a653a.ts
-陽光衛視,mitv://ns2.hellotvvod.com:9906/5fb514f50003ddbf04f07e8258c731e5.ts
-澳門蓮花,mitv://ns2.hellotvvod.com:9906/5ff5bd7f000863cc6716806274ef1036.ts
-now新聞台,mitv://ns2.hellotvvod.com:9906/605462ed000424d6d8cd1bf072310cec.ts
-now直播台,mitv://ns2.hellotvvod.com:9906/605462ec000d9757d8cd1a7972db1431.ts
-RTHK31,mitv://ns2.hellotvvod.com:9906/5fb65a3b0007df0809e718ec345a424f.ts
-RTHK32,mitv://ns2.hellotvvod.com:9906/5fb65a3b0002914409e71794405001ed.ts
-民視,mitv://ns2.hellotvvod.com:9906/6054657e000af94ed8d7241d24831ac0.ts
-民視新聞台,mitv://ns2.hellotvvod.com:9906/6054667900014d4ad8daf61472a6746b.ts
-民視台灣台,mitv://ns2.hellotvvod.com:9906/5ff4084000093e64606a828828e47113.ts
-民視第一台,mitv://ns2.hellotvvod.com:9906/5ff40840000ef34e606a83ff2b645c09.ts
-台視,mitv://ns2.hellotvvod.com:9906/6055a518000b961eddb7a03c2f1557ea.ts
-中視,mitv://ns2.hellotvvod.com:9906/6055a519000257dcddb7a1c348cc7b9d.ts
-中視新聞,mitv://ns2.hellotvvod.com:9906/5ff3fc21000f0ea1603b2ae7761069fd.ts
-中視菁採台,mitv://ns2.hellotvvod.com:9906/5ff4079c0007375a6068015c1a860971.ts
-中視經典台,mitv://ns2.hellotvvod.com:9906/5ff4079c000d65cb606802f27f1b03de.ts
-華視,mitv://ns2.hellotvvod.com:9906/6055a5e800052edfddbacb1649f91252.ts
-華視新聞,mitv://ns2.hellotvvod.com:9906/5ff3fc220005f6be603b2c7e2bc363a4.ts
-公視,mitv://ns2.hellotvvod.com:9906/5fc89eac000ec1d1514274296f4d5637.ts
-公視台語台,mitv://ns2.hellotvvod.com:9906/5ff3faca000da15e6035eeb279e11019.ts
-公視3台,mitv://ns2.hellotvvod.com:9906/5ff3facb0003e9046035f0191b644b45.ts
-八大綜合台,mitv://ns2.hellotvvod.com:9906/5fc8a128000aef1e514c278f5f6e4fad.ts
-八大娛樂台,mitv://ns2.hellotvvod.com:9906/5fc8a042000108b55148a28f693f3237.ts
-八大第一台,mitv://ns2.hellotvvod.com:9906/5fc8a0420006e4ca5148a4155c5a661f.ts
-八大戲劇台,mitv://ns2.hellotvvod.com:9906/5fc8a12900013eaf514c28f64701660a.ts
-八大優頻道,mitv://ns2.hellotvvod.com:9906/5ff406ea000cb74e60654b7311fc3f18.ts
-東森財經新聞,mitv://ns2.hellotvvod.com:9906/6055b2cc0008b38bdded26a17f68006a.ts
-東森新聞,mitv://ns2.hellotvvod.com:9906/5ff414ce000d1296609b8e3257cf6d26.ts
-東森綜合,mitv://ns2.hellotvvod.com:9906/5ff414ce00013b16609b8b2560e43327.ts
-東森電影,mitv://ns2.hellotvvod.com:9906/6055b77f0004da35ddff80df07911894.ts
-東森洋片,mitv://ns2.hellotvvod.com:9906/60543549000216a5d81ad2d360254dd0.ts
-東森戲劇,mitv://ns2.hellotvvod.com:9906/5ff414ce00077d04609b8cbb4bdf6a4a.ts
-東森超視,mitv://ns2.hellotvvod.com:9906/6055bbc00001b48ede101dfc27cc7801.ts
-東森幼幼,mitv://ns2.hellotvvod.com:9906/6055bc6b000b6056de12bc6512d35714.ts
-東森亞洲衛視,mitv://ns2.hellotvvod.com:9906/6055bd4200026a5ede1601fa22491e11.ts
-ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/5ff3ffba000ce5a460493803294f6849.ts
-三立新聞,mitv://ns2.hellotvvod.com:9906/5ff414cf00034e99609b8f9a46f96fae.ts
-三立財經台,mitv://ns2.hellotvvod.com:9906/60543549000e95d5d81ad5ff67f32d39.ts
-三立綜合台,mitv://ns2.hellotvvod.com:9906/5ff3f7f3000d557b602ad6ca130d4de2.ts
-三立台灣台,mitv://ns2.hellotvvod.com:9906/6055c484000b5eabde325e0d05342e12.ts
-三立都會台,mitv://ns2.hellotvvod.com:9906/6055c48500032a1bde325fe13a2b7879.ts
-三立戲劇台,mitv://ns2.hellotvvod.com:9906/5fdcc603000df3b8058fc29a57e54474.ts
-緯來戲劇,mitv://ns2.hellotvvod.com:9906/6055c9370007c495de44b85a69f0401d.ts
-緯來綜合,mitv://ns2.hellotvvod.com:9906/60561fa5000d0f38df96576259ea4b74.ts
-緯來電影,mitv://ns2.hellotvvod.com:9906/60561e65000b846fdf917504419b5394.ts
-緯來精采台,mitv://ns2.hellotvvod.com:9906/5ff408d4000f0017606cc61f2d831101.ts
-緯來育樂,mitv://ns2.hellotvvod.com:9906/605620680009d2c8df99504f27fd7fc4.ts
-緯來體育,mitv://ns2.hellotvvod.com:9906/6056219f000f1cc8df9e107f50f97b2a.ts
-緯來日本,mitv://ns2.hellotvvod.com:9906/6056251c000e8693dfabb098418e2ba2.ts
-國興衛視,mitv://ns2.hellotvvod.com:9906/605625c0000e8118dfae313842d4123b.ts
-中天新聞,mitv://ns2.hellotvvod.com:9906/605626390002c1d3dfb006e220c472a5.ts
-中天綜合,mitv://ns2.hellotvvod.com:9906/605626bf00097e09dfb21408581c67f2.ts
-中天娛樂,mitv://ns2.hellotvvod.com:9906/605627390008865fdfb3f05938c00e19.ts
-TVBS精采台,mitv://ns2.hellotvvod.com:9906/5fc4fc930009411b4311411a76eb5485.ts
-TVBS新聞,mitv://ns2.hellotvvod.com:9906/60562932000d02d6dfbba62a51fc698d.ts
-TVBS,mitv://ns2.hellotvvod.com:9906/60543617000496afd81df81f64541936.ts
-TVBS歡樂,mitv://ns2.hellotvvod.com:9906/60543617000ac121d81df9b50b453f06.ts
-寰宇新聞台,mitv://ns2.hellotvvod.com:9906/6056299e000ea335dfbd4c7775e10bfa.ts
-壹電視新聞,mitv://ns2.hellotvvod.com:9906/60562a3a000efaa0dfbfade76ff43a75.ts
-壹電視綜合,mitv://ns2.hellotvvod.com:9906/60562a3a00089482dfbfac4178617cc0.ts
-壹電視電影台,mitv://ns2.hellotvvod.com:9906/5fdcb44e000ed447054a97d17bb45cfa.ts
-非凡新聞,mitv://ns2.hellotvvod.com:9906/60562b54000b4064dfc3fa8d349043f8.ts
-非凡商業,mitv://ns2.hellotvvod.com:9906/5ff409ad00000a9b607011ef391132aa.ts
-年代新聞,mitv://ns2.hellotvvod.com:9906/60562c3b000585c9dfc77f6e28515171.ts
-龍華電影,mitv://ns2.hellotvvod.com:9906/5ff40abf000ad5cb607442fe3eeb229f.ts
-龍華戲劇,mitv://ns2.hellotvvod.com:9906/5fb6815200069dfb0a7fca760a1e0e97.ts
-靖天日本台,mitv://ns2.hellotvvod.com:9906/5fd22ce9000e1b7076961c352c952462.ts
-靖天綜合台,mitv://ns2.hellotvvod.com:9906/5fd22ce90008860f76961ace271f7264.ts
-Nice TV靖天歡樂台,mitv://ns2.hellotvvod.com:9906/5fd22cea0005036b76961dcb08dd6bb0.ts
-靖天資訊台,mitv://ns2.hellotvvod.com:9906/5fd21b5e00006f66765191c2734a767f.ts
-靖天國際台,mitv://ns2.hellotvvod.com:9906/60563341000a878adfe2f026677c28e5.ts
-靖天育樂台,mitv://ns2.hellotvvod.com:9906/5fd200f50003db9275ea6875774d680c.ts
-靖天映畫,mitv://ns2.hellotvvod.com:9906/5fc124a1000cc2b1340db8a400040778.ts
-靖天電影台,mitv://ns2.hellotvvod.com:9906/60563341000368b3dfe2ee517f242e21.ts
-靖天戲劇台,mitv://ns2.hellotvvod.com:9906/5fc124a100071c32340db72d5cfc6793.ts
-靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/60563340000c595ddfe2ecab32850637.ts
-亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/5ff3f98d0005b5216031166637f125d7.ts
-Travel Channel,mitv://ns2.hellotvvod.com:9906/5fc12060000806cf33fd19842dd4481b.ts
-Travel Channel,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=63
-EYE TV旅遊,mitv://ns2.hellotvvod.com:9906/5ff414cd000b3a02609b89cd6e1b1c9c.ts
-Food Network,mitv://ns2.hellotvvod.com:9906/5ff3f86a000a0e5b602ca6c776144472.ts
-美食星球,mitv://ns2.hellotvvod.com:9906/5ff414cd0005c3bf609b88666399782e.ts
-美食星球,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=1360
-愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/60575228000a970be443a67e4f722369.ts
-愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/605752280003c04ce443a4b928776e4f.ts
-愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/60575227000d1ab3e443a34247ad41f6.ts
-博斯無限,mitv://ns2.hellotvvod.com:9906/605757f4000e56bce45a4c581b82049a.ts
-博斯高球,mitv://ns2.hellotvvod.com:9906/605757f40008013ce45a4ab21eca2afe.ts
-博斯高球2,mitv://ns2.hellotvvod.com:9906/5fed9dc5000ea190475a89081dfd5ebd.ts
-博斯高球2,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=378
-博斯網球,mitv://ns2.hellotvvod.com:9906/605757f40001f629e45a492b0292620b.ts
-博斯運動,mitv://ns2.hellotvvod.com:9906/605757f3000adefbe45a47852f4510db.ts
-博斯運動2,mitv://ns2.hellotvvod.com:9906/5fed9dc500071e52475a8723281a2544.ts
-博斯魅力網,mitv://ns2.hellotvvod.com:9906/5fed9dc4000b3d8f475a844535e1461b.ts
-博斯無限二台,mitv://ns2.hellotvvod.com:9906/5fed9dc500017cfc475a85ac215164bc.ts
-智林體育台,mitv://ns2.hellotvvod.com:9906/5fce471a0001d214675c68806e5511ad.ts
-ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/5ff40c86000ca865607b34d34d315bbe.ts
-ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/5ff40c8600074ee6607b336c4b4111cd.ts
-OUTDOOR,mitv://ns2.hellotvvod.com:9906/5ff5bdeb0004f29c671825676004173c.ts
-Z頻道,mitv://ns2.hellotvvod.com:9906/6057613c0009e592e47e8c6f64960514.ts
-採昌影劇台,mitv://ns2.hellotvvod.com:9906/5ff409fc00009147607146a6049f17fb.ts
-星衛電影台,mitv://ns2.hellotvvod.com:9906/60576283000a000ae48389d601026dcd.ts
-星衛娛樂台,mitv://ns2.hellotvvod.com:9906/5ff4093200084d46606e339a689e482b.ts
-衛視電影台,mitv://ns2.hellotvvod.com:9906/605765fb000d685ce49117715e6a23df.ts
-衛視西片,mitv://ns2.hellotvvod.com:9906/605765fb00075962e49115db2a753558.ts
-衛視中文台,mitv://ns2.hellotvvod.com:9906/605765fb0000e09ce4911435016d3686.ts
-天映經典,mitv://ns2.hellotvvod.com:9906/60576ba5000a47dfe4a736b672d30d69.ts
-天映頻道,mitv://ns2.hellotvvod.com:9906/6054783f00050348d920647e1f9b09e0.ts
-龍祥電影,mitv://ns2.hellotvvod.com:9906/60576e35000b21a6e4b13965546f368d.ts
-美亞電影台,mitv://ns2.hellotvvod.com:9906/60576e35000551b2e4b137ee19424ca3.ts
-Lifetime娛樂頻道,mitv://ns2.hellotvvod.com:9906/5fc4fc9300037d2543113f931c6c0340.ts
-AMC最愛電影,mitv://ns2.hellotvvod.com:9906/5fc4e5220004e7d242b5ae895d4d61c8.ts
-好萊塢電影台,mitv://ns2.hellotvvod.com:9906/6057719e000300c1e4be897a395a40b2.ts
-HKC電影台,mitv://ns2.hellotvvod.com:9906/5fb659b8000a2b5009e519d05908799e.ts
-鳳凰電影台,mitv://ns2.hellotvvod.com:9906/6057719d000bf54fe4be87e36ff2349d.ts
-AXN,mitv://ns2.hellotvvod.com:9906/6057719d0005f9cde4be865d7e7004ab.ts
-AXN亞洲,mitv://ns2.hellotvvod.com:9906/5ff3fa5500077fd6603424133f812184.ts
-CINEMAX,mitv://ns2.hellotvvod.com:9906/6057784b000737c4e4d89e5b5345042c.ts
-FOX,mitv://ns2.hellotvvod.com:9906/60543b1200083eaed8316d9160a029f8.ts
-FOX動作電影,mitv://ns2.hellotvvod.com:9906/60543b11000ef771d8316b5f173c5d84.ts
-FOX優質影院,mitv://ns2.hellotvvod.com:9906/60577b8c0009b5abe4e554df55ae24d2.ts
-FOX家庭影院,mitv://ns2.hellotvvod.com:9906/6054379000067be9d823b94443be477b.ts
-FOX犯罪影院,mitv://ns2.hellotvvod.com:9906/6054361800088ff4d81dfd1146c941b9.ts
-CATCHPLAY,mitv://ns2.hellotvvod.com:9906/5fbe640a0004f803294d68c96e964443.ts
-CATCHPLAY,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=362
-HBO,mitv://ns2.hellotvvod.com:9906/60577db10006dba1e4edb4ac34620233.ts
-HBO,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=332
-HBO Signature,mitv://ns2.hellotvvod.com:9906/604c6686000c07cfb99b2b9c5327188d.ts
-HBO Hits,mitv://ns2.hellotvvod.com:9906/604c668700027a7eb99b2d1324d26b89.ts
-HBO Hits,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=330
-BLUE ANT Extreme,mitv://ns2.hellotvvod.com:9906/5fbe600b00026687293dcc14230c275d.ts
-華納電視頻道,mitv://ns2.hellotvvod.com:9906/60578212000c12a9e4fed0eb3fea4582.ts
-BabyTV(ENG),mitv://ns2.hellotvvod.com:9906/5fc89fa600079c9b514642e4026b25bc.ts
-BabyTV,mitv://ns2.hellotvvod.com:9906/5fc89fa60001bc4a5146415e6c991130.ts
-BabyTV,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=1241
-Nick Jr.,mitv://ns2.hellotvvod.com:9906/5ff5bcec0004e8e66714413f6b3d6ae1.ts
-Nick Jr.,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=50
-Animax,mitv://ns2.hellotvvod.com:9906/6057894800062479e51afa553638202e.ts
-Animax,http://cjytv.cqdm.xyz/cjytv/api/dl/港台頻道/anbo.php?id=59
-迪士尼頻道(粵語),mitv://ns2.hellotvvod.com:9906/5fd1f6a9000d446c75c23206224f38ae.ts
-CN卡通頻道,mitv://ns2.hellotvvod.com:9906/60578947000f30a3e51af8bf3ff76d74.ts
-Boomerang卡通頻道,mitv://ns2.hellotvvod.com:9906/605789470008b09ee51af7192a1840af.ts
-靖天卡通台,mitv://ns2.hellotvvod.com:9906/5fbd0dc100091e3e24145cba01e479b2.ts
-MOMO親子台,mitv://ns2.hellotvvod.com:9906/60578947000247cde51af5735fa75295.ts
-霹靂台灣台,mitv://ns2.hellotvvod.com:9906/5ff5c0840005362267224b1f7ee413f4.ts
-金光布袋戲,mitv://ns2.hellotvvod.com:9906/5ff3fa8c000050cf6034f91716c47e45.ts
-達文西頻道,mitv://ns2.hellotvvod.com:9906/5fc50018000d52c4431f01ab0f2b262e.ts
-ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/5fc6573400060509485b452737227be4.ts
-靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/5fbd15b60003fec22433706a424e21dd.ts
-MTV,mitv://ns2.hellotvvod.com:9906/5ff40a59000472276072b2e85a313f85.ts
-MTV Live,mitv://ns2.hellotvvod.com:9906/5ff3f956000c72776030414328510b00t.ts
-韓國娛樂台,mitv://ns2.hellotvvod.com:9906/5ff3f957000437b76030430904214b72.ts
-Mezzo Live,mitv://ns2.hellotvvod.com:9906/5fd893400001cac88f95e56c2c993dd0.ts
-CLASSICA古典音樂台,mitv://ns2.hellotvvod.com:9906/5fd8934000080a448f95e702274b03a6.ts
-CMusic,mitv://ns2.hellotvvod.com:9906/5fd90a470005f44d9166d9dd2b7e5114.ts
-高點綜合台,mitv://ns2.hellotvvod.com:9906/6057912d00034e49e539d02123b75e94.ts
-JET綜合台,mitv://ns2.hellotvvod.com:9906/5ff4065d000e628060632518770b5cbe.ts
-客家電視台,mitv://ns2.hellotvvod.com:9906/5fce4ce900062b2067731a3159531ad6.ts
-原住民族電視台,mitv://ns2.hellotvvod.com:9906/5fd0b6af0008bd4470e0484d67f83ae2.ts
+
+
 
 港台測試2,#genre#
-國家地理悠人,http://50.7.59.216:61980/myplay/cn_0_8801/index.m3u8?key=84797b799ae18d1b
-FoodNetwork,http://50.7.59.216:61980/myplay/cn_0_8802/index.m3u8?key=84797b799ae18d1b
-BABYFIRST,http://50.7.59.216:61980/myplay/cn_0_8803/index.m3u8?key=84797b799ae18d1b
-美食星球,http://50.7.59.216:61980/myplay/cn_0_8804/index.m3u8?key=84797b799ae18d1b
-LIFESTYLE,http://50.7.59.216:61980/myplay/cn_0_8805/index.m3u8?key=84797b799ae18d1b
-LUXE TV,http://50.7.59.216:61980/myplay/cn_0_8806/index.m3u8?key=84797b799ae18d1b
-EYE旅遊,http://50.7.59.216:61980/myplay/cn_0_8807/index.m3u8?key=84797b799ae18d1b
-HGTV,http://50.7.59.216:61980/myplay/cn_0_8808/index.m3u8?key=84797b799ae18d1b
-三立戲劇,http://50.7.59.216:61980/myplay/cn_0_8809/index.m3u8?key=84797b799ae18d1b
-勁爆NBA,http://50.7.59.216:61980/myplay/cn_0_8810/index.m3u8?key=84797b799ae18d1b
-H歷史頻道,http://50.7.59.216:61980/myplay/cn_0_8811/index.m3u8?key=84797b799ae18d1b
-民視,http://50.7.59.216:61980/myplay/cn_0_8813/index.m3u8?key=84797b799ae18d1b
-中視,http://50.7.59.216:61980/myplay/cn_0_8814/index.m3u8?key=84797b799ae18d1b
-台視,http://50.7.59.216:61980/myplay/cn_0_8815/index.m3u8?key=84797b799ae18d1b
-華視,http://50.7.59.216:61980/myplay/cn_0_8816/index.m3u8?key=84797b799ae18d1b
-公視,http://50.7.59.216:61980/myplay/cn_0_8817/index.m3u8?key=84797b799ae18d1b
-公視台語台,http://50.7.59.216:61980/myplay/cn_0_8818/index.m3u8?key=84797b799ae18d1b
-公視3,http://50.7.59.216:61980/myplay/cn_0_8819/index.m3u8?key=84797b799ae18d1b
-民視新聞,http://50.7.59.216:61980/myplay/cn_0_8820/index.m3u8?key=84797b799ae18d1b
-中視新聞,http://50.7.59.216:61980/myplay/cn_0_8821/index.m3u8?key=84797b799ae18d1b
-台視新聞,http://50.7.59.216:61980/myplay/cn_0_8822/index.m3u8?key=84797b799ae18d1b
-華視新聞資訊,http://50.7.59.216:61980/myplay/cn_0_8823/index.m3u8?key=84797b799ae18d1b
-中視經典,http://50.7.59.216:61980/myplay/cn_0_8826/index.m3u8?key=84797b799ae18d1b
-中視菁采,http://50.7.59.216:61980/myplay/cn_0_8827/index.m3u8?key=84797b799ae18d1b
-台視綜合,http://50.7.59.216:61980/myplay/cn_0_8828/index.m3u8?key=84797b799ae18d1b
-台視財經,http://50.7.59.216:61980/myplay/cn_0_8829/index.m3u8?key=84797b799ae18d1b
-美亞電影,http://50.7.59.216:61980/myplay/cn_1_11001/index.m3u8?key=84797b799ae18d1b
-衛視洋片,http://50.7.59.216:61980/myplay/cn_1_11002/index.m3u8?key=84797b799ae18d1b
-星衛電影,http://50.7.59.216:61980/myplay/cn_1_11003/index.m3u8?key=84797b799ae18d1b
-星衛娛樂,http://50.7.59.216:61980/myplay/cn_1_11004/index.m3u8?key=84797b799ae18d1b
-BBC EARTH,http://50.7.59.216:61980/myplay/cn_1_11005/index.m3u8?key=84797b799ae18d1b
-ELEVEN+,http://50.7.59.216:61980/myplay/cn_1_11006/index.m3u8?key=84797b799ae18d1b
-ELEVEN2,http://50.7.59.216:61980/myplay/cn_1_11007/index.m3u8?key=84797b799ae18d1b
-國家地理野生,http://50.7.59.216:61980/myplay/cn_1_11008/index.m3u8?key=84797b799ae18d1b
-FOX CRIME,http://50.7.59.216:61980/myplay/cn_1_11009/index.m3u8?key=84797b799ae18d1b
-FOX家庭,http://50.7.59.216:61980/myplay/cn_1_11010/index.m3u8?key=84797b799ae18d1b
-華納TV,http://50.7.59.216:61980/myplay/cn_1_11011/index.m3u8?key=84797b799ae18d1b
-FX,http://50.7.59.216:61980/myplay/cn_1_11012/index.m3u8?key=84797b799ae18d1b
-CRIME+偵查,http://50.7.59.216:61980/myplay/cn_1_11013/index.m3u8?key=84797b799ae18d1b
-BABY TV,http://50.7.59.216:61980/myplay/cn_1_11014/index.m3u8?key=84797b799ae18d1b
-TVN,http://50.7.59.216:61980/myplay/cn_1_11015/index.m3u8?key=84797b799ae18d1b
-韓國娛樂台,http://50.7.59.216:61980/myplay/cn_1_11016/index.m3u8?key=84797b799ae18d1b
-LIFETIME,http://50.7.59.216:61980/myplay/cn_1_11017/index.m3u8?key=84797b799ae18d1b
-CEBBBIES卡通,http://50.7.59.216:61980/myplay/cn_1_11018/index.m3u8?key=84797b799ae18d1b
-亞洲旅遊,http://50.7.59.216:61980/myplay/cn_1_11020/index.m3u8?key=84797b799ae18d1b
-FOX,http://50.7.59.216:61980/myplay/cn_2_12001/index.m3u8?key=84797b799ae18d1b
-FOX MOVIE,http://50.7.59.216:61980/myplay/cn_2_12002/index.m3u8?key=84797b799ae18d1b
-緯來育樂,http://50.7.59.216:61980/myplay/cn_2_12003/index.m3u8?key=84797b799ae18d1b
-緯來體育,http://50.7.59.216:61980/myplay/cn_2_12004/index.m3u8?key=84797b799ae18d1b
-博斯運動1,http://50.7.59.216:61980/myplay/cn_2_12005/index.m3u8?key=84797b799ae18d1b
-博斯運動2,http://50.7.59.216:61980/myplay/cn_2_12006/index.m3u8?key=84797b799ae18d1b
-博斯高球1,http://50.7.59.216:61980/myplay/cn_2_12007/index.m3u8?key=84797b799ae18d1b
-博斯高球2,http://50.7.59.216:61980/myplay/cn_2_12008/index.m3u8?key=84797b799ae18d1b
-博斯魅力,http://50.7.59.216:61980/myplay/cn_2_12009/index.m3u8?key=84797b799ae18d1b
-博斯網球,http://50.7.59.216:61980/myplay/cn_2_12010/index.m3u8?key=84797b799ae18d1b
-博斯無限,http://50.7.59.216:61980/myplay/cn_2_12011/index.m3u8?key=84797b799ae18d1b
-CNN CEO,http://50.7.59.216:61980/myplay/cn_2_12012/index.m3u8?key=84797b799ae18d1b
-MTV,http://50.7.59.216:61980/myplay/cn_2_12013/index.m3u8?key=84797b799ae18d1b
-Z頻道,http://50.7.59.216:61980/myplay/cn_2_12014/index.m3u8?key=84797b799ae18d1b
-東風37,http://50.7.59.216:61980/myplay/cn_2_12015/index.m3u8?key=84797b799ae18d1b
-年代MUCH,http://50.7.59.216:61980/myplay/cn_2_12016/index.m3u8?key=84797b799ae18d1b
-年代新聞,http://50.7.59.216:61980/myplay/cn_2_12017/index.m3u8?key=84797b799ae18d1b
-JET綜合,http://50.7.59.216:61980/myplay/cn_2_12018/index.m3u8?key=84797b799ae18d1b
-龍祥電影,http://50.7.59.216:61980/myplay/cn_2_12019/index.m3u8?key=84797b799ae18d1b
-霹靂台灣,http://50.7.59.216:61980/myplay/cn_2_12020/index.m3u8?key=84797b799ae18d1b
-MOMO親子,http://50.7.59.216:61980/myplay/cn_2_12021/index.m3u8?key=84797b799ae18d1b
-國興衛視,http://50.7.59.216:61980/myplay/cn_2_12022/index.m3u8?key=84797b799ae18d1b
-非凡新聞,http://50.7.59.216:61980/myplay/cn_2_12023/index.m3u8?key=84797b799ae18d1b
-非凡商業,http://50.7.59.216:61980/myplay/cn_2_12024/index.m3u8?key=84797b799ae18d1b
-HBO,http://50.7.59.216:61980/myplay/cn_3_13001/index.m3u8?key=84797b799ae18d1b
-HBOHITS,http://50.7.59.216:61980/myplay/cn_3_13002/index.m3u8?key=84797b799ae18d1b
-HBO原創,http://50.7.59.216:61980/myplay/cn_3_13003/index.m3u8?key=84797b799ae18d1b
-HBO家庭,http://50.7.59.216:61980/myplay/cn_3_13004/index.m3u8?key=84797b799ae18d1b
-AFN美食,http://50.7.59.216:61980/myplay/cn_3_13005/index.m3u8?key=84797b799ae18d1b
-EVE,http://50.7.59.216:61980/myplay/cn_3_13006/index.m3u8?key=84797b799ae18d1b
-ARIRANG,http://50.7.59.216:61980/myplay/cn_3_13007/index.m3u8?key=84797b799ae18d1b
-DISCOVERY,http://50.7.59.216:61980/myplay/cn_3_13008/index.m3u8?key=84797b799ae18d1b
-DISCOVERY ASIA,http://50.7.59.216:61980/myplay/cn_3_13009/index.m3u8?key=84797b799ae18d1b
-DISCOVERY SCI,http://50.7.59.216:61980/myplay/cn_3_13010/index.m3u8?key=84797b799ae18d1b
-DMAX,http://50.7.59.216:61980/myplay/cn_3_13011/index.m3u8?key=84797b799ae18d1b
-國家地理,http://50.7.59.216:61980/myplay/cn_3_13012/index.m3u8?key=84797b799ae18d1b
-TLC旅遊生活,http://50.7.59.216:61980/myplay/cn_3_13013/index.m3u8?key=84797b799ae18d1b
-動物星球,http://50.7.59.216:61980/myplay/cn_3_13014/index.m3u8?key=84797b799ae18d1b
-CN卡通,http://50.7.59.216:61980/myplay/cn_3_13015/index.m3u8?key=84797b799ae18d1b
-好萊塢電影,http://50.7.59.216:61980/myplay/cn_3_13016/index.m3u8?key=84797b799ae18d1b
-衛視電影,http://50.7.59.216:61980/myplay/cn_3_13017/index.m3u8?key=84797b799ae18d1b
-衛視中文,http://50.7.59.216:61980/myplay/cn_3_13018/index.m3u8?key=84797b799ae18d1b
-迪士尼,http://50.7.59.216:61980/myplay/cn_3_13019/index.m3u8?key=84797b799ae18d1b
-ANIMAX,http://50.7.59.216:61980/myplay/cn_3_13021/index.m3u8?key=84797b799ae18d1b
-CINEMAX,http://50.7.59.216:61980/myplay/cn_3_13022/index.m3u8?key=84797b799ae18d1b
-EUROSPORT,http://50.7.59.216:61980/myplay/cn_3_13023/index.m3u8?key=84797b799ae18d1b
-TRAVEL旅遊,http://50.7.59.216:61980/myplay/cn_3_13024/index.m3u8?key=84797b799ae18d1b
-東森新聞,http://50.7.59.216:61980/myplay/cn_4_14001/index.m3u8?key=84797b799ae18d1b
-東森電影,http://50.7.59.216:61980/myplay/cn_4_14002/index.m3u8?key=84797b799ae18d1b
-東森洋片,http://50.7.59.216:61980/myplay/cn_4_14003/index.m3u8?key=84797b799ae18d1b
-東森財經新聞,http://50.7.59.216:61980/myplay/cn_4_14004/index.m3u8?key=84797b799ae18d1b
-東森戲劇,http://50.7.59.216:61980/myplay/cn_4_14005/index.m3u8?key=84797b799ae18d1b
-東森綜合,http://50.7.59.216:61980/myplay/cn_4_14006/index.m3u8?key=84797b799ae18d1b
-東森幼幼,http://50.7.59.216:61980/myplay/cn_4_14007/index.m3u8?key=84797b799ae18d1b
-東森超視,http://50.7.59.216:61980/myplay/cn_4_14008/index.m3u8?key=84797b799ae18d1b
-緯來電影,http://50.7.59.216:61980/myplay/cn_4_14009/index.m3u8?key=84797b799ae18d1b
-緯來育樂,http://50.7.59.216:61980/myplay/cn_4_14010/index.m3u8?key=84797b799ae18d1b
-緯來體育,http://50.7.59.216:61980/myplay/cn_4_14011/index.m3u8?key=84797b799ae18d1b
-緯來戲劇,http://50.7.59.216:61980/myplay/cn_4_14012/index.m3u8?key=84797b799ae18d1b
-緯來日本,http://50.7.59.216:61980/myplay/cn_4_14013/index.m3u8?key=84797b799ae18d1b
-緯來綜合,http://50.7.59.216:61980/myplay/cn_4_14014/index.m3u8?key=84797b799ae18d1b
-TVBS,http://50.7.59.216:61980/myplay/cn_4_14015/index.m3u8?key=84797b799ae18d1b
-TVBS歡樂,http://50.7.59.216:61980/myplay/cn_4_14016/index.m3u8?key=84797b799ae18d1b
-TVBS新聞,http://50.7.59.216:61980/myplay/cn_4_14017/index.m3u8?key=84797b799ae18d1b
-中天綜合,http://50.7.59.216:61980/myplay/cn_4_14019/index.m3u8?key=84797b799ae18d1b
-中天娛樂,http://50.7.59.216:61980/myplay/cn_4_14020/index.m3u8?key=84797b799ae18d1b
-三立新聞,http://50.7.59.216:61980/myplay/cn_4_14021/index.m3u8?key=84797b799ae18d1b
-三立INEW,http://50.7.59.216:61980/myplay/cn_4_14022/index.m3u8?key=84797b799ae18d1b
-三立台灣,http://50.7.59.216:61980/myplay/cn_4_14023/index.m3u8?key=84797b799ae18d1b
-三立都會,http://50.7.59.216:61980/myplay/cn_4_14024/index.m3u8?key=84797b799ae18d1b
-八大第一,http://50.7.59.216:61980/myplay/cn_5_15001/index.m3u8?key=84797b799ae18d1b
-八大綜合,http://50.7.59.216:61980/myplay/cn_5_15002/index.m3u8?key=84797b799ae18d1b
-八大戲劇,http://50.7.59.216:61980/myplay/cn_5_15003/index.m3u8?key=84797b799ae18d1b
-八大娛樂,http://50.7.59.216:61980/myplay/cn_5_15004/index.m3u8?key=84797b799ae18d1b
-BBCWORLD,http://50.7.59.216:61980/myplay/cn_5_15007/index.m3u8?key=84797b799ae18d1b
+
 
 
 日本,#genre#
@@ -1960,6 +1594,1374 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
+
+TW台灣安測,#genre#
+民視,http://ott3.gearhostpreview.com/astro/ub.php?id=26#http://ott3.gearhostpreview.com/astro/ub.php?id=336
+台視,http://ott3.gearhostpreview.com/astro/ub.php?id=27#http://ott3.gearhostpreview.com/astro/ub.php?id=326
+中視,http://ott3.gearhostpreview.com/astro/ub.php?id=28#http://ott3.gearhostpreview.com/astro/ub.php?id=333
+華視,http://ott3.gearhostpreview.com/astro/ub.php?id=32#http://ott3.gearhostpreview.com/astro/ub.php?id=327
+公視,http://ott3.gearhostpreview.com/astro/ub.php?id=86#http://ott3.gearhostpreview.com/astro/ub.php?id=361
+幸福空間居家,http://ott3.gearhostpreview.com/astro/ub.php?id=61
+好消息,http://ott3.gearhostpreview.com/astro/ub.php?id=104#http://ott3.gearhostpreview.com/astro/ub.php?id=104
+原住民電視,http://ott3.gearhostpreview.com/astro/ub.php?id=95
+客家電視,http://ott3.gearhostpreview.com/astro/ub.php?id=76
+緯來綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=340
+八大第一,http://ott3.gearhostpreview.com/astro/ub.php?id=318
+八大綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=325
+東風衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=2152
+三立臺灣,http://ott3.gearhostpreview.com/astro/ub.php?id=21#http://ott3.gearhostpreview.com/astro/ub.php?id=35
+三立都會,http://ott3.gearhostpreview.com/astro/ub.php?id=38#http://ott3.gearhostpreview.com/astro/ub.php?id=1001
+衛視中文,http://ott3.gearhostpreview.com/astro/ub.php?id=342
+東森綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=372
+東森超視,http://ott3.gearhostpreview.com/astro/ub.php?id=80
+東森購物2,http://ott3.gearhostpreview.com/astro/ub.php?id=1156
+中天綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=54
+中天娛樂,http://ott3.gearhostpreview.com/astro/ub.php?id=324
+TVBS歡樂,http://ott3.gearhostpreview.com/astro/ub.php?id=40
+八大精彩,http://ott3.gearhostpreview.com/astro/ub.php?id=1024
+JET綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=41
+東森購物1,http://ott3.gearhostpreview.com/astro/ub.php?id=1155
+TVBS綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=16
+緯來育樂,http://ott3.gearhostpreview.com/astro/ub.php?id=338#http://ott3.gearhostpreview.com/astro/ub.php?id=312
+緯來日本,http://ott3.gearhostpreview.com/astro/ub.php?id=337#http://ott3.gearhostpreview.com/astro/ub.php?id=46
+國興衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=65
+信吉電視,http://ott3.gearhostpreview.com/astro/ub.php?id=422
+壹電視綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=305
+八大娱乐,http://ott3.gearhostpreview.com/astro/ub.php?id=105
+公視3台,http://ott3.gearhostpreview.com/astro/ub.php?id=1340
+好消息2,http://ott3.gearhostpreview.com/astro/ub.php?id=363#http://ott3.gearhostpreview.com/astro/ub.php?id=363
+高點綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=99
+中天亞洲,http://ott3.gearhostpreview.com/astro/ub.php?id=322
+民視綜藝,http://ott3.gearhostpreview.com/astro/ub.php?id=98
+民視第一台,http://ott3.gearhostpreview.com/astro/ub.php?id=34
+民視台灣,http://ott3.gearhostpreview.com/astro/ub.php?id=36
+公視台語,http://ott3.gearhostpreview.com/astro/ub.php?id=58
+龍華偶像,http://ott3.gearhostpreview.com/astro/ub.php?id=347
+龍華日韓,http://ott3.gearhostpreview.com/astro/ub.php?id=382
+豬哥亮歌廳秀,http://ott3.gearhostpreview.com/astro/ub.php?id=75
+ELTA娛樂台,http://ott3.gearhostpreview.com/astro/ub.php?id=351
+韓國娛樂台,http://ott3.gearhostpreview.com/astro/ub.php?id=73
+星衛娛樂,http://ott3.gearhostpreview.com/astro/ub.php?id=89
+靖天國際,http://ott3.gearhostpreview.com/astro/ub.php?id=345
+靖天育樂,http://ott3.gearhostpreview.com/astro/ub.php?id=1029
+靖天日本,http://ott3.gearhostpreview.com/astro/ub.php?id=108
+靖天歡樂,http://ott3.gearhostpreview.com/astro/ub.php?id=51
+三立綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=315
+靖天資訊,http://ott3.gearhostpreview.com/astro/ub.php?id=49
+中視經典,http://ott3.gearhostpreview.com/astro/ub.php?id=185
+靖天娛樂,http://ott3.gearhostpreview.com/astro/ub.php?id=1589
+寰宇綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=190
+中視菁采,http://ott3.gearhostpreview.com/astro/ub.php?id=74
+TVBS精采,http://ott3.gearhostpreview.com/astro/ub.php?id=66
+華藝綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=310
+年代much,http://ott3.gearhostpreview.com/astro/ub.php?id=1359
+臺視綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=309
+ELTA綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=1137
+番薯電視,http://ott3.gearhostpreview.com/astro/ub.php?id=29
+TVN,http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=295#http://ott3.gearhostpreview.com/astro/ub.php?id=1170
+世新綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=1048
+東森購物3,http://ott3.gearhostpreview.com/astro/ub.php?id=1584
+MOMO購物1,http://ott3.gearhostpreview.com/astro/ub.php?id=1585
+MOMO購物2,http://ott3.gearhostpreview.com/astro/ub.php?id=1586
+天良綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=1587
+誠心電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1590
+美好購物1,http://ott3.gearhostpreview.com/astro/ub.php?id=1591
+美好購物2,http://ott3.gearhostpreview.com/astro/ub.php?id=1592
+大立電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1593
+三立LIVE新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=4#http://ott3.gearhostpreview.com/astro/ub.php?id=1008#http://ott3.gearhostpreview.com/astro/ub.php?id=4#http://ott3.gearhostpreview.com/astro/ub.php?id=1008
+東森新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=9#http://ott3.gearhostpreview.com/astro/ub.php?id=1016#http://ott3.gearhostpreview.com/astro/ub.php?id=9#http://ott3.gearhostpreview.com/astro/ub.php?id=1016
+中天新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=3#http://ott3.gearhostpreview.com/astro/ub.php?id=1002#http://ott3.gearhostpreview.com/astro/ub.php?id=3#http://ott3.gearhostpreview.com/astro/ub.php?id=1002
+民視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=13#http://ott3.gearhostpreview.com/astro/ub.php?id=13
+TVBS新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=2#http://ott3.gearhostpreview.com/astro/ub.php?id=1004#http://ott3.gearhostpreview.com/astro/ub.php?id=2#http://ott3.gearhostpreview.com/astro/ub.php?id=1004
+東森財經,http://ott3.gearhostpreview.com/astro/ub.php?id=12#http://ott3.gearhostpreview.com/astro/ub.php?id=12
+華視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=6#http://ott3.gearhostpreview.com/astro/ub.php?id=6
+iNEWS,http://ott3.gearhostpreview.com/astro/ub.php?id=8#http://ott3.gearhostpreview.com/astro/ub.php?id=8
+台視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=1#http://ott3.gearhostpreview.com/astro/ub.php?id=1
+年代新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=1099#http://ott3.gearhostpreview.com/astro/ub.php?id=1099
+非凡商業,http://ott3.gearhostpreview.com/astro/ub.php?id=187#http://ott3.gearhostpreview.com/astro/ub.php?id=187
+寰宇財經,http://ott3.gearhostpreview.com/astro/ub.php?id=320#http://ott3.gearhostpreview.com/astro/ub.php?id=320
+台視財經,http://ott3.gearhostpreview.com/astro/ub.php?id=300#http://ott3.gearhostpreview.com/astro/ub.php?id=300
+寰宇新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=304#http://ott3.gearhostpreview.com/astro/ub.php?id=304
+壹電視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=303#http://ott3.gearhostpreview.com/astro/ub.php?id=303
+FRANCE 24,http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=2137#http://ott3.gearhostpreview.com/astro/ub.php?id=1781
+CBN News,http://ott3.gearhostpreview.com/astro/ub.php?id=499#http://ott3.gearhostpreview.com/astro/ub.php?id=499
+第1商業,http://ott3.gearhostpreview.com/astro/ub.php?id=186#http://ott3.gearhostpreview.com/astro/ub.php?id=186
+緯來體育,http://ott3.gearhostpreview.com/astro/ub.php?id=52#http://ott3.gearhostpreview.com/astro/ub.php?id=52#http://ott3.gearhostpreview.com/astro/ub.php?id=118
+大愛一臺,http://ott3.gearhostpreview.com/astro/ub.php?id=11#http://ott3.gearhostpreview.com/astro/ub.php?id=11
+海豚綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=1505#http://ott3.gearhostpreview.com/astro/ub.php?id=1505
+HK港澳安測,#genre#
+TVB翡翠,http://ott3.gearhostpreview.com/astro/ub.php?id=30#http://ott3.gearhostpreview.com/astro/ub.php?id=390
+TVB明珠,http://ott3.gearhostpreview.com/astro/ub.php?id=391
+無線新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=45#http://ott3.gearhostpreview.com/astro/ub.php?id=394
+有線新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=395
+Viutv,http://ott3.gearhostpreview.com/astro/ub.php?id=72
+TVB無線財經,http://ott3.gearhostpreview.com/astro/ub.php?id=393
+TVB J2,http://ott3.gearhostpreview.com/astro/ub.php?id=392
+NOW新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=396
+Now財經,http://ott3.gearhostpreview.com/astro/ub.php?id=111
+NOW直播,http://ott3.gearhostpreview.com/astro/ub.php?id=400
+鳳凰香港,http://ott3.gearhostpreview.com/astro/ub.php?id=358
+鳳凰衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=357
+鳳凰資訊,http://ott3.gearhostpreview.com/astro/ub.php?id=359
+星空衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=56
+港臺31,http://ott3.gearhostpreview.com/astro/ub.php?id=353
+港臺32,http://ott3.gearhostpreview.com/astro/ub.php?id=397
+香港開電視,http://ott3.gearhostpreview.com/astro/ub.php?id=17
+HKC電影,http://ott3.gearhostpreview.com/astro/ub.php?id=354
+HKC體育1,http://ott3.gearhostpreview.com/astro/ub.php?id=401
+HKC體育2,http://ott3.gearhostpreview.com/astro/ub.php?id=356
+HKS,http://ott3.gearhostpreview.com/astro/ub.php?id=399
+澳視澳門,http://ott3.gearhostpreview.com/astro/ub.php?id=23
+澳視葡語,http://ott3.gearhostpreview.com/astro/ub.php?id=24
+澳門Macau,http://ott3.gearhostpreview.com/astro/ub.php?id=364
+有線603,http://ott3.gearhostpreview.com/astro/ub.php?id=398
+廣東珠江,http://ott3.gearhostpreview.com/astro/ub.php?id=1034
+18台,http://ott3.gearhostpreview.com/astro/ub.php?id=44
+澳門蓮花,http://ott3.gearhostpreview.com/astro/ub.php?id=70
+鳳凰電影,http://ott3.gearhostpreview.com/astro/ub.php?id=19
+Viutv 6,http://ott3.gearhostpreview.com/astro/ub.php?id=176
+耀才财经,http://ott3.gearhostpreview.com/astro/ub.php?id=355
+創世電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1317
+ATV亞視,http://ott3.gearhostpreview.com/astro/ub.php?id=1457
+陽光衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=1607
+美亞電影,http://ott3.gearhostpreview.com/astro/ub.php?id=375#http://ott3.gearhostpreview.com/astro/ub.php?id=375
+爆穀台,http://ott3.gearhostpreview.com/astro/ub.php?id=152#http://ott3.gearhostpreview.com/astro/ub.php?id=152
+NOW SPORTS,http://ott3.gearhostpreview.com/astro/ub.php?id=1358#http://ott3.gearhostpreview.com/astro/ub.php?id=1358
+TLC,http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1206#http://ott3.gearhostpreview.com/astro/ub.php?id=1533#http://ott3.gearhostpreview.com/astro/ub.php?id=1206
+嶺南戲曲,http://ott3.gearhostpreview.com/astro/ub.php?id=1502#http://ott3.gearhostpreview.com/astro/ub.php?id=1502#http://ott3.gearhostpreview.com/astro/ub.php?id=1502
+新時代東部,http://ott3.gearhostpreview.com/astro/ub.php?id=1286#http://ott3.gearhostpreview.com/astro/ub.php?id=1286
+新時代西部,http://ott3.gearhostpreview.com/astro/ub.php?id=1287#http://ott3.gearhostpreview.com/astro/ub.php?id=1287
+城市電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1289#http://ott3.gearhostpreview.com/astro/ub.php?id=1289
+新時代2,http://ott3.gearhostpreview.com/astro/ub.php?id=1288#http://ott3.gearhostpreview.com/astro/ub.php?id=1288
+TVB星河,http://ott3.gearhostpreview.com/astro/ub.php?id=1079#http://ott3.gearhostpreview.com/astro/ub.php?id=1079
+TVB經典,http://ott3.gearhostpreview.com/astro/ub.php?id=1083#http://ott3.gearhostpreview.com/astro/ub.php?id=1083
+TVB Jade,http://ott3.gearhostpreview.com/astro/ub.php?id=1084#http://ott3.gearhostpreview.com/astro/ub.php?id=1084
+衛視卡式臺,http://ott3.gearhostpreview.com/astro/ub.php?id=1085#http://ott3.gearhostpreview.com/astro/ub.php?id=1085
+News新聞安測,#genre#
+三立LIVE新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=4#http://ott3.gearhostpreview.com/astro/ub.php?id=1008#http://ott3.gearhostpreview.com/astro/ub.php?id=4#http://ott3.gearhostpreview.com/astro/ub.php?id=1008
+東森新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=9#http://ott3.gearhostpreview.com/astro/ub.php?id=1016#http://ott3.gearhostpreview.com/astro/ub.php?id=9#http://ott3.gearhostpreview.com/astro/ub.php?id=1016
+中天新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=3#http://ott3.gearhostpreview.com/astro/ub.php?id=1002#http://ott3.gearhostpreview.com/astro/ub.php?id=3#http://ott3.gearhostpreview.com/astro/ub.php?id=1002
+民視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=13#http://ott3.gearhostpreview.com/astro/ub.php?id=13
+民視新聞HD,http://ott3.gearhostpreview.com/astro/ub.php?id=317
+TVBS新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=2#http://ott3.gearhostpreview.com/astro/ub.php?id=1004#http://ott3.gearhostpreview.com/astro/ub.php?id=2#http://ott3.gearhostpreview.com/astro/ub.php?id=1004
+東森財經,http://ott3.gearhostpreview.com/astro/ub.php?id=12#http://ott3.gearhostpreview.com/astro/ub.php?id=12
+華視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=6#http://ott3.gearhostpreview.com/astro/ub.php?id=6
+iNEWS,http://ott3.gearhostpreview.com/astro/ub.php?id=8#http://ott3.gearhostpreview.com/astro/ub.php?id=8
+台視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=1#http://ott3.gearhostpreview.com/astro/ub.php?id=1
+中視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=7
+年代新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=1099#http://ott3.gearhostpreview.com/astro/ub.php?id=1099
+非凡商業,http://ott3.gearhostpreview.com/astro/ub.php?id=187#http://ott3.gearhostpreview.com/astro/ub.php?id=187
+非凡新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=314
+寰宇財經,http://ott3.gearhostpreview.com/astro/ub.php?id=320#http://ott3.gearhostpreview.com/astro/ub.php?id=320
+DW德國之聲,http://ott3.gearhostpreview.com/astro/ub.php?id=1059
+DW News,http://ott3.gearhostpreview.com/astro/ub.php?id=14
+VOA美國之音,http://ott3.gearhostpreview.com/astro/ub.php?id=495
+VOA衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=22
+台視財經,http://ott3.gearhostpreview.com/astro/ub.php?id=300#http://ott3.gearhostpreview.com/astro/ub.php?id=300
+寰宇新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=304#http://ott3.gearhostpreview.com/astro/ub.php?id=304
+壹電視新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=303#http://ott3.gearhostpreview.com/astro/ub.php?id=303
+FRANCE 24,http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=2137#http://ott3.gearhostpreview.com/astro/ub.php?id=1781
+新唐人亞太台,http://ott3.gearhostpreview.com/astro/ub.php?id=10
+CBN News,http://ott3.gearhostpreview.com/astro/ub.php?id=499#http://ott3.gearhostpreview.com/astro/ub.php?id=499
+THE WORLD,http://ott3.gearhostpreview.com/astro/ub.php?id=1013
+RT News,http://ott3.gearhostpreview.com/astro/ub.php?id=1025
+TRTWORLD,http://ott3.gearhostpreview.com/astro/ub.php?id=1022
+Bloomberg Financial,http://ott3.gearhostpreview.com/astro/ub.php?id=1046
+Al Jazeera,http://ott3.gearhostpreview.com/astro/ub.php?id=1144
+Bloomberg Europe,http://ott3.gearhostpreview.com/astro/ub.php?id=370
+第1商業,http://ott3.gearhostpreview.com/astro/ub.php?id=186#http://ott3.gearhostpreview.com/astro/ub.php?id=186
+CNN頭條新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=43#http://ott3.gearhostpreview.com/astro/ub.php?id=43
+CNN國際新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=420#http://ott3.gearhostpreview.com/astro/ub.php?id=420
+BBC World News,http://ott3.gearhostpreview.com/astro/ub.php?id=421#http://ott3.gearhostpreview.com/astro/ub.php?id=421#http://ott3.gearhostpreview.com/astro/ub.php?id=1308
+運通財經,http://ott3.gearhostpreview.com/astro/ub.php?id=79
+歐洲新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=1343
+SBN全球財經,http://ott3.gearhostpreview.com/astro/ub.php?id=1497
+半島國際新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=1498
+影視安測,#genre#
+MOMO追劇,http://ott3.gearhostpreview.com/astro/ub.php?id=494
+愛爾達影劇,http://ott3.gearhostpreview.com/astro/ub.php?id=500
+東森戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=321
+八大戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=81
+緯來戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=339
+衛視電影,http://ott3.gearhostpreview.com/astro/ub.php?id=93
+東森電影,http://ott3.gearhostpreview.com/astro/ub.php?id=350
+緯來電影,http://ott3.gearhostpreview.com/astro/ub.php?id=96
+HBO HD,http://ott3.gearhostpreview.com/astro/ub.php?id=332#http://ott3.gearhostpreview.com/astro/ub.php?id=2019#http://ott3.gearhostpreview.com/astro/ub.php?id=1663
+東森洋片,http://ott3.gearhostpreview.com/astro/ub.php?id=1128
+好萊塢電影,http://ott3.gearhostpreview.com/astro/ub.php?id=37
+FOX MOVIES,http://ott3.gearhostpreview.com/astro/ub.php?id=387
+CineMAX,http://ott3.gearhostpreview.com/astro/ub.php?id=346#http://ott3.gearhostpreview.com/astro/ub.php?id=1518#http://ott3.gearhostpreview.com/astro/ub.php?id=1123
+FOX,http://ott3.gearhostpreview.com/astro/ub.php?id=384#http://ott3.gearhostpreview.com/astro/ub.php?id=1218
+靖天映畫,http://ott3.gearhostpreview.com/astro/ub.php?id=349
+靖洋戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=319
+EYE戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=191
+三立戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=64
+FOX ACTION,http://ott3.gearhostpreview.com/astro/ub.php?id=385
+霹靂臺灣,http://ott3.gearhostpreview.com/astro/ub.php?id=1339
+美亞電影,http://ott3.gearhostpreview.com/astro/ub.php?id=375#http://ott3.gearhostpreview.com/astro/ub.php?id=375
+民視影劇,http://ott3.gearhostpreview.com/astro/ub.php?id=1023
+FOX CRIME,http://ott3.gearhostpreview.com/astro/ub.php?id=386
+FOX Family,http://ott3.gearhostpreview.com/astro/ub.php?id=383
+HBOSignature,http://ott3.gearhostpreview.com/astro/ub.php?id=329
+HBO Hits,http://ott3.gearhostpreview.com/astro/ub.php?id=330
+采昌影劇,http://ott3.gearhostpreview.com/astro/ub.php?id=62
+影迷數位電影,http://ott3.gearhostpreview.com/astro/ub.php?id=497
+龍華戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=365
+龍華經典,http://ott3.gearhostpreview.com/astro/ub.php?id=100
+龍翔時代,http://ott3.gearhostpreview.com/astro/ub.php?id=373
+AXN臺灣,http://ott3.gearhostpreview.com/astro/ub.php?id=423
+AMC,http://ott3.gearhostpreview.com/astro/ub.php?id=92#http://ott3.gearhostpreview.com/astro/ub.php?id=1228
+星衛電影,http://ott3.gearhostpreview.com/astro/ub.php?id=496
+公視戲劇,http://ott3.gearhostpreview.com/astro/ub.php?id=69
+光影歐洲,http://ott3.gearhostpreview.com/astro/ub.php?id=1157
+AXN亞洲,http://ott3.gearhostpreview.com/astro/ub.php?id=1066
+Trill恐怖電影,http://ott3.gearhostpreview.com/astro/ub.php?id=18
+HBO Family,http://ott3.gearhostpreview.com/astro/ub.php?id=331#http://ott3.gearhostpreview.com/astro/ub.php?id=1512#http://ott3.gearhostpreview.com/astro/ub.php?id=1113
+龍華電影,http://ott3.gearhostpreview.com/astro/ub.php?id=311
+華納電影,http://ott3.gearhostpreview.com/astro/ub.php?id=83
+金光布袋戲,http://ott3.gearhostpreview.com/astro/ub.php?id=1060
+衛視西片,http://ott3.gearhostpreview.com/astro/ub.php?id=369
+CATCHPLAY,http://ott3.gearhostpreview.com/astro/ub.php?id=362
+Blue Ant Extreme,http://ott3.gearhostpreview.com/astro/ub.php?id=103
+爆穀台,http://ott3.gearhostpreview.com/astro/ub.php?id=152#http://ott3.gearhostpreview.com/astro/ub.php?id=152
+CHC高清電影,http://ott3.gearhostpreview.com/astro/ub.php?id=1345
+CHC動作電影,http://ott3.gearhostpreview.com/astro/ub.php?id=1346
+CHC家庭影院,http://ott3.gearhostpreview.com/astro/ub.php?id=1347
+CBN每日影院,http://ott3.gearhostpreview.com/astro/ub.php?id=1348
+SETONE,http://ott3.gearhostpreview.com/astro/ub.php?id=1349
+GEM,http://ott3.gearhostpreview.com/astro/ub.php?id=1350
+HITS,http://ott3.gearhostpreview.com/astro/ub.php?id=2227
+廣東影視,http://ott3.gearhostpreview.com/astro/ub.php?id=1499#http://ott3.gearhostpreview.com/astro/ub.php?id=1499
+嶺南戲曲,http://ott3.gearhostpreview.com/astro/ub.php?id=1502#http://ott3.gearhostpreview.com/astro/ub.php?id=1502#http://ott3.gearhostpreview.com/astro/ub.php?id=1502
+Sport體育安測,#genre#
+緯來體育,http://ott3.gearhostpreview.com/astro/ub.php?id=52#http://ott3.gearhostpreview.com/astro/ub.php?id=52#http://ott3.gearhostpreview.com/astro/ub.php?id=118
+FOX Sport 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1131#http://ott3.gearhostpreview.com/astro/ub.php?id=1186
+FOX Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1132#http://ott3.gearhostpreview.com/astro/ub.php?id=1187
+FOX Sport 3,http://ott3.gearhostpreview.com/astro/ub.php?id=376
+Eleven Sport 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1133
+Eleven Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=301
+ELEVEN SPORTS PLUS,http://ott3.gearhostpreview.com/astro/ub.php?id=419
+ELTA體育1,http://ott3.gearhostpreview.com/astro/ub.php?id=192
+ELTA體育2,http://ott3.gearhostpreview.com/astro/ub.php?id=193
+ELTA體育3,http://ott3.gearhostpreview.com/astro/ub.php?id=194
+Z頻道,http://ott3.gearhostpreview.com/astro/ub.php?id=1130
+博斯無限,http://ott3.gearhostpreview.com/astro/ub.php?id=381
+博斯無限2,http://ott3.gearhostpreview.com/astro/ub.php?id=426
+博斯網球,http://ott3.gearhostpreview.com/astro/ub.php?id=498
+博斯高球1,http://ott3.gearhostpreview.com/astro/ub.php?id=377
+博斯高球2,http://ott3.gearhostpreview.com/astro/ub.php?id=378
+博斯魅力,http://ott3.gearhostpreview.com/astro/ub.php?id=175
+博斯運動1,http://ott3.gearhostpreview.com/astro/ub.php?id=379
+博斯運動2,http://ott3.gearhostpreview.com/astro/ub.php?id=380
+TRACE Sport Stars,http://ott3.gearhostpreview.com/astro/ub.php?id=1037
+智林體育,http://ott3.gearhostpreview.com/astro/ub.php?id=82
+時尚運動X,http://ott3.gearhostpreview.com/astro/ub.php?id=71
+歐洲體育,http://ott3.gearhostpreview.com/astro/ub.php?id=1342
+Edge Sport,http://ott3.gearhostpreview.com/astro/ub.php?id=1341
+Ginx電競,http://ott3.gearhostpreview.com/astro/ub.php?id=425
+NOW SPORTS,http://ott3.gearhostpreview.com/astro/ub.php?id=1358#http://ott3.gearhostpreview.com/astro/ub.php?id=1358
+風雲足球,http://ott3.gearhostpreview.com/astro/ub.php?id=463
+魅力足球,http://ott3.gearhostpreview.com/astro/ub.php?id=464
+高爾夫,http://ott3.gearhostpreview.com/astro/ub.php?id=1503#http://ott3.gearhostpreview.com/astro/ub.php?id=1503
+jsport1,http://ott3.gearhostpreview.com/astro/ub.php?id=129#http://ott3.gearhostpreview.com/astro/ub.php?id=129
+jsport2,http://ott3.gearhostpreview.com/astro/ub.php?id=130#http://ott3.gearhostpreview.com/astro/ub.php?id=130
+jsport3,http://ott3.gearhostpreview.com/astro/ub.php?id=131#http://ott3.gearhostpreview.com/astro/ub.php?id=131
+jsport4,http://ott3.gearhostpreview.com/astro/ub.php?id=132#http://ott3.gearhostpreview.com/astro/ub.php?id=132
+BT Sport ESPN,http://ott3.gearhostpreview.com/astro/ub.php?id=168#http://ott3.gearhostpreview.com/astro/ub.php?id=168
+BT Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=166#http://ott3.gearhostpreview.com/astro/ub.php?id=166
+BT Sport 3,http://ott3.gearhostpreview.com/astro/ub.php?id=167#http://ott3.gearhostpreview.com/astro/ub.php?id=167
+BT Sport 1,http://ott3.gearhostpreview.com/astro/ub.php?id=165#http://ott3.gearhostpreview.com/astro/ub.php?id=165
+Sky Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=171#http://ott3.gearhostpreview.com/astro/ub.php?id=171#http://ott3.gearhostpreview.com/astro/ub.php?id=2177
+Sky Sports 1,http://ott3.gearhostpreview.com/astro/ub.php?id=172#http://ott3.gearhostpreview.com/astro/ub.php?id=172
+Sky Sports F1,http://ott3.gearhostpreview.com/astro/ub.php?id=182#http://ott3.gearhostpreview.com/astro/ub.php?id=182
+Sky Sport 3,http://ott3.gearhostpreview.com/astro/ub.php?id=183#http://ott3.gearhostpreview.com/astro/ub.php?id=183
+Sky Sport 4,http://ott3.gearhostpreview.com/astro/ub.php?id=417#http://ott3.gearhostpreview.com/astro/ub.php?id=417
+Sky Sport 5,http://ott3.gearhostpreview.com/astro/ub.php?id=418#http://ott3.gearhostpreview.com/astro/ub.php?id=418
+Astro Sp1,http://ott3.gearhostpreview.com/astro/ub.php?id=444#http://ott3.gearhostpreview.com/astro/ub.php?id=444
+Astro Sp2,http://ott3.gearhostpreview.com/astro/ub.php?id=445#http://ott3.gearhostpreview.com/astro/ub.php?id=445
+Astro Sp3,http://ott3.gearhostpreview.com/astro/ub.php?id=446#http://ott3.gearhostpreview.com/astro/ub.php?id=446
+Astro Sp4,http://ott3.gearhostpreview.com/astro/ub.php?id=447#http://ott3.gearhostpreview.com/astro/ub.php?id=447
+WWE,http://ott3.gearhostpreview.com/astro/ub.php?id=1081#http://ott3.gearhostpreview.com/astro/ub.php?id=1572#http://ott3.gearhostpreview.com/astro/ub.php?id=1191#http://ott3.gearhostpreview.com/astro/ub.php?id=1081
+jishi紀實安測,#genre#
+TVN,http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=295#http://ott3.gearhostpreview.com/astro/ub.php?id=1170
+EYE旅遊,http://ott3.gearhostpreview.com/astro/ub.php?id=1494
+國家地理,http://ott3.gearhostpreview.com/astro/ub.php?id=302
+探索頻道,http://ott3.gearhostpreview.com/astro/ub.php?id=1035
+TLC旅遊生活,http://ott3.gearhostpreview.com/astro/ub.php?id=102
+TLC,http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1206#http://ott3.gearhostpreview.com/astro/ub.php?id=1533#http://ott3.gearhostpreview.com/astro/ub.php?id=1206
+動物星球,http://ott3.gearhostpreview.com/astro/ub.php?id=367
+民視旅遊,http://ott3.gearhostpreview.com/astro/ub.php?id=78
+探索亞洲,http://ott3.gearhostpreview.com/astro/ub.php?id=306
+探索科學,http://ott3.gearhostpreview.com/astro/ub.php?id=343
+國家野生,http://ott3.gearhostpreview.com/astro/ub.php?id=1038
+探索EVE,http://ott3.gearhostpreview.com/astro/ub.php?id=1036
+History,http://ott3.gearhostpreview.com/astro/ub.php?id=116#http://ott3.gearhostpreview.com/astro/ub.php?id=1530#http://ott3.gearhostpreview.com/astro/ub.php?id=1204#http://ott3.gearhostpreview.com/astro/ub.php?id=1413
+BBC Lifestyle,http://ott3.gearhostpreview.com/astro/ub.php?id=424
+視納華仁紀實,http://ott3.gearhostpreview.com/astro/ub.php?id=91
+美食星球,http://ott3.gearhostpreview.com/astro/ub.php?id=1360
+AFN,http://ott3.gearhostpreview.com/astro/ub.php?id=307#http://ott3.gearhostpreview.com/astro/ub.php?id=195
+Travel Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=63
+BBC EARTH,http://ott3.gearhostpreview.com/astro/ub.php?id=97#http://ott3.gearhostpreview.com/astro/ub.php?id=1706
+探索動力DMAX,http://ott3.gearhostpreview.com/astro/ub.php?id=335
+FoodNetwork,http://ott3.gearhostpreview.com/astro/ub.php?id=294
+Pet Club,http://ott3.gearhostpreview.com/astro/ub.php?id=368
+Outdoor,http://ott3.gearhostpreview.com/astro/ub.php?id=374#http://ott3.gearhostpreview.com/astro/ub.php?id=1368
+國家人文,http://ott3.gearhostpreview.com/astro/ub.php?id=334
+國家地理悠人,http://ott3.gearhostpreview.com/astro/ub.php?id=114
+NASA TV,http://ott3.gearhostpreview.com/astro/ub.php?id=25
+Earth Views,http://ott3.gearhostpreview.com/astro/ub.php?id=1017
+NASA Live,http://ott3.gearhostpreview.com/astro/ub.php?id=196
+Astronaut Spacewalk Earth,http://ott3.gearhostpreview.com/astro/ub.php?id=1026
+少兒安測,#genre#
+BabyBus,http://ott3.gearhostpreview.com/astro/ub.php?id=2150
+Talking Tom,http://ott3.gearhostpreview.com/astro/ub.php?id=20
+Peppa Pig,http://ott3.gearhostpreview.com/astro/ub.php?id=1344
+CN卡通,http://ott3.gearhostpreview.com/astro/ub.php?id=107
+MOMO親子台,http://ott3.gearhostpreview.com/astro/ub.php?id=1149
+MOMO親子,http://ott3.gearhostpreview.com/astro/ub.php?id=1126
+YOYO TV,http://ott3.gearhostpreview.com/astro/ub.php?id=293
+東森幼幼,http://ott3.gearhostpreview.com/astro/ub.php?id=371
+Animax,http://ott3.gearhostpreview.com/astro/ub.php?id=59#http://ott3.gearhostpreview.com/astro/ub.php?id=139#http://ott3.gearhostpreview.com/astro/ub.php?id=2074#http://ott3.gearhostpreview.com/astro/ub.php?id=1718
+達文西,http://ott3.gearhostpreview.com/astro/ub.php?id=68
+曼迪日本,http://ott3.gearhostpreview.com/astro/ub.php?id=316
+靖洋卡通,http://ott3.gearhostpreview.com/astro/ub.php?id=348
+BabyFirst,http://ott3.gearhostpreview.com/astro/ub.php?id=173
+i,http://ott3.gearhostpreview.com/astro/ub.php?id=1127
+愛放2,http://ott3.gearhostpreview.com/astro/ub.php?id=299
+靖天卡通,http://ott3.gearhostpreview.com/astro/ub.php?id=344
+Nick Jr.,http://ott3.gearhostpreview.com/astro/ub.php?id=50
+空中英語教室,http://ott3.gearhostpreview.com/astro/ub.php?id=313
+ELTV生活英語,http://ott3.gearhostpreview.com/astro/ub.php?id=323
+龍華動畫,http://ott3.gearhostpreview.com/astro/ub.php?id=366
+Baby TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1129#http://ott3.gearhostpreview.com/astro/ub.php?id=1956#http://ott3.gearhostpreview.com/astro/ub.php?id=2077#http://ott3.gearhostpreview.com/astro/ub.php?id=1721
+Treehouse,http://ott3.gearhostpreview.com/astro/ub.php?id=55#http://ott3.gearhostpreview.com/astro/ub.php?id=1283
+Nickj,http://ott3.gearhostpreview.com/astro/ub.php?id=53
+Disney,http://ott3.gearhostpreview.com/astro/ub.php?id=5#http://ott3.gearhostpreview.com/astro/ub.php?id=1581#http://ott3.gearhostpreview.com/astro/ub.php?id=1208
+Disneyxd,http://ott3.gearhostpreview.com/astro/ub.php?id=31#http://ott3.gearhostpreview.com/astro/ub.php?id=1579
+Disneyj,http://ott3.gearhostpreview.com/astro/ub.php?id=47
+Boomerang,http://ott3.gearhostpreview.com/astro/ub.php?id=57#http://ott3.gearhostpreview.com/astro/ub.php?id=1214
+BBC CBeebies,http://ott3.gearhostpreview.com/astro/ub.php?id=115#http://ott3.gearhostpreview.com/astro/ub.php?id=1588
+Dreamworks,http://ott3.gearhostpreview.com/astro/ub.php?id=48
+MY KIDS,http://ott3.gearhostpreview.com/astro/ub.php?id=1495
+廣東少兒,http://ott3.gearhostpreview.com/astro/ub.php?id=1500#http://ott3.gearhostpreview.com/astro/ub.php?id=1500
+嘉佳卡通,http://ott3.gearhostpreview.com/astro/ub.php?id=1501#http://ott3.gearhostpreview.com/astro/ub.php?id=1501
+BabyTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1241#http://ott3.gearhostpreview.com/astro/ub.php?id=1522#http://ott3.gearhostpreview.com/astro/ub.php?id=1241
+
+音樂宗教安測,#genre#
+好消息,http://ott3.gearhostpreview.com/astro/ub.php?id=104#http://ott3.gearhostpreview.com/astro/ub.php?id=104
+好消息2,http://ott3.gearhostpreview.com/astro/ub.php?id=363#http://ott3.gearhostpreview.com/astro/ub.php?id=363
+lofi hip hop,http://ott3.gearhostpreview.com/astro/ub.php?id=1594
+Channel V,http://ott3.gearhostpreview.com/astro/ub.php?id=151
+Relaxing Jazz Piano,http://ott3.gearhostpreview.com/astro/ub.php?id=1351
+Beautiful Piano Music,http://ott3.gearhostpreview.com/astro/ub.php?id=1361
+One World Radio,http://ott3.gearhostpreview.com/astro/ub.php?id=1153
+Mezzo Live,http://ott3.gearhostpreview.com/astro/ub.php?id=60
+Hit Fm,http://ott3.gearhostpreview.com/astro/ub.php?id=1021
+4K Nature,http://ott3.gearhostpreview.com/astro/ub.php?id=1015
+Coffee Jazz,http://ott3.gearhostpreview.com/astro/ub.php?id=1019
+Space Ambient,http://ott3.gearhostpreview.com/astro/ub.php?id=1005
+Rolling Cam Venice,http://ott3.gearhostpreview.com/astro/ub.php?id=1007
+大愛一臺,http://ott3.gearhostpreview.com/astro/ub.php?id=11#http://ott3.gearhostpreview.com/astro/ub.php?id=11
+大愛二臺,http://ott3.gearhostpreview.com/astro/ub.php?id=197
+M2O,http://ott3.gearhostpreview.com/astro/ub.php?id=94
+CLASSICA 古典樂,http://ott3.gearhostpreview.com/astro/ub.php?id=1027
+唯心電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1150
+人間衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=101
+Good Life Radio,http://ott3.gearhostpreview.com/astro/ub.php?id=1152
+大愛海外,http://ott3.gearhostpreview.com/astro/ub.php?id=184
+Medici Arts,http://ott3.gearhostpreview.com/astro/ub.php?id=188
+Rainy Jazz,http://ott3.gearhostpreview.com/astro/ub.php?id=1089
+Tropical House,http://ott3.gearhostpreview.com/astro/ub.php?id=1090
+自然の音,http://ott3.gearhostpreview.com/astro/ub.php?id=1091
+Relaxing Music,http://ott3.gearhostpreview.com/astro/ub.php?id=1087
+Calm Piano Music,http://ott3.gearhostpreview.com/astro/ub.php?id=1088
+Trace Urban,http://ott3.gearhostpreview.com/astro/ub.php?id=1003
+佛衛慈悲台,http://ott3.gearhostpreview.com/astro/ub.php?id=1306
+生命電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1124
+華藏電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1053
+海豚綜合,http://ott3.gearhostpreview.com/astro/ub.php?id=1505#http://ott3.gearhostpreview.com/astro/ub.php?id=1505
+大陸安測,#genre#
+CCTV1,http://ott3.gearhostpreview.com/astro/ub.php?id=200
+CCTV2,http://ott3.gearhostpreview.com/astro/ub.php?id=201
+CCTV3,http://ott3.gearhostpreview.com/astro/ub.php?id=202
+CCTV4,http://ott3.gearhostpreview.com/astro/ub.php?id=203
+CCTV5,http://ott3.gearhostpreview.com/astro/ub.php?id=204
+CCTV5plus,http://ott3.gearhostpreview.com/astro/ub.php?id=205
+CCTV6,http://ott3.gearhostpreview.com/astro/ub.php?id=206
+CCTV7,http://ott3.gearhostpreview.com/astro/ub.php?id=207
+CCTV8,http://ott3.gearhostpreview.com/astro/ub.php?id=208
+CCTV9,http://ott3.gearhostpreview.com/astro/ub.php?id=209
+CCTV10,http://ott3.gearhostpreview.com/astro/ub.php?id=210
+CCTV11,http://ott3.gearhostpreview.com/astro/ub.php?id=211
+CCTV12,http://ott3.gearhostpreview.com/astro/ub.php?id=212
+CCTV13,http://ott3.gearhostpreview.com/astro/ub.php?id=213
+CCTV14,http://ott3.gearhostpreview.com/astro/ub.php?id=214
+CCTV15,http://ott3.gearhostpreview.com/astro/ub.php?id=215
+福州電視,http://ott3.gearhostpreview.com/astro/ub.php?id=216
+浙江衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=217
+江蘇衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=218
+南方衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=219
+北京衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=220
+CCTVNEWS,http://ott3.gearhostpreview.com/astro/ub.php?id=221
+CCTV娛樂,http://ott3.gearhostpreview.com/astro/ub.php?id=222
+海峽衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=223
+東方衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=224
+湖南衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=226
+湖北衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=227
+東南衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=228
+遼寧衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=229
+深圳衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=230
+廣東衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=231
+安徽衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=232
+四川衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=233
+山東衛視,http://ott3.gearhostpreview.com/astro/ub.php?id=234
+廣東影視,http://ott3.gearhostpreview.com/astro/ub.php?id=1499#http://ott3.gearhostpreview.com/astro/ub.php?id=1499
+廣東少兒,http://ott3.gearhostpreview.com/astro/ub.php?id=1500#http://ott3.gearhostpreview.com/astro/ub.php?id=1500
+嘉佳卡通,http://ott3.gearhostpreview.com/astro/ub.php?id=1501#http://ott3.gearhostpreview.com/astro/ub.php?id=1501
+嶺南戲曲,http://ott3.gearhostpreview.com/astro/ub.php?id=1502#http://ott3.gearhostpreview.com/astro/ub.php?id=1502#http://ott3.gearhostpreview.com/astro/ub.php?id=1502
+高爾夫,http://ott3.gearhostpreview.com/astro/ub.php?id=1503#http://ott3.gearhostpreview.com/astro/ub.php?id=1503
+にっぽん安測,#genre#
+NHK World,http://ott3.gearhostpreview.com/astro/ub.php?id=117
+NHK,http://ott3.gearhostpreview.com/astro/ub.php?id=121
+NHKE,http://ott3.gearhostpreview.com/astro/ub.php?id=120
+BS,http://ott3.gearhostpreview.com/astro/ub.php?id=242#http://ott3.gearhostpreview.com/astro/ub.php?id=244
+BSプレミアム,http://ott3.gearhostpreview.com/astro/ub.php?id=239
+BS日テレ,http://ott3.gearhostpreview.com/astro/ub.php?id=240
+BS朝日,http://ott3.gearhostpreview.com/astro/ub.php?id=241
+BSテレビ東京,http://ott3.gearhostpreview.com/astro/ub.php?id=243
+BS1,http://ott3.gearhostpreview.com/astro/ub.php?id=128
+関西テレビ,http://ott3.gearhostpreview.com/astro/ub.php?id=235
+サンテレビ,http://ott3.gearhostpreview.com/astro/ub.php?id=238
+読売テレビ,http://ott3.gearhostpreview.com/astro/ub.php?id=198
+旅チャンネル,http://ott3.gearhostpreview.com/astro/ub.php?id=292
+テレビ朝日,http://ott3.gearhostpreview.com/astro/ub.php?id=237
+時代劇の専門家,http://ott3.gearhostpreview.com/astro/ub.php?id=287
+TV Tokyo,http://ott3.gearhostpreview.com/astro/ub.php?id=123
+Tokyo MX1,http://ott3.gearhostpreview.com/astro/ub.php?id=33
+Tokyo MX2,http://ott3.gearhostpreview.com/astro/ub.php?id=1148
+jsport1,http://ott3.gearhostpreview.com/astro/ub.php?id=129#http://ott3.gearhostpreview.com/astro/ub.php?id=129
+jsport2,http://ott3.gearhostpreview.com/astro/ub.php?id=130#http://ott3.gearhostpreview.com/astro/ub.php?id=130
+jsport3,http://ott3.gearhostpreview.com/astro/ub.php?id=131#http://ott3.gearhostpreview.com/astro/ub.php?id=131
+jsport4,http://ott3.gearhostpreview.com/astro/ub.php?id=132#http://ott3.gearhostpreview.com/astro/ub.php?id=132
+FU JI,http://ott3.gearhostpreview.com/astro/ub.php?id=122
+TV asahi,http://ott3.gearhostpreview.com/astro/ub.php?id=125
+大阪TV,http://ott3.gearhostpreview.com/astro/ub.php?id=126
+wowo1,http://ott3.gearhostpreview.com/astro/ub.php?id=133
+wowo2,http://ott3.gearhostpreview.com/astro/ub.php?id=134
+wowo3,http://ott3.gearhostpreview.com/astro/ub.php?id=135
+STAR1,http://ott3.gearhostpreview.com/astro/ub.php?id=136
+STAR2,http://ott3.gearhostpreview.com/astro/ub.php?id=137
+STAR3,http://ott3.gearhostpreview.com/astro/ub.php?id=138
+ABC朝日,http://ott3.gearhostpreview.com/astro/ub.php?id=127
+NTV,http://ott3.gearhostpreview.com/astro/ub.php?id=119
+NTV News24,http://ott3.gearhostpreview.com/astro/ub.php?id=42
+毎日放送,http://ott3.gearhostpreview.com/astro/ub.php?id=199
+Golf Network,http://ott3.gearhostpreview.com/astro/ub.php?id=249
+HTB北海道,http://ott3.gearhostpreview.com/astro/ub.php?id=39
+GaoRa,http://ott3.gearhostpreview.com/astro/ub.php?id=296
+JapaNews24,http://ott3.gearhostpreview.com/astro/ub.php?id=1043
+TBS,http://ott3.gearhostpreview.com/astro/ub.php?id=124#http://ott3.gearhostpreview.com/astro/ub.php?id=1545#http://ott3.gearhostpreview.com/astro/ub.php?id=1234
+animax,http://ott3.gearhostpreview.com/astro/ub.php?id=59#http://ott3.gearhostpreview.com/astro/ub.php?id=139#http://ott3.gearhostpreview.com/astro/ub.php?id=2074#http://ott3.gearhostpreview.com/astro/ub.php?id=1718
+Green,http://ott3.gearhostpreview.com/astro/ub.php?id=140
+KIDS,http://ott3.gearhostpreview.com/astro/ub.php?id=289
+衛星劇場,http://ott3.gearhostpreview.com/astro/ub.php?id=298
+KBC NEWS24,http://ott3.gearhostpreview.com/astro/ub.php?id=297
+CN,http://ott3.gearhostpreview.com/astro/ub.php?id=1296
+SKY A,http://ott3.gearhostpreview.com/astro/ub.php?id=247
+Discovery,http://ott3.gearhostpreview.com/astro/ub.php?id=290#http://ott3.gearhostpreview.com/astro/ub.php?id=1529#http://ott3.gearhostpreview.com/astro/ub.php?id=1424
+MUSIC JAPAN,http://ott3.gearhostpreview.com/astro/ub.php?id=288
+한국安測,#genre#
+TVN,http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=295#http://ott3.gearhostpreview.com/astro/ub.php?id=1170
+연합뉴스TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1039
+KBS WORLD 24,http://ott3.gearhostpreview.com/astro/ub.php?id=1040
+YTN,http://ott3.gearhostpreview.com/astro/ub.php?id=1061#http://ott3.gearhostpreview.com/astro/ub.php?id=1065
+KBS1,http://ott3.gearhostpreview.com/astro/ub.php?id=174
+KBS2,http://ott3.gearhostpreview.com/astro/ub.php?id=250
+MBC,http://ott3.gearhostpreview.com/astro/ub.php?id=251
+SBS,http://ott3.gearhostpreview.com/astro/ub.php?id=252
+SBS FUNE,http://ott3.gearhostpreview.com/astro/ub.php?id=254
+SBS CNBC,http://ott3.gearhostpreview.com/astro/ub.php?id=255
+MBN,http://ott3.gearhostpreview.com/astro/ub.php?id=257
+KBS24,http://ott3.gearhostpreview.com/astro/ub.php?id=260
+KBSW,http://ott3.gearhostpreview.com/astro/ub.php?id=1100
+Channel A,http://ott3.gearhostpreview.com/astro/ub.php?id=258
+SBS PLus,http://ott3.gearhostpreview.com/astro/ub.php?id=262
+KBSNLife,http://ott3.gearhostpreview.com/astro/ub.php?id=263
+KBSN Plus,http://ott3.gearhostpreview.com/astro/ub.php?id=264
+KBSKids,http://ott3.gearhostpreview.com/astro/ub.php?id=1582
+MBC스포츠,http://ott3.gearhostpreview.com/astro/ub.php?id=265
+JTBC골프,http://ott3.gearhostpreview.com/astro/ub.php?id=268
+JTBC,http://ott3.gearhostpreview.com/astro/ub.php?id=253
+KBS joy,http://ott3.gearhostpreview.com/astro/ub.php?id=1154
+OCN,http://ott3.gearhostpreview.com/astro/ub.php?id=488
+iNet,http://ott3.gearhostpreview.com/astro/ub.php?id=490
+CTS,http://ott3.gearhostpreview.com/astro/ub.php?id=491
+Spotv,http://ott3.gearhostpreview.com/astro/ub.php?id=266
+Spotv2,http://ott3.gearhostpreview.com/astro/ub.php?id=267
+THE K,http://ott3.gearhostpreview.com/astro/ub.php?id=493
+SBS골프,http://ott3.gearhostpreview.com/astro/ub.php?id=486
+Olive,http://ott3.gearhostpreview.com/astro/ub.php?id=1063
+한국경제,http://ott3.gearhostpreview.com/astro/ub.php?id=1064
+YTN dmb,http://ott3.gearhostpreview.com/astro/ub.php?id=492
+YTN 사이언스,http://ott3.gearhostpreview.com/astro/ub.php?id=1605
+CNTV,http://ott3.gearhostpreview.com/astro/ub.php?id=256
+OCNMOVIES,http://ott3.gearhostpreview.com/astro/ub.php?id=1020
+TV CHOSUN,http://ott3.gearhostpreview.com/astro/ub.php?id=489
+SBS Sports,http://ott3.gearhostpreview.com/astro/ub.php?id=487
+Mnet,http://ott3.gearhostpreview.com/astro/ub.php?id=1136
+MBCevery1,http://ott3.gearhostpreview.com/astro/ub.php?id=476
+Tconvers,http://ott3.gearhostpreview.com/astro/ub.php?id=1134
+KBS Drama,http://ott3.gearhostpreview.com/astro/ub.php?id=1062
+채널A,http://ott3.gearhostpreview.com/astro/ub.php?id=1092
+EBS 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1093
+EBS Kids,http://ott3.gearhostpreview.com/astro/ub.php?id=1094
+EBS English,http://ott3.gearhostpreview.com/astro/ub.php?id=1095
+EBSPlus 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1096
+EBSPlus 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1097
+EBS1,http://ott3.gearhostpreview.com/astro/ub.php?id=1098
+SBS Star,http://ott3.gearhostpreview.com/astro/ub.php?id=1101
+KBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1307
+MTN,http://ott3.gearhostpreview.com/astro/ub.php?id=1504
+美國安測,#genre#
+CNN頭條新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=43#http://ott3.gearhostpreview.com/astro/ub.php?id=43
+CNN國際新聞,http://ott3.gearhostpreview.com/astro/ub.php?id=420#http://ott3.gearhostpreview.com/astro/ub.php?id=420
+FOXHD,http://ott3.gearhostpreview.com/astro/ub.php?id=1506
+CNN,http://ott3.gearhostpreview.com/astro/ub.php?id=1507
+ABC News,http://ott3.gearhostpreview.com/astro/ub.php?id=1508
+NBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1509#http://ott3.gearhostpreview.com/astro/ub.php?id=1217
+Fox News,http://ott3.gearhostpreview.com/astro/ub.php?id=1510#http://ott3.gearhostpreview.com/astro/ub.php?id=1103
+Fox Business,http://ott3.gearhostpreview.com/astro/ub.php?id=1511#http://ott3.gearhostpreview.com/astro/ub.php?id=1108
+Hbo Family,http://ott3.gearhostpreview.com/astro/ub.php?id=331#http://ott3.gearhostpreview.com/astro/ub.php?id=1512#http://ott3.gearhostpreview.com/astro/ub.php?id=1113
+Hbo East,http://ott3.gearhostpreview.com/astro/ub.php?id=1513
+Hbo One,http://ott3.gearhostpreview.com/astro/ub.php?id=1514
+Travel ch,http://ott3.gearhostpreview.com/astro/ub.php?id=1515
+Coking,http://ott3.gearhostpreview.com/astro/ub.php?id=1516
+Bloomberg,http://ott3.gearhostpreview.com/astro/ub.php?id=1517#http://ott3.gearhostpreview.com/astro/ub.php?id=1107
+Cinemax,http://ott3.gearhostpreview.com/astro/ub.php?id=346#http://ott3.gearhostpreview.com/astro/ub.php?id=1518#http://ott3.gearhostpreview.com/astro/ub.php?id=1123
+Tennis chan,http://ott3.gearhostpreview.com/astro/ub.php?id=1519
+Nat Geo,http://ott3.gearhostpreview.com/astro/ub.php?id=1520
+Nat Geo Wild,http://ott3.gearhostpreview.com/astro/ub.php?id=1521#http://ott3.gearhostpreview.com/astro/ub.php?id=1201#http://ott3.gearhostpreview.com/astro/ub.php?id=1434
+Babytv,http://ott3.gearhostpreview.com/astro/ub.php?id=1241#http://ott3.gearhostpreview.com/astro/ub.php?id=1522#http://ott3.gearhostpreview.com/astro/ub.php?id=1241
+Mlb net,http://ott3.gearhostpreview.com/astro/ub.php?id=1523
+TNT,http://ott3.gearhostpreview.com/astro/ub.php?id=1524
+Bravo,http://ott3.gearhostpreview.com/astro/ub.php?id=1525
+Food network,http://ott3.gearhostpreview.com/astro/ub.php?id=1526#http://ott3.gearhostpreview.com/astro/ub.php?id=1378#http://ott3.gearhostpreview.com/astro/ub.php?id=1421#http://ott3.gearhostpreview.com/astro/ub.php?id=1617
+Fight network,http://ott3.gearhostpreview.com/astro/ub.php?id=1527#http://ott3.gearhostpreview.com/astro/ub.php?id=1366
+Diy network,http://ott3.gearhostpreview.com/astro/ub.php?id=1528#http://ott3.gearhostpreview.com/astro/ub.php?id=1379
+Discovery,http://ott3.gearhostpreview.com/astro/ub.php?id=290#http://ott3.gearhostpreview.com/astro/ub.php?id=1529#http://ott3.gearhostpreview.com/astro/ub.php?id=1424
+History,http://ott3.gearhostpreview.com/astro/ub.php?id=116#http://ott3.gearhostpreview.com/astro/ub.php?id=1530#http://ott3.gearhostpreview.com/astro/ub.php?id=1204#http://ott3.gearhostpreview.com/astro/ub.php?id=1413
+World Fishing,http://ott3.gearhostpreview.com/astro/ub.php?id=1531
+VH1,http://ott3.gearhostpreview.com/astro/ub.php?id=1532
+TLC,http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1206#http://ott3.gearhostpreview.com/astro/ub.php?id=1533#http://ott3.gearhostpreview.com/astro/ub.php?id=1206
+NHL net,http://ott3.gearhostpreview.com/astro/ub.php?id=1534
+Hallmark,http://ott3.gearhostpreview.com/astro/ub.php?id=1535
+E,http://ott3.gearhostpreview.com/astro/ub.php?id=1536
+Syfy,http://ott3.gearhostpreview.com/astro/ub.php?id=1537#http://ott3.gearhostpreview.com/astro/ub.php?id=1221#http://ott3.gearhostpreview.com/astro/ub.php?id=1423
+HGTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1538#http://ott3.gearhostpreview.com/astro/ub.php?id=2193#http://ott3.gearhostpreview.com/astro/ub.php?id=1618#http://ott3.gearhostpreview.com/astro/ub.php?id=2106#http://ott3.gearhostpreview.com/astro/ub.php?id=1750
+NBC Golf,http://ott3.gearhostpreview.com/astro/ub.php?id=1539
+law and crime,http://ott3.gearhostpreview.com/astro/ub.php?id=1540
+Msnbc,http://ott3.gearhostpreview.com/astro/ub.php?id=1541#http://ott3.gearhostpreview.com/astro/ub.php?id=1104
+Goltv,http://ott3.gearhostpreview.com/astro/ub.php?id=1542
+TVG,http://ott3.gearhostpreview.com/astro/ub.php?id=1543
+Willow Cricket,http://ott3.gearhostpreview.com/astro/ub.php?id=1544
+TBS,http://ott3.gearhostpreview.com/astro/ub.php?id=124#http://ott3.gearhostpreview.com/astro/ub.php?id=1545#http://ott3.gearhostpreview.com/astro/ub.php?id=1234
+MTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1546
+PBS,http://ott3.gearhostpreview.com/astro/ub.php?id=1547#http://ott3.gearhostpreview.com/astro/ub.php?id=1371
+WE TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1550#http://ott3.gearhostpreview.com/astro/ub.php?id=1229
+FX,http://ott3.gearhostpreview.com/astro/ub.php?id=1551#http://ott3.gearhostpreview.com/astro/ub.php?id=1373
+Lifetime,http://ott3.gearhostpreview.com/astro/ub.php?id=1553
+Bet,http://ott3.gearhostpreview.com/astro/ub.php?id=1554#http://ott3.gearhostpreview.com/astro/ub.php?id=1231
+CNBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1555#http://ott3.gearhostpreview.com/astro/ub.php?id=1106#http://ott3.gearhostpreview.com/astro/ub.php?id=1414
+CW,http://ott3.gearhostpreview.com/astro/ub.php?id=1557#http://ott3.gearhostpreview.com/astro/ub.php?id=1220
+Animal,http://ott3.gearhostpreview.com/astro/ub.php?id=1558
+AE,http://ott3.gearhostpreview.com/astro/ub.php?id=1559
+Freeform,http://ott3.gearhostpreview.com/astro/ub.php?id=1560
+Game Show Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1562
+Investigation Discovery,http://ott3.gearhostpreview.com/astro/ub.php?id=1564
+Lifetime Movie Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1565#http://ott3.gearhostpreview.com/astro/ub.php?id=1232
+Showtime,http://ott3.gearhostpreview.com/astro/ub.php?id=1568
+StarZ,http://ott3.gearhostpreview.com/astro/ub.php?id=1569#http://ott3.gearhostpreview.com/astro/ub.php?id=1117
+USA Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1571#http://ott3.gearhostpreview.com/astro/ub.php?id=1230
+wwe,http://ott3.gearhostpreview.com/astro/ub.php?id=1081#http://ott3.gearhostpreview.com/astro/ub.php?id=1572#http://ott3.gearhostpreview.com/astro/ub.php?id=1191#http://ott3.gearhostpreview.com/astro/ub.php?id=1081
+Nickelodeon,http://ott3.gearhostpreview.com/astro/ub.php?id=1573#http://ott3.gearhostpreview.com/astro/ub.php?id=1396
+DisneyJr,http://ott3.gearhostpreview.com/astro/ub.php?id=1578
+DisneyXD,http://ott3.gearhostpreview.com/astro/ub.php?id=31#http://ott3.gearhostpreview.com/astro/ub.php?id=1579
+Disney,http://ott3.gearhostpreview.com/astro/ub.php?id=5#http://ott3.gearhostpreview.com/astro/ub.php?id=1581#http://ott3.gearhostpreview.com/astro/ub.php?id=1208
+NBC2,http://ott3.gearhostpreview.com/astro/ub.php?id=460
+Newsmax,http://ott3.gearhostpreview.com/astro/ub.php?id=156
+First TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1143
+People,http://ott3.gearhostpreview.com/astro/ub.php?id=143
+Right Now,http://ott3.gearhostpreview.com/astro/ub.php?id=144
+Bloomberg Television,http://ott3.gearhostpreview.com/astro/ub.php?id=1058
+American Horrors,http://ott3.gearhostpreview.com/astro/ub.php?id=1054
+30A TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1052
+Atlanta,http://ott3.gearhostpreview.com/astro/ub.php?id=1055
+Panama City,http://ott3.gearhostpreview.com/astro/ub.php?id=1056
+Pawleys Island,http://ott3.gearhostpreview.com/astro/ub.php?id=1057
+NewsNet,http://ott3.gearhostpreview.com/astro/ub.php?id=1216
+BT Sport ESPN,http://ott3.gearhostpreview.com/astro/ub.php?id=168#http://ott3.gearhostpreview.com/astro/ub.php?id=168
+BT Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=166#http://ott3.gearhostpreview.com/astro/ub.php?id=166
+BT Sport 3,http://ott3.gearhostpreview.com/astro/ub.php?id=167#http://ott3.gearhostpreview.com/astro/ub.php?id=167
+BT Sport 1,http://ott3.gearhostpreview.com/astro/ub.php?id=165#http://ott3.gearhostpreview.com/astro/ub.php?id=165
+美國安測,#genre#
+IFC,http://ott3.gearhostpreview.com/astro/ub.php?id=1362
+ESPN NEWS,http://ott3.gearhostpreview.com/astro/ub.php?id=1363
+CBS Sport,http://ott3.gearhostpreview.com/astro/ub.php?id=1364
+Fight Box,http://ott3.gearhostpreview.com/astro/ub.php?id=1365
+Fight Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1527#http://ott3.gearhostpreview.com/astro/ub.php?id=1366
+Sportsman,http://ott3.gearhostpreview.com/astro/ub.php?id=1367
+Outdoor,http://ott3.gearhostpreview.com/astro/ub.php?id=374#http://ott3.gearhostpreview.com/astro/ub.php?id=1368
+SEC Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1369
+PBS Kids,http://ott3.gearhostpreview.com/astro/ub.php?id=1370
+PBS,http://ott3.gearhostpreview.com/astro/ub.php?id=1547#http://ott3.gearhostpreview.com/astro/ub.php?id=1371
+WGN,http://ott3.gearhostpreview.com/astro/ub.php?id=1372
+FX,http://ott3.gearhostpreview.com/astro/ub.php?id=1551#http://ott3.gearhostpreview.com/astro/ub.php?id=1373
+FXX,http://ott3.gearhostpreview.com/astro/ub.php?id=1374
+TruTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1375
+Fuse,http://ott3.gearhostpreview.com/astro/ub.php?id=1376
+Oxygen,http://ott3.gearhostpreview.com/astro/ub.php?id=1377
+Food Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1526#http://ott3.gearhostpreview.com/astro/ub.php?id=1378#http://ott3.gearhostpreview.com/astro/ub.php?id=1421#http://ott3.gearhostpreview.com/astro/ub.php?id=1617
+DIY Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1528#http://ott3.gearhostpreview.com/astro/ub.php?id=1379
+FX Movie,http://ott3.gearhostpreview.com/astro/ub.php?id=1380
+Comet,http://ott3.gearhostpreview.com/astro/ub.php?id=1381
+CNN USA,http://ott3.gearhostpreview.com/astro/ub.php?id=1102
+FOX News,http://ott3.gearhostpreview.com/astro/ub.php?id=1510#http://ott3.gearhostpreview.com/astro/ub.php?id=1103
+NBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1509#http://ott3.gearhostpreview.com/astro/ub.php?id=1217
+FOX,http://ott3.gearhostpreview.com/astro/ub.php?id=384#http://ott3.gearhostpreview.com/astro/ub.php?id=1218
+CNBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1555#http://ott3.gearhostpreview.com/astro/ub.php?id=1106#http://ott3.gearhostpreview.com/astro/ub.php?id=1414
+5 Star Max,http://ott3.gearhostpreview.com/astro/ub.php?id=1174
+Action Max,http://ott3.gearhostpreview.com/astro/ub.php?id=1175
+MoreMax,http://ott3.gearhostpreview.com/astro/ub.php?id=1176
+Hallmark Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1177
+Hallmark Drama,http://ott3.gearhostpreview.com/astro/ub.php?id=1178
+Hallmark Movie,http://ott3.gearhostpreview.com/astro/ub.php?id=1179
+TCM,http://ott3.gearhostpreview.com/astro/ub.php?id=1180
+Starz in Black,http://ott3.gearhostpreview.com/astro/ub.php?id=1181
+ESPN 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1182
+ESPN 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1183
+NBC Sport,http://ott3.gearhostpreview.com/astro/ub.php?id=1184
+NBA TV US,http://ott3.gearhostpreview.com/astro/ub.php?id=1185
+Fox Sport 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1131#http://ott3.gearhostpreview.com/astro/ub.php?id=1186
+Fox Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1132#http://ott3.gearhostpreview.com/astro/ub.php?id=1187
+Tennis,http://ott3.gearhostpreview.com/astro/ub.php?id=1188
+NFL Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1189
+Golf,http://ott3.gearhostpreview.com/astro/ub.php?id=1190
+WWE,http://ott3.gearhostpreview.com/astro/ub.php?id=1081#http://ott3.gearhostpreview.com/astro/ub.php?id=1572#http://ott3.gearhostpreview.com/astro/ub.php?id=1191#http://ott3.gearhostpreview.com/astro/ub.php?id=1081
+UFC PASS,http://ott3.gearhostpreview.com/astro/ub.php?id=1192
+Willow,http://ott3.gearhostpreview.com/astro/ub.php?id=1193
+NHL Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1194
+Bein Sports USA,http://ott3.gearhostpreview.com/astro/ub.php?id=1195
+ESPN U,http://ott3.gearhostpreview.com/astro/ub.php?id=1196
+Big Ten Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1197
+Discovery Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1198
+Motor Trend,http://ott3.gearhostpreview.com/astro/ub.php?id=1199
+National Geographic,http://ott3.gearhostpreview.com/astro/ub.php?id=1200
+Nat Geo Wild,http://ott3.gearhostpreview.com/astro/ub.php?id=1521#http://ott3.gearhostpreview.com/astro/ub.php?id=1201#http://ott3.gearhostpreview.com/astro/ub.php?id=1434
+Investigation Discovery US,http://ott3.gearhostpreview.com/astro/ub.php?id=1202
+Animal Planet,http://ott3.gearhostpreview.com/astro/ub.php?id=1203
+History,http://ott3.gearhostpreview.com/astro/ub.php?id=116#http://ott3.gearhostpreview.com/astro/ub.php?id=1530#http://ott3.gearhostpreview.com/astro/ub.php?id=1204#http://ott3.gearhostpreview.com/astro/ub.php?id=1413
+SMITHSONIAN,http://ott3.gearhostpreview.com/astro/ub.php?id=1205
+TLC,http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1009#http://ott3.gearhostpreview.com/astro/ub.php?id=1206#http://ott3.gearhostpreview.com/astro/ub.php?id=1533#http://ott3.gearhostpreview.com/astro/ub.php?id=1206
+Science,http://ott3.gearhostpreview.com/astro/ub.php?id=1207
+Disney,http://ott3.gearhostpreview.com/astro/ub.php?id=5#http://ott3.gearhostpreview.com/astro/ub.php?id=1581#http://ott3.gearhostpreview.com/astro/ub.php?id=1208
+Disney XD,http://ott3.gearhostpreview.com/astro/ub.php?id=1209#http://ott3.gearhostpreview.com/astro/ub.php?id=1719
+Disney Junior,http://ott3.gearhostpreview.com/astro/ub.php?id=1210#http://ott3.gearhostpreview.com/astro/ub.php?id=2076#http://ott3.gearhostpreview.com/astro/ub.php?id=1720
+Cartoon Network US,http://ott3.gearhostpreview.com/astro/ub.php?id=1211
+Nickelodeon US,http://ott3.gearhostpreview.com/astro/ub.php?id=1212
+Nick Junior,http://ott3.gearhostpreview.com/astro/ub.php?id=1213
+Boomerang,http://ott3.gearhostpreview.com/astro/ub.php?id=57#http://ott3.gearhostpreview.com/astro/ub.php?id=1214
+Universal Kids,http://ott3.gearhostpreview.com/astro/ub.php?id=1215
+CBS,http://ott3.gearhostpreview.com/astro/ub.php?id=1219
+CW,http://ott3.gearhostpreview.com/astro/ub.php?id=1557#http://ott3.gearhostpreview.com/astro/ub.php?id=1220
+SYFY,http://ott3.gearhostpreview.com/astro/ub.php?id=1537#http://ott3.gearhostpreview.com/astro/ub.php?id=1221#http://ott3.gearhostpreview.com/astro/ub.php?id=1423
+E!,http://ott3.gearhostpreview.com/astro/ub.php?id=1222
+Comedy Central,http://ott3.gearhostpreview.com/astro/ub.php?id=1223#http://ott3.gearhostpreview.com/astro/ub.php?id=1408
+TNT US,http://ott3.gearhostpreview.com/astro/ub.php?id=1224
+Bravo US,http://ott3.gearhostpreview.com/astro/ub.php?id=1225
+LifeTime US,http://ott3.gearhostpreview.com/astro/ub.php?id=1226
+Arts and Entertainment,http://ott3.gearhostpreview.com/astro/ub.php?id=1227
+AMC,http://ott3.gearhostpreview.com/astro/ub.php?id=92#http://ott3.gearhostpreview.com/astro/ub.php?id=1228
+WE TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1550#http://ott3.gearhostpreview.com/astro/ub.php?id=1229
+USA Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1571#http://ott3.gearhostpreview.com/astro/ub.php?id=1230
+BET,http://ott3.gearhostpreview.com/astro/ub.php?id=1554#http://ott3.gearhostpreview.com/astro/ub.php?id=1231
+Lifetime Movie Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1565#http://ott3.gearhostpreview.com/astro/ub.php?id=1232
+VH,http://ott3.gearhostpreview.com/astro/ub.php?id=1233
+TBS,http://ott3.gearhostpreview.com/astro/ub.php?id=124#http://ott3.gearhostpreview.com/astro/ub.php?id=1545#http://ott3.gearhostpreview.com/astro/ub.php?id=1234
+OWN US,http://ott3.gearhostpreview.com/astro/ub.php?id=1235
+GSN,http://ott3.gearhostpreview.com/astro/ub.php?id=1236
+HGTV US,http://ott3.gearhostpreview.com/astro/ub.php?id=1237
+Cooking Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1238
+MTV US,http://ott3.gearhostpreview.com/astro/ub.php?id=1239
+FYI,http://ott3.gearhostpreview.com/astro/ub.php?id=1240
+BabyTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1241#http://ott3.gearhostpreview.com/astro/ub.php?id=1522#http://ott3.gearhostpreview.com/astro/ub.php?id=1241
+TVB1,http://ott3.gearhostpreview.com/astro/ub.php?id=1242
+TVB DRAMA,http://ott3.gearhostpreview.com/astro/ub.php?id=1243
+TVBJ1,http://ott3.gearhostpreview.com/astro/ub.php?id=1244
+TVBE,http://ott3.gearhostpreview.com/astro/ub.php?id=1245
+NOWTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1246
+MSNBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1541#http://ott3.gearhostpreview.com/astro/ub.php?id=1104
+The Weather Nation,http://ott3.gearhostpreview.com/astro/ub.php?id=1105
+Bloomberg,http://ott3.gearhostpreview.com/astro/ub.php?id=1517#http://ott3.gearhostpreview.com/astro/ub.php?id=1107
+Fox Business,http://ott3.gearhostpreview.com/astro/ub.php?id=1511#http://ott3.gearhostpreview.com/astro/ub.php?id=1108
+HBO Comedy,http://ott3.gearhostpreview.com/astro/ub.php?id=1109
+HBO 1 US,http://ott3.gearhostpreview.com/astro/ub.php?id=1110
+HBO 2 US,http://ott3.gearhostpreview.com/astro/ub.php?id=1111
+HBO Signature,http://ott3.gearhostpreview.com/astro/ub.php?id=1112
+HBO Family,http://ott3.gearhostpreview.com/astro/ub.php?id=331#http://ott3.gearhostpreview.com/astro/ub.php?id=1512#http://ott3.gearhostpreview.com/astro/ub.php?id=1113
+ShowTime 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1114
+ShowTime 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1115
+ShowCase US,http://ott3.gearhostpreview.com/astro/ub.php?id=1116
+Starz,http://ott3.gearhostpreview.com/astro/ub.php?id=1569#http://ott3.gearhostpreview.com/astro/ub.php?id=1117
+Starz Comedy,http://ott3.gearhostpreview.com/astro/ub.php?id=1118
+Starz Edge,http://ott3.gearhostpreview.com/astro/ub.php?id=1119
+Starz Kids Family,http://ott3.gearhostpreview.com/astro/ub.php?id=1120
+Starz Encore,http://ott3.gearhostpreview.com/astro/ub.php?id=1121
+Starz Encore Westerns,http://ott3.gearhostpreview.com/astro/ub.php?id=1122
+Cinemax,http://ott3.gearhostpreview.com/astro/ub.php?id=346#http://ott3.gearhostpreview.com/astro/ub.php?id=1518#http://ott3.gearhostpreview.com/astro/ub.php?id=1123
+加拿大安測,#genre#
+CP 24 Canada,http://ott3.gearhostpreview.com/astro/ub.php?id=1247
+The Weather Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1251
+CBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1252
+CTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1253
+CHCH,http://ott3.gearhostpreview.com/astro/ub.php?id=1256
+CTV 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1257
+OMNI 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1258
+OMNI 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1259
+TVO,http://ott3.gearhostpreview.com/astro/ub.php?id=1260
+Discovery Canada,http://ott3.gearhostpreview.com/astro/ub.php?id=1261
+TLC Canada,http://ott3.gearhostpreview.com/astro/ub.php?id=1262
+Love Nature,http://ott3.gearhostpreview.com/astro/ub.php?id=1263
+Food Network Canada,http://ott3.gearhostpreview.com/astro/ub.php?id=1265
+Cooking Channel Canada,http://ott3.gearhostpreview.com/astro/ub.php?id=1266
+CTV Comedy,http://ott3.gearhostpreview.com/astro/ub.php?id=1267
+CTV Sci,http://ott3.gearhostpreview.com/astro/ub.php?id=1268
+Crave 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1269
+Crave 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1270
+Crave 3,http://ott3.gearhostpreview.com/astro/ub.php?id=1271
+TSN 3,http://ott3.gearhostpreview.com/astro/ub.php?id=1275
+TSN 4,http://ott3.gearhostpreview.com/astro/ub.php?id=1276
+TSN 5,http://ott3.gearhostpreview.com/astro/ub.php?id=1277
+SportNet ON,http://ott3.gearhostpreview.com/astro/ub.php?id=1278
+SportNet One,http://ott3.gearhostpreview.com/astro/ub.php?id=1279
+SportNet World,http://ott3.gearhostpreview.com/astro/ub.php?id=1280
+SportNet 360,http://ott3.gearhostpreview.com/astro/ub.php?id=1281
+NBA CA,http://ott3.gearhostpreview.com/astro/ub.php?id=1282
+TreeHouse,http://ott3.gearhostpreview.com/astro/ub.php?id=55#http://ott3.gearhostpreview.com/astro/ub.php?id=1283
+Teletoon,http://ott3.gearhostpreview.com/astro/ub.php?id=1284
+YTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1285
+新時代東部,http://ott3.gearhostpreview.com/astro/ub.php?id=1286#http://ott3.gearhostpreview.com/astro/ub.php?id=1286
+新時代西部,http://ott3.gearhostpreview.com/astro/ub.php?id=1287#http://ott3.gearhostpreview.com/astro/ub.php?id=1287
+城市電視,http://ott3.gearhostpreview.com/astro/ub.php?id=1289#http://ott3.gearhostpreview.com/astro/ub.php?id=1289
+新時代2,http://ott3.gearhostpreview.com/astro/ub.php?id=1288#http://ott3.gearhostpreview.com/astro/ub.php?id=1288
+TSN 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1274
+TSN 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1273
+Global,http://ott3.gearhostpreview.com/astro/ub.php?id=1254
+City,http://ott3.gearhostpreview.com/astro/ub.php?id=1255
+HGTV Canada,http://ott3.gearhostpreview.com/astro/ub.php?id=1264
+Business Network News,http://ott3.gearhostpreview.com/astro/ub.php?id=1250
+CTV News,http://ott3.gearhostpreview.com/astro/ub.php?id=1249
+CBC News,http://ott3.gearhostpreview.com/astro/ub.php?id=1248
+Crave 4,http://ott3.gearhostpreview.com/astro/ub.php?id=1272
+英國安測,#genre#
+BBC World News,http://ott3.gearhostpreview.com/astro/ub.php?id=421#http://ott3.gearhostpreview.com/astro/ub.php?id=421#http://ott3.gearhostpreview.com/astro/ub.php?id=1308
+BBC one,http://ott3.gearhostpreview.com/astro/ub.php?id=1382
+BBC four cbeebies,http://ott3.gearhostpreview.com/astro/ub.php?id=1383
+BBC three cbbc,http://ott3.gearhostpreview.com/astro/ub.php?id=1384
+BBC two,http://ott3.gearhostpreview.com/astro/ub.php?id=1385
+True entertainment,http://ott3.gearhostpreview.com/astro/ub.php?id=1386
+Discovery turbo,http://ott3.gearhostpreview.com/astro/ub.php?id=1387
+Sky greats,http://ott3.gearhostpreview.com/astro/ub.php?id=1388
+Channel 4,http://ott3.gearhostpreview.com/astro/ub.php?id=1390
+Channel 5,http://ott3.gearhostpreview.com/astro/ub.php?id=1391#http://ott3.gearhostpreview.com/astro/ub.php?id=449
+E ent,http://ott3.gearhostpreview.com/astro/ub.php?id=1392
+BBC red button,http://ott3.gearhostpreview.com/astro/ub.php?id=1393
+Citv,http://ott3.gearhostpreview.com/astro/ub.php?id=1394
+Sony tv,http://ott3.gearhostpreview.com/astro/ub.php?id=1395
+Nickelodeon,http://ott3.gearhostpreview.com/astro/ub.php?id=1573#http://ott3.gearhostpreview.com/astro/ub.php?id=1396
+E4,http://ott3.gearhostpreview.com/astro/ub.php?id=1397
+Alibi,http://ott3.gearhostpreview.com/astro/ub.php?id=1398
+CBS action,http://ott3.gearhostpreview.com/astro/ub.php?id=1399
+5 star,http://ott3.gearhostpreview.com/astro/ub.php?id=1400
+Itv 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1401
+Itv 2,http://ott3.gearhostpreview.com/astro/ub.php?id=1402
+Itv 3,http://ott3.gearhostpreview.com/astro/ub.php?id=1403
+Itv 4,http://ott3.gearhostpreview.com/astro/ub.php?id=1404
+4seven,http://ott3.gearhostpreview.com/astro/ub.php?id=1405
+Sky docu,http://ott3.gearhostpreview.com/astro/ub.php?id=1406
+Russia Today,http://ott3.gearhostpreview.com/astro/ub.php?id=1407#http://ott3.gearhostpreview.com/astro/ub.php?id=2142#http://ott3.gearhostpreview.com/astro/ub.php?id=1786
+Comedy Central,http://ott3.gearhostpreview.com/astro/ub.php?id=1223#http://ott3.gearhostpreview.com/astro/ub.php?id=1408
+Rte1,http://ott3.gearhostpreview.com/astro/ub.php?id=1409
+Rte2,http://ott3.gearhostpreview.com/astro/ub.php?id=1410
+Premiersp,http://ott3.gearhostpreview.com/astro/ub.php?id=1411
+Freesports,http://ott3.gearhostpreview.com/astro/ub.php?id=1412
+History,http://ott3.gearhostpreview.com/astro/ub.php?id=116#http://ott3.gearhostpreview.com/astro/ub.php?id=1530#http://ott3.gearhostpreview.com/astro/ub.php?id=1204#http://ott3.gearhostpreview.com/astro/ub.php?id=1413
+CNBC,http://ott3.gearhostpreview.com/astro/ub.php?id=1555#http://ott3.gearhostpreview.com/astro/ub.php?id=1106#http://ott3.gearhostpreview.com/astro/ub.php?id=1414
+Aljazeera,http://ott3.gearhostpreview.com/astro/ub.php?id=1415
+Tv3 virgin,http://ott3.gearhostpreview.com/astro/ub.php?id=1416
+Home,http://ott3.gearhostpreview.com/astro/ub.php?id=1417
+Dave,http://ott3.gearhostpreview.com/astro/ub.php?id=1418
+Film 4,http://ott3.gearhostpreview.com/astro/ub.php?id=1419
+More 4,http://ott3.gearhostpreview.com/astro/ub.php?id=1420
+Food Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1526#http://ott3.gearhostpreview.com/astro/ub.php?id=1378#http://ott3.gearhostpreview.com/astro/ub.php?id=1421#http://ott3.gearhostpreview.com/astro/ub.php?id=1617
+Gold,http://ott3.gearhostpreview.com/astro/ub.php?id=1422
+Syfy,http://ott3.gearhostpreview.com/astro/ub.php?id=1537#http://ott3.gearhostpreview.com/astro/ub.php?id=1221#http://ott3.gearhostpreview.com/astro/ub.php?id=1423
+Discovery,http://ott3.gearhostpreview.com/astro/ub.php?id=290#http://ott3.gearhostpreview.com/astro/ub.php?id=1529#http://ott3.gearhostpreview.com/astro/ub.php?id=1424
+Discovery science,http://ott3.gearhostpreview.com/astro/ub.php?id=1425
+Discovery investigation,http://ott3.gearhostpreview.com/astro/ub.php?id=1426
+Tg4,http://ott3.gearhostpreview.com/astro/ub.php?id=1427
+Real live,http://ott3.gearhostpreview.com/astro/ub.php?id=1428
+Cartoonito,http://ott3.gearhostpreview.com/astro/ub.php?id=1429
+Watch,http://ott3.gearhostpreview.com/astro/ub.php?id=1430
+Challenge,http://ott3.gearhostpreview.com/astro/ub.php?id=1431
+Vault,http://ott3.gearhostpreview.com/astro/ub.php?id=1432
+Pick,http://ott3.gearhostpreview.com/astro/ub.php?id=1433
+Nat Geo Wild,http://ott3.gearhostpreview.com/astro/ub.php?id=1521#http://ott3.gearhostpreview.com/astro/ub.php?id=1201#http://ott3.gearhostpreview.com/astro/ub.php?id=1434
+Nick jr,http://ott3.gearhostpreview.com/astro/ub.php?id=1435
+Quest,http://ott3.gearhostpreview.com/astro/ub.php?id=1436
+Sky News,http://ott3.gearhostpreview.com/astro/ub.php?id=1041#http://ott3.gearhostpreview.com/astro/ub.php?id=169
+BBC News,http://ott3.gearhostpreview.com/astro/ub.php?id=164
+Sky Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=171#http://ott3.gearhostpreview.com/astro/ub.php?id=171#http://ott3.gearhostpreview.com/astro/ub.php?id=2177
+Sky Sports 1,http://ott3.gearhostpreview.com/astro/ub.php?id=172#http://ott3.gearhostpreview.com/astro/ub.php?id=172
+Sky Sports F1,http://ott3.gearhostpreview.com/astro/ub.php?id=182#http://ott3.gearhostpreview.com/astro/ub.php?id=182
+Sky Sport 3,http://ott3.gearhostpreview.com/astro/ub.php?id=183#http://ott3.gearhostpreview.com/astro/ub.php?id=183
+Sky Sport 4,http://ott3.gearhostpreview.com/astro/ub.php?id=417#http://ott3.gearhostpreview.com/astro/ub.php?id=417
+Sky Sport 5,http://ott3.gearhostpreview.com/astro/ub.php?id=418#http://ott3.gearhostpreview.com/astro/ub.php?id=418
+Nickelodeon UK,http://ott3.gearhostpreview.com/astro/ub.php?id=1305
+意大利安測,#genre#
+Rai 1,http://ott3.gearhostpreview.com/astro/ub.php?id=2156#http://ott3.gearhostpreview.com/astro/ub.php?id=1610
+Rai 2,http://ott3.gearhostpreview.com/astro/ub.php?id=2157#http://ott3.gearhostpreview.com/astro/ub.php?id=1611
+Rai 3,http://ott3.gearhostpreview.com/astro/ub.php?id=2158#http://ott3.gearhostpreview.com/astro/ub.php?id=1612
+Rete 4,http://ott3.gearhostpreview.com/astro/ub.php?id=2161
+Rai News 24,http://ott3.gearhostpreview.com/astro/ub.php?id=2162#http://ott3.gearhostpreview.com/astro/ub.php?id=1604
+Mediaset Extra,http://ott3.gearhostpreview.com/astro/ub.php?id=2163
+Mediaset Iris,http://ott3.gearhostpreview.com/astro/ub.php?id=2164
+Italia 2,http://ott3.gearhostpreview.com/astro/ub.php?id=2166
+La7,http://ott3.gearhostpreview.com/astro/ub.php?id=2167
+Canale 5,http://ott3.gearhostpreview.com/astro/ub.php?id=2168#http://ott3.gearhostpreview.com/astro/ub.php?id=1615
+Premium Action,http://ott3.gearhostpreview.com/astro/ub.php?id=2170
+Sky Sport 24,http://ott3.gearhostpreview.com/astro/ub.php?id=2174
+SKY SPORT F1 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2175
+Sky Sport 1,http://ott3.gearhostpreview.com/astro/ub.php?id=2176
+Sky Sport 2,http://ott3.gearhostpreview.com/astro/ub.php?id=171#http://ott3.gearhostpreview.com/astro/ub.php?id=171#http://ott3.gearhostpreview.com/astro/ub.php?id=2177
+Sky Uno,http://ott3.gearhostpreview.com/astro/ub.php?id=2179
+Sky Atlantic,http://ott3.gearhostpreview.com/astro/ub.php?id=2180#http://ott3.gearhostpreview.com/astro/ub.php?id=1619
+LA5,http://ott3.gearhostpreview.com/astro/ub.php?id=2182
+20 Mediaset,http://ott3.gearhostpreview.com/astro/ub.php?id=2185
+Premium Cinema HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2186
+RTL 102.5 TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2188
+m2o TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2189
+Radio Norba TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2190
+Super TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2191
+Food Network HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2192
+HGTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1538#http://ott3.gearhostpreview.com/astro/ub.php?id=2193#http://ott3.gearhostpreview.com/astro/ub.php?id=1618#http://ott3.gearhostpreview.com/astro/ub.php?id=2106#http://ott3.gearhostpreview.com/astro/ub.php?id=1750
+Radio Tv Azzura,http://ott3.gearhostpreview.com/astro/ub.php?id=2194
+Radio Italia TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2195
+Radio 105,http://ott3.gearhostpreview.com/astro/ub.php?id=2196
+TOP CALCIO 24,http://ott3.gearhostpreview.com/astro/ub.php?id=1595
+Rai Italia,http://ott3.gearhostpreview.com/astro/ub.php?id=1596#http://ott3.gearhostpreview.com/astro/ub.php?id=1614
+Sky sport uno,http://ott3.gearhostpreview.com/astro/ub.php?id=1597
+Sky sport serie A,http://ott3.gearhostpreview.com/astro/ub.php?id=1598
+Inter TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1599
+Deejay TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1601
+Style Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1602
+Babayaga TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1603
+Rai Sport,http://ott3.gearhostpreview.com/astro/ub.php?id=1613
+Italia 1,http://ott3.gearhostpreview.com/astro/ub.php?id=1616
+Food Network,http://ott3.gearhostpreview.com/astro/ub.php?id=1526#http://ott3.gearhostpreview.com/astro/ub.php?id=1378#http://ott3.gearhostpreview.com/astro/ub.php?id=1421#http://ott3.gearhostpreview.com/astro/ub.php?id=1617
+新馬安測,#genre#
+CNA 24,http://ott3.gearhostpreview.com/astro/ub.php?id=15
+CERIA,http://ott3.gearhostpreview.com/astro/ub.php?id=1161
+TVN,http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=1583#http://ott3.gearhostpreview.com/astro/ub.php?id=295#http://ott3.gearhostpreview.com/astro/ub.php?id=1170
+Arena,http://ott3.gearhostpreview.com/astro/ub.php?id=1172
+CRICKET,http://ott3.gearhostpreview.com/astro/ub.php?id=1173
+Astro Awani,http://ott3.gearhostpreview.com/astro/ub.php?id=440
+天映頻道,http://ott3.gearhostpreview.com/astro/ub.php?id=441
+全佳,http://ott3.gearhostpreview.com/astro/ub.php?id=427
+KIX,http://ott3.gearhostpreview.com/astro/ub.php?id=430#http://ott3.gearhostpreview.com/astro/ub.php?id=1446
+歡喜,http://ott3.gearhostpreview.com/astro/ub.php?id=432
+Suria,http://ott3.gearhostpreview.com/astro/ub.php?id=434#http://ott3.gearhostpreview.com/astro/ub.php?id=1076
+雙星,http://ott3.gearhostpreview.com/astro/ub.php?id=431#http://ott3.gearhostpreview.com/astro/ub.php?id=1086
+AEC,http://ott3.gearhostpreview.com/astro/ub.php?id=433#http://ott3.gearhostpreview.com/astro/ub.php?id=1073
+華麗,http://ott3.gearhostpreview.com/astro/ub.php?id=429
+TV2,http://ott3.gearhostpreview.com/astro/ub.php?id=436#http://ott3.gearhostpreview.com/astro/ub.php?id=1955#http://ott3.gearhostpreview.com/astro/ub.php?id=1453
+TV3,http://ott3.gearhostpreview.com/astro/ub.php?id=437#http://ott3.gearhostpreview.com/astro/ub.php?id=1454
+TV9,http://ott3.gearhostpreview.com/astro/ub.php?id=438#http://ott3.gearhostpreview.com/astro/ub.php?id=1456#http://ott3.gearhostpreview.com/astro/ub.php?id=1480
+NTV7,http://ott3.gearhostpreview.com/astro/ub.php?id=439#http://ott3.gearhostpreview.com/astro/ub.php?id=1447
+TV8,http://ott3.gearhostpreview.com/astro/ub.php?id=442#http://ott3.gearhostpreview.com/astro/ub.php?id=1455
+小太陽,http://ott3.gearhostpreview.com/astro/ub.php?id=443#http://ott3.gearhostpreview.com/astro/ub.php?id=1080
+AOD,http://ott3.gearhostpreview.com/astro/ub.php?id=428
+Channel 5,http://ott3.gearhostpreview.com/astro/ub.php?id=1391#http://ott3.gearhostpreview.com/astro/ub.php?id=449
+TV1,http://ott3.gearhostpreview.com/astro/ub.php?id=435#http://ott3.gearhostpreview.com/astro/ub.php?id=1954#http://ott3.gearhostpreview.com/astro/ub.php?id=1452
+Channel U,http://ott3.gearhostpreview.com/astro/ub.php?id=448#http://ott3.gearhostpreview.com/astro/ub.php?id=1077
+Astro Sp1,http://ott3.gearhostpreview.com/astro/ub.php?id=444#http://ott3.gearhostpreview.com/astro/ub.php?id=444
+Astro Sp2,http://ott3.gearhostpreview.com/astro/ub.php?id=445#http://ott3.gearhostpreview.com/astro/ub.php?id=445
+Astro Sp3,http://ott3.gearhostpreview.com/astro/ub.php?id=446#http://ott3.gearhostpreview.com/astro/ub.php?id=446
+Astro Sp4,http://ott3.gearhostpreview.com/astro/ub.php?id=447#http://ott3.gearhostpreview.com/astro/ub.php?id=447
+Channel 8,http://ott3.gearhostpreview.com/astro/ub.php?id=1160#http://ott3.gearhostpreview.com/astro/ub.php?id=1140
+馬來新安測,#genre#
+FRANCE24 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1950
+TV1,http://ott3.gearhostpreview.com/astro/ub.php?id=435#http://ott3.gearhostpreview.com/astro/ub.php?id=1954#http://ott3.gearhostpreview.com/astro/ub.php?id=1452
+TV2,http://ott3.gearhostpreview.com/astro/ub.php?id=436#http://ott3.gearhostpreview.com/astro/ub.php?id=1955#http://ott3.gearhostpreview.com/astro/ub.php?id=1453
+Baby TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1129#http://ott3.gearhostpreview.com/astro/ub.php?id=1956#http://ott3.gearhostpreview.com/astro/ub.php?id=2077#http://ott3.gearhostpreview.com/astro/ub.php?id=1721
+Boomerang HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1961
+Cinema World HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1962
+Colors Cineplex,http://ott3.gearhostpreview.com/astro/ub.php?id=1963
+Dreamworks HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1964
+RTM Sports,http://ott3.gearhostpreview.com/astro/ub.php?id=1969
+Sony SetMAX,http://ott3.gearhostpreview.com/astro/ub.php?id=1972
+Astro Rania HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1975
+Astro Aura HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1976
+DAAI TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1977
+NET TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1978#http://ott3.gearhostpreview.com/astro/ub.php?id=1622
+ANTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1979#http://ott3.gearhostpreview.com/astro/ub.php?id=1479#http://ott3.gearhostpreview.com/astro/ub.php?id=1623#http://ott3.gearhostpreview.com/astro/ub.php?id=1300#http://ott3.gearhostpreview.com/astro/ub.php?id=1312
+SCTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1980#http://ott3.gearhostpreview.com/astro/ub.php?id=1486#http://ott3.gearhostpreview.com/astro/ub.php?id=1624
+Trans TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1981#http://ott3.gearhostpreview.com/astro/ub.php?id=1625
+Trans 7,http://ott3.gearhostpreview.com/astro/ub.php?id=1982#http://ott3.gearhostpreview.com/astro/ub.php?id=1626
+Rajawali TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1983#http://ott3.gearhostpreview.com/astro/ub.php?id=1627
+NET TV FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=1984#http://ott3.gearhostpreview.com/astro/ub.php?id=1628
+JTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1985#http://ott3.gearhostpreview.com/astro/ub.php?id=1484#http://ott3.gearhostpreview.com/astro/ub.php?id=1629
+Bali TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1986#http://ott3.gearhostpreview.com/astro/ub.php?id=1630
+Dunia Lain,http://ott3.gearhostpreview.com/astro/ub.php?id=1987#http://ott3.gearhostpreview.com/astro/ub.php?id=1631
+Trans TV FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=1988#http://ott3.gearhostpreview.com/astro/ub.php?id=1632
+Trans 7 FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=1989#http://ott3.gearhostpreview.com/astro/ub.php?id=1633
+SCTV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1990#http://ott3.gearhostpreview.com/astro/ub.php?id=1634
+U Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1991#http://ott3.gearhostpreview.com/astro/ub.php?id=1635
+Life,http://ott3.gearhostpreview.com/astro/ub.php?id=1994#http://ott3.gearhostpreview.com/astro/ub.php?id=1638
+Indosiar,http://ott3.gearhostpreview.com/astro/ub.php?id=1995#http://ott3.gearhostpreview.com/astro/ub.php?id=1478#http://ott3.gearhostpreview.com/astro/ub.php?id=1639
+Hope Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1999#http://ott3.gearhostpreview.com/astro/ub.php?id=1643
+TV ONE,http://ott3.gearhostpreview.com/astro/ub.php?id=2001#http://ott3.gearhostpreview.com/astro/ub.php?id=1645
+Kompas TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2002#http://ott3.gearhostpreview.com/astro/ub.php?id=1646#http://ott3.gearhostpreview.com/astro/ub.php?id=1146
+TVRI,http://ott3.gearhostpreview.com/astro/ub.php?id=2003#http://ott3.gearhostpreview.com/astro/ub.php?id=1473#http://ott3.gearhostpreview.com/astro/ub.php?id=1647
+CNN Indonesia,http://ott3.gearhostpreview.com/astro/ub.php?id=2004#http://ott3.gearhostpreview.com/astro/ub.php?id=1648#http://ott3.gearhostpreview.com/astro/ub.php?id=1145
+Metro TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2005#http://ott3.gearhostpreview.com/astro/ub.php?id=1649
+Berita Satu News,http://ott3.gearhostpreview.com/astro/ub.php?id=2006#http://ott3.gearhostpreview.com/astro/ub.php?id=1650
+CNBC Indonesia,http://ott3.gearhostpreview.com/astro/ub.php?id=2007#http://ott3.gearhostpreview.com/astro/ub.php?id=1651
+Metro TV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2008#http://ott3.gearhostpreview.com/astro/ub.php?id=1652
+Thrill,http://ott3.gearhostpreview.com/astro/ub.php?id=2010#http://ott3.gearhostpreview.com/astro/ub.php?id=1654
+Celestial Movies,http://ott3.gearhostpreview.com/astro/ub.php?id=2011#http://ott3.gearhostpreview.com/astro/ub.php?id=1655
+Zee Bioskop,http://ott3.gearhostpreview.com/astro/ub.php?id=2012#http://ott3.gearhostpreview.com/astro/ub.php?id=1656
+KIX HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2013#http://ott3.gearhostpreview.com/astro/ub.php?id=1657
+AXN,http://ott3.gearhostpreview.com/astro/ub.php?id=2014#http://ott3.gearhostpreview.com/astro/ub.php?id=1044#http://ott3.gearhostpreview.com/astro/ub.php?id=1658
+FOX Life HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2015#http://ott3.gearhostpreview.com/astro/ub.php?id=1659
+FOX HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2016#http://ott3.gearhostpreview.com/astro/ub.php?id=1660
+FOX Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2017#http://ott3.gearhostpreview.com/astro/ub.php?id=1661
+FOX Action Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2018#http://ott3.gearhostpreview.com/astro/ub.php?id=1662
+HBO HD,http://ott3.gearhostpreview.com/astro/ub.php?id=332#http://ott3.gearhostpreview.com/astro/ub.php?id=2019#http://ott3.gearhostpreview.com/astro/ub.php?id=1663
+HBO Hits HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2021#http://ott3.gearhostpreview.com/astro/ub.php?id=1665
+HBO Family HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2022#http://ott3.gearhostpreview.com/astro/ub.php?id=1666
+FOX Crime HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2023#http://ott3.gearhostpreview.com/astro/ub.php?id=1667
+Star Chinese Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2025#http://ott3.gearhostpreview.com/astro/ub.php?id=1669
+Blue Ant Extreme HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2026#http://ott3.gearhostpreview.com/astro/ub.php?id=1670
+LifeTime HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2027#http://ott3.gearhostpreview.com/astro/ub.php?id=1671
+HBO Signature HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2028#http://ott3.gearhostpreview.com/astro/ub.php?id=1672
+Bioskop Indonesia,http://ott3.gearhostpreview.com/astro/ub.php?id=2029#http://ott3.gearhostpreview.com/astro/ub.php?id=1673
+Hits Movie SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2030#http://ott3.gearhostpreview.com/astro/ub.php?id=1674
+Cinema World,http://ott3.gearhostpreview.com/astro/ub.php?id=2031#http://ott3.gearhostpreview.com/astro/ub.php?id=1675
+HITS HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2032#http://ott3.gearhostpreview.com/astro/ub.php?id=1676
+FOX Action Movies FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2033#http://ott3.gearhostpreview.com/astro/ub.php?id=1677
+HBO FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2034#http://ott3.gearhostpreview.com/astro/ub.php?id=1678
+HBO Signature FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2035#http://ott3.gearhostpreview.com/astro/ub.php?id=1679
+Warner TV ID HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2036#http://ott3.gearhostpreview.com/astro/ub.php?id=1680
+Star Chinese Movies Legend,http://ott3.gearhostpreview.com/astro/ub.php?id=2037#http://ott3.gearhostpreview.com/astro/ub.php?id=1681
+CCM,http://ott3.gearhostpreview.com/astro/ub.php?id=2038#http://ott3.gearhostpreview.com/astro/ub.php?id=1438#http://ott3.gearhostpreview.com/astro/ub.php?id=1682
+Cinemax ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2039#http://ott3.gearhostpreview.com/astro/ub.php?id=1683
+Red By HBO HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2040#http://ott3.gearhostpreview.com/astro/ub.php?id=1684
+FMN,http://ott3.gearhostpreview.com/astro/ub.php?id=2041#http://ott3.gearhostpreview.com/astro/ub.php?id=1685
+HBO Hits FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2042#http://ott3.gearhostpreview.com/astro/ub.php?id=1686
+FOX Family Movies ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2043#http://ott3.gearhostpreview.com/astro/ub.php?id=1687
+HBO SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2044#http://ott3.gearhostpreview.com/astro/ub.php?id=1688
+HBO Hits SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2045#http://ott3.gearhostpreview.com/astro/ub.php?id=1689
+HBO Signature SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2046#http://ott3.gearhostpreview.com/astro/ub.php?id=1690
+HBO Family SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2047#http://ott3.gearhostpreview.com/astro/ub.php?id=1691
+Cinemax SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2048#http://ott3.gearhostpreview.com/astro/ub.php?id=1692
+FLIK HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2049#http://ott3.gearhostpreview.com/astro/ub.php?id=1693
+Galaxy Premium SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2050#http://ott3.gearhostpreview.com/astro/ub.php?id=1694
+Galaxy SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2051#http://ott3.gearhostpreview.com/astro/ub.php?id=1695
+ATV,http://ott3.gearhostpreview.com/astro/ub.php?id=2052#http://ott3.gearhostpreview.com/astro/ub.php?id=1696
+HBO Family FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2053#http://ott3.gearhostpreview.com/astro/ub.php?id=1697
+Cinemax FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2054#http://ott3.gearhostpreview.com/astro/ub.php?id=1698
+IMC SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2055#http://ott3.gearhostpreview.com/astro/ub.php?id=1699
+Nat Geo HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2056#http://ott3.gearhostpreview.com/astro/ub.php?id=1700
+Nat Geo Wild HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2057#http://ott3.gearhostpreview.com/astro/ub.php?id=1701
+Discovery Channel HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2058#http://ott3.gearhostpreview.com/astro/ub.php?id=1702
+Crime Investigation,http://ott3.gearhostpreview.com/astro/ub.php?id=2059#http://ott3.gearhostpreview.com/astro/ub.php?id=1703
+Discovery Shed,http://ott3.gearhostpreview.com/astro/ub.php?id=2060#http://ott3.gearhostpreview.com/astro/ub.php?id=1704
+Nat Geo People HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2063#http://ott3.gearhostpreview.com/astro/ub.php?id=1707
+History HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2064#http://ott3.gearhostpreview.com/astro/ub.php?id=1708
+Discovery Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2065#http://ott3.gearhostpreview.com/astro/ub.php?id=1709
+History FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2066#http://ott3.gearhostpreview.com/astro/ub.php?id=1710
+Lingua Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=2067#http://ott3.gearhostpreview.com/astro/ub.php?id=1711
+Smithsonian Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=2068#http://ott3.gearhostpreview.com/astro/ub.php?id=1712
+Da Vinci Learning,http://ott3.gearhostpreview.com/astro/ub.php?id=2069#http://ott3.gearhostpreview.com/astro/ub.php?id=1713
+Ruang Terampil,http://ott3.gearhostpreview.com/astro/ub.php?id=2070#http://ott3.gearhostpreview.com/astro/ub.php?id=1714
+TV Edukasi,http://ott3.gearhostpreview.com/astro/ub.php?id=2071#http://ott3.gearhostpreview.com/astro/ub.php?id=1715
+Love Nature 4K,http://ott3.gearhostpreview.com/astro/ub.php?id=2072#http://ott3.gearhostpreview.com/astro/ub.php?id=1716
+Aniplus,http://ott3.gearhostpreview.com/astro/ub.php?id=2073#http://ott3.gearhostpreview.com/astro/ub.php?id=1717
+Animax,http://ott3.gearhostpreview.com/astro/ub.php?id=59#http://ott3.gearhostpreview.com/astro/ub.php?id=139#http://ott3.gearhostpreview.com/astro/ub.php?id=2074#http://ott3.gearhostpreview.com/astro/ub.php?id=1718
+Disney Junior,http://ott3.gearhostpreview.com/astro/ub.php?id=1210#http://ott3.gearhostpreview.com/astro/ub.php?id=2076#http://ott3.gearhostpreview.com/astro/ub.php?id=1720
+Boomerang ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2078#http://ott3.gearhostpreview.com/astro/ub.php?id=1722
+Nick Jr ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2080#http://ott3.gearhostpreview.com/astro/ub.php?id=1724
+Cartoon Network ID HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2081#http://ott3.gearhostpreview.com/astro/ub.php?id=1725
+Dunia Anak,http://ott3.gearhostpreview.com/astro/ub.php?id=2082#http://ott3.gearhostpreview.com/astro/ub.php?id=1726
+Nickelodeon ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2083#http://ott3.gearhostpreview.com/astro/ub.php?id=1727
+Toonmax,http://ott3.gearhostpreview.com/astro/ub.php?id=2084#http://ott3.gearhostpreview.com/astro/ub.php?id=1728
+Baby First,http://ott3.gearhostpreview.com/astro/ub.php?id=2085#http://ott3.gearhostpreview.com/astro/ub.php?id=1729
+My Kidz,http://ott3.gearhostpreview.com/astro/ub.php?id=2086#http://ott3.gearhostpreview.com/astro/ub.php?id=1730
+Duck TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2087#http://ott3.gearhostpreview.com/astro/ub.php?id=1731
+Disney Channel ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2088#http://ott3.gearhostpreview.com/astro/ub.php?id=1732
+Zoo Moo HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2089#http://ott3.gearhostpreview.com/astro/ub.php?id=1733
+Horee,http://ott3.gearhostpreview.com/astro/ub.php?id=2090#http://ott3.gearhostpreview.com/astro/ub.php?id=1734
+Dream Works HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2091#http://ott3.gearhostpreview.com/astro/ub.php?id=1735
+XingXong,http://ott3.gearhostpreview.com/astro/ub.php?id=2092#http://ott3.gearhostpreview.com/astro/ub.php?id=1736
+CBeebies,http://ott3.gearhostpreview.com/astro/ub.php?id=2093#http://ott3.gearhostpreview.com/astro/ub.php?id=1737
+Fox Sports 1 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2094#http://ott3.gearhostpreview.com/astro/ub.php?id=1738
+Fox Sports 3 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2095#http://ott3.gearhostpreview.com/astro/ub.php?id=1739
+Fox Sports 2 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2096#http://ott3.gearhostpreview.com/astro/ub.php?id=1740
+BeIN Sport 1 ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2097#http://ott3.gearhostpreview.com/astro/ub.php?id=1741
+BeIN Sport 2 ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2098#http://ott3.gearhostpreview.com/astro/ub.php?id=1742
+Badminton 1,http://ott3.gearhostpreview.com/astro/ub.php?id=2102#http://ott3.gearhostpreview.com/astro/ub.php?id=1746
+Badminton 2,http://ott3.gearhostpreview.com/astro/ub.php?id=2103#http://ott3.gearhostpreview.com/astro/ub.php?id=1747
+Fashion TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2104#http://ott3.gearhostpreview.com/astro/ub.php?id=1748
+TLC HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2105#http://ott3.gearhostpreview.com/astro/ub.php?id=1749
+HGTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1538#http://ott3.gearhostpreview.com/astro/ub.php?id=2193#http://ott3.gearhostpreview.com/astro/ub.php?id=1618#http://ott3.gearhostpreview.com/astro/ub.php?id=2106#http://ott3.gearhostpreview.com/astro/ub.php?id=1750
+Waku Waku Japan HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2107#http://ott3.gearhostpreview.com/astro/ub.php?id=1751
+AFN HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2108#http://ott3.gearhostpreview.com/astro/ub.php?id=1752
+Citra Drama,http://ott3.gearhostpreview.com/astro/ub.php?id=2109#http://ott3.gearhostpreview.com/astro/ub.php?id=1753
+Every Good Game,http://ott3.gearhostpreview.com/astro/ub.php?id=2110#http://ott3.gearhostpreview.com/astro/ub.php?id=1754
+Blue Ant Entertainment HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2111#http://ott3.gearhostpreview.com/astro/ub.php?id=1755
+Insert,http://ott3.gearhostpreview.com/astro/ub.php?id=2112#http://ott3.gearhostpreview.com/astro/ub.php?id=1756
+Eat & Go,http://ott3.gearhostpreview.com/astro/ub.php?id=2113#http://ott3.gearhostpreview.com/astro/ub.php?id=1757
+.idku,http://ott3.gearhostpreview.com/astro/ub.php?id=2114#http://ott3.gearhostpreview.com/astro/ub.php?id=1758
+BBC Lifestyle HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2115#http://ott3.gearhostpreview.com/astro/ub.php?id=1759
+K Plus,http://ott3.gearhostpreview.com/astro/ub.php?id=2116#http://ott3.gearhostpreview.com/astro/ub.php?id=1760
+Sony ONE,http://ott3.gearhostpreview.com/astro/ub.php?id=2117#http://ott3.gearhostpreview.com/astro/ub.php?id=1761
+TVN ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2118#http://ott3.gearhostpreview.com/astro/ub.php?id=1762
+S GEM HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2119#http://ott3.gearhostpreview.com/astro/ub.php?id=1763
+tVN Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2120#http://ott3.gearhostpreview.com/astro/ub.php?id=1764
+KBS World HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2121#http://ott3.gearhostpreview.com/astro/ub.php?id=1765
+K Drama,http://ott3.gearhostpreview.com/astro/ub.php?id=2122#http://ott3.gearhostpreview.com/astro/ub.php?id=1766
+Channel V HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2123#http://ott3.gearhostpreview.com/astro/ub.php?id=1767
+Prambors TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2124#http://ott3.gearhostpreview.com/astro/ub.php?id=1768
+ONE African TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2125#http://ott3.gearhostpreview.com/astro/ub.php?id=1769
+Citra Dangdut,http://ott3.gearhostpreview.com/astro/ub.php?id=2126#http://ott3.gearhostpreview.com/astro/ub.php?id=1770
+MTV LIVE HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2127#http://ott3.gearhostpreview.com/astro/ub.php?id=1771
+i konser,http://ott3.gearhostpreview.com/astro/ub.php?id=2128#http://ott3.gearhostpreview.com/astro/ub.php?id=1772
+Makkah TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2129#http://ott3.gearhostpreview.com/astro/ub.php?id=1773
+Rodja TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2130#http://ott3.gearhostpreview.com/astro/ub.php?id=1774
+Madina TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2131#http://ott3.gearhostpreview.com/astro/ub.php?id=1775
+TV Mu,http://ott3.gearhostpreview.com/astro/ub.php?id=2132#http://ott3.gearhostpreview.com/astro/ub.php?id=1776
+Ahsan TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2133#http://ott3.gearhostpreview.com/astro/ub.php?id=1777
+Reformed 21,http://ott3.gearhostpreview.com/astro/ub.php?id=2134#http://ott3.gearhostpreview.com/astro/ub.php?id=1778
+Bloomberg TV Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2135#http://ott3.gearhostpreview.com/astro/ub.php?id=1779
+DW TV Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2136#http://ott3.gearhostpreview.com/astro/ub.php?id=1780
+France 24,http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=2137#http://ott3.gearhostpreview.com/astro/ub.php?id=1781
+BBC World News HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2138#http://ott3.gearhostpreview.com/astro/ub.php?id=1782
+Channel News Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2139#http://ott3.gearhostpreview.com/astro/ub.php?id=1783
+CNN Int,http://ott3.gearhostpreview.com/astro/ub.php?id=2140#http://ott3.gearhostpreview.com/astro/ub.php?id=1784
+CGTN News,http://ott3.gearhostpreview.com/astro/ub.php?id=2141#http://ott3.gearhostpreview.com/astro/ub.php?id=1785
+Russia Today,http://ott3.gearhostpreview.com/astro/ub.php?id=1407#http://ott3.gearhostpreview.com/astro/ub.php?id=2142#http://ott3.gearhostpreview.com/astro/ub.php?id=1786
+Aljazeera EN,http://ott3.gearhostpreview.com/astro/ub.php?id=2143#http://ott3.gearhostpreview.com/astro/ub.php?id=1787
+NHK World Japan,http://ott3.gearhostpreview.com/astro/ub.php?id=2144#http://ott3.gearhostpreview.com/astro/ub.php?id=1788
+TV 5 Monde Asie,http://ott3.gearhostpreview.com/astro/ub.php?id=2145#http://ott3.gearhostpreview.com/astro/ub.php?id=1789
+Golf Channel FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2146#http://ott3.gearhostpreview.com/astro/ub.php?id=1790
+Fight Sports,http://ott3.gearhostpreview.com/astro/ub.php?id=2147#http://ott3.gearhostpreview.com/astro/ub.php?id=1791
+UFC FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2148#http://ott3.gearhostpreview.com/astro/ub.php?id=1792
+NBA TV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2149#http://ott3.gearhostpreview.com/astro/ub.php?id=1793
+新馬安測,#genre#
+BOO,http://ott3.gearhostpreview.com/astro/ub.php?id=1437
+CCM,http://ott3.gearhostpreview.com/astro/ub.php?id=2038#http://ott3.gearhostpreview.com/astro/ub.php?id=1438#http://ott3.gearhostpreview.com/astro/ub.php?id=1682
+CELESTIAL,http://ott3.gearhostpreview.com/astro/ub.php?id=1439
+Citra,http://ott3.gearhostpreview.com/astro/ub.php?id=1440
+Fox_Action_Movies,http://ott3.gearhostpreview.com/astro/ub.php?id=1441
+Fox_Family_Movies,http://ott3.gearhostpreview.com/astro/ub.php?id=1442
+Fox_Movies,http://ott3.gearhostpreview.com/astro/ub.php?id=1443
+Hua Hee Dai,http://ott3.gearhostpreview.com/astro/ub.php?id=1444
+iQIYI,http://ott3.gearhostpreview.com/astro/ub.php?id=1445
+KIX,http://ott3.gearhostpreview.com/astro/ub.php?id=430#http://ott3.gearhostpreview.com/astro/ub.php?id=1446
+NTV7,http://ott3.gearhostpreview.com/astro/ub.php?id=439#http://ott3.gearhostpreview.com/astro/ub.php?id=1447
+PRIMA,http://ott3.gearhostpreview.com/astro/ub.php?id=1448
+Quan Jia,http://ott3.gearhostpreview.com/astro/ub.php?id=1449
+SCM,http://ott3.gearhostpreview.com/astro/ub.php?id=1450
+sony_one,http://ott3.gearhostpreview.com/astro/ub.php?id=1451
+TV1,http://ott3.gearhostpreview.com/astro/ub.php?id=435#http://ott3.gearhostpreview.com/astro/ub.php?id=1954#http://ott3.gearhostpreview.com/astro/ub.php?id=1452
+TV2,http://ott3.gearhostpreview.com/astro/ub.php?id=436#http://ott3.gearhostpreview.com/astro/ub.php?id=1955#http://ott3.gearhostpreview.com/astro/ub.php?id=1453
+TV3,http://ott3.gearhostpreview.com/astro/ub.php?id=437#http://ott3.gearhostpreview.com/astro/ub.php?id=1454
+TV8,http://ott3.gearhostpreview.com/astro/ub.php?id=442#http://ott3.gearhostpreview.com/astro/ub.php?id=1455
+TV9,http://ott3.gearhostpreview.com/astro/ub.php?id=438#http://ott3.gearhostpreview.com/astro/ub.php?id=1456#http://ott3.gearhostpreview.com/astro/ub.php?id=1480
+Channel8,http://ott3.gearhostpreview.com/astro/ub.php?id=142
+Channel5,http://ott3.gearhostpreview.com/astro/ub.php?id=141
+ARENA_HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1049
+AOD351,http://ott3.gearhostpreview.com/astro/ub.php?id=1050
+AOD352,http://ott3.gearhostpreview.com/astro/ub.php?id=450
+AOD353,http://ott3.gearhostpreview.com/astro/ub.php?id=1067
+AOD354,http://ott3.gearhostpreview.com/astro/ub.php?id=1068
+AOD355,http://ott3.gearhostpreview.com/astro/ub.php?id=1069
+ASSP1_HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1070
+ASSP2_HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1071
+ASSP3_HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1072
+ASSP4_HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1074
+AEC,http://ott3.gearhostpreview.com/astro/ub.php?id=433#http://ott3.gearhostpreview.com/astro/ub.php?id=1073
+AFN,http://ott3.gearhostpreview.com/astro/ub.php?id=307#http://ott3.gearhostpreview.com/astro/ub.php?id=195
+Channel U,http://ott3.gearhostpreview.com/astro/ub.php?id=448#http://ott3.gearhostpreview.com/astro/ub.php?id=1077
+Vasantham,http://ott3.gearhostpreview.com/astro/ub.php?id=1078
+TVB星河,http://ott3.gearhostpreview.com/astro/ub.php?id=1079#http://ott3.gearhostpreview.com/astro/ub.php?id=1079
+小太陽,http://ott3.gearhostpreview.com/astro/ub.php?id=443#http://ott3.gearhostpreview.com/astro/ub.php?id=1080
+WWE,http://ott3.gearhostpreview.com/astro/ub.php?id=1081#http://ott3.gearhostpreview.com/astro/ub.php?id=1572#http://ott3.gearhostpreview.com/astro/ub.php?id=1191#http://ott3.gearhostpreview.com/astro/ub.php?id=1081
+TVN MOVIE,http://ott3.gearhostpreview.com/astro/ub.php?id=1082
+TVB經典,http://ott3.gearhostpreview.com/astro/ub.php?id=1083#http://ott3.gearhostpreview.com/astro/ub.php?id=1083
+TVB Jade,http://ott3.gearhostpreview.com/astro/ub.php?id=1084#http://ott3.gearhostpreview.com/astro/ub.php?id=1084
+衛視卡式臺,http://ott3.gearhostpreview.com/astro/ub.php?id=1085#http://ott3.gearhostpreview.com/astro/ub.php?id=1085
+雙星,http://ott3.gearhostpreview.com/astro/ub.php?id=431#http://ott3.gearhostpreview.com/astro/ub.php?id=1086
+Suria,http://ott3.gearhostpreview.com/astro/ub.php?id=434#http://ott3.gearhostpreview.com/astro/ub.php?id=1076
+OKEY,http://ott3.gearhostpreview.com/astro/ub.php?id=1075
+AWANI,http://ott3.gearhostpreview.com/astro/ub.php?id=1151
+AXN,http://ott3.gearhostpreview.com/astro/ub.php?id=2014#http://ott3.gearhostpreview.com/astro/ub.php?id=1044#http://ott3.gearhostpreview.com/astro/ub.php?id=1658
+BNC,http://ott3.gearhostpreview.com/astro/ub.php?id=1045
+菲律賓安測,#genre#
+LIGA,http://ott3.gearhostpreview.com/astro/ub.php?id=1332
+CinemaOne,http://ott3.gearhostpreview.com/astro/ub.php?id=1333
+SportsAction,http://ott3.gearhostpreview.com/astro/ub.php?id=1334
+Jeepney,http://ott3.gearhostpreview.com/astro/ub.php?id=1335
+MYX,http://ott3.gearhostpreview.com/astro/ub.php?id=1336
+GMA,http://ott3.gearhostpreview.com/astro/ub.php?id=1337
+TV5,http://ott3.gearhostpreview.com/astro/ub.php?id=1338
+泰國安測,#genre#
+Thailand ch3,http://ott3.gearhostpreview.com/astro/ub.php?id=1839
+Thailand ch7,http://ott3.gearhostpreview.com/astro/ub.php?id=1840
+Thailand ch8,http://ott3.gearhostpreview.com/astro/ub.php?id=1841
+Gmm 25,http://ott3.gearhostpreview.com/astro/ub.php?id=1842
+Mono 29,http://ott3.gearhostpreview.com/astro/ub.php?id=1843
+NEWS1,http://ott3.gearhostpreview.com/astro/ub.php?id=1608
+NBT Central,http://ott3.gearhostpreview.com/astro/ub.php?id=1609
+Thairath TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1139
+Channel 8,http://ott3.gearhostpreview.com/astro/ub.php?id=1160#http://ott3.gearhostpreview.com/astro/ub.php?id=1140
+Thai PBS,http://ott3.gearhostpreview.com/astro/ub.php?id=1047
+印尼安測,#genre#
+TVRI,http://ott3.gearhostpreview.com/astro/ub.php?id=2003#http://ott3.gearhostpreview.com/astro/ub.php?id=1473#http://ott3.gearhostpreview.com/astro/ub.php?id=1647
+Rcti,http://ott3.gearhostpreview.com/astro/ub.php?id=1474#http://ott3.gearhostpreview.com/astro/ub.php?id=1637
+Kompass,http://ott3.gearhostpreview.com/astro/ub.php?id=1475
+GlobalTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1476#http://ott3.gearhostpreview.com/astro/ub.php?id=1642
+BeritaSatu,http://ott3.gearhostpreview.com/astro/ub.php?id=1477
+Indosiar,http://ott3.gearhostpreview.com/astro/ub.php?id=1995#http://ott3.gearhostpreview.com/astro/ub.php?id=1478#http://ott3.gearhostpreview.com/astro/ub.php?id=1639
+Antv,http://ott3.gearhostpreview.com/astro/ub.php?id=1979#http://ott3.gearhostpreview.com/astro/ub.php?id=1479#http://ott3.gearhostpreview.com/astro/ub.php?id=1623#http://ott3.gearhostpreview.com/astro/ub.php?id=1300#http://ott3.gearhostpreview.com/astro/ub.php?id=1312
+TV9,http://ott3.gearhostpreview.com/astro/ub.php?id=438#http://ott3.gearhostpreview.com/astro/ub.php?id=1456#http://ott3.gearhostpreview.com/astro/ub.php?id=1480
+Mnctv,http://ott3.gearhostpreview.com/astro/ub.php?id=1481
+Trans7,http://ott3.gearhostpreview.com/astro/ub.php?id=1482
+Transtv,http://ott3.gearhostpreview.com/astro/ub.php?id=1483
+JTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1985#http://ott3.gearhostpreview.com/astro/ub.php?id=1484#http://ott3.gearhostpreview.com/astro/ub.php?id=1629
+Metrotv,http://ott3.gearhostpreview.com/astro/ub.php?id=1485
+Sctv,http://ott3.gearhostpreview.com/astro/ub.php?id=1980#http://ott3.gearhostpreview.com/astro/ub.php?id=1486#http://ott3.gearhostpreview.com/astro/ub.php?id=1624
+TVone,http://ott3.gearhostpreview.com/astro/ub.php?id=1487
+OChannel,http://ott3.gearhostpreview.com/astro/ub.php?id=1488
+Balitv,http://ott3.gearhostpreview.com/astro/ub.php?id=1489
+TVMU,http://ott3.gearhostpreview.com/astro/ub.php?id=1490
+PijarTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1491
+UTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1492
+MYTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1493
+NET TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1978#http://ott3.gearhostpreview.com/astro/ub.php?id=1622
+Trans TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1981#http://ott3.gearhostpreview.com/astro/ub.php?id=1625
+Trans 7,http://ott3.gearhostpreview.com/astro/ub.php?id=1982#http://ott3.gearhostpreview.com/astro/ub.php?id=1626
+Rajawali TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1983#http://ott3.gearhostpreview.com/astro/ub.php?id=1627
+NET TV FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=1984#http://ott3.gearhostpreview.com/astro/ub.php?id=1628
+Bali TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1986#http://ott3.gearhostpreview.com/astro/ub.php?id=1630
+Dunia Lain,http://ott3.gearhostpreview.com/astro/ub.php?id=1987#http://ott3.gearhostpreview.com/astro/ub.php?id=1631
+Trans TV FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=1988#http://ott3.gearhostpreview.com/astro/ub.php?id=1632
+Trans 7 FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=1989#http://ott3.gearhostpreview.com/astro/ub.php?id=1633
+SCTV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1990#http://ott3.gearhostpreview.com/astro/ub.php?id=1634
+U Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1991#http://ott3.gearhostpreview.com/astro/ub.php?id=1635
+Jak TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1636
+Life,http://ott3.gearhostpreview.com/astro/ub.php?id=1994#http://ott3.gearhostpreview.com/astro/ub.php?id=1638
+MNC,http://ott3.gearhostpreview.com/astro/ub.php?id=1641
+Hope Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1999#http://ott3.gearhostpreview.com/astro/ub.php?id=1643
+Antara TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1644
+TV ONE,http://ott3.gearhostpreview.com/astro/ub.php?id=2001#http://ott3.gearhostpreview.com/astro/ub.php?id=1645
+Kompas TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2002#http://ott3.gearhostpreview.com/astro/ub.php?id=1646#http://ott3.gearhostpreview.com/astro/ub.php?id=1146
+CNN Indonesia,http://ott3.gearhostpreview.com/astro/ub.php?id=2004#http://ott3.gearhostpreview.com/astro/ub.php?id=1648#http://ott3.gearhostpreview.com/astro/ub.php?id=1145
+Metro TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2005#http://ott3.gearhostpreview.com/astro/ub.php?id=1649
+Berita Satu News,http://ott3.gearhostpreview.com/astro/ub.php?id=2006#http://ott3.gearhostpreview.com/astro/ub.php?id=1650
+CNBC Indonesia,http://ott3.gearhostpreview.com/astro/ub.php?id=2007#http://ott3.gearhostpreview.com/astro/ub.php?id=1651
+Metro TV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2008#http://ott3.gearhostpreview.com/astro/ub.php?id=1652
+INEWS HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1653
+Thrill,http://ott3.gearhostpreview.com/astro/ub.php?id=2010#http://ott3.gearhostpreview.com/astro/ub.php?id=1654
+Celestial Movies,http://ott3.gearhostpreview.com/astro/ub.php?id=2011#http://ott3.gearhostpreview.com/astro/ub.php?id=1655
+Zee Bioskop,http://ott3.gearhostpreview.com/astro/ub.php?id=2012#http://ott3.gearhostpreview.com/astro/ub.php?id=1656
+KIX HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2013#http://ott3.gearhostpreview.com/astro/ub.php?id=1657
+AXN,http://ott3.gearhostpreview.com/astro/ub.php?id=2014#http://ott3.gearhostpreview.com/astro/ub.php?id=1044#http://ott3.gearhostpreview.com/astro/ub.php?id=1658
+FOX Life HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2015#http://ott3.gearhostpreview.com/astro/ub.php?id=1659
+FOX HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2016#http://ott3.gearhostpreview.com/astro/ub.php?id=1660
+FOX Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2017#http://ott3.gearhostpreview.com/astro/ub.php?id=1661
+FOX Action Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2018#http://ott3.gearhostpreview.com/astro/ub.php?id=1662
+HBO HD,http://ott3.gearhostpreview.com/astro/ub.php?id=332#http://ott3.gearhostpreview.com/astro/ub.php?id=2019#http://ott3.gearhostpreview.com/astro/ub.php?id=1663
+Star World,http://ott3.gearhostpreview.com/astro/ub.php?id=1664
+HBO Hits HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2021#http://ott3.gearhostpreview.com/astro/ub.php?id=1665
+HBO Family HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2022#http://ott3.gearhostpreview.com/astro/ub.php?id=1666
+FOX Crime HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2023#http://ott3.gearhostpreview.com/astro/ub.php?id=1667
+Star Chinese Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2025#http://ott3.gearhostpreview.com/astro/ub.php?id=1669
+Blue Ant Extreme HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2026#http://ott3.gearhostpreview.com/astro/ub.php?id=1670
+LifeTime HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2027#http://ott3.gearhostpreview.com/astro/ub.php?id=1671
+HBO Signature HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2028#http://ott3.gearhostpreview.com/astro/ub.php?id=1672
+Bioskop Indonesia,http://ott3.gearhostpreview.com/astro/ub.php?id=2029#http://ott3.gearhostpreview.com/astro/ub.php?id=1673
+Hits Movie SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2030#http://ott3.gearhostpreview.com/astro/ub.php?id=1674
+Cinema World,http://ott3.gearhostpreview.com/astro/ub.php?id=2031#http://ott3.gearhostpreview.com/astro/ub.php?id=1675
+HITS HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2032#http://ott3.gearhostpreview.com/astro/ub.php?id=1676
+FOX Action Movies FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2033#http://ott3.gearhostpreview.com/astro/ub.php?id=1677
+HBO FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2034#http://ott3.gearhostpreview.com/astro/ub.php?id=1678
+HBO Signature FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2035#http://ott3.gearhostpreview.com/astro/ub.php?id=1679
+Warner TV ID HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2036#http://ott3.gearhostpreview.com/astro/ub.php?id=1680
+Star Chinese Movies Legend,http://ott3.gearhostpreview.com/astro/ub.php?id=2037#http://ott3.gearhostpreview.com/astro/ub.php?id=1681
+CCM,http://ott3.gearhostpreview.com/astro/ub.php?id=2038#http://ott3.gearhostpreview.com/astro/ub.php?id=1438#http://ott3.gearhostpreview.com/astro/ub.php?id=1682
+Cinemax ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2039#http://ott3.gearhostpreview.com/astro/ub.php?id=1683
+Red By HBO HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2040#http://ott3.gearhostpreview.com/astro/ub.php?id=1684
+FMN,http://ott3.gearhostpreview.com/astro/ub.php?id=2041#http://ott3.gearhostpreview.com/astro/ub.php?id=1685
+HBO Hits FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2042#http://ott3.gearhostpreview.com/astro/ub.php?id=1686
+FOX Family Movies ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2043#http://ott3.gearhostpreview.com/astro/ub.php?id=1687
+HBO SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2044#http://ott3.gearhostpreview.com/astro/ub.php?id=1688
+HBO Hits SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2045#http://ott3.gearhostpreview.com/astro/ub.php?id=1689
+HBO Signature SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2046#http://ott3.gearhostpreview.com/astro/ub.php?id=1690
+HBO Family SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2047#http://ott3.gearhostpreview.com/astro/ub.php?id=1691
+Cinemax SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2048#http://ott3.gearhostpreview.com/astro/ub.php?id=1692
+FLIK HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2049#http://ott3.gearhostpreview.com/astro/ub.php?id=1693
+Galaxy Premium SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2050#http://ott3.gearhostpreview.com/astro/ub.php?id=1694
+Galaxy SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2051#http://ott3.gearhostpreview.com/astro/ub.php?id=1695
+ATV,http://ott3.gearhostpreview.com/astro/ub.php?id=2052#http://ott3.gearhostpreview.com/astro/ub.php?id=1696
+HBO Family FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2053#http://ott3.gearhostpreview.com/astro/ub.php?id=1697
+Cinemax FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2054#http://ott3.gearhostpreview.com/astro/ub.php?id=1698
+IMC SD,http://ott3.gearhostpreview.com/astro/ub.php?id=2055#http://ott3.gearhostpreview.com/astro/ub.php?id=1699
+Nat Geo HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2056#http://ott3.gearhostpreview.com/astro/ub.php?id=1700
+Nat Geo Wild HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2057#http://ott3.gearhostpreview.com/astro/ub.php?id=1701
+Discovery Channel HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2058#http://ott3.gearhostpreview.com/astro/ub.php?id=1702
+Crime Investigation,http://ott3.gearhostpreview.com/astro/ub.php?id=2059#http://ott3.gearhostpreview.com/astro/ub.php?id=1703
+Discovery Shed,http://ott3.gearhostpreview.com/astro/ub.php?id=2060#http://ott3.gearhostpreview.com/astro/ub.php?id=1704
+Animal Planet HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1705
+BBC Earth,http://ott3.gearhostpreview.com/astro/ub.php?id=97#http://ott3.gearhostpreview.com/astro/ub.php?id=1706
+Nat Geo People HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2063#http://ott3.gearhostpreview.com/astro/ub.php?id=1707
+History HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2064#http://ott3.gearhostpreview.com/astro/ub.php?id=1708
+Discovery Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2065#http://ott3.gearhostpreview.com/astro/ub.php?id=1709
+History FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2066#http://ott3.gearhostpreview.com/astro/ub.php?id=1710
+Lingua Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=2067#http://ott3.gearhostpreview.com/astro/ub.php?id=1711
+Smithsonian Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=2068#http://ott3.gearhostpreview.com/astro/ub.php?id=1712
+Da Vinci Learning,http://ott3.gearhostpreview.com/astro/ub.php?id=2069#http://ott3.gearhostpreview.com/astro/ub.php?id=1713
+Ruang Terampil,http://ott3.gearhostpreview.com/astro/ub.php?id=2070#http://ott3.gearhostpreview.com/astro/ub.php?id=1714
+TV Edukasi,http://ott3.gearhostpreview.com/astro/ub.php?id=2071#http://ott3.gearhostpreview.com/astro/ub.php?id=1715
+Love Nature 4K,http://ott3.gearhostpreview.com/astro/ub.php?id=2072#http://ott3.gearhostpreview.com/astro/ub.php?id=1716
+Aniplus,http://ott3.gearhostpreview.com/astro/ub.php?id=2073#http://ott3.gearhostpreview.com/astro/ub.php?id=1717
+Animax,http://ott3.gearhostpreview.com/astro/ub.php?id=59#http://ott3.gearhostpreview.com/astro/ub.php?id=139#http://ott3.gearhostpreview.com/astro/ub.php?id=2074#http://ott3.gearhostpreview.com/astro/ub.php?id=1718
+Disney XD,http://ott3.gearhostpreview.com/astro/ub.php?id=1209#http://ott3.gearhostpreview.com/astro/ub.php?id=1719
+Disney Junior,http://ott3.gearhostpreview.com/astro/ub.php?id=1210#http://ott3.gearhostpreview.com/astro/ub.php?id=2076#http://ott3.gearhostpreview.com/astro/ub.php?id=1720
+Baby TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1129#http://ott3.gearhostpreview.com/astro/ub.php?id=1956#http://ott3.gearhostpreview.com/astro/ub.php?id=2077#http://ott3.gearhostpreview.com/astro/ub.php?id=1721
+Boomerang ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2078#http://ott3.gearhostpreview.com/astro/ub.php?id=1722
+Disney Channel,http://ott3.gearhostpreview.com/astro/ub.php?id=1723
+Nick Jr ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2080#http://ott3.gearhostpreview.com/astro/ub.php?id=1724
+Cartoon Network ID HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2081#http://ott3.gearhostpreview.com/astro/ub.php?id=1725
+Dunia Anak,http://ott3.gearhostpreview.com/astro/ub.php?id=2082#http://ott3.gearhostpreview.com/astro/ub.php?id=1726
+Nickelodeon ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2083#http://ott3.gearhostpreview.com/astro/ub.php?id=1727
+Toonmax,http://ott3.gearhostpreview.com/astro/ub.php?id=2084#http://ott3.gearhostpreview.com/astro/ub.php?id=1728
+Baby First,http://ott3.gearhostpreview.com/astro/ub.php?id=2085#http://ott3.gearhostpreview.com/astro/ub.php?id=1729
+My Kidz,http://ott3.gearhostpreview.com/astro/ub.php?id=2086#http://ott3.gearhostpreview.com/astro/ub.php?id=1730
+Duck TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2087#http://ott3.gearhostpreview.com/astro/ub.php?id=1731
+Disney Channel ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2088#http://ott3.gearhostpreview.com/astro/ub.php?id=1732
+Zoo Moo HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2089#http://ott3.gearhostpreview.com/astro/ub.php?id=1733
+Horee,http://ott3.gearhostpreview.com/astro/ub.php?id=2090#http://ott3.gearhostpreview.com/astro/ub.php?id=1734
+Dream Works HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2091#http://ott3.gearhostpreview.com/astro/ub.php?id=1735
+XingXong,http://ott3.gearhostpreview.com/astro/ub.php?id=2092#http://ott3.gearhostpreview.com/astro/ub.php?id=1736
+CBeebies,http://ott3.gearhostpreview.com/astro/ub.php?id=2093#http://ott3.gearhostpreview.com/astro/ub.php?id=1737
+Fox Sports 1 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2094#http://ott3.gearhostpreview.com/astro/ub.php?id=1738
+Fox Sports 3 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2095#http://ott3.gearhostpreview.com/astro/ub.php?id=1739
+Fox Sports 2 HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2096#http://ott3.gearhostpreview.com/astro/ub.php?id=1740
+BeIN Sport 1 ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2097#http://ott3.gearhostpreview.com/astro/ub.php?id=1741
+BeIN Sport 2 ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2098#http://ott3.gearhostpreview.com/astro/ub.php?id=1742
+Badminton 1,http://ott3.gearhostpreview.com/astro/ub.php?id=2102#http://ott3.gearhostpreview.com/astro/ub.php?id=1746
+Badminton 2,http://ott3.gearhostpreview.com/astro/ub.php?id=2103#http://ott3.gearhostpreview.com/astro/ub.php?id=1747
+Fashion TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2104#http://ott3.gearhostpreview.com/astro/ub.php?id=1748
+TLC HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2105#http://ott3.gearhostpreview.com/astro/ub.php?id=1749
+HGTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1538#http://ott3.gearhostpreview.com/astro/ub.php?id=2193#http://ott3.gearhostpreview.com/astro/ub.php?id=1618#http://ott3.gearhostpreview.com/astro/ub.php?id=2106#http://ott3.gearhostpreview.com/astro/ub.php?id=1750
+Waku Waku Japan HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2107#http://ott3.gearhostpreview.com/astro/ub.php?id=1751
+AFN HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2108#http://ott3.gearhostpreview.com/astro/ub.php?id=1752
+Citra Drama,http://ott3.gearhostpreview.com/astro/ub.php?id=2109#http://ott3.gearhostpreview.com/astro/ub.php?id=1753
+Every Good Game,http://ott3.gearhostpreview.com/astro/ub.php?id=2110#http://ott3.gearhostpreview.com/astro/ub.php?id=1754
+Blue Ant Entertainment HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2111#http://ott3.gearhostpreview.com/astro/ub.php?id=1755
+Insert,http://ott3.gearhostpreview.com/astro/ub.php?id=2112#http://ott3.gearhostpreview.com/astro/ub.php?id=1756
+Eat & Go,http://ott3.gearhostpreview.com/astro/ub.php?id=2113#http://ott3.gearhostpreview.com/astro/ub.php?id=1757
+.idku,http://ott3.gearhostpreview.com/astro/ub.php?id=2114#http://ott3.gearhostpreview.com/astro/ub.php?id=1758
+BBC Lifestyle HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2115#http://ott3.gearhostpreview.com/astro/ub.php?id=1759
+K Plus,http://ott3.gearhostpreview.com/astro/ub.php?id=2116#http://ott3.gearhostpreview.com/astro/ub.php?id=1760
+Sony ONE,http://ott3.gearhostpreview.com/astro/ub.php?id=2117#http://ott3.gearhostpreview.com/astro/ub.php?id=1761
+TVN ID,http://ott3.gearhostpreview.com/astro/ub.php?id=2118#http://ott3.gearhostpreview.com/astro/ub.php?id=1762
+S GEM HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2119#http://ott3.gearhostpreview.com/astro/ub.php?id=1763
+tVN Movies HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2120#http://ott3.gearhostpreview.com/astro/ub.php?id=1764
+KBS World HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2121#http://ott3.gearhostpreview.com/astro/ub.php?id=1765
+K Drama,http://ott3.gearhostpreview.com/astro/ub.php?id=2122#http://ott3.gearhostpreview.com/astro/ub.php?id=1766
+Channel V HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2123#http://ott3.gearhostpreview.com/astro/ub.php?id=1767
+Prambors TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2124#http://ott3.gearhostpreview.com/astro/ub.php?id=1768
+ONE African TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2125#http://ott3.gearhostpreview.com/astro/ub.php?id=1769
+Citra Dangdut,http://ott3.gearhostpreview.com/astro/ub.php?id=2126#http://ott3.gearhostpreview.com/astro/ub.php?id=1770
+MTV LIVE HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2127#http://ott3.gearhostpreview.com/astro/ub.php?id=1771
+i konser,http://ott3.gearhostpreview.com/astro/ub.php?id=2128#http://ott3.gearhostpreview.com/astro/ub.php?id=1772
+Makkah TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2129#http://ott3.gearhostpreview.com/astro/ub.php?id=1773
+Rodja TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2130#http://ott3.gearhostpreview.com/astro/ub.php?id=1774
+Madina TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2131#http://ott3.gearhostpreview.com/astro/ub.php?id=1775
+TV Mu,http://ott3.gearhostpreview.com/astro/ub.php?id=2132#http://ott3.gearhostpreview.com/astro/ub.php?id=1776
+Ahsan TV,http://ott3.gearhostpreview.com/astro/ub.php?id=2133#http://ott3.gearhostpreview.com/astro/ub.php?id=1777
+Reformed 21,http://ott3.gearhostpreview.com/astro/ub.php?id=2134#http://ott3.gearhostpreview.com/astro/ub.php?id=1778
+Bloomberg TV Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2135#http://ott3.gearhostpreview.com/astro/ub.php?id=1779
+DW TV Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2136#http://ott3.gearhostpreview.com/astro/ub.php?id=1780
+France 24,http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=1042#http://ott3.gearhostpreview.com/astro/ub.php?id=2137#http://ott3.gearhostpreview.com/astro/ub.php?id=1781
+BBC World News HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2138#http://ott3.gearhostpreview.com/astro/ub.php?id=1782
+Channel News Asia,http://ott3.gearhostpreview.com/astro/ub.php?id=2139#http://ott3.gearhostpreview.com/astro/ub.php?id=1783
+CNN Int,http://ott3.gearhostpreview.com/astro/ub.php?id=2140#http://ott3.gearhostpreview.com/astro/ub.php?id=1784
+CGTN News,http://ott3.gearhostpreview.com/astro/ub.php?id=2141#http://ott3.gearhostpreview.com/astro/ub.php?id=1785
+Russia Today,http://ott3.gearhostpreview.com/astro/ub.php?id=1407#http://ott3.gearhostpreview.com/astro/ub.php?id=2142#http://ott3.gearhostpreview.com/astro/ub.php?id=1786
+Aljazeera EN,http://ott3.gearhostpreview.com/astro/ub.php?id=2143#http://ott3.gearhostpreview.com/astro/ub.php?id=1787
+NHK World Japan,http://ott3.gearhostpreview.com/astro/ub.php?id=2144#http://ott3.gearhostpreview.com/astro/ub.php?id=1788
+TV 5 Monde Asie,http://ott3.gearhostpreview.com/astro/ub.php?id=2145#http://ott3.gearhostpreview.com/astro/ub.php?id=1789
+Golf Channel FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2146#http://ott3.gearhostpreview.com/astro/ub.php?id=1790
+Fight Sports,http://ott3.gearhostpreview.com/astro/ub.php?id=2147#http://ott3.gearhostpreview.com/astro/ub.php?id=1791
+UFC FHD,http://ott3.gearhostpreview.com/astro/ub.php?id=2148#http://ott3.gearhostpreview.com/astro/ub.php?id=1792
+NBA TV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=2149#http://ott3.gearhostpreview.com/astro/ub.php?id=1793
+Karaoke,http://ott3.gearhostpreview.com/astro/ub.php?id=1141
+Jakarta Globe,http://ott3.gearhostpreview.com/astro/ub.php?id=1142
+越南安測,#genre#
+VTV1,http://ott3.gearhostpreview.com/astro/ub.php?id=1326
+VTV2,http://ott3.gearhostpreview.com/astro/ub.php?id=1327
+VTV4,http://ott3.gearhostpreview.com/astro/ub.php?id=1328
+VTV7,http://ott3.gearhostpreview.com/astro/ub.php?id=1331
+THGL,http://ott3.gearhostpreview.com/astro/ub.php?id=1292
+PTP,http://ott3.gearhostpreview.com/astro/ub.php?id=1293
+QRT,http://ott3.gearhostpreview.com/astro/ub.php?id=1294
+THBT,http://ott3.gearhostpreview.com/astro/ub.php?id=1295
+ANTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1979#http://ott3.gearhostpreview.com/astro/ub.php?id=1479#http://ott3.gearhostpreview.com/astro/ub.php?id=1623#http://ott3.gearhostpreview.com/astro/ub.php?id=1300#http://ott3.gearhostpreview.com/astro/ub.php?id=1312
+ANTV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1301
+HBTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1302
+KienGiangTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1309#http://ott3.gearhostpreview.com/astro/ub.php?id=1319
+KienGiangTV1,http://ott3.gearhostpreview.com/astro/ub.php?id=1310#http://ott3.gearhostpreview.com/astro/ub.php?id=1320
+BenTreTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1313
+Da Nang TV1,http://ott3.gearhostpreview.com/astro/ub.php?id=1316
+KhanhHoaTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1318
+PhuYenTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1323
+QuangNamTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1324
+LongAnTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1321
+LA34,http://ott3.gearhostpreview.com/astro/ub.php?id=1291
+VITV,http://ott3.gearhostpreview.com/astro/ub.php?id=1299
+印度安測,#genre#
+Sun TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1458
+Star Vijay,http://ott3.gearhostpreview.com/astro/ub.php?id=1459
+Zee Tamil,http://ott3.gearhostpreview.com/astro/ub.php?id=1460
+Zee Business,http://ott3.gearhostpreview.com/astro/ub.php?id=1461
+Thanthi TV,http://ott3.gearhostpreview.com/astro/ub.php?id=1462
+Raj Musix,http://ott3.gearhostpreview.com/astro/ub.php?id=1463
+Zee Actions,http://ott3.gearhostpreview.com/astro/ub.php?id=1464
+KTV Tamil,http://ott3.gearhostpreview.com/astro/ub.php?id=1465
+Zee TV HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1466
+Zee Cinema HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1467
+Colors HD,http://ott3.gearhostpreview.com/astro/ub.php?id=1468
+Starplus,http://ott3.gearhostpreview.com/astro/ub.php?id=1469
+Picture,http://ott3.gearhostpreview.com/astro/ub.php?id=1470
+Asianet,http://ott3.gearhostpreview.com/astro/ub.php?id=1471
+Times Now,http://ott3.gearhostpreview.com/astro/ub.php?id=1472
+TV9 Marathi,http://ott3.gearhostpreview.com/astro/ub.php?id=1125
+NDTV India,http://ott3.gearhostpreview.com/astro/ub.php?id=1030
+NDTV,http://ott3.gearhostpreview.com/astro/ub.php?id=1028
+ZeeNews,http://ott3.gearhostpreview.com/astro/ub.php?id=465
 
 
 娛樂測試1_1234,#genre#
