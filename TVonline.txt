@@ -1848,7 +1848,7 @@ SEVEN2,rtmp://59.124.75.153/sat/md021
 ELTA奧運1台,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
 ELTA奧運1台r,rtmp://161.202.204.248/sat/md011
 ELTA奧運2台,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
-ELTA奧運2台rrtmp://161.202.204.248/sat/md021,
+ELTA奧運2台r,rtmp://161.202.204.248/sat/md021,
 ELTA奧運3台,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
 ELTA奧運3台r,rtmp://161.202.204.248/sat/md031
 奧運601台,https://api.leonardpark.dev/live/icable/601
@@ -1856,7 +1856,30 @@ ELTA奧運3台r,rtmp://161.202.204.248/sat/md031
 奧運603台,https://api.leonardpark.dev/live/icable/603
 奧運604台,https://api.leonardpark.dev/live/icable/604
 奧運605台,https://api.leonardpark.dev/live/icable/605
-
+eleven1,http://125.227.210.55:10677/VideoInput/play.ts
+Discovery Asia,http://125.227.210.55:10388/VideoInput/play.ts
+東森新聞HD,http://125.227.210.55:10797/VideoInput/play.ts
+ELTA體育1,http://125.227.210.55:10246/VideoInput/play.ts
+年代新聞HD,http://125.227.210.55:11055/VideoInput/play.ts
+FX HD,http://125.227.210.55:13498/VideoInput/play.ts
+中天綜合HD2,http://125.227.210.55:14583/VideoInput/play.ts
+DISNEY 迪士尼,http://125.227.210.55:14250/VideoInput/play.ts
+中天娛樂HD,http://125.227.210.55:15796/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
+三立新聞HD,http://125.227.210.55:15589/VideoInput/play.ts
+非凡新聞HD,http://125.227.210.55:15078/VideoInput/play.ts
+HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
+TVBS新聞HD,http://125.227.210.55:16329/VideoInput/play.ts
+國家地理國際頻道,http://125.227.210.55:16408/VideoInput/play.ts
+東森電影,http://125.227.210.55:16415/VideoInput/play.ts
+CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
+東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
+好萊塢電影,http://125.227.210.55:18184/VideoInput/play.ts
+緯來體育HD,http://125.227.210.55:18358/VideoInput/play.ts
+東森洋片HD,http://125.227.210.55:18685/VideoInput/play.ts
+衛視西片,http://125.227.210.55:18789/VideoInput/play.ts
+TLC 旅遊生活,http://125.227.210.55:19020/VideoInput/play.ts
+FX HD,http://125.227.210.85:13498/VideoInput/play.ts
 
 
 港台測試1,#genre#
