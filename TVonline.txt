@@ -66,13 +66,11 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 
 台灣,#genre#
-民視,http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free
 民視第一台,http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
 民視台灣台,http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
 民視新聞台,http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
 民視影劇台,http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
 民視綜藝台,http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
-民視旅遊台,http://sytv.xtvants.fun/mytv.php?id=msly&token=free&user=free
 台視,http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free
 台視新聞台,http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
 台視財經台,http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free
@@ -87,10 +85,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 公視台語台,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
 公視3台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
-公視戲劇,http://sytv.xtvants.fun/mytv.php?id=gsxj&token=free&user=free
-客家電視台,http://sytv.xtvants.fun/mytv.php?id=kjds&token=free&user=free
 東森新聞,http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
-東森財經新聞,http://sytv.xtvants.fun/mytv.php?id=dscj&token=free&user=free
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
 東森戲劇,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
@@ -103,29 +98,23 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中天亞洲台,http://sytv.xtvants.fun/mytv.php?id=ztyz&token=free&user=free
 三立台灣台,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
 三立都會台,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
-三立新聞台,http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free
 三立財經台,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
 三立綜合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 三立戲劇台,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 MTV綜合台,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 TVBS新聞台,http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
 TVBS歡樂台,http://sytv.xtvants.fun/mytv.php?id=tvbshl&token=free&user=free
-TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbs&token=free&user=free
 TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
-年代新聞,http://sytv.xtvants.fun/mytv.php?id=ndxw&token=free&user=free
 MUCH TV,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
-國興衛視,http://sytv.xtvants.fun/mytv.php?id=gxws&token=free&user=free
 壹新聞,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
 壹電影,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
 非凡新聞台,http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free
 非凡商業台,http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free
 寰宇新聞台,http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
 寰宇新聞台灣台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
-寰宇綜合台,http://sytv.xtvants.fun/mytv.php?id=hyzh&token=free&user=free
 亞洲旅遊台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
-美食星球,http://sytv.xtvants.fun/mytv.php?id=msxq&token=free&user=free
 寶寶世界,http://sytv.xtvants.fun/mytv.php?id=bbsj&token=free&user=free
 Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=free&user=free
 博斯高球,http://sytv.xtvants.fun/mytv.php?id=bsgq&token=free&user=free
@@ -140,56 +129,16 @@ Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=free&user=free
 龍華偶像,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 龍華電影,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 龍華洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
-龍華經典,http://sytv.xtvants.fun/mytv.php?id=lhjd&token=free&user=free
 龍華影劇,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 龍華動畫,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
-緯來綜合台,http://sytv.xtvants.fun/mytv.php?id=wlzh&token=free&user=free
-緯來戲劇台,http://sytv.xtvants.fun/mytv.php?id=wlxj&token=free&user=free
-緯來日本台,http://sytv.xtvants.fun/mytv.php?id=wlrb&token=free&user=free
-緯來電影台,http://sytv.xtvants.fun/mytv.php?id=wldy&token=free&user=free
-緯來體育台,http://sytv.xtvants.fun/mytv.php?id=wlty&token=free&user=free
-緯來育樂台,http://sytv.xtvants.fun/mytv.php?id=wlyl&token=free&user=free
-八大第1台,http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free
-八大綜合台,http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
-八大戲劇台,http://sytv.xtvants.fun/mytv.php?id=bdxj&token=free&user=free
-八大娛樂台,http://sytv.xtvants.fun/mytv.php?id=bdyl&token=free&user=free
-八大精彩台,http://sytv.xtvants.fun/mytv.php?id=bdjc&token=free&user=free
-愛爾達體育1台,http://sytv.xtvants.fun/mytv.php?id=aedty&token=free&user=free
-愛爾達體育2台,http://sytv.xtvants.fun/mytv.php?id=aedty2&token=free&user=free
-愛爾達體育3台,http://sytv.xtvants.fun/mytv.php?id=aedty3&token=free&user=free
-愛爾達影劇台,http://sytv.xtvants.fun/mytv.php?id=aedyj&token=free&user=free
-愛爾達綜合台,http://sytv.xtvants.fun/mytv.php?id=aedzh&token=free&user=free
-愛爾達娛樂台,http://sytv.xtvants.fun/mytv.php?id=aedyl&token=free&user=free
-TRACE Sport Stars,http://sytv.xtvants.fun/mytv.php?id=traces&token=free&user=free
-智林體育台,http://sytv.xtvants.fun/mytv.php?id=zlty&token=free&user=free
-韓國娛樂台,http://sytv.xtvants.fun/mytv.php?id=hgyl&token=free&user=free
-靖洋卡通台,http://sytv.xtvants.fun/mytv.php?id=jykt&token=free&user=free
-靖天卡通台,http://sytv.xtvants.fun/mytv.php?id=jtkt&token=free&user=free
-靖天資訊台,http://sytv.xtvants.fun/mytv.php?id=jtzx&token=free&user=free
-靖天綜合台,http://sytv.xtvants.fun/mytv.php?id=jtzh&token=free&user=free
-靖天育樂台,http://sytv.xtvants.fun/mytv.php?id=jtyl&token=free&user=free
-靖天戲劇台,http://sytv.xtvants.fun/mytv.php?id=jtxj&token=free&user=free
-靖洋戲劇台,http://sytv.xtvants.fun/mytv.php?id=jyxj&token=free&user=free
-靖天映畫,http://sytv.xtvants.fun/mytv.php?id=jtyh&token=free&user=free
-靖天電影台,http://sytv.xtvants.fun/mytv.php?id=jtdy&token=free&user=free
-靖天國際台,http://sytv.xtvants.fun/mytv.php?id=jtgj&token=free&user=free
-靖天日本台,http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free
-靖天歡樂台,http://sytv.xtvants.fun/mytv.php?id=jthl&token=free&user=free
-MOMO綜合台,http://sytv.xtvants.fun/mytv.php?id=mmzh&token=free&user=free
-MOMO親子台,http://sytv.xtvants.fun/mytv.php?id=mmqz&token=free&user=free
-i-Fun動漫台,http://sytv.xtvants.fun/mytv.php?id=afdm&token=free&user=free
 高點綜合台,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
 高點育樂台,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
 采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free
 影迷數位電影台,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
 CATCHPLAY電影台,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
-好萊塢電影台,http://sytv.xtvants.fun/mytv.php?id=hlwdy&token=free&user=free
-EYE TV戲劇台,http://sytv.xtvants.fun/mytv.php?id=eyexj&token=free&user=free
-EYE TV旅遊台,http://sytv.xtvants.fun/mytv.php?id=eyely&token=free&user=free
 霹靂台灣台,http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free
-Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
 衛視電影台,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
-龍祥電影台,http://sytv.xtvants.fun/mytv.php?id=lxsd&token=free&user=free
+
 
 
 
@@ -198,12 +147,11 @@ Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
 港台測試,#genre#
 有線18台,rtmp://59.124.75.136/sat/hk042
 中視,rtmp://59.124.75.136/sat/tv091
-華視,rtmp://59.124.75.136/sat/tv112
+華視,rtmp://59.124.75.136/sat/tv111
 台視,rtmp://59.124.75.136/sat/tv071
-民視,rtmp://59.124.75.136/sat/tv052
-TVBS歡樂台,rtmp://59.124.75.136/sat/tv422
+民視,rtmp://59.124.75.136/sat/tv051
 TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
-TVBS新聞台,rtmp://59.124.75.136/sat/tv552
+TVBS新聞台,rtmp://59.124.75.136/sat/tv551
 緯來體育,rtmp://59.124.75.136/sat/tv721
 緯來體育,rtmp://59.124.75.136:1935/sat/tv721
 緯來育樂,rtmp://59.124.75.136/sat/tv701
@@ -253,20 +201,6 @@ CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 TLC 旅遊生活,http://125.227.210.55:19020/VideoInput/play.ts
 FX HD,http://125.227.210.85:13498/VideoInput/play.ts
 
-ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-BBC earth,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
-Nick,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick JR,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Babytv,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Luxe tv,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-Cbeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Disneyxd,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disneyjr,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-Kids,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-
 CCTV3綜藝,http://93.190.139.36:8278/streams/d/cctv3/playlist.m3u8
 CCTV6電影,http://93.190.139.36:8278/streams/d/cctv6/playlist.m3u8
 CCTV10科教,http://93.190.139.36:8278/streams/d/cctv10hd/playlist.m3u8
@@ -281,25 +215,6 @@ J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 VIU6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 VIU,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
-翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
-有線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw
-無線財經,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
-有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy
-TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
-鳳凰中文,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
-鳳凰資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
-東森電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-龍翔時代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
-緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
-壹新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
-TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
-TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
-三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
-民視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
-年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
-非凡新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
-衛視電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
-美亞電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -632,34 +547,36 @@ NEW四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3
 NEW雲南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 iHOT頻道,#genre#
-iHot愛世界,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-iHot愛體育,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-iHot愛體育,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-iHot愛軍武,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-iHot愛動漫,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-iHot愛歷史,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-iHot愛奇談,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-iHot愛娛樂,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-iHot愛家庭,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-iHot愛幼教,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-iHot愛懷舊,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-iHot愛懸疑,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-iHot愛探索,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-iHot愛旅行,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-iHot愛時尚,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
-iHot愛江湖,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-iHot愛獵奇,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-iHot愛玩具,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-iHot愛電競,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-iHot愛科學,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-iHot愛經典,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-iHot愛美食,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-iHot愛解密,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-iHot愛諜戰,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-iHot愛賽車,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-iHot愛都市,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-iHot愛青春,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-iHot愛院線,http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
+iHOT愛奇談,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
+iHOT愛解密,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
+iHOT愛懸疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+iHOT愛探索,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+iHOT愛喜劇,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls
+iHOT愛經典,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+iHOT愛科幻,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
+iHOT愛院線,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
+iHOT愛諜戰,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+iHOT愛動漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
+iHOT愛娛樂,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+iHOT愛體育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+iHOT愛電競,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
+iHOT愛都市,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+iHOT愛青春,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+iHOT愛浪漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?fmt=ts2hls
+iHOT愛獵奇,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+iHOT愛江湖,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+iHOT愛玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+iHOT愛時尚,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+iHOT愛軍武,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+iHOT愛歷史,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+iHOT愛世界,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+iHOT愛科學,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+iHOT愛旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+iHOT愛懷舊,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+iHOT愛賽車,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+iHOT愛家庭,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+iHOT愛幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+iHOT愛美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
 
 
 中國,#genre#
