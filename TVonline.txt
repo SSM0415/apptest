@@ -104,21 +104,8 @@ Movies Now,http://43.128.9.168/jjtv.php?id=85
 星空電影,http://43.128.9.168/jjtv.php?id=86
 三立台灣,http://43.128.9.168/jjtv.php?id=129
 三立都會,http://43.128.9.168/jjtv.php?id=131
-台視綜合台,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
-華視教育體育文化台,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
-公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
-公視台語台,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
-公視3台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
-三立財經台,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
-MTV綜合台,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
-MUCH TV,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
-JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
-東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
-高點綜合台,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
-高點育樂台,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
-霹靂台灣台,http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free
-衛視電影台,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
 
+公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 
 
 
@@ -216,19 +203,7 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 
 港台測試1,#genre#
 4GTV,
-中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8	
-中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8	
-中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8	
-中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8	
-華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8	
-華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8	
-華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8  	
-國會頻道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8	
-國會頻道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8	
-民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8id=ms	
-民視第一,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8	
-民視新聞,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8	
-民視台灣,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8	
+
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
@@ -450,57 +425,13 @@ MOVIE推薦,#genre#
 真人快打2021,https://vod.bunediy.com/20210424/Z9C43hoi/index.m3u8
 奇門偃甲師,https://n1.szjal.cn/20210507/ZkPGMUVH/index.m3u8
 明日之戰,https://n1.szjal.cn/20210707/nWXnlXqH/index.m3u8
-
+叢林奇航2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0lwJs46&ep=&fid=0lwJs46&open=normal
+路卡的夏天2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aIX5X0&ep=&fid=0aIX5X0&open=normal
+黑寡婦2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0ZgeVir&ep=&fid=0ZgeVir&open=normal
+自殺突擊隊-集結2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0oJdZpf&ep=&fid=0oJdZpf&open=normal
 
 影視輪播,#genre#
-Unknown_1,http://vip.auney.cn/api/huya.php?id=11352949
-Unknown_2,http://vip.auney.cn/api/huya.php?id=11601960
-Unknown_3,http://vip.auney.cn/api/huya.php?id=11352938
-Unknown_4,http://vip.auney.cn/api/huya.php?id=11601986
-Unknown_5,http://vip.auney.cn/api/huya.php?id=11336572
-Unknown_6,http://vip.auney.cn/api/huya.php?id=11342423
-Unknown_7,http://vip.auney.cn/api/huya.php?id=11602041
-Unknown_8,http://vip.auney.cn/api/huya.php?id=11342432
-Unknown_9,http://vip.auney.cn/api/huya.php?id=11342419
-Unknown_10,http://vip.auney.cn/api/huya.php?id=11342435
-Unknown_11,http://vip.auney.cn/api/huya.php?id=11342422
-Unknown_12,http://vip.auney.cn/api/huya.php?id=11352894
-Unknown_13,http://vip.auney.cn/api/huya.php?id=11602034
-Unknown_14,http://vip.auney.cn/api/huya.php?id=11352876
-Unknown_15,http://vip.auney.cn/api/huya.php?id=11601970
-Unknown_16,http://vip.auney.cn/api/huya.php?id=11352880
-Unknown_17,http://vip.auney.cn/api/huya.php?id=11602069
-Unknown_18,http://vip.auney.cn/api/huya.php?id=11602046
-Unknown_19,http://vip.auney.cn/api/huya.php?id=11352916
-Unknown_20,http://vip.auney.cn/api/huya.php?id=11352906
-Unknown_21,http://vip.auney.cn/api/huya.php?id=11342437
-Unknown_22,http://vip.auney.cn/api/huya.php?id=11342397
-Unknown_23,http://vip.auney.cn/api/huya.php?id=11352897
-Unknown_24,http://vip.auney.cn/api/huya.php?id=11342402
-Unknown_25,http://vip.auney.cn/api/huya.php?id=11602033
-Unknown_26,http://vip.auney.cn/api/huya.php?id=11352934
-Unknown_27,http://vip.auney.cn/api/huya.php?id=11352941
-Unknown_28,http://vip.auney.cn/api/huya.php?id=11342428
-Unknown_29,http://vip.auney.cn/api/huya.php?id=10871113
-Unknown_30,http://vip.auney.cn/api/huya.php?id=11352969
-Unknown_31,http://vip.auney.cn/api/huya.php?id=11352881
-Unknown_32,http://vip.auney.cn/api/huya.php?id=11342388
-Unknown_33,http://vip.auney.cn/api/huya.php?id=11352909
-Unknown_34,http://vip.auney.cn/api/huya.php?id=11336726
-Unknown_35,http://vip.auney.cn/api/huya.php?id=11352915
-Unknown_36,http://vip.auney.cn/api/huya.php?id=11352940
-Unknown_37,http://vip.auney.cn/api/huya.php?id=11352958
-Unknown_38,http://vip.auney.cn/api/huya.php?id=11352872
-Unknown_39,http://vip.auney.cn/api/huya.php?id=11352973
-Unknown_40,http://vip.auney.cn/api/huya.php?id=11336592
-Unknown_41,http://vip.auney.cn/api/huya.php?id=11602068
-Unknown_42,http://vip.auney.cn/api/huya.php?id=11342430
-Unknown_43,http://vip.auney.cn/api/huya.php?id=11601978
-Unknown_44,http://vip.auney.cn/api/huya.php?id=11342414
-Unknown_45,http://vip.auney.cn/api/huya.php?id=11352959
-Unknown_46,http://vip.auney.cn/api/huya.php?id=11336578
-Unknown_47,http://vip.auney.cn/api/huya.php?id=11601982
-Unknown_48,http://vip.auney.cn/api/huya.php?id=11352910
+
 
 
 CIBN頻道,#genre#
