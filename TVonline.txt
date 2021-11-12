@@ -69,7 +69,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
 
 港台測試,#genre#
-有線18台,rtmp://59.124.75.157/sat/hk042
 中視,rtmp://59.124.75.138/sat/tv091
 華視,rtmp://59.124.75.157/sat/tv111
 台視,rtmp://59.124.75.157/sat/tv071
@@ -136,7 +135,7 @@ J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 VIU6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 VIU,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立台灣(備1,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 台視 HD,http://50.7.61.148:30080/Entry/ttv
 TVBS HD,http://50.7.61.148:30080/Entry/tvbs
@@ -149,7 +148,7 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 民視 HD,http://50.7.61.147:30080/Entry/ftv
 華視CTS HD,http://50.7.61.147:30080/Entry/cts
 壹新聞 HD,http://50.7.61.147:30080/Entry/etv
-三立台灣,http://50.7.61.148:30080/Entry/settw-
+三立台灣(備2,http://50.7.61.148:30080/Entry/settw-
 衛視中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
 HBO,http://50.7.61.148:30080/Entry/hbo
