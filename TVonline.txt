@@ -66,49 +66,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 
 台灣,#genre#
-民視,http://43.128.9.168/jjtv.php?id=24
-民視第一台,http://43.128.9.168/jjtv.php?id=25
-民視台灣台,http://43.128.9.168/jjtv.php?id=26
-民視綜藝,http://43.128.9.168/jjtv.php?id=27
-民視旅遊,http://43.128.9.168/jjtv.php?id=28
-中視,http://43.128.9.168/jjtv.php?id=29
-華視,http://43.128.9.168/jjtv.php?id=30
-民視新聞台,http://43.128.9.168/jjtv.php?id=32
-中視新聞台,http://43.128.9.168/jjtv.php?id=33
-台視新聞,http://43.128.9.168/jjtv.php?id=34
-寰宇新聞,http://43.128.9.168/jjtv.php?id=35
-中天新聞,http://43.128.9.168/jjtv.php?id=36
-東森新聞,http://43.128.9.168/jjtv.php?id=38
-東森財經,http://43.128.9.168/jjtv.php?id=39
-華視新聞,http://43.128.9.168/jjtv.php?id=41
-TVBS新聞台,http://43.128.9.168/jjtv.php?id=42
-三立iNEWS,http://43.128.9.168/jjtv.php?id=43
-壹新聞,http://43.128.9.168/jjtv.php?id=46
-BBC World News,http://43.128.9.168/jjtv.php?id=47
-ABCnews,http://43.128.9.168/jjtv.php?id=48
-CNN,http://43.128.9.168/jjtv.php?id=49
-NHK World,http://43.128.9.168/jjtv.php?id=50
-CNA,http://43.128.9.168/jjtv.php?id=51
-JET綜合,http://43.128.9.168/jjtv.php?id=52
-ELTA娛樂,http://43.128.9.168/jjtv.php?id=53
-天映頻道,http://43.128.9.168/jjtv.php?id=63
-天映經典,http://43.128.9.168/jjtv.php?id=64
-tvN Movie,http://43.128.9.168/jjtv.php?id=78
-Thrill,http://43.128.9.168/jjtv.php?id=79
-AXN,http://43.128.9.168/jjtv.php?id=80
-One,http://43.128.9.168/jjtv.php?id=81
-Warner TV,http://43.128.9.168/jjtv.php?id=82
-Animax,http://43.128.9.168/jjtv.php?id=83
-Star Movies,http://43.128.9.168/jjtv.php?id=84
-Movies Now,http://43.128.9.168/jjtv.php?id=85
-星空電影,http://43.128.9.168/jjtv.php?id=86
-三立台灣,http://43.128.9.168/jjtv.php?id=129
-三立都會,http://43.128.9.168/jjtv.php?id=131
-
-公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
-
-
-
 
 
 港台測試,#genre#
@@ -165,7 +122,6 @@ CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 衛視西片,http://125.227.210.55:18789/VideoInput/play.ts
 TLC 旅遊生活,http://125.227.210.55:19020/VideoInput/play.ts
 FX HD,http://125.227.210.85:13498/VideoInput/play.ts
-
 CCTV3綜藝,http://93.190.139.36:8278/streams/d/cctv3/playlist.m3u8
 CCTV6電影,http://93.190.139.36:8278/streams/d/cctv6/playlist.m3u8
 CCTV10科教,http://93.190.139.36:8278/streams/d/cctv10hd/playlist.m3u8
@@ -179,7 +135,6 @@ J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 無線財經台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 VIU6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 VIU,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
