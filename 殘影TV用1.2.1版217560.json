@@ -1,4 +1,4 @@
-點播：
+点播：
 明日,http://zy.zcocc.com/api.php/provide/vod/at/xml/,解析
 愛看,http://v.aik.la/api.php/provide/vod/at/xml/,解析
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/,解析
@@ -17,7 +17,7 @@
 快播,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,空
 追劇吧,http://www.huaxiab.com/api.php/provide/vod/at/xml/,解析
 白熊,https://www.bxyy5.com/api.php/provide/vod/at/xml/,解析
-結束
+结束
 
 解析：
 蝦米,https://jx.xmflv.com/?url=
@@ -40,7 +40,7 @@
 人人,https://www.ifreefans.com/jx2/?url=
 M3U8,https://jx.m3u8.tv/jiexi/?url=
 全民,http://jx.quanmingjiexi.com:80/?url=
-結束
+结束
 
 
 直播：
@@ -104,4 +104,4 @@ X藏衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/in
 延邊衛視,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=52
 【衛視頻道尾】
 
-結束
+结束
