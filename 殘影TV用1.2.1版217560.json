@@ -45,9 +45,9 @@ M3U8,https://jx.m3u8.tv/jiexi/?url=
 
 直播：
 
-【分类头】央視頻道-衛視頻道【分类尾】
+【分类头】台灣-測試【分类尾】
 
-【央視頻道头】
+【台灣头】
 CCTV-1綜合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=01
 CCTV-2財經,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=02
 CCTV-3綜藝,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=03
@@ -66,8 +66,8 @@ CCTV-15音樂,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/322122772
 CCTV-5+體育,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=16
 CCTV-17農業,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=17
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=18
-【央視頻道尾】
-【衛視頻道头】
+【台灣尾】
+【測試头】
 湖南衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=19
 江蘇衛視,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227689/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=20
 北京衛視,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=21
@@ -102,6 +102,6 @@ CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?微信公眾號：
 內蒙衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=50
 X藏衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=51
 延邊衛視,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8?微信公眾號：阿龍軟件/tyzb00.php?id=52
-【衛視頻道尾】
+【測試尾】
 
 结束
