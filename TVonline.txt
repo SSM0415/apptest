@@ -276,7 +276,11 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 衛視中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
 HBO,http://50.7.61.148:30080/Entry/hbo
+緯來日本,http://50.7.61.147:30080/Entry/vljp
+東森新聞,rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
 東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
+MOMO親子,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
 ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
@@ -284,26 +288,69 @@ ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖洋卡通台,rtmp://45.88.148.178/channel/60c344bf961593122ebaf9a0
 寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-中視新聞HD,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+台視財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-探索,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+探索動力,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 TVBS精彩,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 FOX電影,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
 美亞電影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
-HBO原創,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 CNBC亞洲財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
+BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
+新加坡亞洲新聞,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
+卡達半島,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
 ELEVEN2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
+博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
+ELTA體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+ELTA體育2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6?
+ELTA體育3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8?
 TVB星河(粵語),rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 HBO強檔,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
+HBO原創,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
+FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
-探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
+好消息2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
+華藏衛視,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c56
+thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
+海豚综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
+緯來育樂,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
+民視1,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
+客家頻道,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
+冠軍電視,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
+TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
+KIX,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
+NHK,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
+NHK WORLD JAPAN,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
+euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
+JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+DW,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
+鳳凰中文,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
+鳳凰香港,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
+鳳凰資訊,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
+Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
+華視教育文化,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+CNA,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
+天映經典,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
+光影歐洲,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
+私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
+CATCHPLAY電影,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
+三立台灣(備3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
+三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
+衛視中文,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
+JET 綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+
 
 港台測試1,#genre#
 4GTV,
@@ -342,7 +389,77 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
 港台測試2,#genre#
-
+台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+大愛,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
+好消息,http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
+國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+旅游生活,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
+動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+亞洲旅遊,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+迪士尼,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
+ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+緯來日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+緯來育樂,http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
+緯來體育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來電影,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立都會,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+衛視中文,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+東風衛視,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+MuchTV,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+龍華戲劇,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+龍華日韓,http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龍華偶像,http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
+龍華卡通,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
+龍華電影,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
+TVBS歡樂,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
+衛視電影,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
+好萊塢電影,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
+HBO HD,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+AXN電影,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+FOXmovies,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+FOX頻道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+中天新聞,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+民視新聞,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+TVBS新聞,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+TVBS HD,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+民視新聞,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+TVBS新聞,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+TVBS HD,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+東森財經,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
+寰宇新聞,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+壹新聞台,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+CNN新聞,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
+CNBC新聞,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+Bloomberg,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
+NHK新聞,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
+博斯運動1,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+博斯運動2,http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
+ELEVEN SPORTS 1,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 
 
 星馬,#genre#
@@ -574,6 +691,46 @@ MOVIE推薦,#genre#
 路卡的夏天2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aIX5X0&ep=&fid=0aIX5X0&open=normal
 黑寡婦2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0ZgeVir&ep=&fid=0ZgeVir&open=normal
 自殺突擊隊-集結2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0oJdZpf&ep=&fid=0oJdZpf&open=normal
+
+影視輪播1,#genre#
+喜劇聯盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+古天樂影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+成龍作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+郭富城影院,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+張國榮影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+周潤發影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+懷舊老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+周星馳影院,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+午夜失眠劇場,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+吳京作品集,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+雲上電影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+每日科幻電影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+葛優作品集,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+劉德華影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+殭屍劇場,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+劉亦菲影視展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+TVB劇場,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+金庸頻道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+新片放映廳,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+盜墓方法論,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+試膽大會,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+高能燒腦時刻,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+楊冪作品集,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+4K劇場,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+愛情公寓,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+軍旅劇場,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+SNH48劇場公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+紅色諜戰劇場,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+少林劇場,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+神探狄仁傑,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+黃金劇場,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+追劇少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+古龍作品集,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+經典賀歲片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+每日薦影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+武俠劇場,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+
 
 影視輪播,#genre#
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
@@ -983,17 +1140,19 @@ redlightHD,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 hustlerhd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 彩虹e台rt,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+彩虹電影rt,rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
 松視1台rt,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
 松視2台rt,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
 松視3台rt,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
 K 頻道rt,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
 潘朵啦玩美rt,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
 Look TVrt,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
-潘朵拉完美rt,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
+潘朵拉完美rt,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
 潘朵拉粉紅rt,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
 驚艷台rt,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
 香蕉台rt,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
 Hotrt,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
+
 
 加值測試_1234,#genre#
 直播 720,http://cdn.adultiptv.net/livecams.m3u8
