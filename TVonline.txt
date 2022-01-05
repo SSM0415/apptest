@@ -71,33 +71,54 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視,rtmp://59.124.75.157/sat/tv051
 中視,rtmp://59.124.75.138/sat/tv091
 華視,rtmp://59.124.75.157/sat/tv111
+民視P,P2p://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
+台視P,P2p://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
+大愛P,P2p://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
+中視P,P2p://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
+華視P,P2p://ns2.hellotvvod.com:9906/fd73b217be314cf198807cc5d1d911b6
+公視P,P2p://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
+公視3台,P2p://ns2.hellotvvod.com:9906/6ba6fe3a051e4113b82eb6d32fbb7114
+超視P,P2p://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
+原民台,P2p://ns2.hellotvvod.com:9906/aa08defb0c824c2286623855624a0e07
 三立iNEWS,P2p://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
-台視新聞台,P2p://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
-寰宇新聞台灣台,P2p://ns2.hellotvvod.com:9906/b6a355771a7e4b469684732040c522f7
+台視新聞,P2p://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
+寰宇新聞台灣,P2p://ns2.hellotvvod.com:9906/b6a355771a7e4b469684732040c522f7
 中視新聞,P2p://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d
 寰宇新聞,P2p://ns2.hellotvvod.com:9906/7a095cbbff944242bd359bb0f32ac5f2
 華視新聞,P2p://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366
+壹電視新聞台,P2p://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
+年代新聞,P2p://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
+東森新聞台,P2p://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
+中天新聞台,P2p://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
+民視新聞台,P2p://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
+三立新聞台,P2p://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
+TVBS新聞台,P2p://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
+TVBS,P2p://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
+東森財經新聞台,P2p://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
+非凡新聞台,P2p://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
 NHK新聞資訊,P2p://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee271
 Arirang,P2p://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
-台視財經台,P2p://ns2.hellotvvod.com:9906/d8d1fa07f623422aae04f0e860f4bea3
+台視財經,P2p://ns2.hellotvvod.com:9906/d8d1fa07f623422aae04f0e860f4bea3
 France24,P2p://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
 非凡商業台,P2p://ns2.hellotvvod.com:9906/ab4d36f3d889496a92747157c7e4c732
-民視第一台,P2p://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
-民視台灣台,P2p://ns2.hellotvvod.com:9906/42f0e30a314e405bbbc3c67bb7846c60
+民視第一,P2p://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
+民視台灣,P2p://ns2.hellotvvod.com:9906/42f0e30a314e405bbbc3c67bb7846c60
 緯來精采,P2p://ns2.hellotvvod.com:9906/2c975cf5b04545ba8bf7b0320111883a
-緯來育樂台,P2p://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
-緯來體育台,P2p://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+緯來育樂,P2p://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
+緯來體育,P2p://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
 緯來日本,P2p://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
+緯來綜合,P2p://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
 國興衛視,P2p://ns2.hellotvvod.com:9906/7ed90f5183e64e4f8b422c951ff275b0
 FOX,P2p://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
 Z頻道,P2p://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 Animax,P2p://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 MTV,P2p://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
-八大娛樂台,P2p://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
+八大娛樂,P2p://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
 八大優頻道,P2p://ns2.hellotvvod.com:9906/2b16d85f1021459abed978cd4194a8a1
+八大第一,P2p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
+八大綜合,P2p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
 tvN,P2p://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 DW,P2p://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-公視3台,P2p://ns2.hellotvvod.com:9906/6ba6fe3a051e4113b82eb6d32fbb7114
 大愛2台,P2p://ns2.hellotvvod.com:9906/4523b0956bb34141bfb61460ea9494ed
 ELTV生活英語台,P2p://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
 達文西頻道,P2p://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
@@ -114,6 +135,8 @@ OUTDOOR,P2p://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
 三立戲劇台,P2p://ns2.hellotvvod.com:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
 中視經典台,P2p://ns2.hellotvvod.com:9906/003d7fef9db3466e9b9e2f569474dd28
 中視菁採台,P2p://ns2.hellotvvod.com:9906/c448d3d8a89f432d9d5ea92258dc3cef
+中天綜合台,P2p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
+中天娛樂台,P2p://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
 TVBS精采台,P2p://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
 壹電視綜合,P2p://ns2.hellotvvod.com:9906/9296b1db1f674585a1ca7be4ff47c004
 東森洋片台,P2p://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
@@ -134,7 +157,7 @@ Star Movies,P2p://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
 AMC最愛電影,P2p://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
 CatchPlay電影台,P2p://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
 CinemaWorld,P2p://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
-壹電視電影台,P2p://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
+壹電視電影,P2p://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
 采昌影劇台,P2p://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
 國家地理野生,P2p://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 BBC Earth,P2p://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
@@ -191,6 +214,11 @@ ELEVEN體育2台,P2p://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
 智林體育台,P2p://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
 博斯運動二台,P2p://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
 ELEVEN體育1台,P2p://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
+MOMO親子台,P2p://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
+東森幼幼台,P2p://ns2.hellotvvod.com:9906/a5729018eb3d44c4b4033e72ea4af060
+三立台灣台,P2p://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
+三立都會台,P2p://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+東森綜合台,P2p://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
 
 港台測試,#genre#
 中視,rtmp://59.124.75.138/sat/tv091
@@ -273,9 +301,7 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 衛視中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
 HBO,http://50.7.61.148:30080/Entry/hbo
-東森電影台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
-龍祥時代電影台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
-東森洋片台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
+
 
 
 
@@ -576,6 +602,67 @@ NHK新聞,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
 ELEVEN SPORTS 1,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 
+p5p測試,#genre#
+民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
+國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
+Discovery,p5p://fccs.123178.top:9906/60433c22000c069b0695b54fa99695c8
+動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
+CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+MOMO親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+東森幼幼台,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+緯來綜合台,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
+八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
+衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
+東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
+東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
+東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+東森戲劇台,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+高點綜合台,p5p://fccs.123178.top:9906/604640070003e1f8087cfed268004b6c.ts
+JET綜合台,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
+TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
+星衛電影台,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+星衛電影台,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts
+HBO Hits,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
+HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
+東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
+AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
+FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
+國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
+霹靂台灣台,p5p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
+三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+公視3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
+靖洋卡通,p5p://fccs.123178.top:9906/60bd169300057f1b0955c9653d8db6ac
+靖天卡通台,p5p://fccs.123178.top:9906/60bd172500015f0f095802a7f2bd13c9
+靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
+博斯高球,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
+博斯高球二台,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
+博斯網球台,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
+博斯運動,p5p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
+博斯運動二台,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
+Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
+Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a.ts
+BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
+龍華戲劇台,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
+龍華偶像台,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
+龍華洋片台,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
+CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
+亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
+tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 
 星馬,#genre#
 雙星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -1251,22 +1338,38 @@ Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 Nieuwe sinds,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-redlightHD,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-hustlerhd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-彩虹e台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
-K頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
-LOOK TV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
-驚艷台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
-香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
-潘朵啦玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
-潘朵啦粉紅台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
-JStar極限台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
-松視1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
-松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-HOT,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
-HAPPY,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+潘朵啦玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+LOOK-HD,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
+香草天道,p5p://fccs.123178.top:9906/6163cdac00048e5f0d396a46d031043b
+HAPPY,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+驚艷台,p5p://fccs.123178.top:9906/60fd2dbc0002e8d300ed4537251ee06d
+潘朵拉完美台,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296	
+潘朵拉粉红台,p5p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
+HOT,p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
+松視1台,p5p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
+松視2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b	
+松視3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
+大學女援交妹,p5p://fccs.123178.top:9906/6163d74a0002fd370d5efb0f7340eb24
+PLAYBOY HD,p5p://fccs.123178.top:9906/6163d405000971b80d52372ed4201556	
+香蕉台,p5p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
+彩虹电影,p5p://fccs.123178.top:9906/60ed7489000054d11105e349a7f90727
+ＶＥＮＵＳ,p5p://fccs.123178.top:9906/6163cf760007ae7a0d4068236afeb0c5
+彩虹E台,p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+JSTAR極限台,p5p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
+KMP 頻道,p5p://fccs.123178.top:9906/6163d476000d83df0d53f1a1211aff1e
+做愛特教班,p5p://fccs.123178.top:9906/6163cff50001281f0d42568fc10bcce4
+奶奶按摩店,p5p://fccs.123178.top:9906/6163d066000135e10d440ffb0dacdaa8
+人妻不倫,p5p://fccs.123178.top:9906/6163d1ed00023d170d4a0796df81c967
+近親相姦,p5p://fccs.123178.top:9906/6163d305000e609a0d4e507284a10773
+性愛教主,p5p://fccs.123178.top:9906/6163cec4000281760d3daf80fc6ddb11
+午夜藍,p5p://fccs.123178.top:9906/6163d5ce00025f560d592e87beb3489c
+彩虹通道,p5p://fccs.123178.top:9906/6163d3730009d54a0d4ffcf82e745ab5
+AV女王,p5p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb
+水多多,p5p://fccs.123178.top:9906/6163d262000030a30d4bd018f5ef2d93
+櫻桃,p5p://fccs.123178.top:9906/6163db960004ec200d6fc46e629bcf58
 
 
 加值測試_1234,#genre#
@@ -1408,15 +1511,16 @@ Anal,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
 HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 
 彩虹電影ns2,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
+彩虹e台ns2,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 LOOKns2,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
 潘朵啦玩美ns2,mitv://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61
+潘朵啦粉紅ns2,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
 驚艷台ns2,mitv://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8
 松視1台ns2,mitv://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
 松視2台ns2,mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
-潘朵啦粉紅ns2,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
+松視3台ns2,mitv://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
 PLAYBOYns2,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
 香蕉台ns2,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa
 HOTns2,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
-松視3台ns2,mitv://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
 JStar極限台ns2,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
 HAPPYns2,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
