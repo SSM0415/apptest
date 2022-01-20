@@ -288,6 +288,7 @@ VIU,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 三立台灣(備1,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 台視 HD,http://50.7.61.148:30080/Entry/ttv
+民視新聞,http://50.7.61.148:30080/Entry/ftvnews
 TVBS HD,http://50.7.61.148:30080/Entry/tvbs
 中視 HD,http://50.7.61.148:30080/Entry/ctv
 TVBS新聞 HD,http://50.7.61.148:30080/Entry/tvbsnews
@@ -299,10 +300,14 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 壹新聞 HD,http://50.7.61.147:30080/Entry/etv
 三立台灣(備2,http://50.7.61.148:30080/Entry/settw-
 衛視中文,http://50.7.61.148:30080/Entry/starchinese
+衛視電影,http://50.7.61.147:30080/Entry/starmovie
 AXN,http://50.7.61.148:30080/Entry/axn
 HBO,http://50.7.61.148:30080/Entry/hbo
-
-
+亞洲旅遊,http://50.7.61.147:30080/Entry/asiatravel
+ELTAsport1,http://50.7.61.148:30080/Entry/eltasport1
+ELTAsport2,http://50.7.61.147:30080/Entry/eltasport2
+ELTAsport3,http://50.7.61.148:30080/Entry/eltasport3
+緯來電影,http://50.7.61.148:30080/Entry/vlmovie
 
 
 港台測試1,#genre#
