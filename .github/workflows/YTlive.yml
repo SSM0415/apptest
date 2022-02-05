@@ -126,7 +126,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g --proxy socks4://210.61.216.66:33990/ https://www.youtube.com/watch?v=JAzRXylm3M0)
+        $(youtube-dl -g https://www.youtube.com/watch?v=JAzRXylm3M0)
         EOL
     - name: Get CTVnews.m3u8
       run: |
