@@ -74,23 +74,23 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
         $(youtube-dl -g https://www.youtube.com/c/yoyotvebc/live)
         EOL
-    - name: Get euronews.m3u8
+    - name: Get EBCFinancialNews.m3u8
       run: |
-        touch ./euronews.m3u8
-        sudo cat >./euronews.m3u8 <<EOL
+        touch ./EBCFinancialNews.m3u8
+        sudo cat >./EBCFinancialNews.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=sPgqEHsONK8)
+        $(youtube-dl -g https://www.youtube.com/watch?v=ABn_ccXn_jc)
         EOL
-    - name: Get france24.m3u8
+    - name: Get GEF0.m3u8
       run: |
-        touch ./france24.m3u8
-        sudo cat >./france24.m3u8 <<EOL
+        touch ./GEF0.m3u8
+        sudo cat >./GEF0.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=aHh8rA0hks8)
+        $(youtube-dl -g https://www.youtube.com/watch?v=_bV8NrwzZ08)
         EOL
     - name: Get CTSnews.m3u8
       run: |
@@ -99,16 +99,16 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+        $(youtube-dl -g https://pse.is/CTSNewsLive)
         EOL
     - name: Get GlobalNews.m3u8
       run: |
         touch ./GlobalNews.m3u8
-        sudo cat >./hyxw.m3u8 <<EOL
+        sudo cat >./GlobalNews.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=Fpsi2cmXGMs)
+        $(youtube-dl -g https://lihi1.cc/EVpiW)
         EOL
     - name: Get CTI.m3u8
       run: |
@@ -117,7 +117,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=bwK_cSAijKk)
+        $(youtube-dl -g https://youtu.be/lu_BJKxqGnk)
         EOL
     - name: Get PTS.m3u8
       run: |
@@ -135,7 +135,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g http://www.youtube.com/c/twctvnews/live)
+        $(youtube-dl -g https://www.youtube.com/c/twctvnews/live)
         EOL
     - name: Get whttt.m3u8
       run: |
@@ -144,7 +144,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=tBs03HOOa80)
+        $(youtube-dl -g https://www.youtube.com/watch?v=tlUNYX4wqQk)
         EOL
     - name: Get SETinews.m3u8
       run: |
