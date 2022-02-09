@@ -135,7 +135,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
+        $(youtube-dl -g https://www.youtube.com/embed/TCnaIE_SAtM)
         EOL
     - name: Get whttt.m3u8
       run: |
