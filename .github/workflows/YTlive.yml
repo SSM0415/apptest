@@ -56,14 +56,14 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=XGEmg3vhrzU)
         EOL
-    - name: Get DW.m3u8
+    - name: Get TVBS56.m3u8
       run: |
-        touch ./DW.m3u8
-        sudo cat >./DW.m3u8 <<EOL
+        touch ./TVBS56.m3u8
+        sudo cat >./TVBS56.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=4tbh25K-vO8)
+        $(youtube-dl -g https://www.youtube.com/watch?v=hP6_jfCFxyQ)
         EOL
     - name: Get EBCyoyo.m3u8
       run: |
