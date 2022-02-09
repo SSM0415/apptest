@@ -499,7 +499,7 @@ momo親子台,mitv://51.81.90.178:9906/d3ae733f3d61464e8f240d812c0b1516
 CN卡通頻道,mitv://51.81.90.178:9906/51e593fae95f48968c181b6a47179526
 ANIMAX,mitv://51.81.90.178:9906/10d8ae908a354513b09e38e7116b7b33
 
-4GTV,
+4GTV,#genre#
 民視,https://4gtvfreemobile-mozai.4gtv.tv/qFrK6JOMAMrUhG5Eo0yMQWU-OmTh7YGKA74Esn9hr_8%3d/master.m3u8?token=s7kT9S3Pb6_7TuAfs0zYZg&expires=1637011377&token1=wqhxb_koT4hhdvaQ5bPlhA&expires1=1637040177&refer=M2Y5NmE4ZTAtMTg3MC00ZmI4LTg1MDctMjMxNDRmODQ5MmZm&y=0
 民視台灣,https://4gtvfreemobile-mozai.4gtv.tv/slAVCUpom9JFjummraq0XdPQudsoOPKLNepCbbhcNyY%3d/master.m3u8?token=llDa0BFeTkW49tww1pZMUw&expires=1632748531&token1=6tHAj4iWQhH7WBon7Bm2KQ&expires1=1632777331&refer=ZjEyMjJhYTAtMmUzYi00NDA2LTg4ZTYtMzIzZGMxNDZmZDc0&y=0
 民視旅遊,https://4gtvfreemobile-mozai.4gtv.tv/IqafKPO6LhtIQZTnC9ij5SSImd6W6xMRfy7M43nv0Ok=/master.m3u8?token=7d9OzD9bz7MYJ8OI0mAGkg&expires=1632748885&token1=zrYJ3X-FoQYbTPVw9OIKzw&expires1=1632777685&refer=ZWE4MGUwZmItYTVhNi00MGZmLWFiMGUtOTlmM2FlYzgwMTJj&y=0
