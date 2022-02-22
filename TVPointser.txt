@@ -160,7 +160,10 @@ E!好萊塢流行娛樂頻道,http://50.7.218.42:8278/e_twn/playlist.m3u8?tid=15
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-
+八大娛樂,P2p://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
+八大優頻道,P2p://ns2.hellotvvod.com:9906/2b16d85f1021459abed978cd4194a8a1
+八大第一,P2p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
+八大綜合,P2p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
 
 
 $c_start港台測試$c_end
