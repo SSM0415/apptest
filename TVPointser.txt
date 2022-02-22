@@ -160,10 +160,6 @@ E!好萊塢流行娛樂頻道,http://50.7.218.42:8278/e_twn/playlist.m3u8?tid=15
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-八大娛樂,P2p://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
-八大優頻道,P2p://ns2.hellotvvod.com:9906/2b16d85f1021459abed978cd4194a8a1
-八大第一,P2p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
-八大綜合,P2p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
 
 
 $c_start港台測試$c_end
@@ -221,9 +217,82 @@ CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 衛視西片,http://125.227.210.55:18789/VideoInput/play.ts
 TLC 旅遊生活,http://125.227.210.55:19020/VideoInput/play.ts
 FX HD,http://125.227.210.85:13498/VideoInput/play.ts
+東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+非凡商業 HD,http://50.7.61.147:30080/Entry/ubnbus
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET綜合,http://50.7.61.147:30080/Entry/jet
+華視CTS HD,http://50.7.61.147:30080/Entry/cts
+衛視中文,http://50.7.61.148:30080/Entry/starchinese
+衛視電影,http://50.7.61.147:30080/Entry/starmovie
+AXN,http://50.7.61.148:30080/Entry/axn
+亞洲旅遊,http://50.7.61.147:30080/Entry/asiatravel
+ELTAsport1,http://50.7.61.148:30080/Entry/eltasport1
+ELTAsport2,http://50.7.61.147:30080/Entry/eltasport2
+ELTAsport3,http://50.7.61.148:30080/Entry/eltasport3
+緯來電影,http://50.7.61.148:30080/Entry/vlmovie
+
 
 $c_start港台測試1$c_end
-
+民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
+國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
+Discovery,p5p://fccs.123178.top:9906/60433c22000c069b0695b54fa99695c8
+動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
+CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+MOMO親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+東森幼幼台,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+緯來綜合台,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
+八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
+衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
+東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
+東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
+東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+東森戲劇台,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+高點綜合台,p5p://fccs.123178.top:9906/604640070003e1f8087cfed268004b6c.ts
+JET綜合台,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
+TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
+星衛電影台,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+星衛電影台,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts
+HBO Hits,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
+HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
+東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
+AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
+FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
+國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
+霹靂台灣台,p5p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
+三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+公視3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
+靖洋卡通,p5p://fccs.123178.top:9906/60bd169300057f1b0955c9653d8db6ac
+靖天卡通台,p5p://fccs.123178.top:9906/60bd172500015f0f095802a7f2bd13c9
+靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
+博斯高球,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
+博斯高球二台,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
+博斯網球台,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
+博斯運動,p5p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
+博斯運動二台,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
+Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
+Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a.ts
+BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
+龍華戲劇台,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
+龍華偶像台,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
+龍華洋片台,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
+CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
+亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
+tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 
 港台測試2,#genre#
 
