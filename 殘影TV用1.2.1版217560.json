@@ -11,7 +11,7 @@
 阿里,https://bljiex.com/api.php/provide/vod/at/xml/,空
 快播,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,空
 追劇吧,http://www.huaxiab.com/api.php/provide/vod/at/xml/,解析
-佳麗資源18,https://jializyzapi.com/api.php/provide/vod/at/xml/,解析
+佳麗資源18,http://jializyz.com/api.php/provide/vod/at/xml/,解析
 结束
 
 解析：
@@ -35,7 +35,7 @@
 人人,https://www.ifreefans.com/jx2/?url=
 M3U8,https://jx.m3u8.tv/jiexi/?url=
 全民,http://jx.quanmingjiexi.com:80/?url=
-佳麗,https://jiexi.jlzyplayer.com/m3u8/?url=
+佳麗,https://jialiapi.com/m3u8?url=
 结束
 
 
