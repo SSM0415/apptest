@@ -43,7 +43,7 @@ M3U8,https://jx.m3u8.tv/jiexi/?url=
 
 【分类头】台灣-新聞【分类尾】
 
-【台灣頭】
+【台灣头】
 中視,rtmp://59.124.75.157/sat/tv091
 華視,rtmp://59.124.75.157/sat/tv111
 台視,rtmp://59.124.75.157/sat/tv071
@@ -110,7 +110,7 @@ ELTAsport2,http://50.7.61.147:30080/Entry/eltasport2
 ELTAsport3,http://50.7.61.148:30080/Entry/eltasport3
 緯來電影,http://50.7.61.148:30080/Entry/vlmovie
 【台灣尾】
-【新聞頭】
+【新聞头】
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 三立新聞台,http://seb.sason.top/sc/sllive_fhd.m3u8
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
