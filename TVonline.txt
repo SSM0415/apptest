@@ -512,56 +512,107 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
 港台測試2,#genre#
-港台电视31,P2p://860969650:9906/26306a6246814adbaec622fd114432ec
-港台電視32,P2p://860969650:9906/dcd3e6336bec46168a990c3331cb8579
-爆谷台,P2p://860969650:9906/1d7e379fa2f04936b9d2dce207efb097
-香港開電視,P2p://860969650:9906/ae5366f93aa942ddb49b19c9492f5d72
-翡翠台,P2p://860969650:9906/9e2a8fd74a5242f3b2e2621cb384ec84
-翡翠台(華麗台),P2p://860969650:9906/b1b2d6da00de42efa4fe6051d35650d9
-J2,P2p://860969650:9906/4b20b6d78e904b779ff16c0b10d6c3e4
-無綫新聞台,P2p://860969650:9906/977fac4b93af4ee0a190f38217d79e51
-無綫新聞台(備),P2p://860969650:9906/92b7235ae2a54766a2acb97e5f7a64ef
-無綫財經·資訊台,P2p://860969650:9906/790b3d24875349d8b3118357cb9a5124
-明珠台,P2p://860969650:9906/7a62960513a04dc18339caabbf644cd9
-now新聞台,P2p://860969650:9906/f228f98bc84245ce9b4870364b82b6da
-now直播台,P2p://860969650:9906/185dbf64ed284733a132ae9ec355f263
-HKC新聞台,P2p://860969650:9906/a8429ecad2e446e18c362b031e3d32bf
-HKC直播新聞台,P2p://860969650:9906/eede001be16e4991843619bb8af3f840
-HKC財經資訊台,P2p://860969650:9906/94ecdbe381c54b58bcca74b7b88047a2
-ViuTVsix,P2p://860969650:9906/0a2171b6dcd6420c98ccfb7c7f524504
-ViuTV,P2p://860969650:9906/d7506148214e4b3fae543068f1701ff7
-TVB娛樂新聞台,P2p://860969650:9906/f500497b96b1458a8f9f5da38c6e02d7
-TVB 星河,P2p://860969650:9906/5f99a3cfce824f6da2fd0c3b6797428a
-HKC 18,P2p://860969650:9906/36976aef6f4f4ab2aad06b8ece5aac54
-HKC 603,P2p://860969650:9906/bc32fd90af7d4f4aaa3bd451d9199153
-民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
-台視,P2p://860969650:9906/0cde14d20638479189443549d1b1005f
-大愛,P2p://860969650:9906/47e0000522814c6aac7d54c8bec91445
-中視,P2p://860969650:9906/21fe3c316a13445a8a5b1f4afd39a5b1
-華視,P2p://860969650:9906/fd73b217be314cf198807cc5d1d911b6
-公視,P2p://860969650:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
-好消息,P2p://860969650:9906/7df332eeb26546bf94a972d4c2d1ad4e
-原住民電視台,P2p://860969650:9906/aa08defb0c824c2286623855624a0e07
-緯來綜合台,P2p://860969650:9906/30dab7cccf3842838ef7edfdabcf57c2
-八大第一台,P2p://860969650:9906/7826fa652c474b55888ef85c30901584
-八大綜合台,P2p://860969650:9906/578cc70bac494161901e5c735312762c
-三立台灣台,P2p://860969650:9906/ba70eb94fd0e4b2aae6fb9ece2203391
-三立都會台,P2p://860969650:9906/24f879b52a0d45d886005e8acdd9a8ab
-東森綜合台,P2p://860969650:9906/8c962bcce29840f4a4f0109bfd7fe5c0
-超視,P2p://860969650:9906/941259e9297d4a229c678f08b19f60f1
-中天綜合台,P2p://860969650:9906/a23f89fde21341f3b172046c02ad688c
-中天娛樂台,P2p://860969650:9906/c23914b1e52c44a9b665e51f535d5b37
-高點綜合台,P2p://860969650:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
-緯來日本,P2p://860969650:9906/f89c51e091594bb1bcce0ba7b3e17973
-Z頻道,P2p://860969650:9906/653db001ea4a4599ad4be5a98f9adf8c
-八大娛樂台,P2p://860969650:9906/cdb80c12a4854752b4cfb570d448ac05
-三立iNEWS,P2p://860969650:9906/49035f1ad8b84fa7822c0ff660d89f09
-大愛2台,P2p://860969650:9906/4523b0956bb34141bfb61460ea9494ed
-Astro AEC,P2p://860969650:9906/ba54a1fee32c4b159e953cc9f2632857
-Astro雙星,P2p://860969650:9906/7872926c51f9451fb86342414e0d32f5
-Astro全佳,P2p://860969650:9906/bda13a24baf24436ae722275cbb85345
-Astro AOD HD 311,P2p://860969650:9906/55fa6310d30d45029c38c2848ffbcb85
-Astro歡喜台,P2p://860969650:9906/d3f47d1dbb174a9abea701a048928bfb
+民視,http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+台視,http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+中視經典台,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+大愛台,http://50.7.218.42:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
+動物星球頻道,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m02000000000010286804&ct=17955&tsum=e410c11ceeef204e26aa7619dc42a355
+國家地理國際頻道,http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+探索亞洲台,http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m02000000000015429965&ct=17955&tsum=b2ddd9a0b47a7e140ef7f218021011d9
+探索動力台,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+探索科學台,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+罪案偵輯台,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+fyi,http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+CN卡通頻道,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=m02000000000015907213&ct=17979&tsum=abc06280e0ba3385fcbfa809fd9e3775
+東森幼幼台,http://50.7.218.42:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大綜合台,http://50.7.218.42:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+八大戲劇台,http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+八大娛樂台,http://50.7.218.42:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
+三立台灣台,http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立綜合台,http://50.7.218.42:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+東森綜合台,http://50.7.218.42:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+中天綜合台,http://50.7.218.42:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天娛樂台,http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+中天亞洲台,http://50.7.218.42:8278/ctiasia_twn/playlist.m3u8?tid=m02000000000018570617&ct=17982&tsum=41a23593234363b088028585850ccf48
+東森戲劇台,http://50.7.218.42:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+年代新聞台,http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+東森新聞台,http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+民視新聞台,http://50.7.218.42:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+東森財經台,http://50.7.218.42:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+非凡新聞台,http://50.7.218.42:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+東森電影台,http://50.7.218.42:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森洋片台,http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+ANX,http://50.7.218.42:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+HBO-HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+HBO-強檔,http://50.7.218.42:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
+HBO-原創,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+愛爾達影劇台,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達體育1台,http://50.7.218.42:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+FOX體育3台,http://50.7.218.42:8278/foxsport3hd_twn/playlist.m3u8?tid=m5d584d8f204e14267960&ct=17895&tsum=a75615ebe28f1eaa5d552ec102136011
+EYE TV戲劇台,http://50.7.218.42:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+EYE TV旅遊台,http://50.7.218.42:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+星衛電影台,http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+亞洲旅遊台,http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=m02000000000012865686&ct=17955&tsum=9e51c9e9e3a6cd6bf4d30373674a6e7b
+JET綜合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=m02000000000015325460&ct=17957&tsum=6080d23848c6dbe6b4ef122b599f5610
+Nick Jr,http://50.7.218.42:8278/nickelodeon_twn/playlist.m3u8?tid=14815731&ct=17989&tsum=1f4f828acc866c2d8c3b7cc76bd01765
+BaBy-TV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m02000000000017826060&ct=17979&tsum=d6634184cb1e60a09164b293fffafd75
+CATCHPLAY 電影台,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a5bb5c15986498&ct=17874&tsum=2de38c0bcaece3cb5c50d0d600357cb0
+美亞電影台,http://50.7.218.42:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+龍華影劇台,http://50.7.218.42:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
+龍華戲劇台,http://50.7.218.42:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+龍華日韓台,http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+龍華偶像台,http://50.7.218.42:8278/lunghuaidol_twn/playlist.m3u8?tid=m02000000000017261257&ct=17971&tsum=be8a7a335e6378441a89f8098abde7f1
+靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=12249424&ct=17988&tsum=c5f64893d4a4e2f81f02100a92f697de
+星空衛視台,http://50.7.218.42:8278/xingkong/playlist.m3u8?tid=m02000000000013138939&ct=17956&tsum=429ccef2c0968da96d159de01e74ac2e
+天映電影台,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
+天映頻道HD,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
+日舞電影台,http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
+香港資訊,http://50.7.218.42:8278/phoenixinfo_hd/playlist.m3u8?tid=m02000000000014163373&ct=18001&tsum=b4187b126abf2e7567e321c09dcc075e
+香港鳳凰,http://50.7.218.42:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
+鳳凰香港,http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2
+無線財經資訊台,http://50.7.218.42:8278/j5_twn/playlist.m3u8?tid=m02000000000016321738&ct=18001&tsum=51765b09f6ee643481f0a70be4828cbf
+TVB明珠台,http://50.7.218.42:8278/pearl_twn/playlist.m3u8?tid=m02000000000012491568&ct=18001&tsum=514841dbe702bad98444525a615de5fe
+TVB互動新聞,http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
+TVB星河台,http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000010664416&ct=17957&tsum=677ee0726623db24ed4999f07f684bb7
+TV1,http://50.7.161.82:8278/TV1/playlist.m3u8?tid=m02000000000012703090&ct=17958&tsum=fd9627ab19ed7498cd9f95752bb462fc
+TV2,http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m02000000000013449400&ct=17958&tsum=aa1e63a400d2c7db6699847ced569e81
+NTV7,http://50.7.161.82:8278/NTV7/playlist.m3u8?tid=m02000000000018526408&ct=17958&tsum=70ed7f2694f1dab54376a34bd6f61670
+TV8,http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m02000000000013140036&ct=17958&tsum=712d61fd40f86b1abccb1a5afb6d358a
+TV9,http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m02000000000017268525&ct=17958&tsum=c6b290c897833dcaaed14681160dc38e
+Bernama,http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000015103647&ct=17958&tsum=c2fd04f2d69c43b4532593798f2fded4
+Alhijrah,http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m02000000000014615787&ct=17958&tsum=b0ead2bd3d2c7065c9b17e7623eb1330
+Astro Oasis,http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m02000000000015727258&ct=17958&tsum=4732d0f3fc562e865e5ef831c0797a25
+Astro Warna,http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
+Astro Ceria,http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000013962610&ct=17958&tsum=7c63002373f04fe6d76afbbb9bd840e2
+Astro Citra,http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
+Astro Awani,http://50.7.161.82:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037
+Astro Ria,http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000016577258&ct=17958&tsum=538739a0520a004cfcf115fef17fe8cc
+Astro Prima,http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m02000000000016192913&ct=17958&tsum=7c7f40ea3d204e5a683354afd932a406
+Astro 華麗台,http://50.7.161.82:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
+Astro 歡喜台,http://50.7.161.82:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
+Astro 雙星台,http://50.7.161.82:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
+Astro AEC,http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
+Astro BOO,http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000014511515&ct=17957&tsum=fca94086b6283f0f50ed86710f79b55a
+韓國tvN,http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000010188546&ct=17958&tsum=e7c5d12156cafc6f7dff6e7c23e1e475
+Sony One,http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000018842865&ct=17957&tsum=3f4ae645e3cf2025932a27d866ade426
+NHK World,http://50.7.218.42:8278/nhkworld_japan/playlist.m3u8?tid=m02000000000010501345&ct=17961&tsum=28d504bdb8c057335c06d621a17ae58d
+NHK1,http://50.7.218.42:8278/nhk1_japan/playlist.m3u8?tid=m02000000000015887112&ct=17961&tsum=850fff5fce3e769674f912abb0c1b3b3
+NHKBS1,http://50.7.218.42:8278/nhkbs1_japan/playlist.m3u8?tid=m02000000000010941897&ct=17961&tsum=f9a95613db20763ac9f9e616ca2b48df
+NHK-E,http://50.7.218.42:8278/nhke_japan/playlist.m3u8?tid=m02000000000015560778&ct=17961&tsum=f223c3f08af22bec35601f98b1c8e2b6
+日テレ Nippon TV,http://50.7.218.42:8278/nippontv_japan/playlist.m3u8?tid=m02000000000018410979&ct=17961&tsum=ffa3078fcab317cc03360e4c7c20125c
+テレビ東京 Tokyo TV,http://50.7.218.42:8278/tokyotv_japan/playlist.m3u8?tid=m02000000000012282521&ct=17961&tsum=41b32bc255ed33f97946eddf88abe30a
+フジテレビ Fuji TV,http://50.7.218.42:8278/fujitv_japan/playlist.m3u8?tid=m02000000000015400733&ct=17961&tsum=f468eb16655b7c736b1ae679b25bb862
+TOKYOMX,http://50.7.218.42:8278/tokyomx_japan/playlist.m3u8?tid=m02000000000011022989&ct=17961&tsum=e1f82c309d8aadb0fbe34c72e4cf18b0
+BSジャパン BS Japan,http://50.7.218.42:8278/bs181_japan/playlist.m3u8?tid=m02000000000015715468&ct=17961&tsum=268454427f0f0a88bff980c91026adab
+BSフジ BS Fuji,http://50.7.218.42:8278/bsfuji_japan/playlist.m3u8?tid=m02000000000015367074&ct=17961&tsum=28f90b7564324fd63ee0695551c6c593
+CNA Japan,http://50.7.218.42:8278/cna_japan/playlist.m3u8?tid=m02000000000016834252&ct=17961&tsum=3b05ed59ee8858d8e26bac9713289949
+tokyotv,http://50.7.218.42:8278/tokyotv_japan/playlist.m3u8?tid=m02000000000012116212&ct=17952&tsum=7830acd9783dba08830e2a6084671aa5
+
 
 p5p測試,#genre#
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
@@ -1935,10 +1986,6 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 
 娛樂測試1_1234,#genre#
-Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-Nieuwe sinds,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
