@@ -119,14 +119,14 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://youtu.be/lu_BJKxqGnk)
         EOL
-    - name: Get PTS.m3u8
+    - name: Get TTV.m3u8
       run: |
-        touch ./PTS.m3u8
+        touch ./TTV.m3u8
         sudo cat >./PTS.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g --proxy socks4://210.61.216.66:33990/ https://www.youtube.com/watch?v=JAzRXylm3M0)
+        $(youtube-dl -g https://www.youtube.com/watch?v=uDqQo8a7Xmk)
         EOL
     - name: Get CTVnews.m3u8
       run: |
