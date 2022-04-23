@@ -27,7 +27,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=R2iMq5LKXco)
+        $(youtube-dl -g https://www.youtube.com/watch?v=z1JdnGD7JIE)
         EOL
     - name: Get SETnews.m3u8
       run: |
@@ -171,7 +171,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=2mCSYvcfhtc)
+        $(youtube-dl -g https://www.youtube.com/watch?v=lXzPc7rv0nw)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
