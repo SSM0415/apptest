@@ -195,7 +195,10 @@
             "http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15",
             "http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8"
           ]
-        },
+        }
+      ]
+    }
+  ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
