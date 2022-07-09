@@ -27,10 +27,7 @@
 
 
   "lives": [
-    {
-      "group": "自定义",
-      "channels": [
-        {
+          {
           "name": "安徽经视",
           "urls": [
             "http://zbbf2.ahtv.cn/live/750.m3u8"
