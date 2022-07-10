@@ -32,67 +32,80 @@
 "name": "民視新聞",
 "urls": [
 "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8"
-]},
+]
+},
 {
 "name": "中天新聞",
 "urls": [
 "https://raw.github.com/SSM0415/apptest/YTlive/CTI.m3u8"
-]},
+]
+},
 {
 "name": "TVBS新聞",
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129"
-]},
+]
+},
 {
 "name": "東森新聞",
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234"
-]},
+]
+},
 {
 "name": "東森財經",
 "urls": [
 "https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8"
-]},
+]
+},
 {
 "name": "半島國際新聞",
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85"
-]},
+]
+},
 {
 "name": "三立iNEWS",
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw"
-]},
+]
+},
 {
 "name": "寰宇新聞",
 "urls": [
 "https://raw.github.com/SSM0415/apptest/YTlive/GlobalNews.m3u8"
-]},
+]
+},
 {
 "name": "台視新聞",
 "urls": [
 "https://raw.github.com/SSM0415/apptest/YTlive/TTVnews.m3u8"
-]},
+]
+},
 {
 "name": "中視新聞",
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33"
-]},
+]
+},
 {
 "name": "鏡電視新聞",
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268"
-]},
+]
+},
 {
 "name": "壹新聞",
 "urls": [
 "http://stream.nexttv.com.tw/n001/hd/live.m3u8"
-]},
+]
+},
 {
 "name": "CNN國際新聞",
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live204&nid=166"
-]},
+]
+},
 "lives": [{
 "group": "電視",
 "channels": [
@@ -100,72 +113,86 @@
 "name": "民視",
 "urls": [
 "rtmp://59.124.75.138/sat/tv051"
-]},
+]
+},
 {
 "name": "台視",
 "urls": [
 "rtmp://59.124.75.138/sat/tv071"
-]},
+]
+},
 {
 "name": "中視",
 "urls": [
 "rtmp://59.124.75.138/sat/tv091"
-]},
+]
+},
 {
 "name": "華視",
 "urls": [
 "rtmp://59.124.75.138/sat/tv111"
-]},
+]
+},
 {
 "name": "TVBS新聞",
 "urls": [
 "rtmp://59.124.75.138/sat/tv551"
-]},
+]
+},
 {
 "name": "TVBS歡樂",
 "urls": [
 "rtmp://59.124.75.138/sat/tv421"
-]},
+]
+},
 {
 "name": "東森財經新聞",
 "urls": [
 "rtmp://59.124.75.138/sat/tv571"
-]},
+]
+,
 {
 "name": "東森超視",
 "urls": [
 "rtmp://59.124.75.138/sat/tv521"
-]},
+]
+},
 {
 "name": "緯來育樂",
 "urls": [
 "rtmp://59.124.75.138/sat/tv701"
-]},
+]
+},
 {
 "name": "緯來體育",
 "urls": [
 "rtmp://59.124.75.138/sat/tv721"
-]},
+]
+},
 {
 "name": "ELEVEN1",
 "urls": [
 "rtmp://59.124.75.138/sat/tv731"
-]},
+]
+},
 {
 "name": "ELEVEN2",
 "urls": [
 "rtmp://59.124.75.138/sat/tv741"
-]},
+]
+},
 {
 "name": "緯來日本",
 "urls": [
 "rtmp://59.124.75.138/sat/tv771"
-]},
+]
+},
 {
 "name": "MOMO綜合",
 "urls": [
 "rtmp://59.124.75.138/sat/tv761"
-]},
+]
+},
 {
 "name": "TVBS新聞",
 "urls": [
