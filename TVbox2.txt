@@ -77,7 +77,7 @@
 "urls": [
 "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live204&nid=166"]}]},
 {
-"group": "電視_111",
+"group": "電視",
 "channels": [
 {
 "name": "民視",
