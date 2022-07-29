@@ -139,6 +139,19 @@
 "rtmp://59.124.75.138/sat/tv551"]}]},
 ],
 
+{
+"group": "MOVIE推薦",
+"channels": [
+{
+"name": "叢林奇航2021",
+"urls": [
+"https://nashongyu.myqnapcloud.com/share.cgi?ssid=0lwJs46&ep=&fid=0lwJs46&open=normal"]},
+{
+"name": "路卡的夏天2021",
+"urls": [
+"https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aIX5X0&ep=&fid=0aIX5X0&open=normal"]}]},
+],
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
