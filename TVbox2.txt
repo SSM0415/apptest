@@ -83,8 +83,7 @@
 "rtmp://59.124.75.138/sat/tv051"]},
 {
 "name": "台視",
-"urls": [
-"rtmp://59.124.75.138/sat/tv071"]},
+"urls": ["rtmp://59.124.75.138/sat/tv071"]},
 {
 "name": "中視",
 "urls": [
@@ -137,7 +136,6 @@
 "name": "TVBS新聞",
 "urls": [
 "rtmp://59.124.75.138/sat/tv551"]}]},
-],
 {
 "group": "MOVIE推薦",
 "channels": [
@@ -150,6 +148,7 @@
 "urls": [
 "https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aIX5X0&ep=&fid=0aIX5X0&open=normal"]}]},
 ],
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
