@@ -133,10 +133,6 @@
 "urls": [
 "rtmp://59.124.75.138/sat/tv761"]},
 {
-"name": "testp2p綜合",
-"urls": [
-"P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66"]},
-{
 "name": "TVBS新聞",
 "urls": [
 "rtmp://59.124.75.138/sat/tv551"]}]},
