@@ -18,32 +18,23 @@ $c_start港澳$c_end
 澳視衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 澳視葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 新唐人,https://live.ntdimg.com/aplive200/playlist.m3u8
-香港資訊,http://50.7.218.42:8278/phoenixinfo_hd/playlist.m3u8?tid=m02000000000014163373&ct=18001&tsum=b4187b126abf2e7567e321c09dcc075e
-香港鳳凰,http://50.7.218.42:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
-鳳凰香港,http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2
-無線財經資訊台,http://50.7.218.42:8278/j5_twn/playlist.m3u8?tid=m02000000000016321738&ct=18001&tsum=51765b09f6ee643481f0a70be4828cbf
-TVB明珠台,http://50.7.218.42:8278/pearl_twn/playlist.m3u8?tid=m02000000000012491568&ct=18001&tsum=514841dbe702bad98444525a615de5fe
-TVB互動新聞,http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
-TVB星河台,http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000010664416&ct=17957&tsum=677ee0726623db24ed4999f07f684bb7
+
 
 $c_start新聞$c_end
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-三立新聞台,http://seb.sason.top/sc/sllive_fhd.m3u8
-中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
-台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
-壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-東森新聞台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-TVBS新聞台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
-三立INEW,http://seb.sason.top/sc/slinews_fhd.m3u8
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
-民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
-民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+TVBS HD,https://live.6zxr.xyz/tvbs56/index.m3u8
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+東森財經,https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8
+半島國際新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+寰宇新聞,https://raw.github.com/SSM0415/apptest/YTlive/GlobalNews.m3u8
+台視新聞,https://raw.github.com/SSM0415/apptest/YTlive/TTVnews.m3u8
+中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+鏡電視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -51,111 +42,6 @@ TVBS新聞台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
 
 $c_start台灣$c_end
-民視,http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
-公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
-台視,http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
-中視經典台,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-華視,http://50.7.218.42:8278/cts_taiwan/playlist.m3u8?tid=m02000000000010650676&ct=17979&tsum=7a1db7d15f86be1e9b0a14d23fe55d55
-大愛台,http://50.7.218.42:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-動物星球頻道,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m02000000000010286804&ct=17955&tsum=e410c11ceeef204e26aa7619dc42a355
-國家地理國際頻道,http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-國家地理野生頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-國家地理悠人頻道,http://50.7.218.42:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
-探索亞洲台,http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m02000000000015429965&ct=17955&tsum=b2ddd9a0b47a7e140ef7f218021011d9
-探索動力台,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-探索科學台,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-探索家庭台,http://50.7.218.42:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
-罪案偵輯台,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-fyi,http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-History,http://50.7.218.42:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
-H2歷史台,http://50.7.218.42:8278/history2hd_twn/playlist.m3u8?tid=m6ee31585044116722070&ct=17877&tsum=f8c0d4c91afe878ae92670a427f15300
-TLC旅遊生活,http://50.7.218.42:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
-迪士尼卡通,http://50.7.218.42:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
-CN卡通頻道,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=m02000000000015907213&ct=17979&tsum=abc06280e0ba3385fcbfa809fd9e3775
-Animax頻道,http://50.7.218.42:8278/cartoonnetwork_twn/playlist.m3u8?tid=m02000000000014131645&ct=18016&tsum=c47ab9a04d9f7485064f70f03f87a082
-東森幼幼台,http://50.7.218.42:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-八大綜合台,http://50.7.218.42:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-八大戲劇台,http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-八大娛樂台,http://50.7.218.42:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
-三立台灣台,http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立都會台,http://50.7.218.42:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
-三立綜合台,http://50.7.218.42:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-三立戲劇台,http://50.7.218.42:8278/sanlixiju/playlist.m3u8?tid=m85bfefb25f5b15139718&ct=17874&tsum=e3f01ed537857f0814429021b438094f
-東森綜合台,http://50.7.218.42:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-中天綜合台,http://50.7.218.42:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-中天娛樂台,http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-中天亞洲台,http://50.7.218.42:8278/ctiasia_twn/playlist.m3u8?tid=m02000000000018570617&ct=17982&tsum=41a23593234363b088028585850ccf48
-緯來戲劇台,http://50.7.218.42:8278/videolandxiju_twn/playlist.m3u8?tid=me33d51f9013f18221119&ct=17874&tsum=1e9596fb70732a30917cb7df95d22aa8
-東森戲劇台,http://50.7.218.42:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-寰宇新聞2台,http://50.7.218.42:8278/videolandjapan_twn/playlist.m3u8?tid=10005792&ct=17990&tsum=637dd82677cbdcfb67dba257f4163e90
-年代新聞台,http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-東森新聞台,http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-民視新聞台,http://50.7.218.42:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-三立新聞台,http://50.7.218.42:8278/sanlinews/playlist.m3u8?tid=mbadf4e74b28115689557&ct=17874&tsum=e30b5a4bea77c714f8c3c54c1d003690
-東森財經台,http://50.7.218.42:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-非凡新聞台,http://50.7.218.42:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-東森電影台,http://50.7.218.42:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-東森洋片台,http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-ANX,http://50.7.218.42:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
-緯來體育台,http://50.7.218.42:8278/videolandsport_twn/playlist.m3u8?tid=m02000000000011823725&ct=17955&tsum=c2f107f6651d0565b9d6447c9db104c6
-緯來精采台,http://50.7.218.42:8278/videolandspecial_twn/playlist.m3u8?tid=m7ad330f1250511190882&ct=17889&tsum=028edd32d84c9810f126c7167897858a
-MTV-音樂台,http://50.7.218.42:8278/mtvtaiwan_twn/playlist.m3u8?tid=m02000000000015221796&ct=17955&tsum=4e21ccf99ed9422b81d265e066705132
-MTV-LIVE,http://50.7.218.42:8278/mtvlive_twn/playlist.m3u8?tid=18457487&ct=17989&tsum=374065cb4a9d7a87ea91b6cf416ef4d0
-國興衛視,http://50.7.218.42:8278/guoxingweishi_twn/playlist.m3u8?tid=m1334ecd4755214059867&ct=17874&tsum=726e33b08e97878ac212397c71e5dda2
-FX-HD,http://50.7.218.42:8278/fxhd_twn/playlist.m3u8?tid=m8498f04c47e518196321&ct=17874&tsum=cf16eabaef6f5f875adb0ddb5f09d0d4
-FOX-娛樂,http://50.7.218.42:8278/foxhd_twn/playlist.m3u8?tid=ma917ec9fcbb013975253&ct=17874&tsum=4ef6f5cfc8fa293ad3a1d18f2224120a
-FOX-警匪,http://50.7.218.42:8278/foxcrime_twn/playlist.m3u8?tid=mad94f360dbc911979092&ct=17874&tsum=f3660d1b5d22dd9e8bfd9e1c13a653fc
-FOX-動作,http://50.7.218.42:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cba10253148&ct=17874&tsum=0248b8358bbfa7ab78a7dbd2faaf4ad1
-FOX-家庭,http://50.7.218.42:8278/foxfamily_twn/playlist.m3u8?tid=ma0567f6ff31018880325&ct=17874&tsum=2117118a0890ae6db1010482ffd9175f
-HBO-HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO-強檔,http://50.7.218.42:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-HBO-原創,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-愛爾達影劇台,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-愛爾達綜合台,http://50.7.218.42:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000018306177&ct=17952&tsum=937d0d436ffa2c0bb8db2b9ccf487068
-愛爾達體育1台,http://50.7.218.42:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-愛爾達體育2台,http://50.7.218.42:8278/eltayule_twn/playlist.m3u8?tid=m6f63d67fa19a15132301&ct=17874&tsum=f546d8218edcc15482d3f38619904bdc
-FOX體育3台,http://50.7.218.42:8278/foxsport3hd_twn/playlist.m3u8?tid=m5d584d8f204e14267960&ct=17895&tsum=a75615ebe28f1eaa5d552ec102136011
-博斯高球II,http://50.7.218.42:8278/golf_twn/playlist.m3u8?tid=mb00dfa16545f10661426&ct=17877&tsum=546b6319250649da8e66eeba7288527f
-EYE TV戲劇台,http://50.7.218.42:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-EYE TV旅遊台,http://50.7.218.42:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
-華藝戲劇台,http://50.7.218.42:8278/hongjimovie_twn/playlist.m3u8?tid=m6992b421712414308100&ct=17874&tsum=18615808f00a46fc6058b635b56427e3
-星衛娛樂台,http://50.7.218.42:8278/starentertainment_twn/playlist.m3u8?tid=m03b7fd7a033016076997&ct=17874&tsum=fe095a1f38d6ea608dc64c6b66e12833
-星衛電影台,http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-美食星球台,http://50.7.218.42:8278/chinesefoodnetwork/playlist.m3u8?tid=mbc914f8739e615316317&ct=17874&tsum=a3e117776a0b1de55a524a983d08b532
-亞洲美食台,http://50.7.218.42:8278/asiafood_twn/playlist.m3u8?tid=m02000000000012091082&ct=17955&tsum=037a1c8aa1669a449f8e03fe234d5511
-亞洲旅遊台,http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=m02000000000012865686&ct=17955&tsum=9e51c9e9e3a6cd6bf4d30373674a6e7b
-JET綜合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=m02000000000015325460&ct=17957&tsum=6080d23848c6dbe6b4ef122b599f5610
-曼迪日本台,http://50.7.218.42:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8
-Nick Jr,http://50.7.218.42:8278/nickelodeon_twn/playlist.m3u8?tid=14815731&ct=17989&tsum=1f4f828acc866c2d8c3b7cc76bd01765
-KIDS,http://50.7.218.42:8278/mykids_twn/playlist.m3u8?tid=m4ad7a03977f517262514&ct=17877&tsum=af68298c284254ee5eb9488851a53ae2
-BaBy-TV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m02000000000017826060&ct=17979&tsum=d6634184cb1e60a09164b293fffafd75
-Boomerang,http://50.7.218.42:8278/boomerang_twn/playlist.m3u8?tid=12328705&ct=17989&tsum=75fe5b1e08d6bd56be0661958554ebf4
-BBC Earth,http://50.7.218.42:8278/bbcearthhd/playlist.m3u8?tid=me1cedf047ba218380955&ct=17874&tsum=bd82352683e07a4a7927a793263b91bf
-BBC Lifestyle,http://50.7.218.42:8278/bbcearthlifestyle/playlist.m3u8?tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
-Outdoor,http://50.7.218.42:8278/outdoorsports_twn/playlist.m3u8?tid=m02000000000015220822&ct=17955&tsum=b7893a7be352c174ce0b80023ff8c0f3
-CATCHPLAY 電影台,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a5bb5c15986498&ct=17874&tsum=2de38c0bcaece3cb5c50d0d600357cb0
-CinemaWorld,http://50.7.218.42:8278/cinemaworld_twn/playlist.m3u8?tid=mc49b804f970c16775887&ct=17874&tsum=891e895480fd5ca337b960d026115460
-美亞電影台,http://50.7.218.42:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-龍華動畫台,http://50.7.218.42:8278/lunghuaanimation_twn/playlist.m3u8?tid=m933d9fc8608515365480&ct=17874&tsum=63c3bf5bc4acb4d077d6c782c4b9eba2
-龍華影劇台,http://50.7.218.42:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-龍華戲劇台,http://50.7.218.42:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-龍華日韓台,http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-龍華洋片台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=m02000000000015325460&ct=17957&tsum=6080d23848c6dbe6b4ef122b599f5610
-龍華偶像台,http://50.7.218.42:8278/lunghuaidol_twn/playlist.m3u8?tid=m02000000000017261257&ct=17971&tsum=be8a7a335e6378441a89f8098abde7f1
-靖天映畫台,http://50.7.218.42:8278/jingtianyinghua_twn/playlist.m3u8?tid=13274366&ct=17986&tsum=6ce770ded9fb767dfeb0e7409dbda98a
-靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=12249424&ct=17988&tsum=c5f64893d4a4e2f81f02100a92f697de
-靖天電影台,http://50.7.218.42:8278/jingtianmovie_twn/playlist.m3u8?tid=17553272&ct=17988&tsum=11041bade8c548aa512f2103853a3969
-靖天戲劇台,http://50.7.218.42:8278/jingyangxiju_twn/playlist.m3u8?tid=13821836&ct=17988&tsum=ea6e30f5c1bd9675d1af9e381d699d49
-韓國tvN,http://50.7.218.42:8278/tvn_twn/playlist.m3u8?tid=m02000000000011630703&ct=17956&tsum=0962adf2fe861ecc1c41516bf49cc06d
-星空衛視台,http://50.7.218.42:8278/xingkong/playlist.m3u8?tid=m02000000000013138939&ct=17956&tsum=429ccef2c0968da96d159de01e74ac2e
-天映電影台,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
-天映頻道HD,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
-日舞電影台,http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
-DIVA,http://50.7.218.42:8278/diva_twn/playlist.m3u8?tid=m02000000000015872216&ct=17955&tsum=34912ff12ede20b6ccd0471e3d934f67
-E!好萊塢流行娛樂頻道,http://50.7.218.42:8278/e_twn/playlist.m3u8?tid=15610519&ct=17989&tsum=ed4ee34be0441d61fd05d0b0562423cd
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
@@ -163,153 +49,168 @@ E!好萊塢流行娛樂頻道,http://50.7.218.42:8278/e_twn/playlist.m3u8?tid=15
 
 
 $c_start港台測試$c_end
-台視,rtmp://59.124.75.157/sat/tv071
-民視,rtmp://59.124.75.157/sat/tv051
+台視,rtmp://59.124.75.138/sat/tv071
+民視,rtmp://59.124.75.138/sat/tv051
 中視,rtmp://59.124.75.138/sat/tv091
-華視,rtmp://59.124.75.157/sat/tv111
-TVBS歡樂台,rtmp://59.124.75.157/sat/tv422
-TVBS歡樂台,rtmp://59.124.75.157/sat/tv421
-TVBS新聞台,rtmp://59.124.75.157/sat/tv552
-緯來體育,rtmp://59.124.75.157/sat/tv721
-緯來體育,rtmp://59.124.75.157:1935/sat/tv721
-緯來育樂,rtmp://59.124.75.157/sat/tv701
-緯來育樂,rtmp://59.124.75.157/sat/tv702
-緯來育樂,rtmp://59.124.75.157:1935/sat/tv701
-緯來日本,rtmp://59.124.75.157:1935/sat/tv521
-緯來日本,rtmp://59.124.75.157/sat/tv522
-ELTA體育1台,rtmp://59.124.75.157/sat/md011
-ELTA體育3台,rtmp://59.124.75.157/sat/md021
-東森超視,rtmp://59.124.75.157/sat/tv772
-東森超視,rtmp://59.124.75.157:1935/sat/tv771
-東森超視,rtmp://59.124.75.157/sat/tv771
-博斯魅力,rtmp://59.124.75.157/sat/md042
-東森財經新聞,rtmp://59.124.75.157:1935/sat/tv571
-MoMo綜合台,rtmp://59.124.75.157/sat/tv761
-TVBS歡樂,rtmp://59.124.75.157:1935/sat/tv421
-TVBS新聞,rtmp://59.124.75.1570:1935/sat/tv551
-Mono綜合,rtmp://59.124.75.157:1935/sat/tv761
-FOX體育,rtmp://59.124.75.157:1935/sat/tv731
-FOX2體育,rtmp://59.124.75.157/sat/tv741
-TVBS新聞,rtmp://59.124.75.157/sat/tv551
-SEVEN2,rtmp://59.124.75.157/sat/md021
-博斯運動2,rtmp://59.124.75.157/sat/md032
-eleven1,http://125.227.210.55:10677/VideoInput/play.ts
-Discovery Asia,http://125.227.210.55:10388/VideoInput/play.ts
-東森新聞HD,http://125.227.210.55:10797/VideoInput/play.ts
-ELTA體育1,http://125.227.210.55:10246/VideoInput/play.ts
-年代新聞HD,http://125.227.210.55:11055/VideoInput/play.ts
-FX HD,http://125.227.210.55:13498/VideoInput/play.ts
-中天綜合HD2,http://125.227.210.55:14583/VideoInput/play.ts
-DISNEY 迪士尼,http://125.227.210.55:14250/VideoInput/play.ts
-中天娛樂HD,http://125.227.210.55:15796/VideoInput/play.ts
-三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
-三立新聞HD,http://125.227.210.55:15589/VideoInput/play.ts
-非凡新聞HD,http://125.227.210.55:15078/VideoInput/play.ts
-HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
-TVBS新聞HD,http://125.227.210.55:16329/VideoInput/play.ts
-國家地理國際頻道,http://125.227.210.55:16408/VideoInput/play.ts
-東森電影,http://125.227.210.55:16415/VideoInput/play.ts
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
-東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
-好萊塢電影,http://125.227.210.55:18184/VideoInput/play.ts
-緯來體育HD,http://125.227.210.55:18358/VideoInput/play.ts
-東森洋片HD,http://125.227.210.55:18685/VideoInput/play.ts
-衛視西片,http://125.227.210.55:18789/VideoInput/play.ts
-TLC 旅遊生活,http://125.227.210.55:19020/VideoInput/play.ts
-FX HD,http://125.227.210.85:13498/VideoInput/play.ts
-東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-非凡商業 HD,http://50.7.61.147:30080/Entry/ubnbus
-TLC,http://50.7.61.147:30080/Entry/tlc
-JET綜合,http://50.7.61.147:30080/Entry/jet
-華視CTS HD,http://50.7.61.147:30080/Entry/cts
-衛視中文,http://50.7.61.148:30080/Entry/starchinese
-衛視電影,http://50.7.61.147:30080/Entry/starmovie
-AXN,http://50.7.61.148:30080/Entry/axn
-亞洲旅遊,http://50.7.61.147:30080/Entry/asiatravel
-ELTAsport1,http://50.7.61.148:30080/Entry/eltasport1
-ELTAsport2,http://50.7.61.147:30080/Entry/eltasport2
-ELTAsport3,http://50.7.61.148:30080/Entry/eltasport3
-緯來電影,http://50.7.61.148:30080/Entry/vlmovie
+華視,rtmp://59.124.75.138/sat/tv111
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv422
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+TVBS新聞台,rtmp://59.124.75.138/sat/tv552
+緯來體育,rtmp://59.124.75.138/sat/tv721
+緯來體育,rtmp://59.124.75.138:1935/sat/tv721
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來育樂,rtmp://59.124.75.138/sat/tv702
+緯來育樂,rtmp://59.124.75.138:1935/sat/tv701
+緯來日本,rtmp://59.124.75.138:1935/sat/tv521
+緯來日本,rtmp://59.124.75.138/sat/tv522
+ELTA體育1台,rtmp://59.124.75.138/sat/md011
+ELTA體育3台,rtmp://59.124.75.138/sat/md021
+東森超視,rtmp://59.124.75.138/sat/tv772
+東森超視,rtmp://59.124.75.138:1935/sat/tv771
+東森超視,rtmp://59.124.75.138/sat/tv771
+博斯魅力,rtmp://59.124.75.138/sat/md042
+東森財經新聞,rtmp://59.124.75.138:1935/sat/tv571
+MoMo綜合台,rtmp://59.124.75.138/sat/tv761
+TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
+TVBS新聞,rtmp://59.124.75.1380:1935/sat/tv551
+Mono綜合,rtmp://59.124.75.138:1935/sat/tv761
+FOX體育,rtmp://59.124.75.138:1935/sat/tv731
+FOX2體育,rtmp://59.124.75.138/sat/tv741
+TVBS新聞,rtmp://59.124.75.138/sat/tv551
+SEVEN2,rtmp://59.124.75.138/sat/md021
+博斯運動2,rtmp://59.124.75.138/sat/md032
 
 
-$c_start港台測試1$c_end
-CNN,P2p://ns1.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
-民视,P2p://ns1.hellotvvod.com:9906/5121c7a5b7844be693683f5210c45cf4
-人间卫视,P2p://ns1.hellotvvod.com:9906/440a155e05d849beba4ced78210b8e70
-台视,P2p://ns1.hellotvvod.com:9906/5afa39dd453d4b46bd2f46beef034298
-大爱,P2p://ns1.hellotvvod.com:9906/c56587dd9acc4e21bd53ce62da243a56
-中视,P2p://ns1.hellotvvod.com:9906/eac4e472ed134219af8fa4bba04f8a5c
-霹雳台湾台,P2p://ns1.hellotvvod.com:9906/aeb2463b30e1424ebbe6dc3a74d85e01
-华视,P2p://ns1.hellotvvod.com:9906/e9e72e3509be4724b73d523875d3eee0
-公视,P2p://ns1.hellotvvod.com:9906/d3cf6d6a347341e0906106855e6f2b6a
-好消息,P2p://ns1.hellotvvod.com:9906/6e78e521ebe249f58863c60dbcb03137
-原住民电视台,P2p://ns1.hellotvvod.com:9906/5c461d90b5364322bb637b1d5a01ae21
-客家电视台,P2p://ns1.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
-国家地理频道,P2p://ns1.hellotvvod.com:9906/9cdb6b80467049cba24913f10806ae9d
-探索频道,P2p://ns1.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
-TLC旅游生活,P2p://ns1.hellotvvod.com:9906/be4be1a902d549c6b93af0cbba5826b9
-动物星球,P2p://ns1.hellotvvod.com:9906/178c72a35f3547c3a4171ba78f1c8bf8
-CN卡通频道,P2p://ns1.hellotvvod.com:9906/53b1291e95a74375a095acd16f4abdac
-MOMO亲子台,P2p://ns1.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
-东森幼幼台,P2p://ns1.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
-纬来综合台,P2p://ns1.hellotvvod.com:9906/ed6e65e04b874768aa4b0325efc2e7fc
-八大第一台,P2p://ns1.hellotvvod.com:9906/6fb3644604d143beae1fa530791d5d87
-八大综合台,P2p://ns1.hellotvvod.com:9906/1a4ba7fe00e447aa807a4af55bf360b7
-三立台湾台,P2p://ns1.hellotvvod.com:9906/8dd16c84358c462fa4ba3f24f29f7b41
-三立都会台,P2p://ns1.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
-东森综合台,P2p://ns1.hellotvvod.com:9906/a9abe20e2b854129b007851902abed58
-超视,P2p://ns1.hellotvvod.com:9906/67f8d866aaf14a948aee2f833f08491f
-中天综合台,P2p://ns1.hellotvvod.com:9906/fe0a54eee624418f8300555899261df5
-中天娱乐台,P2p://ns1.hellotvvod.com:9906/8d36b7a80cb14f65956db83faf108572
-东森戏剧台,P2p://ns1.hellotvvod.com:9906/b9b2a3108cd748a48c69fde74cdac00e
-八大戏剧台,P2p://ns1.hellotvvod.com:9906/ee1c766f5309492382044f658b576899
-TVBS欢乐台,P2p://ns1.hellotvvod.com:9906/e0e8c82a679c49c3a124f3a73b2965ab
-纬来戏剧台,P2p://ns1.hellotvvod.com:9906/b810e88c6c5645339e5284435cbbf088
-高点综合台,P2p://ns1.hellotvvod.com:9906/0a3182c862934257b7fba2ac82615cae
-BBCWorldNews,P2p://ns1.hellotvvod.com:9906/f15dda4822324bb4b9395840390e8e46
-AlJazeeraEnglish,P2p://ns1.hellotvvod.com:9906/b212e4c6f9e24b78be1a1a24df4eeae9
-CNBC,P2p://ns1.hellotvvod.com:9906/82885eb8d6c4422dbcde6d916126b454
-BloombergTV,P2p://ns1.hellotvvod.com:9906/7159f32158a948bd88826275eef9314b
-HITS,P2p://ns1.hellotvvod.com:9906/0872358ecd494c9387d6ac21297672f1
-壹电视新闻台,P2p://ns1.hellotvvod.com:9906/9f03df5968aa4ddc82b9bf79071971c0
-年代新闻,P2p://ns1.hellotvvod.com:9906/81409ed6900d4fa183a5069d9e19f808
-东森新闻台,P2p://ns1.hellotvvod.com:9906/365659c74e1049d1a907c5118405d2aa
-中天新闻台,P2p://ns1.hellotvvod.com:9906/50693eebb9ff4383be2444c8d4f00eb9
-民视新闻台,P2p://ns1.hellotvvod.com:9906/8319151b9c264204847bef34613abca4
-三立新闻台,P2p://ns1.hellotvvod.com:9906/fceb797446e94ac18dd4791a5d12b440
-TVBS新闻台,P2p://ns1.hellotvvod.com:9906/a46fb523d9c04254953ea68f0223b513
-TVBS,P2p://ns1.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
-东森财经新闻台,P2p://ns1.hellotvvod.com:9906/08140d28f7634f31b26776b01ff2013a
-非凡新闻台,P2p://ns1.hellotvvod.com:9906/f673cb32c63148eda241ca48287abc1a
-卫视电影台,P2p://ns1.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
-东森电影台,P2p://ns1.hellotvvod.com:9906/134260b0c79e47599e7be383a16273a2
-纬来电影台,P2p://ns1.hellotvvod.com:9906/666e92af6da048e387f28b8e8a1c41f9
-龙祥电影,P2p://ns1.hellotvvod.com:9906/31e1369076a547a18020ea74cb9d6423
-HBO,P2p://ns1.hellotvvod.com:9906/807504211493478280d6865f83552e64
-东森洋片台,P2p://ns1.hellotvvod.com:9906/e20a0cbb07184f19a1bc0456a1ec590d
-AXN,P2p://ns1.hellotvvod.com:9906/846585b8fc4e43f1a11294f10a6d6e4e
-好莱坞电影台,P2p://ns1.hellotvvod.com:9906/db5f81637e2a4420a2a59dfc7bacc634
-CINEMAX,P2p://ns1.hellotvvod.com:9906/417622ab2be34897bf89e4646367e39f
-纬来育乐台,P2p://ns1.hellotvvod.com:9906/6f4c7d47aa9d457792fb0f51c48fd966
-纬来体育台,P2p://ns1.hellotvvod.com:9906/075079fbad33416e963d959bcf29b28e
-ELEVEN体育1台,P2p://ns1.hellotvvod.com:9906/56f78b012ab5497cbcf96efa56d599ab
-纬来日本,P2p://ns1.hellotvvod.com:9906/94fe25b5e4a9497482ce4ef5cee1ff54
-国兴卫视,P2p://ns1.hellotvvod.com:9906/0ba561f1683a4f6186f44529cadf31f7
-FOX,P2p://ns1.hellotvvod.com:9906/7f349a12f16d4296944370bf4bd9b2f0
-Z频道,P2p://ns1.hellotvvod.com:9906/3a3e760703fe4c6d9dd3d4e3cd0ae87b
-Animax,P2p://ns1.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
-尼克儿童频道,P2p://ns1.hellotvvod.com:9906/690725fb0e6b4e90a48552833334072c
-MTV,P2p://ns1.hellotvvod.com:9906/b5ed8ba44332423684b029138c744636
-八大娱乐台,P2p://ns1.hellotvvod.com:9906/cadf611647f94a6595305baa947f6264
-三立iNEWS,P2p://ns1.hellotvvod.com:9906/8044cd6adaa14a969ee691d58c8eabb9
-龙华偶像,P2p://ns1.hellotvvod.com:9906/7feeb26c2a0c48b3a476dd5767cf5f37
-Arirang,P2p://ns1.hellotvvod.com:9906/b75fb82313a34bc58ab9368461cb5da3
-tvN,P2p://ns1.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
-DW,P2p://ns1.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
-France24,P2p://ns1.hellotvvod.com:9906/05a079cf58ae4885bb677ead92032505
-非凡商业台,P2p://ns1.hellotvvod.com:9906/1c03339edfb04248ad2e1643d153e30c
-公视3台,P2p://ns1.hellotvvod.com:9906/e341e83fd7a94aa58e554d22b41cb9fb
-大爱2台,P2p://ns1.hellotvvod.com:9906/33799718b3df426d8cc3e363314e708a
+
+$c_start港台測試1_1234$c_end
+鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+鳳凰資訊,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+鳳凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+鳳凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
+鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+鳳凰電影,P2p://ns1.hellotvvod.com:9906/6230f02461f848aa90f08ba6fd8b2a8f
+鳳凰香港,P2p://ns1.hellotvvod.com:9906/4d44dc63035642918f903ec03c1f2bfe
+鳳凰中文,P2p://ns1.hellotvvod.com:9906/b2895b96b4434e06857c781cda31bc24
+鳳凰資訊,P2p://ns1.hellotvvod.com:9906/ec3f4649930b47e887b0d1265e581b01
+翡翠台,P2p://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
+明珠台,P2p://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
+TVB經典台,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
+TVB星河(粵),P2p://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
+TVB娛樂新聞台,P2p://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
+功夫台,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
+J2,P2p://ns1.hellotvvod.com:9906/616e19fec3c0475db88cc23ddde228bc
+無線財經,P2p://ns1.hellotvvod.com:9906/ba9474ae0fe14381be9237b3e85a700a
+無線新聞,P2p://ns1.hellotvvod.com:9906/1092b398d19b42c6806dc2ec04bb511e
+無線新聞,P2p://ns1.hellotvvod.com:9906/aa6d38843405411aa2111b762923144f
+18台,P2p://ns1.hellotvvod.com:9906/8dd46bc762274253a9eb6083af2db37b
+Hands Up,P2p://ns1.hellotvvod.com:9906/deab003089244038bcff853c11f9806e
+HKC 18,P2p://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
+HKC Sports Plus 1,P2p://ns1.hellotvvod.com:9906/8976e105848241b6b3f69ab54818947c
+HKC電影台,P2p://ns1.hellotvvod.com:9906/3c0eb2fd7f0c4c8ea4c2ab55408bb52f
+HKC體育台,P2p://ns1.hellotvvod.com:9906/65074314730a4fdd99b1c30a3b37539b
+有線新聞台,P2p://ns1.hellotvvod.com:9906/7af6dae4a30d47b68a72161534e9251a
+HKC綜合娛樂台,P2p://ns1.hellotvvod.com:9906/5719826a53974fd2b83c0fb250495f8a
+有線財經資訊台,P2p://ns1.hellotvvod.com:9906/f6de0031c13847db913b0c89c55cfadd
+香港603,P2p://ns1.hellotvvod.com:9906/be1b98abd39c4df3bd65dbf46054a27a
+粵語片台,P2p://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
+ViuTV,P2p://ns1.hellotvvod.com:9906/98f64c66543c463ab99ea26e536338a4
+ViuTVsix,P2p://ns1.hellotvvod.com:9906/1c1ce894e3ff45739b2badcd15e0ec0f
+now新聞台,P2p://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
+now直播台,P2p://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
+港臺電視31,P2p://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
+港臺電視32,P2p://ns1.hellotvvod.com:9906/44e81dd24fce43f8891b1b63ecd269fa
+爆穀台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
+爆穀星影台,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
+Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
+香港開電視,P2p://ns1.hellotvvod.com:9906/1bef010967f94e4db79ddfc122295306
+美亞電影台(粵語),P2p://ns1.hellotvvod.com:9906/6260802bc14243bd98a9c0be6e349725
+亞洲劇台,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
+陽光衛視,P2p://ns1.hellotvvod.com:9906/a5cd00b008ee4941a5577347951d694f
+星空衛視,P2p://ns1.hellotvvod.com:9906/dfca96c3ea824d0ba4a29bab56408560
+澳門-MACAU,P2p://ns1.hellotvvod.com:9906/9935445e822d448f843687fd4e4e8adf
+澳門蓮花,P2p://ns1.hellotvvod.com:9906/90bef3c0ca8b44ac821f79ec7daeb36f
+TVBS,P2p://ns1.hellotvvod.com:9906/a7700e97b8c04fb4b2f6d2809d6d9b4a
+TVBS歡樂台,P2p://ns1.hellotvvod.com:9906/3d79ebc2dc894aa2855400677a2980bf
+TVBS精采台,P2p://ns1.hellotvvod.com:9906/5583d625f44c42a08c787762d439a928
+TVBS新聞台,P2p://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
+中天新聞台,P2p://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
+中天娛樂台,P2p://ns1.hellotvvod.com:9906/3e7d61af00504608a4a3dd6f86f15e92
+中天綜合台,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
+中視,P2p://ns1.hellotvvod.com:9906/b8f6cdb0ade748139fa3e47b63111f78
+中視,P2p://ns1.hellotvvod.com:9906/b8f6cdb0ade748139fa3e47b63111f78
+中視菁采台,P2p://ns1.hellotvvod.com:9906/5b3a623b59cc4ca485164447a50a50d6
+中視經典,P2p://ns1.hellotvvod.com:9906/f1e89df30c8841e3bec492ab4f04620a
+中視新聞,P2p://ns1.hellotvvod.com:9906/49be27fa88b6416ab36e02d8a9087c3f
+民視,P2p://ns1.hellotvvod.com:9906/afb3ce5ff4b343acbd4dcc18e779f000
+民視,P2p://ns1.hellotvvod.com:9906/afb3ce5ff4b343acbd4dcc18e779f000
+民視第一台,P2p://ns1.hellotvvod.com:9906/f7c35013ac12407d924b8238ad5b7cad
+民視臺灣台,P2p://ns1.hellotvvod.com:9906/1558bbb86bc34a718d5ac897dd0f235c
+民視新聞台,P2p://ns1.hellotvvod.com:9906/246f55af09774c22add9f50cb0427021
+台視,P2p://ns1.hellotvvod.com:9906/0f373c618b594cf4a92c0c0d67b4ccff
+台視,P2p://ns1.hellotvvod.com:9906/0f373c618b594cf4a92c0c0d67b4ccff
+台視財經台,P2p://ns1.hellotvvod.com:9906/7b5a05c6ca934563926805f9c5ca9624
+台視新聞台,P2p://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
+華視,P2p://ns1.hellotvvod.com:9906/79e2eae39d1d49e695fa105bfa24a276
+華視,P2p://ns1.hellotvvod.com:9906/79e2eae39d1d49e695fa105bfa24a276
+華視新聞,P2p://ns1.hellotvvod.com:9906/6f3829c6341e474d9c732b3efc9838f5
+公視,P2p://ns1.hellotvvod.com:9906/cceee06ef3194f1e8a030440d509f48d
+公視,P2p://ns1.hellotvvod.com:9906/cceee06ef3194f1e8a030440d509f48d
+公視三台,P2p://ns1.hellotvvod.com:9906/7ea63223e87b4dcf9768ae5544b719f6
+公視2,P2p://ns1.hellotvvod.com:9906/a25ae6ff76874a558229e225d036bcb9
+東森財經新聞台,P2p://ns1.hellotvvod.com:9906/5dedafdba29a427697c11401faef1490
+東森電影台,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
+東森戲劇台,P2p://ns1.hellotvvod.com:9906/23728f7cf94f4813b4c11a5b1dbe2fb4
+東森新聞台,P2p://ns1.hellotvvod.com:9906/693511f4bc16414ea8542504561a9589
+東森新聞台,P2p://ns1.hellotvvod.com:9906/693511f4bc16414ea8542504561a9589
+東森洋片台,P2p://ns1.hellotvvod.com:9906/186ead8f2f664bebba3dea7945a8b1e2
+東森YOYO台,P2p://ns1.hellotvvod.com:9906/9839fadf1b99440eb80684c212a4fce4
+東森綜合台,P2p://ns1.hellotvvod.com:9906/5dc361f0f7954841ad9e408dc8946578
+靖天電影台,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
+靖天卡通台,P2p://ns1.hellotvvod.com:9906/39eee8a27674442884d223ec6afefae1
+靖天日本台,P2p://ns1.hellotvvod.com:9906/aafd14ca753041a9a1dacd3114a1c3b0
+靖天戲劇台,P2p://ns1.hellotvvod.com:9906/be4aacb84df04c01ad4a6fd88db210f4
+靖天映畫,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
+靖天育樂台,P2p://ns1.hellotvvod.com:9906/182d978c052c4a4f913676854e33ae5d
+靖天資訊台,P2p://ns1.hellotvvod.com:9906/ab943bcadc7445e8a06750601dc1b037
+靖天綜合台,P2p://ns1.hellotvvod.com:9906/68c5a9a71ff449b9b67851c8cec9569b
+靖洋卡通台,P2p://ns1.hellotvvod.com:9906/78f30d3e43e344eb8de57bf763ea50d0
+八大第一台,P2p://ns1.hellotvvod.com:9906/062cfd1d662c4c568ac777badc14c9b3
+八大戲劇,P2p://ns1.hellotvvod.com:9906/5c9ac864d42e4b9cbe8a19b5d03a033f
+八大優,P2p://ns1.hellotvvod.com:9906/4ca8194ba8504953aa46adfbb99f3d28
+八大娛樂台,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6
+八大綜合台,P2p://ns1.hellotvvod.com:9906/0a94d77edc744413945ee76857f4f5c5
+EVE,P2p://ns1.hellotvvod.com:9906/3ccc2eec25ab489db213f9fb46f26a12
+EYE旅遊,P2p://ns1.hellotvvod.com:9906/3d77e3df645347b7bf8898b24021c22c
+EYE戲劇,P2p://ns1.hellotvvod.com:9906/4d2eb9123a624ab9a738f836c502e680
+三立都會台,P2p://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
+三立臺灣台,P2p://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
+三立戲劇台,P2p://ns1.hellotvvod.com:9906/dd38029edb0043ce8f85c2173180ee12
+三立新聞台,P2p://ns1.hellotvvod.com:9906/3afd0637dfc94845a4d9b812378b5740
+三立綜合台,P2p://ns1.hellotvvod.com:9906/7d75845766c74122a00bb8db224eda09
+緯來電影台,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
+緯來精采,P2p://ns1.hellotvvod.com:9906/21d3d32898c044bc9c6a83bee8c37dde
+緯來日本台,P2p://ns1.hellotvvod.com:9906/64def45a52cb41b3ae5d24b60bb99e71
+緯來體育台,P2p://ns1.hellotvvod.com:9906/e86f0ed664fe4ad889461916ce915467
+緯來戲劇台,P2p://ns1.hellotvvod.com:9906/8981f0b5f0ba4961b045da328dcf1bb3
+緯來育樂台,P2p://ns1.hellotvvod.com:9906/081ded65dfb345cb993f1d63b454341e
+緯來綜合台,P2p://ns1.hellotvvod.com:9906/f77305fbbfbb497794f380b50501134b
+寰宇新聞,P2p://ns1.hellotvvod.com:9906/3daa7cb1507342abb8e7034205417060
+寰宇新聞TW,P2p://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
+非凡商業台,P2p://ns1.hellotvvod.com:9906/6521b03877e5479d9982fcab29b2e4be
+非凡新聞台,P2p://ns1.hellotvvod.com:9906/488033886cea43a0981601bca1285663
+壹電視新聞台,P2p://ns1.hellotvvod.com:9906/eb51f64a5fa247eeb9ee4f2b873a2538
+壹電視綜合台,P2p://ns1.hellotvvod.com:9906/89ca8b262c174d33bed9dd2d938187dd
+東森超視,P2p://ns1.hellotvvod.com:9906/ae1f599e86014a88903b828b3782d35f
+高點綜合台,P2p://ns1.hellotvvod.com:9906/4b371942e3d84f04997850fb09280df1
+國興衛視,P2p://ns1.hellotvvod.com:9906/4c4bce482094473686bc0cc586b68868
+韓國娛樂台KMTV,P2p://ns1.hellotvvod.com:9906/0c017840018c450daba0e157b0f73f53
+靖洋戲劇台,P2p://ns1.hellotvvod.com:9906/9765cc4691bf436692e0d29017dc3303
+年代新聞台,P2p://ns1.hellotvvod.com:9906/cb9b246b644045d9904bda7cff64700a
+霹靂臺灣台,P2p://ns1.hellotvvod.com:9906/ee07d44e6cdb4eb092248431e5582968
+衛視中文台,P2p://ns1.hellotvvod.com:9906/c7e0f6b12c2943889d6de8e0d81a91bf
+星衛娛樂,P2p://ns1.hellotvvod.com:9906/592e4a01bbdc4e51beffdcc1f0587651
+國會頻道1,P2p://ns1.hellotvvod.com:9906/8c00b3f2bbe9406ea0f85a4698998b54
+國會頻道2,P2p://ns1.hellotvvod.com:9906/86ceec2d17384b5bbe76398630ebda70
 
 港台測試2,#genre#
 
@@ -318,69 +219,11 @@ $c_start港台測試3$c_end
 
 
 $c_start馬來$c_end
-TV1,http://50.7.161.82:8278/TV1/playlist.m3u8?tid=m02000000000012703090&ct=17958&tsum=fd9627ab19ed7498cd9f95752bb462fc
-TV2,http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m02000000000013449400&ct=17958&tsum=aa1e63a400d2c7db6699847ced569e81
-NTV7,http://50.7.161.82:8278/NTV7/playlist.m3u8?tid=m02000000000018526408&ct=17958&tsum=70ed7f2694f1dab54376a34bd6f61670
-TV8,http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m02000000000013140036&ct=17958&tsum=712d61fd40f86b1abccb1a5afb6d358a
-TV9,http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m02000000000017268525&ct=17958&tsum=c6b290c897833dcaaed14681160dc38e
-Okey,http://50.7.161.82:8278/Okey/playlist.m3u8?tid=m02000000000018616469&ct=17958&tsum=6251df869d2b2c82d397032c3d372d94
-Bernama,http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000015103647&ct=17958&tsum=c2fd04f2d69c43b4532593798f2fded4
-Alhijrah,http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m02000000000014615787&ct=17958&tsum=b0ead2bd3d2c7065c9b17e7623eb1330
-AlJazeera,http://50.7.218.42:8278/aljazeera_raj/playlist.m3u8?tid=m02000000000018723404&ct=17958&tsum=b30732c1fd0640841dc8b14e188c3d95
-Naura,http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m02000000000012360207&ct=17958&tsum=bd81c54a0938a981656a77ce12755876
-Astro Oasis,http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m02000000000015727258&ct=17958&tsum=4732d0f3fc562e865e5ef831c0797a25
-Astro Warna,http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
-Astro Ceria,http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000013962610&ct=17958&tsum=7c63002373f04fe6d76afbbb9bd840e2
-Astro Citra,http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
-Astro Awani,http://50.7.161.82:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037
-Astro Ria,http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000016577258&ct=17958&tsum=538739a0520a004cfcf115fef17fe8cc
-Astro Prima,http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m02000000000016192913&ct=17958&tsum=7c7f40ea3d204e5a683354afd932a406
-Astro 喜悅台,http://50.7.161.82:8278/Xiyue/playlist.m3u8?tid=m02000000000012133976&ct=17957&tsum=739978d7df317e04d51e537d7241ce6a
-Astro 華麗台,http://50.7.161.82:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
-Astro 歡喜台,http://50.7.161.82:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
-Astro 雙星台,http://50.7.161.82:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
-Astro 全佳台,http://185.132.176.172:8278/quanjia_hero/playlist.m3u8?tid=m02000000000017917221&ct=17957&tsum=1d7273ab4395fb7891c32c25cc7178b0
-Astro AEC,http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
-Astro BOO,http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000014511515&ct=17957&tsum=fca94086b6283f0f50ed86710f79b55a
-韓國tvN,http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000010188546&ct=17958&tsum=e7c5d12156cafc6f7dff6e7c23e1e475
-Sony One,http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000018842865&ct=17957&tsum=3f4ae645e3cf2025932a27d866ade426
-HGTV居家樂活,http://185.132.176.172:8278/Hgtv/playlist.m3u8?tid=m02000000000017705164&ct=17957&tsum=99cf7a17e0d4107fb3a29ebbf0d4f092
+
 
 
 $c_start日本$c_end
-NHK World,http://50.7.218.42:8278/nhkworld_japan/playlist.m3u8?tid=m02000000000010501345&ct=17961&tsum=28d504bdb8c057335c06d621a17ae58d
-NHK1,http://50.7.218.42:8278/nhk1_japan/playlist.m3u8?tid=m02000000000015887112&ct=17961&tsum=850fff5fce3e769674f912abb0c1b3b3
-NHKBS1,http://50.7.218.42:8278/nhkbs1_japan/playlist.m3u8?tid=m02000000000010941897&ct=17961&tsum=f9a95613db20763ac9f9e616ca2b48df
-NHK-総合,http://50.7.218.42:8278/nhkg_japan/playlist.m3u8?tid=m02000000000015198521&ct=17961&tsum=1656a11139801a26e8f84ad994b5a7b9
-NHK-E,http://50.7.218.42:8278/nhke_japan/playlist.m3u8?tid=m02000000000015560778&ct=17961&tsum=f223c3f08af22bec35601f98b1c8e2b6
-日テレ Nippon TV,http://50.7.218.42:8278/nippontv_japan/playlist.m3u8?tid=m02000000000018410979&ct=17961&tsum=ffa3078fcab317cc03360e4c7c20125c
-TBS,http://50.7.218.42:8278/tbs_japan/playlist.m3u8?tid=m02000000000017558728&ct=17961&tsum=b3e2277c3c8d228ca8bb1a3b30dfe3ea
-テレビ東京 Tokyo TV,http://50.7.218.42:8278/tokyotv_japan/playlist.m3u8?tid=m02000000000012282521&ct=17961&tsum=41b32bc255ed33f97946eddf88abe30a
-フジテレビ Fuji TV,http://50.7.218.42:8278/fujitv_japan/playlist.m3u8?tid=m02000000000015400733&ct=17961&tsum=f468eb16655b7c736b1ae679b25bb862
-TOKYOMX,http://50.7.218.42:8278/tokyomx_japan/playlist.m3u8?tid=m02000000000011022989&ct=17961&tsum=e1f82c309d8aadb0fbe34c72e4cf18b0
-NHK総合大阪 Osaka,http://50.7.218.42:8278/nhkosaka_japan/playlist.m3u8?tid=m02000000000011772247&ct=17961&tsum=0b56e8fc2d1f2ced2c1f1df140a34eef
-MBS毎日放送,http://50.7.218.42:8278/mbs_japan/playlist.m3u8?tid=m02000000000012358877&ct=17961&tsum=41213f62aa6c3c010e33f20eb1ce86e7
-テレビ大阪 TV Osaka,http://50.7.218.42:8278/osakatv_japan/playlist.m3u8?tid=m02000000000010614515&ct=17961&tsum=c3397093bd5f50af9f54736218fcfaca
-読売テレビ Yomiuri TV,http://50.7.218.42:8278/yomiuritv_japan/playlist.m3u8?tid=m02000000000011578575&ct=17961&tsum=e86cb0df311d386f2ccc2932b2440d6f
-BS朝日 Asahi,http://50.7.218.42:8278/bsasahi_japan/playlist.m3u8?tid=m02000000000010340707&ct=17961&tsum=b5bdd40f5b928850ecd8985689eb4ec2
-BS-TBS,http://50.7.218.42:8278/tbs_japan/playlist.m3u8?tid=m02000000000013408756&ct=17961&tsum=ea56a1d6af9e9c865ecd4a46e423fa98
-BSジャパン BS Japan,http://50.7.218.42:8278/bs181_japan/playlist.m3u8?tid=m02000000000015715468&ct=17961&tsum=268454427f0f0a88bff980c91026adab
-BSフジ BS Fuji,http://50.7.218.42:8278/bsfuji_japan/playlist.m3u8?tid=m02000000000015367074&ct=17961&tsum=28f90b7564324fd63ee0695551c6c593
-WOWOWプライム Prime,http://50.7.218.42:8278/wowowprime_japan/playlist.m3u8?tid=m02000000000010996459&ct=17961&tsum=fb1841941badecad80f1d213dd6a0188
-WOWOWライブ Live,http://50.7.218.42:8278/wowowlive_japan/playlist.m3u8?tid=m02000000000010875953&ct=17961&tsum=a2abdf4db20b75e4440cbef11ac26eba
-WOWOWシネマ Cinema,http://50.7.218.42:8278/wowowcinema_japan/playlist.m3u8?tid=m02000000000015801242&ct=17961&tsum=50999ec61f05fd23c960cf700a5e4442
-グリーンチャン Green Channel,http://50.7.218.42:8278/greenchannel_japan/playlist.m3u8?tid=m02000000000012392150&ct=17961&tsum=1ef55e8cb70bcf8cc6d6ebdf41b5dc6a
-nihon TV,http://50.7.218.42:8278/nihontv_japan/playlist.m3u8?tid=m02000000000011701451&ct=17961&tsum=2384eba45d6e9bb49c03bd5cb272e62e
-sky.Aスポーツ+ SkyA Sports,http://50.7.218.42:8278/skyAsport_japan/playlist.m3u8?tid=m02000000000010787550&ct=17961&tsum=11ccc1a78ad85290ef069d11955c932a
-ゴルフネットHD Golf Network,http://50.7.218.42:8278/golfnetwork_japan/playlist.m3u8?tid=m02000000000010883922&ct=17961&tsum=352869a60c2d764c2e96f64b657c0e56
-BSアニマックス Animax,http://50.7.218.42:8278/bsanimax_japan/playlist.m3u8?tid=m02000000000017303133&ct=17961&tsum=e0f250c8e82524e20dde201def5cd322
-J Sports 1,http://50.7.218.42:8278/jsports1_japan/playlist.m3u8?tid=m02000000000013296988&ct=17961&tsum=1d72f4327fe10ac088a56492ac2f4a98
-J Sports 2,http://50.7.218.42:8278/jsports2_japan/playlist.m3u8?tid=m02000000000010516797&ct=17961&tsum=5fe5db0b7ad36f01ec8b773ac14e1351
-J Sports 3,http://50.7.218.42:8278/jsports3_japan/playlist.m3u8?tid=m02000000000011609026&ct=17961&tsum=8f03dc95b4ca9692d2bb941840f7cfab
-J Sports 4,http://50.7.218.42:8278/jsports4_japan/playlist.m3u8?tid=m02000000000018939666&ct=17961&tsum=0395f7d1f4f0e1451496cad7c58a74db
-日テレG+ HD,http://50.7.218.42:8278/ntvgplus_japan/playlist.m3u8?tid=m02000000000017526481&ct=17961&tsum=1d0fb805c16abfca42f6a39ba540ea20
-CNA Japan,http://50.7.218.42:8278/cna_japan/playlist.m3u8?tid=m02000000000016834252&ct=17961&tsum=3b05ed59ee8858d8e26bac9713289949
-tokyotv,http://50.7.218.42:8278/tokyotv_japan/playlist.m3u8?tid=m02000000000012116212&ct=17952&tsum=7830acd9783dba08830e2a6084671aa5
+
 
 $c_startMOVIE推薦$c_end
 
@@ -758,5 +601,18 @@ GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
-
+$c_start測試1_5566$c_end
+松視1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
+松視2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
+松視3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
+香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
+彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
+彩虹電影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
+潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
+驚豔電影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
+PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
+JStar極限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
+LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
+HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
+K頻道,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
 
