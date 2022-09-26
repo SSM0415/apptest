@@ -135,7 +135,7 @@
 {
 "name": "testp2p綜合",
 "urls": [
-"P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66"]},
+"P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e"]},
 {
 "name": "TVBS新聞",
 "urls": [
