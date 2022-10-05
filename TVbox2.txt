@@ -25,7 +25,7 @@
 {
 "name": "民視新聞",
 "urls": [
-"https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8"]},
+"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&amp;nid=31"]},
 {
 "name": "中天新聞",
 "urls": [
@@ -65,11 +65,11 @@
 {
 "name": "鏡電視新聞",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268"]},
+"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&amp;nid=268"]},
 {
-"name": "壹新聞",
+"name": "TVBS HD",
 "urls": [
-"http://stream.nexttv.com.tw/n001/hd/live.m3u8"]},
+"http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e"]},
 {
 "name": "CNN國際新聞",
 "urls": [
