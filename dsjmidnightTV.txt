@@ -92,19 +92,19 @@ Russian,http://cdn.adultiptv.net/russian.m3u8
 Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
 
 台深夜直播_1234,#genre#
-松視1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
-松視2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
-松視3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
-香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
-彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
-彩虹電影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
-潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
-驚豔電影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
-PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
-JStar極限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
-LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
-HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
-K頻道,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
+松視1,P2p://ns1.hellotvvod.com:9906/1dd11855e43142d6aec1b7f824097388
+松視2,P2p://ns1.hellotvvod.com:9906/c76a909ae59d4e82ad59a3bc6cb09663
+松視3,P2p://ns1.hellotvvod.com:9906/deceaed6309f406a8670002cf2ce7b9d
+潘多拉玩美台?Perfec,P2p://ns1.hellotvvod.com:9906/eecd1c81c5cf469fbb58fda5f0569f07
+潘朵啦粉紅台?AmazingTV,P2p://ns1.hellotvvod.com:9906/74d29e2d271948bfa7644c1af47e3b83
+K頻道,P2p://ns1.hellotvvod.com:9906/0e5867d2753148c6ae0d8aecaec1f1c4
+彩虹e台,P2p://ns1.hellotvvod.com:9906/eb7a0e51d5204093925f38e0fd298b1b
+彩虹電影台,P2p://ns1.hellotvvod.com:9906/c151f129e31846f691cd2b3ae554d4d1
+香蕉台??Banana,P2p://ns1.hellotvvod.com:9906/7f07683c361f4dbcb4aaf22ab48e513a
+Happy,P2p://ns1.hellotvvod.com:9906/421e2d4b03134e9080b3e0991224a718
+Look TV,P2p://ns1.hellotvvod.com:9906/696ef0eedc544326856362f2dfee01e0
+JS極限電影,P2p://ns1.hellotvvod.com:9906/ecf8ee53a43545888c55f2c9d4f57f80
+PLAYBOY,P2p://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792
 
 
 JP中文字幕,#genre#
