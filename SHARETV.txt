@@ -11,7 +11,7 @@ $c_start使用注意事項$c_end
 可以數字選台,https://cdn-bo2.mangguo-youku.com:5278/20220104/SRDEtVZH/index.m3u8
 未成年請離開,https://cdn-bo2.mangguo-youku.com:5278/20211018/dD1JzESY/index.m3u8
 
-$c_start生活直播鏡頭=123$c_end
+$c_start生活直播鏡頭:123$c_end
 283n1,https://node1.voyeurhouse.com/vh_prod/smil:283.smil/chunklist_b1164000_slen.m3u8?
 287n1,https://node1.voyeurhouse.com/vh_prod/smil:287.smil/chunklist_b1164000_slen.m3u8?
 289n1,https://node1.voyeurhouse.com/vh_prod/smil:289.smil/chunklist_b1164000_slen.m3u8?
