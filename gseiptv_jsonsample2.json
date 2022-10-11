@@ -4,97 +4,97 @@
 
     {
 
-      "title": "Group 1|http://gsetechnology.co.uk/api/channelworld/flags1/afghanistan.png",
+      "title": "TW NEWS|http://channelworld.tv/wp-content/uploads/2019/11/channel-world-1.png",
       "channels": [
 
         {
 
           "chid": "1",
-          "chname": "sample1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "民視新聞",
+          "chlogo": "https://i.ytimg.com/vi/P8DRJChuQQQ/maxresdefault.jpg",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample2",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "中天新聞",
+          "chlogo": "https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample3",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "TVBS新聞",
+          "chlogo": "https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample4",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "TVBS HD",
+          "chlogo": "https://cdn.telummedia.com/uploads/cache/news_image_4x3/uploads/media/logos/crop/2014/04/5dbba2cd6dd04.png",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample5",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "台視新聞",
+          "chlogo": "https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "https://raw.github.com/SSM0415/apptest/YTlive/TTVnews.m3u8"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample6",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "東森財經",
+          "chlogo": "http://tv.itver.cc/wp-content/uploads/2014/04/ETTV-EBC-FNC-Logo.jpg",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample7",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "三立iNEWS",
+          "chlogo": "https://attach.setn.com/images/0626_691_1920x240.png",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample8",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "寰宇新聞",
+          "chlogo": "https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "https://raw.github.com/SSM0415/apptest/YTlive/GlobalNews.m3u8"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample9",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chname": "中視新聞",
+          "chlogo": "https://piceltaott-elta.cdn.hinet.net/upload/channel/913_pic_1627294563.png",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8"
 
         },
         {
