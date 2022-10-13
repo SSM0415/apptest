@@ -1117,19 +1117,10 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 
 娛樂測試1_1234,#genre#
-松視1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
-松視2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
-松視3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
-香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
-彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
-彩虹電影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
-潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
-驚豔電影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
-PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
-JStar極限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
-LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
-HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
-K頻道,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
+台深夜直播_1234,#genre#
+K頻道,P2p://ns1.hellotvvod.com:9906/31e2eeb87a3946efa30107e79c9f3745
+香蕉台,P2p://ns1.hellotvvod.com:9906/4fcf89da320743f7893302dce16c5b5d
+Happy,P2p://ns1.hellotvvod.com:9906/fb6d69faa9ee482cb2525df9efd36f68
 
 
 加值測試_1234,#genre#
