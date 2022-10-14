@@ -25,31 +25,35 @@
 {
 "name": "民視新聞",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&amp;nid=31"]},
+"https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8"]},
+{
+"name": "三立新聞",
+"urls": [
+"http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8"]},
 {
 "name": "中天新聞",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30"]},
+"https://raw.github.com/SSM0415/apptest/YTlive/CTI.m3u8"]},
 {
 "name": "TVBS新聞",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129"]},
+"rtmp://59.124.75.147/sat/tv551"]},
 {
-"name": "東森新聞",
+"name": "NHK WORLD",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234"]},
+"https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"]},
 {
 "name": "東森財經",
 "urls": [
 "https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8"]},
 {
-"name": "半島國際新聞",
+"name": "CNA",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85"]},
+"http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd"]},
 {
 "name": "三立iNEWS",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw"]},
+"https://raw.github.com/SSM0415/apptest/YTlive/SETinews.m3u8"]},
 {
 "name": "寰宇新聞",
 "urls": [
@@ -61,96 +65,100 @@
 {
 "name": "中視新聞",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33"]},
+"https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8"]},
 {
-"name": "鏡電視新聞",
+"name": "鳳凰資訊",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&amp;nid=268"]},
+"http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8"]},
 {
-"name": "TVBS HD",
+"name": "壹新聞",
 "urls": [
-"http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e"]},
+"http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8"]},
 {
 "name": "CNN國際新聞",
 "urls": [
-"http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live204&nid=166"]}]},
+"https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"]}]},
 {
 "group": "電視",
 "channels": [
 {
 "name": "民視",
 "urls": [
-"rtmp://59.124.75.138/sat/tv051"]},
+"rtmp://59.124.75.147/sat/tv051"]},
 {
 "name": "台視",
-"urls": ["rtmp://59.124.75.138/sat/tv071"]},
+"urls": ["rtmp://59.124.75.147/sat/tv071"]},
 {
 "name": "中視",
 "urls": [
-"rtmp://59.124.75.138/sat/tv091"]},
+"rtmp://59.124.75.147/sat/tv091"]},
 {
 "name": "華視",
 "urls": [
-"rtmp://59.124.75.138/sat/tv111"]},
+"rtmp://59.124.75.147/sat/tv111"]},
 {
 "name": "TVBS新聞",
 "urls": [
-"rtmp://59.124.75.138/sat/tv551"]},
+"rtmp://59.124.75.147/sat/tv551"]},
 {
 "name": "TVBS歡樂",
 "urls": [
-"rtmp://59.124.75.138/sat/tv421"]},
+"rtmp://59.124.75.147/sat/tv421"]},
 {
 "name": "東森財經新聞",
 "urls": [
-"rtmp://59.124.75.138/sat/tv571"]},
+"rtmp://59.124.75.147/sat/tv571"]},
 {
 "name": "東森超視",
 "urls": [
-"rtmp://59.124.75.138/sat/tv521"]},
+"rtmp://59.124.75.147/sat/tv521"]},
 {
 "name": "緯來育樂",
 "urls": [
-"rtmp://59.124.75.138/sat/tv701"]},
+"rtmp://59.124.75.147/sat/tv701"]},
 {
 "name": "緯來體育",
 "urls": [
-"rtmp://59.124.75.138/sat/tv721"]},
+"rtmp://59.124.75.147/sat/tv721"]},
 {
 "name": "ELEVEN1",
 "urls": [
-"rtmp://59.124.75.138/sat/tv731"]},
+"rtmp://59.124.75.147/sat/tv731"]},
 {
 "name": "ELEVEN2",
 "urls": [
-"rtmp://59.124.75.138/sat/tv741"]},
+"rtmp://59.124.75.147/sat/tv741"]},
 {
 "name": "緯來日本",
 "urls": [
-"rtmp://59.124.75.138/sat/tv771"]},
+"rtmp://59.124.75.147/sat/tv771"]},
 {
 "name": "MOMO綜合",
 "urls": [
-"rtmp://59.124.75.138/sat/tv761"]},
-{
-"name": "testp2p綜合",
-"urls": [
-"P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e"]},
+"rtmp://59.124.75.147/sat/tv761"]},
 {
 "name": "TVBS新聞",
 "urls": [
-"rtmp://59.124.75.138/sat/tv551"]}]},
+"rtmp://59.124.75.147/sat/tv551"]}]},
 {
-"group": "MOVIE推薦",
+"group": "MOVIE輪播",
 "channels": [
 {
-"name": "叢林奇航2021",
+"name": "周星馳",
 "urls": [
-"https://nashongyu.myqnapcloud.com/share.cgi?ssid=0lwJs46&ep=&fid=0lwJs46&open=normal"]},
+"http://106.53.212.251/daili/yy.php?id=38670875"]},
 {
-"name": "路卡的夏天2021",
+"name": "發哥德華",
 "urls": [
-"https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aIX5X0&ep=&fid=0aIX5X0&open=normal"]}]},
+"http://106.53.212.251/daili/yy.php?id=1353059120"]},
+{
+"name": "影視輪播1",
+"urls": [
+"http://106.53.212.251/daili/yy.php?id=1350562684"]},
+{
+"name": "成龍",
+"urls": [
+"http://106.53.212.251/daili/yy.php?id=34460526"]}]},
 ],
 
 "parses":[
