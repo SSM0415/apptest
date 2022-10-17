@@ -24,7 +24,7 @@
 {"key":"酷豆資源","name":"酷豆資源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"秀色資源","name":"秀色資源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"老鴨資源","name":"老鴨資源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"色窩資源","name":"色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"色窩資源","name":"色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
 "lives": [{
