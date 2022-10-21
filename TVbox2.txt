@@ -20,14 +20,10 @@
 {"key":"速更資源","name":"速更資源","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"閃電資源","name":"閃電資源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"番茄資源","name":"番茄資源","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"橘猫資源","name":"橘猫資源","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"魚樂資源","name":"魚樂資源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"韓劇資源","name":"韓劇資源","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"快播資源","name":"快播資源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"百度資源","name":"百度資源","type":1,"api":"https://api.apibdzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"無盡資源","name":"無盡資源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"紅牛資源","name":"紅牛資源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"csp_Alist1","name":"🗂Alist合集","type":1,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json"},
+{"key":"csp_Alist1","name":"🗂Alist合集","type":1,"api":"https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json"},
 {"key":"南國影源","name":"南國影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
