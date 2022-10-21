@@ -11,7 +11,7 @@
 {"key":"多多資源","name":"多多資源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
 {"key":"6U資源","name":"6U資源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {"key":"金鹰資源","name":"金鹰資源","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
-{"key":"段友影視","name":"段友影視","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xml_人人影视","name":"🈚人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"諾訊資源","name": "諾訊資源","type":1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list"},
 {"key":"松鼠資源","name":"松鼠資源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"番茄資源","name":"番茄資源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
