@@ -1,6 +1,7 @@
 {
 "sites": [
-{"key":"U酷資源","name":"U酷資源(切)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"18AV資源","name":"18AV資源","type":1,"api":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/18av.js","searchable":1,"quickSearch":1},
 {"key":"麻豆網","name":"麻豆網","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"酷倫理資源","name":"酷倫理資源","type":1,"api":"http://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"辣椒資源","name":"辣椒資源","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
