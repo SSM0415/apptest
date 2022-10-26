@@ -21,7 +21,14 @@
 {"key":"酷豆資源","name":"酷豆資源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/"},
 {"key":"秀色資源","name":"秀色資源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/"},
 {"key":"老鴨資源","name":"老鴨資源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/"},
-{"key":"速度資源","name":"速度資源","type":1,"api":"http://www.ggmmzy.com:9999/inc/xml"},
+    {
+      "key": "ggmmzy.com",
+      "name": "速度資源",
+      "type": 0,
+      "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "searchable": 1,
+      "filterable": 1
+    },
 
 
 
