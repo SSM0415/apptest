@@ -3,7 +3,6 @@
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"麻豆網","name":"麻豆網","type":1,"api":"http://madouse.la/api.php/provide/vod/"},
 {"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/"},
-{"key":"速度資源","name":"速度資源","type":1,"api":"http://www.ggmmzy.com:9999/inc/xml"},
 {"key":"酷倫理資源","name":"酷倫理資源","type":1,"api":"http://api.kudian70.com/api.php/provide/vod/"},
 {"key":"辣椒資源","name":"辣椒資源","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/"},
 {"key":"葡萄資源","name":"葡萄資源","type":1,"api":"http://api.putaozy.net/inc/apijson_vod.php"},
@@ -22,6 +21,11 @@
 {"key":"酷豆資源","name":"酷豆資源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/"},
 {"key":"秀色資源","name":"秀色資源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/"},
 {"key":"老鴨資源","name":"老鴨資源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/"},
+{"key":"速度資源","name":"速度資源","type":1,"api":"http://www.ggmmzy.com:9999/inc/xml"},
+
+
+
+
 {"key":"色窩資源","name":"色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/"}
 ],
 
