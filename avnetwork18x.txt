@@ -1,6 +1,5 @@
 {
-"sites": [
-
+"sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"麻豆網","name":"麻豆網","type":1,"api":"http://madouse.la/api.php/provide/vod/"},
 {"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/"},
