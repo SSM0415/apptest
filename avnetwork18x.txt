@@ -1,5 +1,5 @@
 {
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;e59dd939c16d155e3214d4c4511dc492",
+"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"麻豆網","name":"麻豆網","type":1,"api":"http://madouse.la/api.php/provide/vod/"},
@@ -56,8 +56,8 @@
 {"key":"夜嚕資源","name":"夜嚕資源","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml"},
 {"key":"精工廠資源","name":"精工廠資源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml"},
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色倉庫(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
-{"key":"18AV","name":"18AV","type":0,"api":"csp_Eighteen","searchable": 1,"filterable": 1},
-{"key":"玩偶","name":"玩偶","type":0,"api":"csp_Doll","searchable": 1,"filterable": 1},
+{"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable": 1,"filterable": 1},
+{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable": 1,"filterable": 1},
 {"key":"色窩資源","name":"色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/"}
 ],
 
