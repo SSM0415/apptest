@@ -1,8 +1,4 @@
 {
-"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar",
-
-
 
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
