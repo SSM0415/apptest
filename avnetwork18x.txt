@@ -56,7 +56,7 @@
 {"key":"夜嚕資源","name":"夜嚕資源","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml"},
 {"key":"精工廠資源","name":"精工廠資源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml"},
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色倉庫(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
-{"api":"csp_Eighteen","ext":"https://maa1812.com/","filterable":0,"key":"csp_Eighteen","name":"18AV(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar"},
+{"key":"18AV","name":"18AV","type":0,"api":"https://raw.githubusercontent.com/xiaomi128/opp/main/18av.json"},
 {"key":"色窩資源","name":"色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/"}
 ],
 
