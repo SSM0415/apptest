@@ -1,7 +1,7 @@
 {
 "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar
-"spider": "
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar",
+
 
 
 "sites": [ 
