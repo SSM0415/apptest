@@ -121,14 +121,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "filterable": 1
-    },
+{"key":"csp_biubiu_hani","name":"hani(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/DarkZCore/DarkLibrary/39a80a51b639b4f45790d6b8b436a0b53587c992/Modules/Hanime/moduleTemplate.json"},
 {"key":"色窩資源","name":"色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/"}
 ],
 
