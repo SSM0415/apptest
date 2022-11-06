@@ -12,7 +12,7 @@
 {"key":"木子看劇","name":"木子看劇","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"多多資源","name":"多多資源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
 {"key":"6U資源","name":"6U資源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
-{"key":"金鹰資源","name":"金鹰資源","type":1,"api":"https://jyzyapi.com/provide/vod","searchable":1,"quickSearch":1},
+{"key":"金鹰資源","name":"金鹰資源","type":1,"api":"http://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"人人影視","name":"人人影視","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飄花資源","name":"飄花資源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"松鼠資源","name":"松鼠資源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
