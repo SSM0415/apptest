@@ -16,12 +16,6 @@
  
     },
     {
-        "url": "https://raw.githubusercontent.com/habao260/zy/main/adult.json",
-        "title": "線路1-AV",
-        "time": "2022-10-29"
- 
-    },
-    {
         "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
         "title": "線路2-AV",
         "time": "2022-10-23"
