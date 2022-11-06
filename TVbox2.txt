@@ -1,10 +1,12 @@
 {
+"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/91c1.jar",
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"FOX資源","name":"FOX資源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"韓劇資源","name":"韓劇資源","type":1,"api":"http://www.hanjuzy.com/inc/api.php","searchable":0,"quickSearch":0},
 {"key":"愛追劇","name":"愛追劇","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/"},
+{"key":"csp_biubiu_GIMY影视","name":"💦GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXB/GIMY影视.json"},
 {"key":"飛速資源","name":"飛速資源","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"天堂資源","name":"天堂資源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {"key":"橘貓資源","name":"橘貓資源","type":1,"api": "http://119.29.1.173/api.php/provide/vod/"},
@@ -12,7 +14,6 @@
 {"key":"木子看劇","name":"木子看劇","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"多多資源","name":"多多資源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
 {"key":"6U資源","name":"6U資源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
-{"key":"金鹰資源","name":"金鹰資源","type":1,"api":"http://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"人人影視","name":"人人影視","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飄花資源","name":"飄花資源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"松鼠資源","name":"松鼠資源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
