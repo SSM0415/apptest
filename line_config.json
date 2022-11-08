@@ -1,16 +1,16 @@
 [
     {
         "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
-        "title": "線路1-TV",
+        "title": "自用線路1-TV",
         "time": "2022-10-23 02:03:04"
     },
     {
-        "url": "https://la.kstore.space/download/3092/dd.json",
+        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/line1-tvbox.json",
         "title": "資源線路1",
-        "time": "2022-10-23 02:03:04"
+        "time": "2022-11-08"
     },
     {
-        "url": "http://111.67.196.181/mtv/meow.txt",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
         "title": "資源線路2",
         "time": "2022-10-23 02:03:04"
  
