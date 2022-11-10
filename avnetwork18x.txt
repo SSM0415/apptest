@@ -59,7 +59,6 @@
 {"key":"精工廠資源","name":"精工廠資源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml"},
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色倉庫(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
 {"key":"csp_xf_18t","name":"️18t","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/18t.json"},
-{"key":"csp_xf_18av","name":"18av","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/18av.json"},
 {"key":"csp_xf_AVIDEO","name":"️AVIDEO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/bananxxx.json"},
 {"key":"csp_xf_BANAN","name":"️BANAN","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/av1xxx.json"},
 {"key":"csp_XYQHiker_猫咪","name":"猫咪","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/maomixxx.json"},
