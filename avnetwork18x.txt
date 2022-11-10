@@ -1,8 +1,8 @@
-
+{
 "spider":"https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar",
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/xx03253/xxu/master/MaooXB2/xxtv.jar;md5;f844ffb53ef04468eabc9afd62f18ed0",
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/jar/h.jar;md5;4dabd8387d2214bfb9853cc3dba98d08",
-"sites": [ 
+"sites":[
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"麻豆網","name":"麻豆網","type":1,"api":"http://madouse.la/api.php/provide/vod/"},
 {"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/"},
@@ -58,25 +58,25 @@
 {"key":"夜嚕資源","name":"夜嚕資源","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml"},
 {"key":"精工廠資源","name":"精工廠資源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml"},
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色倉庫(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
-{"key": "csp_xf_18t","name": "️18t","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/18t.json"},
-{"key": "csp_xf_18av","name": "🏆18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/18av.json"},
-{"key": "csp_xf_AVIDEO","name": "️AVIDEO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/bananxxx.json"},
-{"key": "csp_xf_BANAN","name": "️BANAN","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/av1xxx.json"},
-{"key": "csp_XYQHiker_猫咪","name":"猫咪","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/maomixxx.json"},
-{"key": "csp_XYQHiker_大香蕉","name":"大香蕉","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/daxiangjxxx.json"},
+{"key":"csp_xf_18t","name":"️18t","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/18t.json"},
+{"key":"csp_xf_18av","name":"🏆18av","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/18av.json"},
+{"key":"csp_xf_AVIDEO","name":"️AVIDEO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/bananxxx.json"},
+{"key":"csp_xf_BANAN","name":"️BANAN","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/av1xxx.json"},
+{"key":"csp_XYQHiker_猫咪","name":"猫咪","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/maomixxx.json"},
+{"key":"csp_XYQHiker_大香蕉","name":"大香蕉","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/daxiangjxxx.json"},
 {"key":"樂","name":"樂","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"速","name":"速","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"番","name":"番","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key": "csp_xBPQ_香蕉資源","name": "🏆香蕉資源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉資源.json"},
-{"key": "csp_xBPQ_香蕉超清","name": "🏆香蕉超清","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉超清.json"},
-{"key": "csp_xBPQ_香蕉國產","name": "🏆香蕉國產","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉國產.json"},
-{"key": "csp_xBPQ_香蕉久久熱","name": "🏆香蕉久久熱","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉久久熱.json"},
-{"key": "csp_xBPQ_香蕉廢柴","name": "🏆香蕉廢柴","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉廢柴.json"},
-{"key": "csp_xBPQ_香蕉直播","name": "🏆香蕉直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉直播.json"},
-{"key": "csp_xBPQ_香蕉搜索","name": "🏆香蕉搜索","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉搜索.json"},
-{"key": "csp_xBPQ_西瓜影視","name": "🏆西瓜影視","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/西瓜影視.json"},
-{"key": "csp_xBPQ_香蕉2","name": "🏆香蕉2","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉2.json"},
-{"key": "csp_XYQHiker_300分類","name": "300分類","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XYQHiker/300分类.json"}
+{"key":"csp_xBPQ_香蕉資源","name":"🏆香蕉資源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉資源.json"},
+{"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉超清.json"},
+{"key":"csp_xBPQ_香蕉國產","name":"🏆香蕉國產","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉國產.json"},
+{"key":"csp_xBPQ_香蕉久久熱","name":"🏆香蕉久久熱","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉久久熱.json"},
+{"key":"csp_xBPQ_香蕉廢柴","name":"🏆香蕉廢柴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉廢柴.json"},
+{"key":"csp_xBPQ_香蕉直播","name":"🏆香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉直播.json"},
+{"key":"csp_xBPQ_香蕉搜索","name":"🏆香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉搜索.json"},
+{"key":"csp_xBPQ_西瓜影視","name":"🏆西瓜影視","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/西瓜影視.json"},
+{"key":"csp_xBPQ_香蕉2","name":"🏆香蕉2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉2.json"},
+{"key":"csp_XYQHiker_300分類","name":"300分類","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XYQHiker/300分类.json"}
 {"key":"csp_biubiu_愛看影院","name":"愛看影院(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/aikanxxx.json"},
 {"key":"csp_biubiu_麻豆傳媒","name":"麻豆傳媒(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/madouxxx.json"},
 {"key":"csp_biubiu_麻豆映畫","name":"麻豆映畫(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/mdyhxxx.json"},
@@ -85,154 +85,154 @@
 {"key":"csp_biubiu_GAOAA1","name":"GAOAA1(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/zwwmxxx.json"},
 {"key":"csp_biubiu_性欲輪回","name":"性欲輪回(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/xylhxxx.json"},
 {"key":"csp_biubiu_性欲輪回1","name":"性欲輪回1(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/xylh1xxx.json"},
-{ "key": "芒果18+", "name": "芒果18+", "type": 0, "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/", "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=", "searchable": 0, "quickSearch": 1, "filterable": 0 },
-{"key": "樂播","name": "樂播","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
-{"key": "色貓", "name": "色貓","type": 0,"api":"https://api.maozyapi.com/inc/api.php" },
+{"key":"芒果18+","name":"芒果18+","type":0,"api":"https://www.mgav1.cc/api.php/provide/vod/at/xml/","playUrl":"https://mgm3u8-player.com/player/DPm3u8.php?url=","searchable":0,"quickSearch":1,"filterable":0},
+{"key":"樂播","name":"樂播","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key":"色貓","name":"色貓","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
 {"key":"蛋蛋視頻","name":"蛋蛋視頻","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"番號資源","name":"番號資源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"狼友資源","name":"狼友資源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"色窩資源","name":"色窩資源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/"}
 ],
 
-"lives": [{
-"group": "新聞",
-"channels": [
+"lives":[{
+"group":"新聞",
+"channels":[
 {
-"name": "民視新聞",
-"urls": [
+"name":"民視新聞",
+"urls":[
 "https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8"]},
 {
-"name": "三立新聞",
-"urls": [
+"name":"三立新聞",
+"urls":[
 "http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8"]},
 {
-"name": "中天新聞",
-"urls": [
+"name":"中天新聞",
+"urls":[
 "https://raw.github.com/SSM0415/apptest/YTlive/CTI.m3u8"]},
 {
-"name": "TVBS新聞",
-"urls": [
+"name":"TVBS新聞",
+"urls":[
 "rtmp://59.124.75.147/sat/tv551"]},
 {
-"name": "NHK WORLD",
-"urls": [
+"name":"NHKWORLD",
+"urls":[
 "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"]},
 {
-"name": "東森財經",
-"urls": [
+"name":"東森財經",
+"urls":[
 "https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8"]},
 {
-"name": "CNA",
-"urls": [
+"name":"CNA",
+"urls":[
 "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd"]},
 {
-"name": "三立iNEWS",
-"urls": [
+"name":"三立iNEWS",
+"urls":[
 "https://raw.github.com/SSM0415/apptest/YTlive/SETinews.m3u8"]},
 {
-"name": "寰宇新聞",
-"urls": [
+"name":"寰宇新聞",
+"urls":[
 "https://raw.github.com/SSM0415/apptest/YTlive/GlobalNews.m3u8"]},
 {
-"name": "台視新聞",
-"urls": [
+"name":"台視新聞",
+"urls":[
 "https://raw.github.com/SSM0415/apptest/YTlive/TTVnews.m3u8"]},
 {
-"name": "中視新聞",
-"urls": [
+"name":"中視新聞",
+"urls":[
 "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8"]},
 {
-"name": "鳳凰資訊",
-"urls": [
+"name":"鳳凰資訊",
+"urls":[
 "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8"]},
 {
-"name": "壹新聞",
-"urls": [
+"name":"壹新聞",
+"urls":[
 "http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8"]},
 {
-"name": "CNN國際新聞",
-"urls": [
+"name":"CNN國際新聞",
+"urls":[
 "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"]}]},
 {
-"group": "電視",
-"channels": [
+"group":"電視",
+"channels":[
 {
-"name": "民視",
-"urls": [
+"name":"民視",
+"urls":[
 "rtmp://59.124.75.147/sat/tv051"]},
 {
-"name": "台視",
-"urls": ["rtmp://59.124.75.147/sat/tv071"]},
+"name":"台視",
+"urls":["rtmp://59.124.75.147/sat/tv071"]},
 {
-"name": "中視",
-"urls": [
+"name":"中視",
+"urls":[
 "rtmp://59.124.75.147/sat/tv091"]},
 {
-"name": "華視",
-"urls": [
+"name":"華視",
+"urls":[
 "rtmp://59.124.75.147/sat/tv111"]},
 {
-"name": "TVBS新聞",
-"urls": [
+"name":"TVBS新聞",
+"urls":[
 "rtmp://59.124.75.147/sat/tv551"]},
 {
-"name": "TVBS歡樂",
-"urls": [
+"name":"TVBS歡樂",
+"urls":[
 "rtmp://59.124.75.147/sat/tv421"]},
 {
-"name": "東森財經新聞",
-"urls": [
+"name":"東森財經新聞",
+"urls":[
 "rtmp://59.124.75.147/sat/tv571"]},
 {
-"name": "東森超視",
-"urls": [
+"name":"東森超視",
+"urls":[
 "rtmp://59.124.75.147/sat/tv521"]},
 {
-"name": "緯來育樂",
-"urls": [
+"name":"緯來育樂",
+"urls":[
 "rtmp://59.124.75.147/sat/tv701"]},
 {
-"name": "緯來體育",
-"urls": [
+"name":"緯來體育",
+"urls":[
 "rtmp://59.124.75.147/sat/tv721"]},
 {
-"name": "ELEVEN1",
-"urls": [
+"name":"ELEVEN1",
+"urls":[
 "rtmp://59.124.75.147/sat/tv731"]},
 {
-"name": "ELEVEN2",
-"urls": [
+"name":"ELEVEN2",
+"urls":[
 "rtmp://59.124.75.147/sat/tv741"]},
 {
-"name": "緯來日本",
-"urls": [
+"name":"緯來日本",
+"urls":[
 "rtmp://59.124.75.147/sat/tv771"]},
 {
-"name": "MOMO綜合",
-"urls": [
+"name":"MOMO綜合",
+"urls":[
 "rtmp://59.124.75.147/sat/tv761"]},
 {
-"name": "TVBS新聞",
-"urls": [
+"name":"TVBS新聞",
+"urls":[
 "rtmp://59.124.75.147/sat/tv551"]}]},
 {
-"group": "MOVIE輪播",
-"channels": [
+"group":"MOVIE輪播",
+"channels":[
 {
-"name": "周星馳",
-"urls": [
+"name":"周星馳",
+"urls":[
 "http://106.53.212.251/daili/yy.php?id=38670875"]},
 {
-"name": "發哥德華",
-"urls": [
+"name":"發哥德華",
+"urls":[
 "http://106.53.212.251/daili/yy.php?id=1353059120"]},
 {
-"name": "影視輪播1",
-"urls": [
+"name":"影視輪播1",
+"urls":[
 "http://106.53.212.251/daili/yy.php?id=1350562684"]},
 {
-"name": "成龍",
-"urls": [
+"name":"成龍",
+"urls":[
 "http://106.53.212.251/daili/yy.php?id=34460526"]}]},
 ],
 
@@ -240,7 +240,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-# type1 聚合.并发.轮询
+#type1聚合.并发.轮询
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"bilibili","type":1,"url":"https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=","ext":{"flag":["bilibili"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
@@ -274,7 +274,7 @@
 {"name":"喵派对資源3","type":1,"url":"https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=","ext":{"flag":["ltnb","renrenmi"]}},
 {"name":"喵派对資源2","type":1,"url":"https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
 {"name":"leduotv","type":1,"url":"https://api.leduotv.com/wp-api/getvodurl.php?vid=","ext":{"flag":["leduo"]}},
-# type0 手动解析
+#type0手动解析
 {"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","pptv","PPTV","sohu","letv"]}},
 {"name":"M117","type":0,"url":"http://1.117.152.239:39000/?url="},
 {"name":"zui","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
