@@ -74,7 +74,6 @@
 {"key":"csp_biubiu_GAOAA1","name":"GAOAA1(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/zwwmxxx.json"},
 {"key":"csp_biubiu_性欲輪回","name":"性欲輪回(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/xylhxxx.json"},
 {"key":"csp_biubiu_性欲輪回1","name":"性欲輪回1(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaomi128/opp/main/xylh1xxx.json"},
-{"key":"芒果18+","name":"芒果18+","type":0,"api":"https://www.mgav1.cc/api.php/provide/vod/at/xml/","playUrl":"https://mgm3u8-player.com/player/DPm3u8.php?url=","searchable":0,"quickSearch":1,"filterable":0},
 {"key":"樂播","name":"樂播","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml"},
 {"key":"色貓","name":"色貓","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
 {"key":"蛋蛋視頻","name":"蛋蛋視頻","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
