@@ -5,7 +5,6 @@
    
 sites: [
 
-{"key":"七七","name":"🔥七七線路","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://la.kstore.space/download/3092/MaooXB/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 {"key":"mtv_pc_小蘋果源","name":"🔥小蘋果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mtv_pc_快看影視","name":"🔥快看影視","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1},
