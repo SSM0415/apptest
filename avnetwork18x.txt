@@ -103,9 +103,7 @@
 {"key":"色窩資源","name":"色窩資源🔪","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/"}
 ],
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"}],
-
-//"lives":[{
+"lives":[{
 "group":"新聞",
 "channels":[
 {
@@ -170,7 +168,7 @@
 {
 "name":"民視",
 "urls":[
-"rtmp://59.124.75.147/sat/tv051"]},
+"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"]},
 {
 "name":"台視",
 "urls":["rtmp://59.124.75.147/sat/tv071"]},
