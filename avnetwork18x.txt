@@ -103,7 +103,7 @@
 ],
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"]}]}],
-"lives":[{
+//"lives":[{
 "group":"新聞",
 "channels":[
 {
