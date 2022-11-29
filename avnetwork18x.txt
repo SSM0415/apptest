@@ -102,6 +102,7 @@
 {"key":"色窩資源","name":"色窩資源🔪","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/"}
 ],
 
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"]}]}],
 "lives":[{
 "group":"新聞",
 "channels":[
