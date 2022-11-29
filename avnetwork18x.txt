@@ -107,7 +107,7 @@
     {
       "name": "Adult",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
     }],
 //"lives":[{
 "group":"新聞",
