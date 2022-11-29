@@ -5,11 +5,6 @@
         "time": "2022-10-23 02:03:04"
     },
     {
-        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/line1-tvbox.json",
-        "title": "資源線路1",
-        "time": "2022-11-08"
-    },
-    {
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
         "title": "資源線路2",
         "time": "2022-10-23 02:03:04"
