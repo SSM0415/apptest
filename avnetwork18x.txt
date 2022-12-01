@@ -1,8 +1,8 @@
 {
-"spider":"https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar",
-//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/xx03253/xxu/master/MaooXB2/xxtv.jar;md5;f844ffb53ef04468eabc9afd62f18ed0",
-//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/jar/h.jar;md5;4dabd8387d2214bfb9853cc3dba98d08",
-//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;3d99b9f6015e1779941725bbb179eb5f",
+"spider":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/1.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/xx03253/xxu/master/MaooXB2/xxtv.jar;md5;f844ffb53ef04468eabc9afd62f18ed0",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/jar/h.jar;md5;4dabd8387d2214bfb9853cc3dba98d08",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;3d99b9f6015e1779941725bbb179eb5f",
 "sites":[
 {"key":"U酷資源","name":"U酷資源🔪","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"麻豆網","name":"麻豆網🔪","type":1,"api":"http://madouse.la/api.php/provide/vod/"},
