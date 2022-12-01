@@ -1,5 +1,5 @@
 {
-"spider":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/1.jar",
+"spider":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/1.jar;md5;d6a802d8dfe22f34635a6518caf8bde8",
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/xx03253/xxu/master/MaooXB2/xxtv.jar;md5;f844ffb53ef04468eabc9afd62f18ed0",
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/jar/h.jar;md5;4dabd8387d2214bfb9853cc3dba98d08",
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;3d99b9f6015e1779941725bbb179eb5f",
