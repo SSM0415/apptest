@@ -17,6 +17,12 @@
  
     },
     {
+        "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+        "title": "資源線路4-18+",
+        "time": "2022-12-01 "
+ 
+    },
+    {
         "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
         "title": "線路2-AV",
         "time": "2022-10-23"
