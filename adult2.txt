@@ -8,6 +8,21 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
     },
     {
+      "name": "iptv18xv1",
+      "type": 0,
+      "url": "https://chtfmt92skxmjhlzyzrjrg-on.drv.tw/www/iptv18xv1.txt"
+    },
+    {
+      "name": "9453",
+      "type": 0,
+      "url": "https://chtfmt92skxmjhlzyzrjrg-on.drv.tw/www/18x9453.txt"
+    },
+    {
+      "name": "18xav1",
+      "type": 0,
+      "url": "https://chtfmt92skxmjhlzyzrjrg-on.drv.tw/www/18xav1.m3u8"
+    },
+    {
       "name": "10086",
       "type": 0,
       "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
@@ -222,6 +237,7 @@
 {"key":"蛋蛋視頻","name":"蛋蛋視頻🔪","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"番號資源","name":"番號資源🔪","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"狼友資源","name":"狼友資源🔪","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"色窩資源","name":"色窩資源🔪","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
     {
       "key": "51smt4.xyz",
       "name": "成人02",
