@@ -5,7 +5,7 @@
 "lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt"}],
 "lives":[{"name":"直播1","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt"}],
 "lives":[{"name":"直播(道长)","type":0,"url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/直播.txt"}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2My9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt"]}]}],
 //EPG地址：http://epg.51zmt.top:8000/api/diyp/
 //"spider":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaUlUZG8wOWIzeHFk.jpg;md5;3d7299943c04fc5baebfdc8632762edd",
 //"spider":"clan://TVBox/0718.jar",
