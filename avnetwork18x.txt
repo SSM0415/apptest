@@ -141,7 +141,7 @@
 {"key":"狼友資源","name":"狼友資源🔪","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"色窩資源","name":"色窩資源🔪","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
 ],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NTTTA0MTUvYXBwdGVzdC9tYWluL2lwdHYxOHh2MS5tM3U4"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NTTTA0MTUvYXBwdGVzdC9tYWluL2Rzam1pZG5pZ2h0VFYudHh0"]}]}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
