@@ -21,7 +21,7 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 民視新聞,https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8
 中天新聞,https://raw.github.com/SSM0415/apptest/YTlive/CTI.m3u8
 TVBS新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=31
-TVBS HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8
+TVBS HD,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 東森新聞,http://220.134.196.147:9535/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森財經,https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8
 三立iNEWS,https://raw.github.com/SSM0415/apptest/YTlive/SETinews.m3u8
@@ -29,12 +29,11 @@ TVBS HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8
 台視新聞,https://raw.github.com/SSM0415/apptest/YTlive/TTVnews.m3u8
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
-
-
+鏡新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=38
 
 港台測試,#genre#
-民視,http://220.134.196.147:9574/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
-台視,http://220.134.196.147:9577/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
+民視,http://107.151.203.111:2209/135/us50.php?id=msk
+台視,http://107.151.203.111:2209/135/us50.php?id=tsk
 中視,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 華視,http://218.32.47.179:18503/.m3u8
 公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
@@ -77,6 +76,46 @@ Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloombe
 國家地理,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 中天娛樂,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+
+港台測試1,#genre#
+蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
+龍華偶像D,http://107.151.203.111:2209/135/hk.php?id=7126
+東森超視D,http://107.151.203.111:2209/135/hk.php?id=6051
+中天娛樂台D,http://107.151.203.111:2209/135/hk.php?id=6057
+智林體育,http://tv.ye23.win/10AH/abc1.php?id=live_122_3.stream
+優視頻道,http://107.151.203.111:2209/135/hk.php?id=uchanneltv
+翡翠台K,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+明珠台K,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
+星空衛視K,http://107.151.203.111:2209/135/hk.php?id=xkwst
+無線財經K,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+天映經典K,http://107.151.203.111:2209/135/hk.php?id=ccmt
+東森電影K,http://107.151.203.111:2209/135/hk.php?id=dsdyt
+東森洋片K,http://107.151.203.111:2209/135/hk.php?id=dsypt
+龍祥時代K,http://107.151.203.111:2209/135/hk.php?id=lxsdt
+中天綜合台K,http://107.151.203.111:2209/135/hk.php?id=19226
+民視K,http://107.151.203.111:2209/135/us50.php?id=msk
+台視K,http://107.151.203.111:2209/135/us50.php?id=tsk
+中天娛樂K,http://107.151.203.111:2209/135/us50.php?id=ztz
+鳳凰中文HD,http://107.151.203.111:2209/135/hk.php?id=fhzw
+鳳凰資訊HD,http://107.151.203.111:2209/135/hk.php?id=fhzx
+香港衛視文旅,http://107.151.203.111:2209/135/hk.php?id=hk6
+耀才財經,http://107.151.203.111:2209/135/hk.php?id=bs
+有線新聞台,http://107.151.203.111:2209/135/hk.php?id=cable37h
+有線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=cable38h
+有線電視LIVE,http://107.151.203.111:2209/135/hk.php?id=cable39h
+香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
+香港開電視,http://107.151.203.111:2209/135/hk.php?id=cable77h
+星衛娛樂,http://23.237.10.66:16359
+翡翠台,http://23.237.10.66:16106?$1920x1080
+翡翠台1,http://23.237.10.66:16410?$1280x720
+台視,http://23.237.10.66:16344?$1920x1080
+民視,http://23.237.10.66:16334?$1280x720
+Sportv2,http://23.237.10.66:16180?$1280x720
+中天綜合,http://23.237.10.66:16372
+智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+TV8,http://23.237.10.66:16406/
+足球SUKAN,http://23.237.10.66:16476/
 
 日本,#genre#
 TokyoMX1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
