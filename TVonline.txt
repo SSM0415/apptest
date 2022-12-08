@@ -556,6 +556,21 @@ GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
+不穩定台深夜直播_1234,#genre#
+???彩虹電影台,mitv://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
+???HAPPY,mitv://ns3.hellotvvod.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
+??潘多拉玩美台Perfec,mitv://ns3.hellotvvod.com:9906/920530a511934ff980a0bc4ffb64f51c
+??惊艳成人电影台,mitv://ns3.hellotvvod.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+??PLAYBOY,mitv://ns3.hellotvvod.com:9906/a5480458bcb946b18d21b751db08a8e1
+???松视1,mitv://ns3.hellotvvod.com:9906/b220e1df95e141188def1de2d1a3507e
+???松视2,mitv://ns3.hellotvvod.com:9906/d4e997cdc91b4506bf391e7222b77abc
+???松视3,mitv://ns3.hellotvvod.com:9906/6c96963b9c974eb88da6ff55f3b77773
+???香蕉台Banana,mitv://ns3.hellotvvod.com:9906/91088314de8b461ba3aaa1f27ae3732b
+???JS??極限電影,mitv://ns3.hellotvvod.com:9906/9ca49d959a29450fbc3f7766f7769e54
+???彩虹e台,mitv://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
+??K頻道,mitv://ns3.hellotvvod.com:9906/59281d33d7d24944abcf3d4aa0ed524c
+????LookTV,mitv://ns3.hellotvvod.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+
 
 加值測試_1234,#genre#
 直播720,http://cdn.adultiptv.net/livecams.m3u8
@@ -603,7 +618,6 @@ Woman,http://live.redtraffic.net/woman.m3u8
 一本道11,https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1
 國產AV劇情,
 黑社會女老大-談判霸氣外露-床上風情萬種-麻豆女神艾秋出演,https://cdn.163cdn.net/hls/contents/videos/50000/50378/50378.mp4/index.m3u8
-性感肉絲長腿女教師娜娜因長期抑鬱症上吊自殺被變態光頭佬淫威屍體,https://cdn.163cdn.net/hls/contents/videos/41000/41171/41171.mp4/index.m3u8
 21克 下集 漂亮妹子大尺度性感出演 反映社會真實黑暗的一面,https://cdn.163cdn.net/hls/contents/videos/32000/32550/32550.mp4/index.m3u8
 21克 上集 漂亮妹子大尺度性感出演 反映社會真實的一面,https://cdn.163cdn.net/hls/contents/videos/32000/32578/32578.mp4/index.m3u8
 淫賊欲盜竊巧遇空姐在家自慰硬上草到高潮,https://cdn.163cdn.net/hls/contents/videos/34000/34987/34987.mp4/index.m3u8
