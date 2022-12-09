@@ -495,18 +495,6 @@ NewTV超級電視劇,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 新疆衛視,http://124.220.17.172/as.php?id=46
 西藏衛視,http://124.220.17.172/as.php?id=47
 
-新唐人系列,#genre#
-新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
-新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
-新唐人美東台,https://live2.ntdimg.com/live330/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
-新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
-新唐人加東台,https://live.ntdimg.com/mllive220/playlist.m3u8
-新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
-新唐人舊金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
-新唐人中國台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 GOOD系列,#genre#
 GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
@@ -555,22 +543,6 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
-
-不穩定台深夜直播_1234,#genre#
-彩虹電影台,P2p://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
-HAPPY,P2p://ns3.hellotvvod.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-潘多拉玩美台Perfec,P2p://ns3.hellotvvod.com:9906/920530a511934ff980a0bc4ffb64f51c
-惊艳成人电影台,P2p://ns3.hellotvvod.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-PLAYBOY,P2p://ns3.hellotvvod.com:9906/a5480458bcb946b18d21b751db08a8e1
-松视1,P2p://ns3.hellotvvod.com:9906/b220e1df95e141188def1de2d1a3507e
-松视2,P2p://ns3.hellotvvod.com:9906/d4e997cdc91b4506bf391e7222b77abc
-松视3,P2p://ns3.hellotvvod.com:9906/6c96963b9c974eb88da6ff55f3b77773
-香蕉台Banana,P2p://ns3.hellotvvod.com:9906/91088314de8b461ba3aaa1f27ae3732b
-JS??極限電影,P2p://ns3.hellotvvod.com:9906/9ca49d959a29450fbc3f7766f7769e54
-彩虹e台,P2p://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
-K頻道,P2p://ns3.hellotvvod.com:9906/59281d33d7d24944abcf3d4aa0ed524c
-LookTV,P2p://ns3.hellotvvod.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-
 
 加值測試_1234,#genre#
 直播720,http://cdn.adultiptv.net/livecams.m3u8
