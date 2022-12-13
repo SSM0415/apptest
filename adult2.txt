@@ -1,33 +1,9 @@
 {
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d54084d0ba8d794dd2768ad3492fd208",
   "wallpaper": "https://gao.chuqiuyu.tk",
-  "lives": [
-    {
-      "name": "Adult",
-      "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
-    },
-    {
-      "name": "iptv18xv1",
-      "type": 0,
-      "url": "https://chtfmt92skxmjhlzyzrjrg-on.drv.tw/www/iptv18xv1.txt"
-    },
-    {
-      "name": "9453",
-      "type": 0,
-      "url": "https://chtfmt92skxmjhlzyzrjrg-on.drv.tw/www/18x9453.txt"
-    },
-    {
-      "name": "18xav1",
-      "type": 0,
-      "url": "https://chtfmt92skxmjhlzyzrjrg-on.drv.tw/www/18xav1.m3u8"
-    },
-    {
-      "name": "10086",
-      "type": 0,
-      "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
-    }
-  ],
+
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaHRmbXQ5MnNreG1qaGx6eXpyanJnLW9uLmRydi50dy93d3cvMTh4YXYxLm0zdTg="]}]}],
+
   "sites": [
     {
       "key": "泥巴",
