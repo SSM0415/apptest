@@ -1,6 +1,5 @@
 {
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d54084d0ba8d794dd2768ad3492fd208",
-  "wallpaper": "https://gao.chuqiuyu.tk",
 
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaHRmbXQ5MnNreG1qaGx6eXpyanJnLW9uLmRydi50dy93d3cvMTh4YXYxLm0zdTg="]}]}],
 
