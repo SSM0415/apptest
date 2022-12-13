@@ -1,7 +1,7 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d54084d0ba8d794dd2768ad3492fd208",
-
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaHRmbXQ5MnNreG1qaGx6eXpyanJnLW9uLmRydi50dy93d3cvMTh4YXYxLm0zdTg="]}]}],
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d54084d0ba8d794dd2768ad3492fd208",
+"spider":"https://agit.ai/VivoMax/Fu/src/branch/master/jar/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaHRmbXQ5MnNreG1qaGx6eXpyanJnLW9uLmRydi50dy93d3cvMTh4YXYxLm0zdTg="]}]}],
 
   "sites": [
 {"key":"U酷資源","name":"U酷資源🔪","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
