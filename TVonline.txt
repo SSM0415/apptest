@@ -22,6 +22,7 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 中天新聞,https://raw.github.com/SSM0415/apptest/YTlive/CTI.m3u8
 BBC World News,P2p://generationnexxxt.com:9906/388e8d2066314f408868cc74d09d6c0f
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,https://epg.pm/stream/35a6ae7c902701864c3e92e6447d3289eb06592fd6b68c3092eb577002db4ebd.m3u8
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 東森新聞,http://220.134.196.147:9535/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森財經,https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8
@@ -31,6 +32,7 @@ TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
 鏡新聞,P2p://generationnexxxt.com:9906/c0690865a0d6469c91faccd732dc7ad5
+世界盃CCTV5,https://epg.pm/stream/393ef519d60e433ef842cedb1ad6b2d93e14de9e9859c734a51ba2ce40208af2.m3u8
 
 港台測試,#genre#
 民視,http://107.151.203.111:2209/135/us50.php?id=msk
