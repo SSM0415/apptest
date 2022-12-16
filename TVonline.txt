@@ -80,6 +80,7 @@ Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloombe
 國家地理,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 中天娛樂,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+衛視電影,http://123.58.201.173:52411/test/lshotel.php?id=51
 
 港台測試1,#genre#
 蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
@@ -120,6 +121,8 @@ Sportv2,http://23.237.10.66:16180?$1280x720
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 TV8,http://23.237.10.66:16406/
 足球SUKAN,http://23.237.10.66:16476/
+HBO強檔,P2p://generationnexxxt.com:9906/f7c03395d4d84cb68dd1c0f92193ed76
+HBO原創,P2p://generationnexxxt.com:9906/112d4767d383487bb9eb66667ed97ae0
 
 日本,#genre#
 TokyoMX1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
