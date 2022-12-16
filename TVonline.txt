@@ -80,7 +80,7 @@ Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloombe
 國家地理,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 中天娛樂,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
-衛視電影,http://123.58.201.173:52411/test/lshotel.php?id=51
+
 
 港台測試1,#genre#
 蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
@@ -88,7 +88,6 @@ AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 龍華偶像D,http://107.151.203.111:2209/135/hk.php?id=7126
 東森超視D,http://107.151.203.111:2209/135/hk.php?id=6051
 中天娛樂台D,http://107.151.203.111:2209/135/hk.php?id=6057
-智林體育,http://tv.ye23.win/10AH/abc1.php?id=live_122_3.stream
 優視頻道,http://107.151.203.111:2209/135/hk.php?id=uchanneltv
 翡翠台K,http://107.151.203.111:2209/135/hk.php?id=tvbfct
 明珠台K,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
@@ -565,6 +564,15 @@ K 頻道,mitv://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
 Look HD,mitv://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
 JS極限臺,mitv://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
 PLAYBOY,mitv://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
+
+2-3天歐美深夜_1234,#genre#
+vivid,http://94.156.59.247:8899/udp/224.2.1.115:1234
+Passion XXX,http://94.156.59.247:8899/udp/224.2.1.80:1234
+Pink O TV,http://94.156.59.247:8899/udp/224.2.1.33:1234
+PRIVE TV,http://94.156.59.247:8899/udp/239.10.3.199:30000
+Pink O TV,http://94.156.59.247:8899/udp/224.2.1.33:1234
+Evil Angel,http://94.156.59.247:8899/udp/224.2.1.114:1234
+Penthouse,http://94.156.59.247:8899/udp/224.2.1.113:1234
 
 加值測試_1234,#genre#
 直播720,http://cdn.adultiptv.net/livecams.m3u8
