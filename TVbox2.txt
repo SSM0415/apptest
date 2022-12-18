@@ -4,6 +4,7 @@
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"FOX資源","name":"FOX資源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"快車資源","name":"快車資源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"MBO影視","name":"MBO影視(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 {"key":"韓劇資源","name":"韓劇資源","type":1,"api":"http://www.hanjuzy.com/inc/api.php","searchable":0,"quickSearch":0},
 {"key":"愛追劇","name":"愛追劇","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/"},
