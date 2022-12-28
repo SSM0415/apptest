@@ -62,6 +62,7 @@
 {"key":"速","name":"GGMM🔪","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"番","name":"番🔪","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"芒果18+","name":"🔪芒果18+","type":0,"api":"https://www.mgav1.cc/api.php/provide/vod/at/xml/","playUrl":"https://mgm3u8-player.com/player/DPm3u8.php?url=","searchable":0,"quickSearch":1,"filterable":0},
+{"key":"18禁不禁","name":"🔪18禁不禁","type":0,"api":"https://18jinbujin.com/home/cjapi/as/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"皇冠資源","name":"🔪皇冠資源","type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"🐛黄色倉庫","quickSearch":1,"searchable":1,"playerType":2,"type":3,"jar":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/xxx.jar"},
 {"key": "csp_xf_18t","name": "️🐛18t","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2,"ext": "https://raw.githubusercontent.com/SSM0415/apptest/main/oppmain/18t.json"},
