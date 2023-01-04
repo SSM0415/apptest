@@ -232,8 +232,14 @@ ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:ar
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
-
-MOVIE繁中,#genre#
+MOVIE繁中_5588,#genre#
+侏羅紀世界3-統霸天下2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=013c35f4824246a7a4cce05e13be56cc&ep=&fid=013c35f4824246a7a4cce05e13be56cc&open=normal
+小小兵2：格魯的崛起2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=aab41233ac2b476488dfae7ce8561e34&ep=&fid=aab41233ac2b476488dfae7ce8561e34&open=normal
+雷神索爾4-愛與雷霆2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=271c0af39c824989920ae9dc8a56f5b7&ep=&fid=271c0af39c824989920ae9dc8a56f5b7&open=normal
+DC超級寵物軍團2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=8f8a320fb583445baea76cd98639ce88&ep=&fid=8f8a320fb583445baea76cd98639ce88&open=normal
+黑亞當,https://nashongyu.myqnapcloud.com/share.cgi?ssid=62e1d3c1498c42c686825b60fc6beb34&ep=&fid=62e1d3c1498c42c686825b60fc6beb34&open=normal
+永恆族2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=c1f0322826b841d89946e13622627190&ep=&fid=c1f0322826b841d89946e13622627190&open=normal
+咒術迴戰0劇場版2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aba89a41c3244c3b735c485b8a19a31&ep=&fid=0aba89a41c3244c3b735c485b8a19a31&open=normal
 叢林奇航2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0lwJs46&ep=&fid=0lwJs46&open=normal
 路卡的夏天2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aIX5X0&ep=&fid=0aIX5X0&open=normal
 黑寡婦2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0ZgeVir&ep=&fid=0ZgeVir&open=normal
