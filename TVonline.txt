@@ -19,6 +19,8 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 新聞,#genre#
 三立新聞,http://220.134.196.147:9532/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+三立新聞,http://60.251.59.180:8506/ch18.m3u8
+三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 民視新聞,https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8
 中天新聞,https://raw.github.com/SSM0415/apptest/YTlive/CTI.m3u8
 中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=3
@@ -29,13 +31,16 @@ TVBSGlobalNews,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 東森新聞,http://220.134.196.147:9535/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森財經,https://raw.github.com/SSM0415/apptest/YTlive/EBCFinancialNews.m3u8
+東森財經,http://123.51.229.65:18515/http/192.168.1.9:8081/hls/63/805/8_2160451.ts
 三立iNEWS,https://raw.github.com/SSM0415/apptest/YTlive/SETinews.m3u8
 寰宇新聞,https://raw.github.com/SSM0415/apptest/YTlive/GlobalNews.m3u8
 寰宇新聞,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 台視新聞,https://raw.github.com/SSM0415/apptest/YTlive/TTVnews.m3u8
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
+壹新聞,http://60.251.59.180:8501/.m3u8
 中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
@@ -55,6 +60,8 @@ TVBS新聞,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+非凡商業,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
+
 戲劇知識綜合,#genre#
 民視,http://107.151.203.111:2209/135/us50.php?id=msk
 台視,http://107.151.203.111:2209/135/us50.php?id=tsk
@@ -128,7 +135,6 @@ MEZZO,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 翡翠台,http://123.51.230.108:18551/.m3u8
-
 影迷紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 H歷史頻道,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
 MTV,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
@@ -150,7 +156,9 @@ LOVE NATURE,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m
 好萊塢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 TW美亞電影,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 衛視電影台,http://220.134.196.147:9571/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
-HBO,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/71/813/ch41.m3u8#http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+HBO,http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO,http://220.134.196.147:9557/index.m3u8
 HBO家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO強檔,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 龍華電影,http://220.134.196.147:9568/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
@@ -682,7 +690,22 @@ MYCAMTV,http://qxtv.alwaysdata.net/utv.php?id=6234
 MYCAMTV1,http://qxtv.alwaysdata.net/utv.php?id=6224
 BANG,http://qxtv.alwaysdata.net/utv.php?id=6235
 JAPANHDV,http://qxtv.alwaysdata.net/utv.php?id=6225
-
+直播teen,http://live.mycamtv.com/teen.m3u8
+直播anal,http://live.mycamtv.com/anal.m3u8
+直播arab,http://live.mycamtv.com/arab.m3u8
+直播asian,http://live.mycamtv.com/asian.m3u8
+直播blonde,http://live.mycamtv.com/blonde.m3u8
+直播blowjob,http://live.mycamtv.com/blowjob.m3u8
+直播brunette,http://live.mycamtv.com/brunette.m3u8
+直播ebony,http://live.mycamtv.com/ebony.m3u8
+直播squirt,http://live.mycamtv.com/squirt.m3u8
+直播latina,http://live.mycamtv.com/latina.m3u8
+直播bigtits,http://live.mycamtv.com/bigtits.m3u8
+直播medium,http://live.mycamtv.com/medium.m3u8
+直播milf,http://live.mycamtv.com/milf.m3u8
+直播skinny,http://live.mycamtv.com/skinny.m3u8
+直播white,http://live.mycamtv.com/white.m3u8
+直播young,http://live.mycamtv.com/young.m3u8
 
 加值測試_5588,#genre#
 直播720,http://cdn.adultiptv.net/livecams.m3u8
