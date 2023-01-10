@@ -661,19 +661,19 @@ GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 台深夜不穩定_5588,#genre#
-松視1臺,P2p://generationnexxxt.com:9906/0029bf9f99404c5ba1cee97e14ca39fd
-松視2臺,P2p://generationnexxxt.com:9906/77029388d37445b9bf0740d74a95c83c
-松視3臺,P2p://generationnexxxt.com:9906/6bc46f3fb81c4e51a850fdc6370267bf
-彩虹E臺,P2p://generationnexxxt.com:9906/3ed3a87c9a4d485f896122e0682fdb12
-香蕉臺Banana,P2p://generationnexxxt.com:9906/744c31eeee3c4d4e85d994828b48e866
-彩虹電影,P2p://generationnexxxt.com:9906/166b10b0247d475abc0151adeb088146
-潘朵啦玩美Perfec,P2p://generationnexxxt.com:9906/3a6b4d3d19eb4848aac2aaa77e980441
-驚豔電影臺Amazing,P2p://generationnexxxt.com:9906/44b2795ce3b240beaba8b2b08daf662d
-JS極限臺,P2p://generationnexxxt.com:9906/b267ce08e68a42f3b386428c1222313f
-HAPPY,P2p://generationnexxxt.com:9906/cbaed3220bf94e4e89a5815911a10d2f
-K頻道,P2p://generationnexxxt.com:9906/7e9d1131b8724c25b7f56eb46416c1b4
-LookHD,P2p://generationnexxxt.com:9906/59a595c19e7448d5b8dfe0f913d1c0f6
-PLAYBOY,P2p://generationnexxxt.com:9906/192dabb7a5e9481083de1c4c1f9c1cd1
+松視1臺,mitv://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
+松視2臺,mitv://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
+松視3臺,mitv://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
+彩虹E臺,mitv://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
+香蕉臺Banana,mitv://generationnexxxt.com:18806/a4aff22693ef4c80aabf4ae598fe1301
+彩虹電影,mitv://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
+潘朵啦玩美Perfec,mitv://generationnexxxt.com:18806/4b6f680d6a9a440e9e778a1482ec8402
+驚豔電影臺Amazing,mitv://generationnexxxt.com:18806/9b1f1e5146c2426f8ea6c509e1c3b925
+JS極限臺,mitv://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
+HAPPY,mitv://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
+K 頻道,mitv://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
+Look HD,mitv://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
+PLAYBOY,mitv://generationnexxxt.com:18806/1ea235b4262a4d528bedec4d7f2814f9
 
 歐美深夜_5588,#genre#
 vivid,http://94.156.59.247:8899/udp/224.2.1.115:1234
