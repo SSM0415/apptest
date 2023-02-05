@@ -113,6 +113,8 @@ CNBC,http://www.yshmzmc.top/gtjm.php?id=live1063
 衛視中文,http://220.134.196.147:9554/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 衛視中文,http://www.yshmzmc.top/gtjm.php?id=live1024
 緯來育樂,http://123.51.229.65:18541/.m3u8
+緯來育樂,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來育樂,http://220.134.196.147:9569/playlist.m3u8
 緯來日本,http://220.134.196.147:9537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 緯來戲劇,http://220.134.196.147:9542/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 緯來綜合,http://123.51.229.65:18540/.m3u8#http://60.251.33.252:18540/.m3u8
@@ -143,7 +145,6 @@ TLC旅遊生活,http://www.yshmzmc.top/gtjm.php?id=live1005
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 龍華偶像,http://220.134.196.147:9539/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
-國家地理台灣,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8#http://220.134.196.147:9569/playlist.m3u8#http://220.134.196.147:9569/index.m3u8
 Discovery,http://www.yshmzmc.top/gtjm.php?id=live1002
 MOMO综合,http://www.yshmzmc.top/gtjm.php?id=live1248
 民視台灣台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
@@ -205,7 +206,6 @@ n電影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 衛視電影台,http://220.134.196.147:9571/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 衛視電影台,http://www.yshmzmc.top/gtjm.php?id=live1031
 HBO,http://www.yshmzmc.top/gtjm.php?id=live1029
-HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 龍華電影,http://220.134.196.147:9568/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://116.50.42.21:8575/.m3u8
 緯來電影,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
