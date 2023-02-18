@@ -116,8 +116,15 @@ CNBC,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 中天綜合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天綜合,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天娛樂,http://220.134.196.147:9549/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+中視菁採,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+靖天育樂,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖天國際,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖天戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
 大愛,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
@@ -144,11 +151,16 @@ live互動英語,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunkl
 寵物tv,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 全球trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 ELTA生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+ELTA娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 LUXE TV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
 STYLE,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 GOOD TV,http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
 MOMO綜合,rtmp://119.81.124.89/sat/tv761
+GINX電玩,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+ARIRANG,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+TRACE URBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+MEZZO,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 
 電影,#genre#
 n電影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -172,6 +184,8 @@ ROCK ACTION,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m
 AXN,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/71/813/ch43.m3u8
 好萊塢電影,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/74/816/ch55.m3u8
 CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+采昌電影,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+
 
 體育,#genre#
 緯來體育,http://123.51.229.65:18509/.m3u8
@@ -187,11 +201,12 @@ ELTA體育1,rtmp://119.81.124.89/sat/md051
 博斯運動I,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯運動II,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 緯來體育,rtmp://119.81.124.89/sat/tv721
+智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 ELEVEN1,rtmp://119.81.124.89/sat/tv731
 ELEVEN2,rtmp://119.81.124.89/sat/tv741
 ELEVEN1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 HIGHLIGHT,http://www.336699.live:1935/blockfive/4gtv-live201.stream/chunklist.m3u8
-
+TRACE SPORT,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 
 
 兒童,#genre#
@@ -283,9 +298,12 @@ ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:ar
 
 
 MOVIE繁中_5588,#genre#
+明日戰記2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=626b2bd25515423eb59d2782e19a6ae2&ep=&fid=626b2bd25515423eb59d2782e19a6ae2&open=normal
+黑豹2-瓦干達萬歲2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=522f80e7ade8421d8d8f2a32c2b09588&ep=&fid=522f80e7ade8421d8d8f2a32c2b09588&open=normal
 侏羅紀世界3-統霸天下2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=013c35f4824246a7a4cce05e13be56cc&ep=&fid=013c35f4824246a7a4cce05e13be56cc&open=normal
 小小兵2：格魯的崛起2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=aab41233ac2b476488dfae7ce8561e34&ep=&fid=aab41233ac2b476488dfae7ce8561e34&open=normal
 雷神索爾4-愛與雷霆2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=271c0af39c824989920ae9dc8a56f5b7&ep=&fid=271c0af39c824989920ae9dc8a56f5b7&open=normal
+奇異博士2-失控多重宇宙2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=d7c60563d07448a384c0031381389c92&ep=&fid=d7c60563d07448a384c0031381389c92&open=normal
 DC超級寵物軍團2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=8f8a320fb583445baea76cd98639ce88&ep=&fid=8f8a320fb583445baea76cd98639ce88&open=normal
 黑亞當,https://nashongyu.myqnapcloud.com/share.cgi?ssid=62e1d3c1498c42c686825b60fc6beb34&ep=&fid=62e1d3c1498c42c686825b60fc6beb34&open=normal
 永恆族2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=c1f0322826b841d89946e13622627190&ep=&fid=c1f0322826b841d89946e13622627190&open=normal
