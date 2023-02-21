@@ -642,19 +642,33 @@ GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 台深夜不穩定_5588,#genre#
-松視1臺,mitv://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
-松視2臺,mitv://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
-松視3臺,mitv://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
-彩虹E臺,mitv://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
-香蕉臺Banana,mitv://generationnexxxt.com:18806/a4aff22693ef4c80aabf4ae598fe1301
-彩虹電影,mitv://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
-潘朵啦玩美Perfec,mitv://generationnexxxt.com:18806/4b6f680d6a9a440e9e778a1482ec8402
-驚豔電影臺Amazing,mitv://generationnexxxt.com:18806/9b1f1e5146c2426f8ea6c509e1c3b925
-JS極限臺,mitv://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
-HAPPY,mitv://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
-K 頻道,mitv://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
-Look HD,mitv://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
-PLAYBOY,mitv://generationnexxxt.com:18806/1ea235b4262a4d528bedec4d7f2814f9
+🌲️松視1臺,mitv://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+🌲️松視2臺,mitv://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+🌲️松視3臺,mitv://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+🍌️香蕉臺Banana,mitv://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+🌈️彩虹e臺,mitv://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+🌈️彩虹電影,mitv://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+♥️潘朵啦玩美Perfec,mitv://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+♥️驚豔電影臺Amazing,mitv://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+💘️JSᴴᴰ極限臺,mitv://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+💘️HAPPY,mitv://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+♨️K 頻道,mitv://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
+♨️Look HD,mitv://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+♥️PLAYBOY,mitv://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
+
+🌲️松視1臺,P2p://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+🌲️松視2臺,P2p://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+🌲️松視3臺,P2p://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+🍌️香蕉臺Banana,P2p://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+🌈️彩虹e臺,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+🌈️彩虹電影,P2p://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+♥️潘朵啦玩美Perfec,P2p://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+♥️驚豔電影臺Amazing,P2p://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+💘️JSᴴᴰ極限臺,P2p://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+💘️HAPPY,P2p://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+♨️K 頻道,P2p://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
+♨️Look HD,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+♥️PLAYBOY,P2p://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
 
 歐美深夜_5588,#genre#
 vivid,http://94.156.59.247:8899/udp/224.2.1.115:1234
