@@ -194,6 +194,7 @@ ELTA體育1,rtmp://119.81.124.89/sat/md051
 智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 ELEVEN1,rtmp://119.81.124.89/sat/tv731
 ELEVEN2,rtmp://119.81.124.89/sat/tv741
+ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 HIGHLIGHT,http://www.336699.live:1935/blockfive/4gtv-live201.stream/chunklist.m3u8
 TRACE SPORT,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
@@ -201,8 +202,7 @@ TRACE SPORT,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m
 
 兒童,#genre#
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
-獅子家庭https://ytm2.yuanhsing.cf/LionFamily.m3u8
-瑪莎與熊,https://ytm2.yuanhsing.cf/MashaandtheBear.m3u8
+獅子家庭,https://ytm2.yuanhsing.cf/LionFamily.m3u8
 佩佩豬,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
 東森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
@@ -571,6 +571,10 @@ DC超級寵物軍團2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=8f8a32
 自殺突擊隊-集結2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0oJdZpf&ep=&fid=0oJdZpf&open=normal
 
 MOVIE簡中,#genre#
+扶桑花女孩,https://vip.lz-cdn7.com/20230223/14473_34758120/index.m3u8
+醜女大翻身,https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
+
+VOD懷舊,#genre#
 月球隕落,https://vip.lz-cdn1.com/20220402/737_cff81c22/index.m3u8
 南北少林,https://vip.lz-cdn1.com/20220506/4537_1b71c6e1/1200k/hls/index.m3u8
 少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
@@ -669,86 +673,11 @@ MOVIE簡中,#genre#
 桂河大橋,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
 影視輪播1,#genre#
-邵氏影院,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4246519
-吃米滴蟲,http://epg.112114.xyz/douyu/315457
-神樂影片1,http://epg.112114.xyz/douyu/122402
-神樂影片2,http://epg.112114.xyz/douyu/85894
-貝爺MAX廳,http://epg.112114.xyz/douyu/4332
-周星馳電影,http://epg.112114.xyz/douyu/3990812
-劉德華電影1,http://epg.112114.xyz/douyu/2516864
-劉德華電影2,http://epg.112114.xyz/douyu/8985415
-喜劇經典,http://epg.112114.xyz/douyu/9650887
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-女神金電影,http://epg.112114.xyz/douyu/747764
-貝爺影廳2,http://epg.112114.xyz/douyu/36337
-可樂電影,http://epg.112114.xyz/douyu/20415
-冰冰經典電影,http://epg.112114.xyz/douyu/74374
-奶蟲恐怖電影,http://epg.112114.xyz/douyu/263824
-避風港影院,http://epg.112114.xyz/douyu/9826611
 林林影院,http://epg.112114.xyz/douyu/9652323
 恐怖經典,http://epg.112114.xyz/douyu/1165374
 變種人電影,http://epg.112114.xyz/douyu/9651304
-華語電影,http://epg.112114.xyz/douyu/3928
-華語動作電影,http://epg.112114.xyz/douyu/1504768
-懷舊90,http://epg.112114.xyz/douyu/9275635
-麓山迷蹤,http://epg.112114.xyz/douyu/4505431
-高幀影片,http://epg.112114.xyz/douyu/6763930
-米婭電影,http://epg.112114.xyz/douyu/6537888
-小九電影,http://epg.112114.xyz/douyu/7136517
-鬥魚電影7,http://epg.112114.xyz/douyu/3637726
-鬥魚電影8,http://epg.112114.xyz/douyu/323876
-鬥魚電影10,http://epg.112114.xyz/douyu/2935323
-鬥魚電影11,http://epg.112114.xyz/douyu/7459925
-鬥魚電影16,http://epg.112114.xyz/douyu/431460
-鬥魚電影18,http://epg.112114.xyz/douyu/4246519
-鬥魚電影22,http://epg.112114.xyz/douyu/1979257
-鬥魚電影23,http://epg.112114.xyz/douyu/7494871
-鬥魚電影26,http://epg.112114.xyz/douyu/8413092
-鬥魚電影35,http://epg.112114.xyz/douyu/248753
-鬥魚電影71,http://epg.112114.xyz/douyu/2987100
-鬥魚電影77,http://epg.112114.xyz/douyu/2758565
-鬥魚電影81,http://epg.112114.xyz/douyu/3870925
-鬥魚電影95,http://epg.112114.xyz/douyu/4549169
-鬥魚電影97,http://epg.112114.xyz/douyu/8867878
-鬥魚電影99,http://epg.112114.xyz/douyu/7655471
-鬥魚電影105,http://epg.112114.xyz/douyu/4290711
-鬥魚電影108,http://epg.112114.xyz/douyu/6566671
-鬥魚電影111,http://epg.112114.xyz/douyu/8475821
-鬥魚電影117,http://epg.112114.xyz/douyu/338759
-鬥魚電影124,http://epg.112114.xyz/douyu/2793084
-鬥魚電影125,http://epg.112114.xyz/douyu/5067952
-鬥魚電影128,http://epg.112114.xyz/douyu/675072
-鬥魚電影129,http://epg.112114.xyz/douyu/413573
-鬥魚電影134,http://epg.112114.xyz/douyu/6725858
-鬥魚電影135,http://epg.112114.xyz/douyu/7476264
-鬥魚電影136,http://epg.112114.xyz/douyu/5689514
-鬥魚電影141,http://epg.112114.xyz/douyu/7623292
-鬥魚電影145,http://epg.112114.xyz/douyu/5033502
-鬥魚電影151,http://epg.112114.xyz/douyu/426517
-鬥魚電影153,http://epg.112114.xyz/douyu/8799435
-鬥魚電影155,http://epg.112114.xyz/douyu/4258555
-鬥魚電影165,http://epg.112114.xyz/douyu/8705754
-鬥魚電影166,http://epg.112114.xyz/douyu/5581257
-鬥魚電影169,http://epg.112114.xyz/douyu/7528160
-鬥魚電影90,http://epg.112114.xyz/douyu/6785471
-鬥魚電影92,http://epg.112114.xyz/douyu/7537296
-鬥魚電影110,http://epg.112114.xyz/douyu/8415464
-鬥魚電影113,http://epg.112114.xyz/douyu/5522351
-鬥魚電影114,http://epg.112114.xyz/douyu/562225
-鬥魚電影115,http://epg.112114.xyz/douyu/223521
-鬥魚電影116,http://epg.112114.xyz/douyu/8651489
-鬥魚電影118,http://epg.112114.xyz/douyu/4631599
-鬥魚電影120,http://epg.112114.xyz/douyu/5354713
-鬥魚電影122,http://epg.112114.xyz/douyu/3485629
-鬥魚電影130,http://epg.112114.xyz/douyu/8014467
-鬥魚電影137,http://epg.112114.xyz/douyu/1274132
-鬥魚電影143,http://epg.112114.xyz/douyu/7314294
-鬥魚電影149,http://epg.112114.xyz/douyu/6582435
-鬥魚電影150,http://epg.112114.xyz/douyu/3980787
-鬥魚電影158,http://epg.112114.xyz/douyu/8788687
 
 影視輪播,#genre#
-港片,http://epg.112114.xyz/douyu/2516864
 發哥德華,http://106.53.212.251/daili/yy.php?id=1353059120
 邵氏電影,http://106.53.212.251/daili/yy.php?id=1354330324
 成龍,http://106.53.212.251/daili/yy.php?id=34460526
@@ -756,8 +685,6 @@ MOVIE簡中,#genre#
 經典港整風整蠱電影,http://epg.112114.xyz/huya/11602058
 恐怖電影2,http://epg.112114.xyz/douyu/310926
 喪屍鬼片恐怖驚悚,http://epg.112114.xyz/douyu/96577
-功夫片,http://epg.112114.xyz/huya/11352941
-經典片,http://epg.112114.xyz/huya/11279251
 
 
 NewTV,#genre#
