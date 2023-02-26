@@ -554,7 +554,7 @@ ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:ar
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
-MOVIE繁中_5588,#genre#
+MOVIE繁中_6677,#genre#
 明日戰記2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=626b2bd25515423eb59d2782e19a6ae2&ep=&fid=626b2bd25515423eb59d2782e19a6ae2&open=normal
 黑豹2-瓦干達萬歲2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=522f80e7ade8421d8d8f2a32c2b09588&ep=&fid=522f80e7ade8421d8d8f2a32c2b09588&open=normal
 侏羅紀世界3-統霸天下2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=013c35f4824246a7a4cce05e13be56cc&ep=&fid=013c35f4824246a7a4cce05e13be56cc&open=normal
@@ -575,6 +575,40 @@ MOVIE簡中,#genre#
 醜女大翻身,https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
 
 VOD懷舊,#genre#
+青面修羅,https://50069.njc.svp.tencent-cloud.com//0bc32maamaaaluaa2ol64rrfbu6da3jqabqa.f10003.mp4
+紅色幽靈,https://50069.njc.svp.tencent-cloud.com//0bf2teaayaaameahaxk2nbqvbgodbsmqadaa.f10003.mp4
+四十七浪人,https://50069.njc.svp.tencent-cloud.com//0bf2v4ahiaaaamakmkvbmvqfbl6dosxqa5aa.f10003.mp4
+霍比特人3,https://50069.njc.svp.tencent-cloud.com//0bf2pmaaaaaaveacgxv6bnpfa66dab5qaaaa.f10003.mp4
+開心鬼放暑假,https://vip.lz-cdn1.com/20220404/875_26a3165d/index.m3u8
+沒有老公的日子,https://50069.njc.svp.tencent-cloud.com/0bc3piaauaaa4uabys2em5rfa6wdbj5aacqa.f10003.mp4
+七十二家房客,https://50069.njc.svp.tencent-cloud.com/0bc32iaawaaalqabgu2efbrfbuwdbpjaacya.f10003.mp4
+鬥氣小神仙,https://50069.njc.svp.tencent-cloud.com/0bc3zeaauaaa5yaapi2ei5rfbsodbleqacqa.f10003.mp4
+魂斷奈何橋,https://50069.njc.svp.tencent-cloud.com/0bc3d4aayaaa6uab7sceerrfah6dbqpqadaa.f10003.mp4
+替槍老豆,https://50069.njc.svp.tencent-cloud.com/0bc3lmaawaaaxqac5jkeg5rfaw6dbnnqacya.f10003.mp4
+石人情,https://50069.njc.svp.tencent-cloud.com/0bc3h4aayaaaumac74ceerrfap6dbq7qadaa.f10003.mp4
+唐人街功夫小子,https://50069.njc.svp.tencent-cloud.com/0bc364aauaaamiabi3selfrfb56dbl3qacqa.f10003.mp4
+武則天,https://50069.njc.svp.tencent-cloud.com/0b2ejyaaeaaa34acx42eefrfatwdajhaaaqa.f10003.mp4
+天下第一拳,https://50069.njc.svp.tencent-cloud.com/0bc3fqaayaaameacxaceefrfalgdbqwaadaa.f10003.mp4
+行俠客,https://50069.njc.svp.tencent-cloud.com/0bc3geaa2aaasmad35ce7vrfamodbuyqadia.f10003.mp4
+江湖漢子,https://50069.njc.svp.tencent-cloud.com/0b2eqmaacaaareaju5co5vrfba6dagbqaaia.f10004.mp4
+龍虎會風雲,https://50069.njc.svp.tencent-cloud.com/0bc3haaaqaaavuaji62o6jrfaogdba4aacaa.f10003.mp4
+仇連環,https://50069.njc.svp.tencent-cloud.com/0b2eoyaacaaahyajog2o6zrfa5wdaf3aaaia.f10004.mp4
+愛情的代,https://50069.njc.svp.tencent-cloud.com/0bc3t4aaqaaag4aj2fso7brfbh6dbcpqacaa.f10003.mp4
+劍女幽魂,https://50069.njc.svp.tencent-cloud.com/0bf2tqaa4aaaeeal5wecbvqvbhgdb2oaadqa.f10003.mp4
+斷腸劍,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
+追魂鏢,https://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
+少林子弟,https://50069.njc.svp.tencent-cloud.com/0bf2giaaeaaa7uapzf3ybbqvamwdaizaaaqa.f10003.mp4
+金臂童,https://50069.njc.svp.tencent-cloud.com/0b78baaaeaaai4aaaklwujqvacgdaieaaaqa.f10003.mp4
+斷刀客,https://50069.njc.svp.tencent-cloud.com/0bc3iaabaaaazyaldque5bqvaqgdcbaaaeaa.f10002.mp4
+霹靂拳,https://50069.njc.svp.tencent-cloud.com/0b78uiaagaaa44akhvme4vqvbiwdaoraaaya.f10003.mp4
+五虎屠龍,https://50069.njc.svp.tencent-cloud.com/0b78cqaakaaadmalareh2vqvafgdaukaabia.f10003.mp4
+六指琴魔,https://50069.njc.svp.tencent-cloud.com/0bc36qaa4aaavaam2cuda5qvb5gdb32aadqa.f10004.mp4
+少林五祖,https://50069.njc.svp.tencent-cloud.com/0bc3fiabaaaalaanebud7vqvakwdcavaaeaa.f10004.mp4
+少林傳人,https://50069.njc.svp.tencent-cloud.com/0bf2oiaa2aaafuaeneub6bqva4wdbvzaadia.f10003.mp4
+斷腸劍,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
+鬼咬鬼,https://50069.njc.svp.tencent-cloud.com/0bc3maabuaaajeaijzk55jrfaygddjqaagqa.f10002.mp4
+陰陽法王,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
+釜山行,https://50069.njc.svp.tencent-cloud.com/0bf2faae2aaawqacji44krqfakgdjuuaatia.f10002.mp4
 月球隕落,https://vip.lz-cdn1.com/20220402/737_cff81c22/index.m3u8
 南北少林,https://vip.lz-cdn1.com/20220506/4537_1b71c6e1/1200k/hls/index.m3u8
 少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
@@ -721,6 +755,22 @@ NewTV超級電視劇,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
 
+中國CCTV,#genre#
+CCTV1,http://175.10.37.200:9901/tsfile/live/0001_1.m3u8
+CCTV2,http://175.10.37.200:9901/tsfile/live/0002_1.m3u8
+CCTV3,http://175.10.37.200:9901/tsfile/live/0003_1.m3u8
+CCTV4,http://175.10.37.200:9901/tsfile/live/0004_1.m3u8
+CCTV5,http://175.10.37.200:9901/tsfile/live/0005_1.m3u8
+CCTV6,http://175.10.37.200:9901/tsfile/live/0006_1.m3u8
+CCTV7,http://175.10.37.200:9901/tsfile/live/0007_1.m3u8
+CCTV8,http://175.10.37.200:9901/tsfile/live/0008_1.m3u8
+CCTV9,http://175.10.37.200:9901/tsfile/live/0009_1.m3u8
+CCTV10,http://175.10.37.200:9901/tsfile/live/0010_1.m3u8
+CCTV11,http://175.10.37.200:9901/tsfile/live/0011_1.m3u8
+CCTV12,http://175.10.37.200:9901/tsfile/live/0012_1.m3u8
+CCTV13,http://175.10.37.200:9901/tsfile/live/0013_1.m3u8
+CCTV14,http://175.10.37.200:9901/tsfile/live/0014_1.m3u8
+CCTV15,http://175.10.37.200:9901/tsfile/live/0015_1.m3u8
 
 中國衛視,#genre#
 東方衛視,http://60.251.33.252:18535/.m3u8
@@ -836,7 +886,7 @@ GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
-台深夜不穩定_5588,#genre#
+台深夜不穩定_6677,#genre#
 🌲️松視1臺,mitv://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
 🌲️松視2臺,mitv://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
 🌲️松視3臺,mitv://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
@@ -865,7 +915,7 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 ♨️Look HD,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
 ♥️PLAYBOY,P2p://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
 
-歐美深夜_5588,#genre#
+歐美深夜_6677,#genre#
 vivid,http://94.156.59.247:8899/udp/224.2.1.115:1234
 PassionXXX,http://94.156.59.247:8899/udp/224.2.1.80:1234
 PinkOTV,http://94.156.59.247:8899/udp/224.2.1.33:1234
@@ -890,7 +940,7 @@ Penthouse,http://94.156.59.247:8899/udp/224.2.1.113:1234
 直播white,http://live.mycamtv.com/white.m3u8
 直播young,http://live.mycamtv.com/young.m3u8
 
-加值測試_5588,#genre#
+加值測試_6677,#genre#
 直播720,http://cdn.adultiptv.net/livecams.m3u8
 肛交720,http://cdn.adultiptv.net/anal.m3u8
 巨尻720,http://cdn.adultiptv.net/bigass.m3u8
@@ -921,7 +971,7 @@ Playboy,P2p://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
 shelksd(18+),http://194.190.78.91/shelksd/index.m3u8
 Woman,http://live.redtraffic.net/woman.m3u8
 
-加值測試點_5588,#genre#
+加值測試點_6677,#genre#
 點播快轉區,
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
@@ -1069,7 +1119,7 @@ MD0068欲女化妝師誤入AV片場，資深男優傳授性愛技巧,https://cdn
 朝美穗香】無碼流出劇情演繹變態痴女OL女主管MXGS-241,https://cdn.163cdn.net/hls/contents/videos/57000/57352/57352.mp4/index.m3u8
 首支京劇藝術與情慾AV慾望交織巨乳花旦與經理在劇院裡的肉體交易,https://cdn.163cdn.net/hls/contents/videos/58000/58500/58500.mp4/index.m3u8
 
-SWAG_5588,#genre#
+SWAG_6677,#genre#
 SWAG學校保健室的性感絲襪女老師給同學老二擦藥消腫被啪啪戴著眼鏡樣子非常淫騷,https://cdn.163cdn.net/hls/contents/videos/46000/46944/46944.mp4/index.m3u8
 SWAG蘿莉學妹娜娜感冒身體很難受猥瑣大叔用肉棒治愈人家,https://cdn.163cdn.net/hls/contents/videos/47000/47235/47235.mp4/index.m3u8
 SWAG不穿胸罩練瑜伽的巨乳姐姐誘惑男友兄弟被大屌幹,https://cdn.163cdn.net/hls/contents/videos/49000/49247/49247.mp4/index.m3u8
@@ -1175,7 +1225,7 @@ SWAG超主動閨蜜搾汁器,https://video2.51daao.com/btt1/2020/11/20201126/edv
 SWAG用淫水氾濫的穴迎接你,https://video2.51daao.com/btt1/2020/10/20201026/n3yTtZsh/index.m3u8
 SWAG騷女友被你落在這了,https://video2.51daao.com/btt1/2020/12/20201205/yPW2TR2Z/index.m3u8
 
-VIP專享中字_5588,#genre#
+VIP專享中字_6677,#genre#
 SET-009c-僕生中出人妻篠田ゆう,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
 SERO-0205c-抜14発中出武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
 SERO-0272c-男性主導の體位上原亜衣,http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8
@@ -1600,7 +1650,7 @@ SET-010c-巨乳美人,http://videocdn.quweikm.com:8091/20180730/SET-010c/index.m
 二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
 
-VIP特供_5588,#genre#
+VIP特供_6677,#genre#
 283n1,https://node1.voyeurhouse.com/vh_prod/smil:283.smil/chunklist_b1164000_slen.m3u8?
 287n1,https://node1.voyeurhouse.com/vh_prod/smil:287.smil/chunklist_b1164000_slen.m3u8?
 289n1,https://node1.voyeurhouse.com/vh_prod/smil:289.smil/chunklist_b1164000_slen.m3u8?
@@ -1662,7 +1712,7 @@ VIP特供_5588,#genre#
 534n4,https://node4.voyeurhouse.com/vh_prod/smil:534.smil/chunklist_b1164000_slen.m3u8?
 540n4,https://node4.voyeurhouse.com/vh_prod/smil:540.smil/chunklist_b1164000_slen.m3u8?
 
-Girl&Girl_5588,#genre#
+Girl&Girl_6677,#genre#
 Girl & Girl 1,http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
 Girl & Girl 2,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/1191.mp4
 Girl & Girl 3,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/5858.mp4
@@ -1694,7 +1744,7 @@ Girl & Girl 28,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1285.
 Girl & Girl 29,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/4972.mp4
 Girl & Girl 30,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/20606.mp4
 
-MyCamTV 1_5588,#genre#
+MyCamTV 1_6677,#genre#
 MyCamTV XXX Vod 1,https://vod.mycamtv.net/1.m3u8
 MyCamTV XXX Vod 2,https://vod.mycamtv.net/2.m3u8
 MyCamTV XXX Vod 3,https://vod.mycamtv.net/3.m3u8
@@ -2696,7 +2746,7 @@ MyCamTV XXX Vod 998,https://vod.mycamtv.net/998.m3u8
 MyCamTV XXX Vod 999,https://vod.mycamtv.net/999.m3u8
 MyCamTV XXX Vod 1000,https://vod.mycamtv.net/1000.m3u8
 
-MyCamTV 2_5588,#genre#
+MyCamTV 2_6677,#genre#
 MyCamTV XXX Vod 1001,https://vod.mycamtv.net/1001.m3u8
 MyCamTV XXX Vod 1002,https://vod.mycamtv.net/1002.m3u8
 MyCamTV XXX Vod 1003,https://vod.mycamtv.net/1003.m3u8
@@ -3697,7 +3747,7 @@ MyCamTV XXX Vod 1997,https://vod.mycamtv.net/1997.m3u8
 MyCamTV XXX Vod 1998,https://vod.mycamtv.net/1998.m3u8
 MyCamTV XXX Vod 1999,https://vod.mycamtv.net/1999.m3u8
 MyCamTV XXX Vod 2000,https://vod.mycamtv.net/2000.m3u8
-MyCamTV 3_5588,#genre#
+MyCamTV 3_6677,#genre#
 MyCamTV XXX Vod 2001,https://vod.mycamtv.net/2001.m3u8
 MyCamTV XXX Vod 2002,https://vod.mycamtv.net/2002.m3u8
 MyCamTV XXX Vod 2003,https://vod.mycamtv.net/2003.m3u8
@@ -4699,7 +4749,7 @@ MyCamTV XXX Vod 2998,https://vod.mycamtv.net/2998.m3u8
 MyCamTV XXX Vod 2999,https://vod.mycamtv.net/2999.m3u8
 MyCamTV XXX Vod 3000,https://vod.mycamtv.net/3000.m3u8
 
-MyCamTV 4_5588,#genre#
+MyCamTV 4_6677,#genre#
 MyCamTV XXX Vod 3001,https://vod.mycamtv.net/3001.m3u8
 MyCamTV XXX Vod 3002,https://vod.mycamtv.net/3002.m3u8
 MyCamTV XXX Vod 3003,https://vod.mycamtv.net/3003.m3u8
@@ -5701,7 +5751,7 @@ MyCamTV XXX Vod 3998,https://vod.mycamtv.net/3998.m3u8
 MyCamTV XXX Vod 3999,https://vod.mycamtv.net/3999.m3u8
 MyCamTV XXX Vod 4000,https://vod.mycamtv.net/4000.m3u8
 
-MyCamTV 5_5588,#genre#
+MyCamTV 5_6677,#genre#
 MyCamTV XXX Vod 4001,https://vod.mycamtv.net/4001.m3u8
 MyCamTV XXX Vod 4002,https://vod.mycamtv.net/4002.m3u8
 MyCamTV XXX Vod 4003,https://vod.mycamtv.net/4003.m3u8
@@ -6702,7 +6752,7 @@ MyCamTV XXX Vod 4997,https://vod.mycamtv.net/4997.m3u8
 MyCamTV XXX Vod 4998,https://vod.mycamtv.net/4998.m3u8
 MyCamTV XXX Vod 4999,https://vod.mycamtv.net/4999.m3u8
 MyCamTV XXX Vod 5000,https://vod.mycamtv.net/5000.m3u8
-MyCamTV 6_5588,#genre#
+MyCamTV 6_6677,#genre#
 MyCamTV XXX Vod 5001,https://vod.mycamtv.net/5001.m3u8
 MyCamTV XXX Vod 5002,https://vod.mycamtv.net/5002.m3u8
 MyCamTV XXX Vod 5003,https://vod.mycamtv.net/5003.m3u8
@@ -7704,7 +7754,7 @@ MyCamTV XXX Vod 5998,https://vod.mycamtv.net/5998.m3u8
 MyCamTV XXX Vod 5999,https://vod.mycamtv.net/5999.m3u8
 MyCamTV XXX Vod 6000,https://vod.mycamtv.net/6000.m3u8
 
-MyCamTV 7_5588,#genre#
+MyCamTV 7_6677,#genre#
 MyCamTV XXX Vod 6001,https://vod.mycamtv.net/6001.m3u8
 MyCamTV XXX Vod 6002,https://vod.mycamtv.net/6002.m3u8
 MyCamTV XXX Vod 6003,https://vod.mycamtv.net/6003.m3u8
@@ -8706,7 +8756,7 @@ MyCamTV XXX Vod 6998,https://vod.mycamtv.net/6998.m3u8
 MyCamTV XXX Vod 6999,https://vod.mycamtv.net/6999.m3u8
 MyCamTV XXX Vod 7000,https://vod.mycamtv.net/7000.m3u8
 
-MyCamTV 8_5588,#genre#
+MyCamTV 8_6677,#genre#
 MyCamTV XXX Vod 7001,https://vod.mycamtv.net/7001.m3u8
 MyCamTV XXX Vod 7002,https://vod.mycamtv.net/7002.m3u8
 MyCamTV XXX Vod 7003,https://vod.mycamtv.net/7003.m3u8
@@ -9708,7 +9758,7 @@ MyCamTV XXX Vod 7998,https://vod.mycamtv.net/7998.m3u8
 MyCamTV XXX Vod 7999,https://vod.mycamtv.net/7999.m3u8
 MyCamTV XXX Vod 8000,https://vod.mycamtv.net/8000.m3u8
 
-MyCamTV 9_5588,#genre#
+MyCamTV 9_6677,#genre#
 MyCamTV XXX Vod 8001,https://vod.mycamtv.net/8001.m3u8
 MyCamTV XXX Vod 8002,https://vod.mycamtv.net/8002.m3u8
 MyCamTV XXX Vod 8003,https://vod.mycamtv.net/8003.m3u8
@@ -10710,7 +10760,7 @@ MyCamTV XXX Vod 8998,https://vod.mycamtv.net/8998.m3u8
 MyCamTV XXX Vod 8999,https://vod.mycamtv.net/8999.m3u8
 MyCamTV XXX Vod 9000,https://vod.mycamtv.net/9000.m3u8
 
-MyCamTV 10_5588,#genre#
+MyCamTV 10_6677,#genre#
 MyCamTV XXX Vod 9001,https://vod.mycamtv.net/9001.m3u8
 MyCamTV XXX Vod 9002,https://vod.mycamtv.net/9002.m3u8
 MyCamTV XXX Vod 9003,https://vod.mycamtv.net/9003.m3u8
@@ -11712,7 +11762,7 @@ MyCamTV XXX Vod 9998,https://vod.mycamtv.net/9998.m3u8
 MyCamTV XXX Vod 9999,https://vod.mycamtv.net/9999.m3u8
 MyCamTV XXX Vod 10000,https://vod.mycamtv.net/10000.m3u8
 
-MyCamTV 11_5588,#genre#
+MyCamTV 11_6677,#genre#
 MyCamTV XXX Vod 10001,https://vod.mycamtv.net/10001.m3u8
 MyCamTV XXX Vod 10002,https://vod.mycamtv.net/10002.m3u8
 MyCamTV XXX Vod 10003,https://vod.mycamtv.net/10003.m3u8
@@ -12714,7 +12764,7 @@ MyCamTV XXX Vod 10998,https://vod.mycamtv.net/10998.m3u8
 MyCamTV XXX Vod 10999,https://vod.mycamtv.net/10999.m3u8
 MyCamTV XXX Vod 11000,https://vod.mycamtv.net/11000.m3u8
 
-MyCamTV 12_5588,#genre#
+MyCamTV 12_6677,#genre#
 MyCamTV XXX Vod 11001,https://vod.mycamtv.net/11001.m3u8
 MyCamTV XXX Vod 11002,https://vod.mycamtv.net/11002.m3u8
 MyCamTV XXX Vod 11003,https://vod.mycamtv.net/11003.m3u8
@@ -13716,7 +13766,7 @@ MyCamTV XXX Vod 11998,https://vod.mycamtv.net/11998.m3u8
 MyCamTV XXX Vod 11999,https://vod.mycamtv.net/11999.m3u8
 MyCamTV XXX Vod 12000,https://vod.mycamtv.net/12000.m3u8
 
-MyCamTV 13_5588,#genre#
+MyCamTV 13_6677,#genre#
 MyCamTV XXX Vod 12001,https://vod.mycamtv.net/12001.m3u8
 MyCamTV XXX Vod 12002,https://vod.mycamtv.net/12002.m3u8
 MyCamTV XXX Vod 12003,https://vod.mycamtv.net/12003.m3u8
@@ -14718,7 +14768,7 @@ MyCamTV XXX Vod 12998,https://vod.mycamtv.net/12998.m3u8
 MyCamTV XXX Vod 12999,https://vod.mycamtv.net/12999.m3u8
 MyCamTV XXX Vod 13000,https://vod.mycamtv.net/13000.m3u8
 
-MyCamTV 14_5588,#genre#
+MyCamTV 14_6677,#genre#
 MyCamTV XXX Vod 13001,https://vod.mycamtv.net/13001.m3u8
 MyCamTV XXX Vod 13002,https://vod.mycamtv.net/13002.m3u8
 MyCamTV XXX Vod 13003,https://vod.mycamtv.net/13003.m3u8
@@ -15720,7 +15770,7 @@ MyCamTV XXX Vod 13998,https://vod.mycamtv.net/13998.m3u8
 MyCamTV XXX Vod 13999,https://vod.mycamtv.net/13999.m3u8
 MyCamTV XXX Vod 14000,https://vod.mycamtv.net/14000.m3u8
 
-MyCamTV 15_5588,#genre#
+MyCamTV 15_6677,#genre#
 MyCamTV XXX Vod 14001,https://vod.mycamtv.net/14001.m3u8
 MyCamTV XXX Vod 14002,https://vod.mycamtv.net/14002.m3u8
 MyCamTV XXX Vod 14003,https://vod.mycamtv.net/14003.m3u8
@@ -16594,7 +16644,7 @@ MyCamTV XXX Vod 14870,https://vod.mycamtv.net/14870.m3u8
 MyCamTV XXX Vod 14871,https://vod.mycamtv.net/14871.m3u8
 MyCamTV XXX Vod 14872,https://vod.mycamtv.net/14872.m3u8
 
-Porno_5588,#genre#
+Porno_6677,#genre#
 A teen with a mature,http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
 Adriana Malao,http://ovhv39.twincdn.com/videos/12/12570/12570_720p.mp4
 Amateur Teen,http://ovhv39.twincdn.com/videos/6/6858/6858_720p.mp4
@@ -16647,7 +16697,7 @@ Teen's ass is fucked,http://ovhv39.twincdn.com/videos/6/6911/6911_720p.mp4
 Teen's asshole,http://ovhv39.twincdn.com/videos/5/5907/5907_720p.mp4
 Teen's butthole,http://ovhv39.twincdn.com/videos/5/5923/5923_720p.mp4
 Two beauties,http://ovhv40.twincdn.com/videos/prime/00/01/94/69.mp4
-PornoPROS_5588,#genre#
+PornoPROS_6677,#genre#
 Adult : FANTHD1,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
 Adult : FANTHD2,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
 Adult : FANTHD3,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
@@ -16684,7 +16734,7 @@ Tiny 4k 7,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/
 Tiny 4k 8,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
 Tiny 4k 9,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
 
-歐美直播_5588,#genre#
+歐美直播_6677,#genre#
 Brazzers HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6182/index.m3u8
 Brazzers TV Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/910/index.m3u8
 Brazzers eXXtra,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6181/index.m3u8
