@@ -20,6 +20,7 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 三立新聞,http://60.251.59.180:8506/ch18.m3u8
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立新聞,http://2023.stream-link.org/playlist/set_news.flv
 民視新聞,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 中天新聞,https://ytm2.yuanhsing.cf/ctitv.m3u8
@@ -37,12 +38,14 @@ TVBSGlobalNews,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+台視新聞,http://2023.stream-link.org/playlist/ttv_news
 台視新聞,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+中視新聞,http://2023.stream-link.org/playlist/ctv_news
 中視新聞,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
 壹新聞,http://60.251.59.180:8501/.m3u8
-TVBSasia,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.flv
+TVBS HD,http://2023.stream-link.org/playlist/tvbs
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 年代新聞,http://220.134.196.147:9517/index.m3u8
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -895,20 +898,18 @@ GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 台深夜不穩定_6677,#genre#
-🌲️松視1臺,mitv://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
-🌲️松視2臺,mitv://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
-🌲️松視3臺,mitv://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
-🍌️香蕉臺Banana,mitv://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
-🌈️彩虹e臺,mitv://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
-🌈️彩虹電影,mitv://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
-♥️潘朵啦玩美Perfec,mitv://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
-♥️驚豔電影臺Amazing,mitv://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
-💘️JSᴴᴰ極限臺,mitv://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
-💘️HAPPY,mitv://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
-♨️K 頻道,mitv://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
-♨️Look HD,mitv://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
-♥️PLAYBOY,mitv://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
-
+🌲️松視1臺,mitv://generationnexxxt.com:19806/63b6d349ebc247618a07b53deb0c00b0
+🌲️松視2臺,mitv://generationnexxxt.com:19806/69d7816ce9234d5a82bd93992a85cad8
+🌲️松視3臺,mitv://generationnexxxt.com:19806/90c8cadbc11f459380c04480de7630c3
+🍌️香蕉臺Banana,mitv://generationnexxxt.com:19806/f53ee5ccaf464f418f32ac1feffac1dd
+🌈️彩虹e臺,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
+🌈️彩虹電影,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
+♥️潘朵啦玩美Perfec,mitv://generationnexxxt.com:19806/bc43c724e539490691c8f7e1d3db27e6
+♥️驚豔電影臺Amazing,mitv://generationnexxxt.com:19806/ca147220763d40dd8cb24116cc3fcb7e
+💘️JSᴴᴰ極限臺,mitv://generationnexxxt.com:19806/761b412082534116b4a63d46130ea3d4
+💘️HAPPY,mitv://generationnexxxt.com:19806/276ad3db2b6746559d60eded6e93bec5
+♨️K 頻道,mitv://generationnexxxt.com:19806/a7b60259e9e3451bab5fd0905b4862a6
+♥️PLAYBOY,mitv://generationnexxxt.com:19806/58088a697825496fa8e7fa048f7ee6ff
 🌲️松視1臺,P2p://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
 🌲️松視2臺,P2p://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
 🌲️松視3臺,P2p://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
