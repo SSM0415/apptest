@@ -4,11 +4,34 @@ Home: [
 {"key":"APP","title":"點播2","pic":"https://pic.imgdb.cn/item/63985335b1fccdcd3656fba2.png"},
 {"key":"直播","title":"電視直播","pic":"https://pic.imgdb.cn/item/63984d60b1fccdcd364c6e46.png"},
 {"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/639853b1b1fccdcd3657967e.png"},
-{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/63984ff5b1fccdcd3650cdae.png"}],
+{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/63984ff5b1fccdcd3650cdae.png"}
+],
 
 zhuyejiekou: [
 {"name":"U酷資源","url":"https://api.ukuapi.com/api.php/provide/vod/"},
 {"name":"量子資源","url":"http://cj.lziapi.com/api.php/provide/vod/"},
-{"name":"FOX資源","url":"https://api.foxzyapi.com/api.php/provide/vod/"}],
+{"name":"FOX資源","url":"https://api.foxzyapi.com/api.php/provide/vod/"}
+],
 
 dianshizhibo: "http://www.m9527.top/blive.txt",
+guolvdizhi: "player.css#url=#cnzz.com#51.la",
+zhujiexi: [
+{"name":"融兴解析","url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
+{"name":"左岸解析","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
+{"name":"懒懒解析","url": "http://lanlan.ckflv.cn/?url="},
+{"name":"主解析","url":"https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="},
+{"name":"融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+{"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+{"name":"左岸2","url":"https://za.kuanjv.com/?url="},
+{"name":"太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
+{"name":"扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
+{"name":"多多","url":"http://qiqi.520say.cn/json/dd.php?url="}
+],
+
+beiyongjiexi: [
+{"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
+{"name":"虾米","url":"https://jx.xmflv.com/?url="},
+{"name":"九亿","url":"https://m3u8.look4you.top/?url="}
+]
+}
