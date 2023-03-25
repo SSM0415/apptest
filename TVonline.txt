@@ -815,21 +815,27 @@ NewTV超級電視劇,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
 
 中國CCTV,#genre#
-CCTV1,http://175.10.37.200:9901/tsfile/live/0001_1.m3u8
-CCTV2,http://175.10.37.200:9901/tsfile/live/0002_1.m3u8
-CCTV3,http://175.10.37.200:9901/tsfile/live/0003_1.m3u8
-CCTV4,http://175.10.37.200:9901/tsfile/live/0004_1.m3u8
-CCTV5,http://175.10.37.200:9901/tsfile/live/0005_1.m3u8
-CCTV6,http://175.10.37.200:9901/tsfile/live/0006_1.m3u8
-CCTV7,http://175.10.37.200:9901/tsfile/live/0007_1.m3u8
-CCTV8,http://175.10.37.200:9901/tsfile/live/0008_1.m3u8
-CCTV9,http://175.10.37.200:9901/tsfile/live/0009_1.m3u8
-CCTV10,http://175.10.37.200:9901/tsfile/live/0010_1.m3u8
-CCTV11,http://175.10.37.200:9901/tsfile/live/0011_1.m3u8
-CCTV12,http://175.10.37.200:9901/tsfile/live/0012_1.m3u8
-CCTV13,http://175.10.37.200:9901/tsfile/live/0013_1.m3u8
-CCTV14,http://175.10.37.200:9901/tsfile/live/0014_1.m3u8
-CCTV15,http://175.10.37.200:9901/tsfile/live/0015_1.m3u8
+CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+CCTV3 8M,http://cfss.cc/ds/bst.php?id=Cf-3
+CCTV4 8M,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV4 8M,http://cfss.cc/ds/bst.php?id=Cf-4
+CCTV5 8M,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+CCTV5+8M,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6 8M,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+CCTV7 8M,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8 8M,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+CCTV8 8M,http://cfss.cc/ds/bst.php?id=Cf-9
+CCTV9 8M,http://cfss.cc/ds/bst.php?id=Cf-10
+CCTV9 8M,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+CCTV11 8M,http://cfss.cc/ds/bst.php?id=Cf-12
+CCTV13 8M,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14 8M,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+CCTV15 8M,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+CCTV16 8M,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+CCTV-17 8M,http://cfss.cc/ds/bst.php?id=Cf-18
 
 中國衛視,#genre#
 東方衛視,http://60.251.33.252:18535/.m3u8
