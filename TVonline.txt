@@ -37,6 +37,7 @@ TVBS NEWS,http://www.terrykang.xyz:35455/youtube/5yfiy9GUYT4
 三立iNEW+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
+三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞,http://2023.stream-link.org/playlist/ttv_news
@@ -46,7 +47,6 @@ TVBS NEWS,http://www.terrykang.xyz:35455/youtube/5yfiy9GUYT4
 中視新聞,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
 壹新聞,http://60.251.59.180:8501/.m3u8
-TVBS HD,http://2023.stream-link.org/playlist/tvbs
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 年代新聞,http://220.134.196.147:9517/index.m3u8
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -72,6 +72,7 @@ CNBC,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 幸福空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 三立都會,http://220.134.196.147:9526/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+三立都會台,https://epg.pw/stream/6ebd77dd2cf92af699c1bcb91e7bd75ffae72dfe3c30e59619c6c05cff653a5f.m3u8
 台灣戲劇,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 三立台灣,http://220.134.196.147:9531/index.m3u8
 三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
@@ -160,8 +161,7 @@ rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 n電影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 衛視電影,http://220.134.196.147:9571/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 衛視電影,http://220.134.196.147:9549/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
-HBO,http://220.134.196.147:9539/http/116.50.42.18:8081/hls/71/813/ch41.m3u8
-HBO HIT,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 龍華電影,http://220.134.196.147:9568/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://116.50.42.21:8575/.m3u8
 緯來電影,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
@@ -242,7 +242,7 @@ i-Fun愛放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u
 Sportv2,http://23.237.10.66:16180?$1280x720
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 TV8,http://23.237.10.66:16406/
-足球SUKAN,http://23.237.10.66:16476/
+
 
 臺灣p時效,#genre#
 TVBS,mitv://generationnexxxt.com:19806/93ed082a57d04b6fb774224f5492a67e
@@ -951,7 +951,7 @@ GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
-台深夜不穩定_6677,#genre#
+台深夜不穩定_8899,#genre#
 彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
 彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
 JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
