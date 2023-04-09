@@ -1,4 +1,4 @@
-調整中4/10開,#genre#
+調整4/10開,#genre#
 港澳,#genre#
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳視資訊,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
@@ -348,7 +348,7 @@ Sportv2,http://23.237.10.66:16180?$1280x720
 TV8,http://23.237.10.66:16406/
 
 
-臺灣p時效4/10_5678,#genre#
+臺灣p時效410_5678,#genre#
 CNN(爬),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 民視(爬),mitv://generationnexxxt.com:19806/40c260a6af2241b2a42f80dc9b8e17f7
 人間衛視(爬),mitv://generationnexxxt.com:19806/366b657578a7468fa7a93dff507aaa59
