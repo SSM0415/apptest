@@ -1,3 +1,4 @@
+調整中4/10開,#genre#
 港澳,#genre#
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳視資訊,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
@@ -57,7 +58,7 @@ FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CNBC,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 半島新聞,http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
 
-戲劇知識綜合,#genre#
+戲劇知識綜合_5678,#genre#
 民視,rtmp://119.81.124.89/sat/tv051
 民視,rtmp://219.80.97.77/sat/tv051
 民視,rtmp://219.80.97.15/sat/tv051
@@ -157,7 +158,7 @@ MEZZO,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 影迷紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 
-電影,#genre#
+電影_5678,#genre#
 n電影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 衛視電影,http://220.134.196.147:9571/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 衛視電影,http://220.134.196.147:9549/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
@@ -180,7 +181,7 @@ CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 采昌電影,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 
 
-體育,#genre#
+體育_5678,#genre#
 緯來體育,http://123.51.229.65:18509/.m3u8
 ELTA體育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 ELTA體育2,rtmp://119.81.124.89/sat/md011
@@ -204,7 +205,7 @@ HIGHLIGHT,http://www.336699.live:1935/blockfive/4gtv-live201.stream/chunklist.m3
 TRACE SPORT,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 
 
-兒童,#genre#
+兒童_5678,#genre#
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 獅子家庭,https://ytm2.yuanhsing.cf/LionFamily.m3u8
 佩佩豬,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
@@ -223,7 +224,7 @@ momo親子台,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist
 寵物當家,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 i-Fun愛放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 
-港台測試1,#genre#
+港台測試1_5678,#genre#
 民視,rtmp://119.81.124.89/sat/tv051
 台視,rtmp://119.81.124.89/sat/tv071
 中視,rtmp://119.81.124.89/sat/tv091
@@ -347,7 +348,7 @@ Sportv2,http://23.237.10.66:16180?$1280x720
 TV8,http://23.237.10.66:16406/
 
 
-臺灣p時效,#genre#
+臺灣p時效4/10_5678,#genre#
 CNN(爬),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 民視(爬),mitv://generationnexxxt.com:19806/40c260a6af2241b2a42f80dc9b8e17f7
 人間衛視(爬),mitv://generationnexxxt.com:19806/366b657578a7468fa7a93dff507aaa59
