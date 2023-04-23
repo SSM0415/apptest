@@ -27,12 +27,12 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814462.m3u8
 TVBS新聞,rtmp://219.80.97.77/sat/tv551
-TVBS新聞,rtmp://119.81.124.89/sat/tv551
+TVBS新聞,rtmp://219.80.97.77/sat/tv551
 TVBS HD,https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
 TVBS NEWS,http://www.terrykang.xyz:35455/youtube/5yfiy9GUYT4
 東森新聞,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
 東森財經,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-東森財經,rtmp://119.81.124.89/sat/tv571
+東森財經,rtmp://219.80.97.77/sat/tv571
 東森財經,http://123.51.230.108:18515/.m3u8
 三立iNEW+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
@@ -54,14 +54,13 @@ CNBC,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 半島新聞,http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
 
 戲劇知識綜合,#genre#
-民視,rtmp://119.81.124.89/sat/tv051
 民視,rtmp://219.80.97.77/sat/tv051
 民視,http://23.237.10.66:16334/
 台視,http://107.151.203.111:2209/135/us50.php?id=tsk
 台視,http://23.237.10.66:16344
-台視,rtmp://119.81.124.89/sat/tv071
-中視,rtmp://119.81.124.89/sat/tv091
-華視,rtmp://119.81.124.89/sat/tv111
+台視,rtmp://219.80.97.77/sat/tv071
+中視,rtmp://219.80.97.77/sat/tv091
+華視,rtmp://219.80.97.77/sat/tv111
 華視,http://218.32.47.179:18503/.m3u8
 華視,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 公視,公視,http://103.68.63.37:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
@@ -76,22 +75,22 @@ CNBC,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_1/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_1/chunklist.m3u8*~hmac=89f79f6442fed7c3b4bc9388123ebb72802d3aa1a6129f24d1a6d59f4fad72dd
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_2/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_2/chunklist.m3u8*~hmac=4d5a5a64d3a2099102a144761bc8c65b0f79b9b0421e984cbba7dde5dec1ccd3
 緯來日本,rtmp://219.80.97.77/sat/tv771
-緯來日本,rtmp://119.81.124.89/sat/tv771
+緯來日本,rtmp://219.80.97.77/sat/tv771
 人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8#http://123.51.229.65:18561/.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
 衛視中文,http://220.134.196.147:9554/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-緯來日本,rtmp://119.81.124.89/sat/tv771
+緯來日本,rtmp://219.80.97.77/sat/tv771
 緯來戲劇,mitv://generationnexxxt.com:19806/75f0a53f27384cddb1e0596709325873
 緯來綜合,http://123.51.229.65:18540/.m3u8#http://60.251.33.252:18540/.m3u8
 緯來育樂,rtmp://219.80.97.77/sat/tv701
-緯來育樂,rtmp://119.81.124.89/sat/tv701
+緯來育樂,rtmp://219.80.97.77/sat/tv701
 好消息,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
 國興衛視,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 東風37,http://123.51.229.65:18560/.m3u8
 東森綜合,http://220.134.196.147:9553/index.m3u8
 東森超視,rtmp://219.80.97.77/sat/tv331
-東森超視,rtmp://119.81.124.89/sat/tv331
+東森超視,rtmp://219.80.97.77/sat/tv331
 東森戲劇,http://123.51.229.65:18538/.m3u8
 東森戲劇,http://60.251.33.252:18538/.m3u8
 年代much,http://220.134.196.147:9529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
@@ -111,7 +110,7 @@ CNBC,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 TLC旅遊生活,mitv://generationnexxxt.com:19806/f90ee29629994e3d9086b1f80c3b6979
-TVBS歡樂,rtmp://119.81.124.89/sat/tv421
+TVBS歡樂,rtmp://219.80.97.77/sat/tv421
 大愛,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛2,http://gg.gg/HeNeiIPTV-Da_Ai_Er_Tai_HD
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -140,7 +139,7 @@ LUXE TV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
 STYLE,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 GOOD TV,http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
-MOMO綜合,rtmp://119.81.124.89/sat/tv761
+MOMO綜合,rtmp://219.80.97.77/sat/tv761
 GINX電玩,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 ARIRANG,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 TRACE URBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
@@ -172,10 +171,10 @@ CINEMAX,http://103.68.63.37:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423
 體育,#genre#
 緯來體育,http://123.51.229.65:18509/.m3u8
 ELTA體育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA體育2,rtmp://119.81.124.89/sat/md011
-ELEVEN2,rtmp://119.81.124.89/sat/md021
-博斯網球,rtmp://119.81.124.89/sat/md031
-ELTA體育3,rtmp://119.81.124.89/sat/md041
+ELTA體育2,rtmp://219.80.97.77/sat/md011
+ELEVEN2,rtmp://219.80.97.77/sat/md021
+博斯網球,rtmp://219.80.97.77/sat/md031
+ELTA體育3,rtmp://219.80.97.77/sat/md041
 ELTA體育2,rtmp://219.80.97.77/sat/md051
 ELTA體育1,http://103.68.63.37:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 博斯高球,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
@@ -183,10 +182,10 @@ ELTA體育1,http://103.68.63.37:8278/eltasport_twn/playlist.m3u8?tid=md3567b3540
 博斯網球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯運動I,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯運動II,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
-緯來體育,rtmp://119.81.124.89/sat/tv721
+緯來體育,rtmp://219.80.97.77/sat/tv721
 智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
+ELEVEN1,rtmp://219.80.97.77/sat/tv731
+ELEVEN2,rtmp://219.80.97.77/sat/tv741
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 HIGHLIGHT,http://www.336699.live:1935/blockfive/4gtv-live201.stream/chunklist.m3u8
@@ -213,22 +212,22 @@ momo親子台,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist
 i-Fun愛放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 
 港台測試1,#genre#
-民視,rtmp://119.81.124.89/sat/tv051
-台視,rtmp://119.81.124.89/sat/tv071
-中視,rtmp://119.81.124.89/sat/tv091
-華視,rtmp://119.81.124.89/sat/tv111
-TVBS新聞,rtmp://119.81.124.89/sat/tv551
-TVBS歡樂,rtmp://119.81.124.89/sat/tv421
-東森財經新聞,rtmp://119.81.124.89/sat/tv571
-緯來育樂,rtmp://119.81.124.89/sat/tv701
-緯來體育,rtmp://119.81.124.89/sat/tv721
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
-MOMO綜合,rtmp://119.81.124.89/sat/tv761
-緯來日本,rtmp://119.81.124.89/sat/tv771
-ELTA體育1,rtmp://119.81.124.89/sat/md031
-ELEVEN2,rtmp://119.81.124.89/sat/md041
-博斯魅力,rtmp://119.81.124.89/sat/md051
+民視,rtmp://219.80.97.77/sat/tv051
+台視,rtmp://219.80.97.77/sat/tv071
+中視,rtmp://219.80.97.77/sat/tv091
+華視,rtmp://219.80.97.77/sat/tv111
+TVBS新聞,rtmp://219.80.97.77/sat/tv551
+TVBS歡樂,rtmp://219.80.97.77/sat/tv421
+東森財經新聞,rtmp://219.80.97.77/sat/tv571
+緯來育樂,rtmp://219.80.97.77/sat/tv701
+緯來體育,rtmp://219.80.97.77/sat/tv721
+ELEVEN1,rtmp://219.80.97.77/sat/tv731
+ELEVEN2,rtmp://219.80.97.77/sat/tv741
+MOMO綜合,rtmp://219.80.97.77/sat/tv761
+緯來日本,rtmp://219.80.97.77/sat/tv771
+ELTA體育1,rtmp://219.80.97.77/sat/md031
+ELEVEN2,rtmp://219.80.97.77/sat/md041
+博斯魅力,rtmp://219.80.97.77/sat/md051
 民視,rtmp://219.80.97.77/sat/tv051
 台視,rtmp://219.80.97.77/sat/tv071
 中視,rtmp://219.80.97.77/sat/tv091
