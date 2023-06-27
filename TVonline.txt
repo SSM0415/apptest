@@ -19,12 +19,13 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 
 新聞,#genre#
-三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
+三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立LIVE,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 中天新聞,http://2023.stream-link.org/live/1552993665
 中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
 TVBS新聞,rtmp://219.80.97.77/sat/tv551
-東森新聞,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
+東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 東森財經,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經,rtmp://219.80.97.77/sat/tv571
 東森財經,http://123.51.230.108:18515/.m3u8
@@ -40,7 +41,7 @@ TVBS新聞,rtmp://219.80.97.77/sat/tv551
 年代新聞,mitv://generationnexxxt.com:19806/f721025fa5eb4938925ffd40f311b413
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-
+寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 
 戲劇知識綜合,#genre#
 民視,rtmp://219.80.97.77/sat/tv051
@@ -51,6 +52,7 @@ FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 中視,rtmp://219.80.97.77/sat/tv091
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 華視,rtmp://219.80.97.77/sat/tv111
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
 華視,http://218.32.47.179:18503/.m3u8
@@ -83,6 +85,7 @@ FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 東森戲劇,http://60.251.33.252:18538/.m3u8
 東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
 中天綜合,http://23.237.10.66:16372/
+中天綜合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
 TVBS歡樂,rtmp://219.80.97.77/sat/tv421
 大愛,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
@@ -828,7 +831,11 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
 彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
 JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
-奥視HD,http://125.227.210.55:62697/VideoInput/play.ts
+奥視1,http://125.227.210.55:20845/VideoInput/play.ts
+奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+奥視3,http://125.227.210.55:62697/VideoInput/play.ts
+驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
+香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
 🌲️松視1臺,P2p://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
 🌲️松視2臺,P2p://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
 🌲️松視3臺,P2p://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
