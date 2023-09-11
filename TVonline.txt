@@ -19,15 +19,15 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 
 新聞,#genre#
-三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 三立LIVE,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
-中天新聞,http://2023.stream-link.org/live/1552993665
+非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
-TVBS新聞,rtmp://219.80.97.77/sat/tv551
+TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 東森財經,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-東森財經,rtmp://219.80.97.77/sat/tv571
+東森財經,rtmp://9sv2.mine.nu:1935/sat/tv571
 東森財經,http://123.51.230.108:18515/.m3u8
 三立iNEW+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
@@ -42,24 +42,14 @@ TVBS新聞,rtmp://219.80.97.77/sat/tv551
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 
 戲劇知識綜合,#genre#
-民視,rtmp://219.80.97.77/sat/tv051
-民視,http://23.237.10.66:16334/
-台視,http://107.151.203.111:2209/135/us50.php?id=tsk
-台視,http://23.237.10.66:16344
-台視,rtmp://219.80.97.77/sat/tv071
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
-中視,rtmp://219.80.97.77/sat/tv091
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
-華視,rtmp://219.80.97.77/sat/tv111
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
-華視,http://218.32.47.179:18503/.m3u8
-華視,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 幸福空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-三立都會台,https://epg.pw/stream/6ebd77dd2cf92af699c1bcb91e7bd75ffae72dfe3c30e59619c6c05cff653a5f.m3u8
-三立都會台,http://220.134.196.147:9554/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 台灣戲劇,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_1/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_1/chunklist.m3u8*~hmac=91a79f89ab6475a9ebdb69c9ff188cae5c1ae81d1afde64daecd53e989c9bfc3
@@ -67,43 +57,20 @@ FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_1/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_1/chunklist.m3u8*~hmac=89f79f6442fed7c3b4bc9388123ebb72802d3aa1a6129f24d1a6d59f4fad72dd
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_2/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_2/chunklist.m3u8*~hmac=4d5a5a64d3a2099102a144761bc8c65b0f79b9b0421e984cbba7dde5dec1ccd3
-緯來日本,rtmp://219.80.97.77/sat/tv771
-緯來日本,rtmp://219.80.97.77/sat/tv771
+緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
+緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
 人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8#http://123.51.229.65:18561/.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-緯來日本,rtmp://219.80.97.77/sat/tv771
-緯來綜合,http://123.51.229.65:18540/.m3u8#http://60.251.33.252:18540/.m3u8
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-好消息,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
-國興衛視,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-東風37,http://123.51.229.65:18560/.m3u8
-東森綜合,http://220.134.196.147:9553/index.m3u8
-東森超視,rtmp://219.80.97.77/sat/tv331
-東森超視,rtmp://219.80.97.77/sat/tv331
-東森戲劇,http://123.51.229.65:18538/.m3u8
-東森戲劇,http://60.251.33.252:18538/.m3u8
 東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
-中天綜合,http://23.237.10.66:16372/
-中天綜合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
-TVBS歡樂,rtmp://219.80.97.77/sat/tv421
 大愛,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛2,http://gg.gg/HeNeiIPTV-Da_Ai_Er_Tai_HD
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 八大電視,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
-八大第一,http://123.51.229.65:18539/.m3u8
-八大第一,http://60.251.33.252:18539/.m3u8
-八大第一,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
-八大戲劇,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
-八大戲劇,http://220.134.196.147:9543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-翡翠台,http://123.51.230.108:18551/.m3u8
-星衛娛樂,http://23.237.10.66:16359
 美國中文,https://jpts.sinovision.net/livestream.m3u8
-MOMO綜合,rtmp://219.80.97.77/sat/tv761
 
 
 電影,#genre#
@@ -113,16 +80,7 @@ HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 
 體育,#genre#
-緯來體育,http://123.51.229.65:18509/.m3u8
-ELTA體育2,rtmp://219.80.97.77/sat/md011
-ELEVEN2,rtmp://219.80.97.77/sat/md021
-博斯網球,rtmp://219.80.97.77/sat/md031
-ELTA體育3,rtmp://219.80.97.77/sat/md041
-ELTA體育2,rtmp://219.80.97.77/sat/md051
-緯來體育,rtmp://219.80.97.77/sat/tv721
-ELEVEN1,rtmp://219.80.97.77/sat/tv731
-ELEVEN2,rtmp://219.80.97.77/sat/tv741
-ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 
 兒童,#genre#
@@ -133,58 +91,44 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 親子動畫-DAVE&AVA(英),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-
+CN卡通,http://125.227.210.55:46493/VideoInput/play.ts
 
 港台測試1,#genre#
-民視,rtmp://219.80.97.77/sat/tv051
-台視,rtmp://219.80.97.77/sat/tv071
-中視,rtmp://219.80.97.77/sat/tv091
+民視,rtmp://9sv2.mine.nu:1935/sat/tv051
+台視,rtmp://9sv2.mine.nu:1935/sat/tv071
+中視,rtmp://9sv2.mine.nu:1935/sat/tv091
 中視,rtmp://9wv7.mine.nu/sat/tv091
-華視,rtmp://219.80.97.77/sat/tv111
-TVBS新聞,rtmp://219.80.97.77/sat/tv551
-TVBS歡樂,rtmp://219.80.97.77/sat/tv421
-東森財經新聞,rtmp://219.80.97.77/sat/tv571
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-緯來體育,rtmp://219.80.97.77/sat/tv721
-ELEVEN1,rtmp://219.80.97.77/sat/tv731
-ELEVEN2,rtmp://219.80.97.77/sat/tv741
-MOMO綜合,rtmp://219.80.97.77/sat/tv761
-緯來日本,rtmp://219.80.97.77/sat/tv771
-ELTA體育1,rtmp://219.80.97.77/sat/md031
-ELEVEN2,rtmp://219.80.97.77/sat/md041
-博斯魅力,rtmp://219.80.97.77/sat/md051
-民視,rtmp://219.80.97.77/sat/tv051
-台視,rtmp://219.80.97.77/sat/tv071
-中視,rtmp://219.80.97.77/sat/tv091
-華視,rtmp://219.80.97.77/sat/tv111
-TVBS新聞,rtmp://219.80.97.77/sat/tv551
-TVBS歡樂,rtmp://219.80.97.77/sat/tv421
-東森財經新聞,rtmp://219.80.97.77/sat/tv571
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-緯來體育,rtmp://219.80.97.77/sat/tv721
-ELEVEN1,rtmp://219.80.97.77/sat/tv731
-ELEVEN2,rtmp://219.80.97.77/sat/tv741
-MOMO綜合,rtmp://219.80.97.77/sat/tv761
-緯來日本,rtmp://219.80.97.77/sat/tv771
-ELTA體育1,rtmp://219.80.97.77/sat/md031
-ELEVEN2,rtmp://219.80.97.77/sat/md041
-博斯魅力,rtmp://219.80.97.77/sat/md051
+華視,rtmp://9sv2.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://9sv2.mine.nu:1935/sat/tv421
+東森財經新聞,rtmp://9sv2.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://9sv2.mine.nu:1935/sat/tv701
+緯來體育,rtmp://9sv2.mine.nu:1935/sat/tv721
+ELEVEN1,rtmp://9sv2.mine.nu:1935/sat/tv731
+ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://9sv2.mine.nu:1935/sat/tv761
+緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
+ELTA體育1,rtmp://9sv2.mine.nu:1935/sat/md031
+ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md041
+博斯魅力,rtmp://9sv2.mine.nu:1935/sat/md051
+民視,rtmp://9sv2.mine.nu:1935/sat/tv051
+台視,rtmp://9sv2.mine.nu:1935/sat/tv071
+中視,rtmp://9sv2.mine.nu:1935/sat/tv091
+華視,rtmp://9sv2.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://9sv2.mine.nu:1935/sat/tv421
+東森財經新聞,rtmp://9sv2.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://9sv2.mine.nu:1935/sat/tv701
+緯來體育,rtmp://9sv2.mine.nu:1935/sat/tv721
+ELEVEN1,rtmp://9sv2.mine.nu:1935/sat/tv731
+ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://9sv2.mine.nu:1935/sat/tv761
+緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
+ELTA體育1,rtmp://9sv2.mine.nu:1935/sat/md031
+ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md041
+博斯魅力,rtmp://9sv2.mine.nu:1935/sat/md051
 TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-衛視合家歡,http://123.51.230.108:18504/.m3u8
-好消息,http://123.51.230.108:18507/.m3u8
-緯來體育,http://123.51.230.108:18509/.m3u8
-NHK,http://123.51.230.108:18525/.m3u8
-東森戲劇,http://123.51.230.108:18538/.m3u8
-八大第一,http://123.51.230.108:18539/.m3u8
-民視新聞,http://123.51.230.108:18663/.m3u8
-東森財經,http://123.51.230.108:18515/.m3u8
-龍華日韓,http://123.51.230.108:18551/.m3u8
-人間衛視,http://123.51.230.108:18561/.m3u8
-東風37,http://123.51.230.108:18560/.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
@@ -199,9 +143,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
 優視頻道,http://107.151.203.111:2209/135/hk.php?id=uchanneltv
-民視K,http://107.151.203.111:2209/135/us50.php?id=msk
-台視K,http://107.151.203.111:2209/135/us50.php?id=tsk
-中天娛樂K,http://107.151.203.111:2209/135/us50.php?id=ztz
 鳳凰中文HD,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰資訊HD,http://107.151.203.111:2209/135/hk.php?id=fhzx
 香港衛視文旅,http://107.151.203.111:2209/135/hk.php?id=hk6
@@ -210,14 +151,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 有線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=cable38h
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
 香港開電視,http://107.151.203.111:2209/135/hk.php?id=cable77h
-翡翠台,http://23.237.10.66:16106?$1920x1080
-翡翠台1,http://23.237.10.66:16410?$1280x720
-台視,http://23.237.10.66:16344?$1920x1080
-民視,http://23.237.10.66:16334?$1280x720
-Sportv2,http://23.237.10.66:16180?$1280x720
-智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-TV8,http://23.237.10.66:16406/
-
 
 🌙月光寶盒,#genre#
 鳳凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
@@ -9019,408 +8952,6 @@ DE Penthouse Passion HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20025
 DE Playboy Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20026/index.m3u8
 CineMan ExExEx,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20089/index.m3u8
 CineMan ExExEx TWO,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20090/index.m3u8
-☁️135晴天_000,#genre#
-民視,mitv://135.148.104.228:19806/8b0e721cee984d389cef154c1b1c4ca9
-台視,mitv://135.148.104.228:19806/db1ae87e258f44af90cae52fda2d0c4c
-大愛,mitv://135.148.104.228:19806/36b6c78f2eff4d0f9c55a220482902d4
-中視,mitv://135.148.104.228:19806/a41333c68ce04195ac4ced4da1b4f700
-霹靂臺灣台,mitv://135.148.104.228:19806/c4547788f84c45fda8dbff3e5cc40ad3
-華視,mitv://135.148.104.228:19806/8702388e8a1a44b8a63e02da1ecc6be9
-公視,mitv://135.148.104.228:19806/156a8688b13b4c8bb015773a729b7687
-好消息,mitv://135.148.104.228:19806/2ecf9e0b492c4ede8980d15e690d03a5
-原住民電視臺,mitv://135.148.104.228:19806/c6c32888351c4994841bfbf40b79b74d
-客家電視臺,mitv://135.148.104.228:19806/8d1795c3ddff4d72a13c4bb7ea598175
-國家地理頻道,mitv://135.148.104.228:19806/7c687543fb884376b3fdae44437bdca6
-探索頻道,mitv://135.148.104.228:19806/6a2aa28bc0fd4abd908f7091232d6527
-TLC旅遊生活,mitv://135.148.104.228:19806/8054604a88ee4967924c9a6c06b48422
-動物星球,mitv://135.148.104.228:19806/7baeb93f31b24f4e97554245fba27fdf
-CN卡通頻道,mitv://135.148.104.228:19806/b15767d6e1a742a8a0bbceace2ff9c81
-MOMO親子台,mitv://135.148.104.228:19806/81f0482399994c8498ed00fd8d38691e
-東森幼幼台,mitv://135.148.104.228:19806/8e71f4bcf35f4f978e723a2da7af57a8
-緯來綜合台,mitv://135.148.104.228:19806/28dab6fdb6384ef89c0d0ea5ca96c092
-八大第一台,mitv://135.148.104.228:19806/4a78417fd88a474abad7d207ce24851f
-八大綜合台,mitv://135.148.104.228:19806/11b4f43f153a414faa0d5878945cd047
-三立臺灣台,mitv://135.148.104.228:19806/0d931e4032e849df94a920d8d9c810ab
-三立都會台,mitv://135.148.104.228:19806/86027fbfd45b49c28c7fe64ce3644e18
-東森綜合台,mitv://135.148.104.228:19806/a343c815ccfa4bf8b80105c2bdce7fe2
-超視,mitv://135.148.104.228:19806/a0e1feb99b2d4932804584b9f78724b2
-中天綜合台,mitv://135.148.104.228:19806/47a1d217b7004d3f82b3c4fa94c78286
-中天娛樂台,mitv://135.148.104.228:19806/e62d0c82897f4b2eaf17803a74e896f8
-東森戲劇台,mitv://135.148.104.228:19806/3d24137aedf0410f8a1b11bbee64d590
-八大戲劇台,mitv://135.148.104.228:19806/3e6a1fc27e2e474bacd526a7be217c1a
-TVBS歡樂台,mitv://135.148.104.228:19806/5eb376259f9b4ceba2751dfba79533c1
-緯來戲劇台,mitv://135.148.104.228:19806/f45ab00456bb46ab880f159b3f997245
-高點綜合台,mitv://135.148.104.228:19806/aed1243a8e244f9aac8199435a3439b5
-BBC World News,mitv://135.148.104.228:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
-CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
-HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
-壹電視新聞台,mitv://135.148.104.228:19806/c4815d36091444f4b75aa85a2d8e301f
-年代新聞,mitv://135.148.104.228:19806/34f11ed9e7a444aaa0bd1dd00416dafb
-東森新聞台,mitv://135.148.104.228:19806/a9b20866a39f45cbafacba9a002ee334
-中天新聞台,mitv://135.148.104.228:19806/dd4c2ce1c791486caac5b9014c08793e
-民視新聞台,mitv://135.148.104.228:19806/122c3f89827b4713bca5a1cbd071624f
-三立新聞台,mitv://135.148.104.228:19806/ff825aef42f04c589354d7d999b37792
-TVBS新聞台,mitv://135.148.104.228:19806/02856d3c65964deb8276e7adc3281fc3
-TVBS,mitv://135.148.104.228:19806/f953c331e4b342a99a7641c47b1dee7d
-東森財經新聞台,mitv://135.148.104.228:19806/0348927741f64a1ca8006a2ad6ad9631
-非凡新聞台,mitv://135.148.104.228:19806/a900ce1aac5d489b88d221c7b3ca098e
-衛視電影台,mitv://135.148.104.228:19806/109cdc4e19704dd5848d2de5bdda724b
-東森電影台,mitv://135.148.104.228:19806/c74f3d648c094225b04a3358e42f21d5
-緯來電影台,mitv://135.148.104.228:19806/0f1e0b6783254c1fb59d91bfd87d1a95
-龍祥電影,mitv://135.148.104.228:19806/d4d97e2feb1c4c09858cbf5499104c59
-HBO,mitv://135.148.104.228:19806/4919b215f3c640218f64691304797254
-東森洋片台,mitv://135.148.104.228:19806/da16c4d3c8834073b3f56dc7e945e98f
-AXN,mitv://135.148.104.228:19806/358b315d8cdf4e6184880329553dc4e0
-好萊塢電影台,mitv://135.148.104.228:19806/79ce80d4c9f849a09b0cce6f97b30f33
-CINEMAX,mitv://135.148.104.228:19806/14a92c2387ac44ebaaee6c7dab8bb85b
-緯來育樂台,mitv://135.148.104.228:19806/8fe235970a8f4ecd9248ee9b3b64024e
-緯來體育台,mitv://135.148.104.228:19806/08479a3692ea4033bb8af990f3c643a2
-ELEVEN體育1台,mitv://135.148.104.228:19806/7a211d1f7dff43c9beff076ce30a12be
-JET綜合台,mitv://135.148.104.228:19806/6555d99b5bdc4e29bc1e044edad0dc81
-國興衛視,mitv://135.148.104.228:19806/2c0f1ad375054597adbcf126f11743e0
-STAR World,mitv://135.148.104.228:19806/1a4d6e8e2bd94c129224713dd446d3c9
-Z頻道,mitv://135.148.104.228:19806/0116af9502204c52a260c6f86796855c
-Animax,mitv://135.148.104.228:19806/540f82701dcd473db327a92be71984cd
-尼克兒童頻道,mitv://135.148.104.228:19806/c644a1919ce54f0da3d4ecdefdcc8a5c
-八大娛樂台,mitv://135.148.104.228:19806/eae70906f331427f9ef5a8554b7019b7
-三立iNEWS,mitv://135.148.104.228:19806/083195f0f02140b7a5aae67d1f08130f
-龍華偶像,mitv://135.148.104.228:19806/de5a42bad31b4b03805446ad38944518
-tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
-France24,mitv://135.148.104.228:19806/72d5e1665d3e4b729ff9dbd4325e8694
-非凡商業台,mitv://135.148.104.228:19806/09e8c4c658674021b4ad01822b16b0a5
-公視3台,mitv://135.148.104.228:19806/57dc0948e956487c93a9c9b16d261b33
-大愛2台,mitv://135.148.104.228:19806/a7ecf9ce1ef1413fbb5cea48ea6f3e24
-ELTV生活英語台,mitv://135.148.104.228:19806/d9a3c914a6484d189be554611d97b08d
-靖洋卡通Nice Bingo,mitv://135.148.104.228:19806/9b48921859d74914921535526c4e6772
-靖天卡通台,mitv://135.148.104.228:19806/451823d41bf94288ae235098decc49ab
-Nick Jr.,mitv://135.148.104.228:19806/30e4e73fa73547aca0809469b8735d24
-Mezzo Live,mitv://135.148.104.228:19806/bc07fe476cb94232855532d22052f8c5
-CLASSICA 古典樂,mitv://135.148.104.228:19806/20f32305b0fc47f19d0a7f639f3737e6
-愛爾達體育1台(備),mitv://135.148.104.228:19806/e1c6a161f0a94c8486549365e9286e95
-愛爾達體育2台,mitv://135.148.104.228:19806/bfcc017622f34debbdb7acacd3d60be9
-TRACE Sport Stars,mitv://135.148.104.228:19806/05ec2c696a1b46eebb3db5a730698388
-博斯高球,mitv://135.148.104.228:19806/25c37bf60af248899c0dee6fa441af0a
-博斯高球二台,mitv://135.148.104.228:19806/7ec98f300d934eebb943666229e7c68e
-博斯網球台,mitv://135.148.104.228:19806/e032c0403c13436cb9aa73810260a123
-博斯魅力網,mitv://135.148.104.228:19806/5b08ac4abd6543d4bddbcf09c5ba8454
-博斯無限台,mitv://135.148.104.228:19806/cab2f68d50114c2a89fe8f065a07d498
-博斯無限二台,mitv://135.148.104.228:19806/4415095a83d54ad6b33c0949355813a4
-博斯運動,mitv://135.148.104.228:19806/b9d44ec1f70343d0ac587b5a886df069
-ELEVEN體育2台,mitv://135.148.104.228:19806/f3b20ad4218d43c5897a9f17731c6ef2
-智林體育台,mitv://135.148.104.228:19806/55d51660d8c54e02ada7ad575a2fa96d
-博斯運動二台,mitv://135.148.104.228:19806/6532045fa8834f7dacb3ab2094dc45ce
-HBO強檔巨獻,mitv://135.148.104.228:19806/f6770548f01943068135d39c011073e1
-HBO原創巨獻,mitv://135.148.104.228:19806/8407e2cb9b194f379f23af0b40148f93
-國家地理高畫質野生頻道,mitv://135.148.104.228:19806/1f7b194f063d4a3b9c083cfcdb0bbc34
-BBC Earth,mitv://135.148.104.228:19806/249c68f67bf74e0098357683cfa43a2d
-Discovery Asia,mitv://135.148.104.228:19806/c2fbf434d7274c61a8ad1d415e4f47b1
-Discovery科學頻道,mitv://135.148.104.228:19806/1ff019d8499a4cedbef165da06ca68e6
-DMAX,mitv://135.148.104.228:19806/3f16217d944d47f0a6a17294dbb739bb
-EVE,mitv://135.148.104.228:19806/2131de4335574c069c7dd0c7a380891a
-歷史頻道,mitv://135.148.104.228:19806/e5e2c450233a4805b0b9d125c0a66bf0
-罪案偵緝頻道,mitv://135.148.104.228:19806/bfe6c888c7a44c29adfdc4e7866ebe9b
-BBC Lifestyle,mitv://135.148.104.228:19806/a12ebda578034c96a831fc0b0e5951f6
-Lifetime,mitv://135.148.104.228:19806/eddc303b807a46628a98ba9506d4a420
-KLT-靖天國際台,mitv://135.148.104.228:19806/e1ae56ac7575440fad61ad162342e7b9
-HGTV居家樂活頻道,mitv://135.148.104.228:19806/2202faaa595f4ebc8d023f7ac6708fb9
-Love Nature,mitv://135.148.104.228:19806/27c7c38d069844d6b56ae4630e92e0f7
-美食星球,mitv://135.148.104.228:19806/ae649cea72b048dcadaca5201803b8e5
-亞洲美食頻道,mitv://135.148.104.228:19806/f2d20875493f42248dc3008520a38813
-亞洲旅遊台,mitv://135.148.104.228:19806/1019afcee7cf400186747252eff99aa6
-EYE TV旅遊台,mitv://135.148.104.228:19806/ee8353c7f44041ddab6b0978bd07e30e
-好消息2台,mitv://135.148.104.228:19806/dceff844400c4e2ca8da937c9815bf9d
-三立綜合台,mitv://135.148.104.228:19806/74f53cc4ff774c649cc68582a9addb69
-靖天信息台,mitv://135.148.104.228:19806/7f87600c3a0140ee98146d570c998398
-靖天綜合台,mitv://135.148.104.228:19806/003a8798f0a44eae9e7c22ce7cbf80b6
-靖天育樂台,mitv://135.148.104.228:19806/6b97e5fb36804f2eba7eeca9526ebcd2
-中視經典台,mitv://135.148.104.228:19806/b96cb85a1f634dc1a5453cc2ff51bc6c
-中視菁采台,mitv://135.148.104.228:19806/d1011369aa5a48c79fc5227b932e12a5
-TVBS精采台,mitv://135.148.104.228:19806/819eaae8349f45fe9f88f4a05aa5bf92
-壹電視綜合,mitv://135.148.104.228:19806/14f50d97a7ec4107bb6dd107422ca25b
-緯來精采,mitv://135.148.104.228:19806/c4282a549b76463687852de44d0bc5b6
-ETtoday綜合台,mitv://135.148.104.228:19806/d88ce77a1ff643a2b2c027b9a96974dd
-民視第一台,mitv://135.148.104.228:19806/804bf2b2180d4a37afd4dbeea715e117
-民視臺灣台,mitv://135.148.104.228:19806/b0f4db57339341d78d12f63acc74cdbd
-Nice TV靖天歡樂台,mitv://135.148.104.228:19806/bed1f1a2e43d45dd8df158082e203a32
-八大優頻道,mitv://135.148.104.228:19806/2b392057969d4f7b9d587433bf1ea9c4
-三立戲劇台,mitv://135.148.104.228:19806/ec71bec17a134ea481f48bf975662be0
-龍華戲劇,mitv://135.148.104.228:19806/de5f45b89a994668a2d75bb2bdf512fb
-靖天戲劇台,mitv://135.148.104.228:19806/822fcd6226f04dcaa302cb02d9aeb06c
-靖洋戲劇台,mitv://135.148.104.228:19806/08910bfc676b43458982532bee8e8df3
-靖天日本台,mitv://135.148.104.228:19806/46b8c73ff78844e9bcf5dfcabdade823
-i-Fun動漫台,mitv://135.148.104.228:19806/90666be691fe42eaa09de036cf75b43d
-韓國娛樂台,mitv://135.148.104.228:19806/1ff59b8b280347f1aed918b045b95bd3
-星衛娛樂台,mitv://135.148.104.228:19806/d9068fba4d0e4e4f986641f55bbf6d8f
-ROCK 動作,mitv://135.148.104.228:19806/2ed97c1bb5f44e58b7e5ec2d458b04e9
-中視新聞台,mitv://135.148.104.228:19806/4a6216b7a00f4b59ae53874ef0301696
-寰宇新聞台,mitv://135.148.104.228:19806/7e0e534ede5e4405a05ca5e668cb5fb1
-華視新聞,mitv://135.148.104.228:19806/df1dd1276eb8474da3cd12334065f7dd
-NHK新聞資訊台,mitv://135.148.104.228:19806/417ab1c6a5c8434eb9f1cbef2c0f9f34
-美亞電影台HD,mitv://135.148.104.228:19806/28cd5c4044e84ce49d39f840eddf81b4
-龍華電影,mitv://135.148.104.228:19806/2fe833794b094ebc9f100639247cb8e4
-星衛HD電影台,mitv://135.148.104.228:19806/a0b9d3e7fa5c4cc0b5ddd4a4c66ae0f1
-靖天映畫,mitv://135.148.104.228:19806/8cfc5fdd099b4e3296408656b6430024
-靖天電影台,mitv://135.148.104.228:19806/0428a6f975264d7baeaea6e13019aaea
-WARNER TV,mitv://135.148.104.228:19806/c9a0f1268c1941debe359c3183bd2a2b
-Star Movies HD,mitv://135.148.104.228:19806/3785278b99584a28b6e00c2062742a55
-AMC最愛電影,mitv://135.148.104.228:19806/6db6cb97aa22491e83602e6a2104141f
-HBO Family,mitv://135.148.104.228:19806/7bca5155f8a44196ba9fe323990a7347
-CatchPlay電影台,mitv://135.148.104.228:19806/860efac5532f42a09e2ab286acc2fb11
-CinemaWorld,mitv://135.148.104.228:19806/7477c2f2247c470ab03e34d744b5c871
-壹電視電影台,mitv://135.148.104.228:19806/d61a36d1794b4ed7b7fe7903d0edc111
-采昌影劇台,mitv://135.148.104.228:19806/e9771cecd33b4839a03ace5f42ad06c5
-佛衛慈悲台,mitv://135.148.104.228:19806/99617de82458486ab7e463e422511ceb
-EYE TV戲劇台,mitv://135.148.104.228:19806/a70928ae9f804b39a75838815c95f0f4
-台視新聞台,mitv://135.148.104.228:19806/b15cfa00997b433185d8bb8fc49a9b58
-寰宇新聞臺灣台,mitv://135.148.104.228:19806/17cea65bbdd4497587905e2f6a06240a
-台視財經台,mitv://135.148.104.228:19806/614b9e5307774bb683a895391ca263d2
-緯來日本,mitv://135.148.104.228:19806/e795171be27c46999434db985e8b4e74
-愛爾達影劇台,mitv://135.148.104.228:19806/532724539f71447fb99954d42854ce15
-民視(備),mitv://135.148.104.228:19806/45c8bb9ecc574de589fe3a27534f7ce4
-三立臺灣台(備),mitv://135.148.104.228:19806/28d4d1825da74b3c8dcd40e771ea9f49
-影迷數字電影台,mitv://135.148.104.228:19806/5118b77eb8a6445fb3a1e4f07b9f1639
-衛視中文台,mitv://135.148.104.228:19806/19bb440703ab4283ad45276b760b71a2
-愛爾達體育1台,mitv://135.148.104.228:19806/671c58c147f44cd6bb03f709dbbf84dc
-愛爾達體育3台,mitv://135.148.104.228:19806/ee30b64e245e49f8a86338649fa02c49
-台視(備),mitv://135.148.104.228:19806/6e6576428746434cb4ebdecf54e0c190
-大愛(備),mitv://135.148.104.228:19806/aa86f2f0554c4b429f4b96fafd1394cb
-中視(備),mitv://135.148.104.228:19806/981d81c2f92640599751d03ccddb52ff
-華視(備),mitv://135.148.104.228:19806/6722c2a635cf4868a6aa70cc116b5760
-東森新聞台(備),mitv://135.148.104.228:19806/9b5797a9a0d24d8cad7c105a78371fc8
-鏡新聞,mitv://135.148.104.228:19806/3a5d7702e09f400198caac13eccb0028
-MTV,mitv://135.148.104.228:19806/a9bcedc7e41c4eacb83008786065a85d
-東森購物1台,mitv://135.148.104.228:19806/d6f1c9e84eb24e358ec5772b617f3837
-東森購物2台,mitv://135.148.104.228:19806/66a69171ec124d1bb1ba9ece9640217f
-TV1,mitv://135.148.104.228:19806/6ed0226aee704cb6ba7b0faf1088407f
-TV2,mitv://135.148.104.228:19806/69d668a50a2c4d55bc1adfbdf2f29bf7
-TV3,mitv://135.148.104.228:19806/fa74ead583154a9692291aeb75eb5bb2
-NTV7,mitv://135.148.104.228:19806/e8957c5d3f8845cb939db883be072101
-八度空間,mitv://135.148.104.228:19806/2e2b2c26f8e54bbbb79581b30bb9816e
-TV9,mitv://135.148.104.228:19806/c941b205cbac44c093ccb803f4a3e41a
-Astro Oasis HD,mitv://135.148.104.228:19806/a95390cc70a94c80bbfdd92bbc4242a2
-Astro Citra HD,mitv://135.148.104.228:19806/62384e6e37cc4794a98c563e0632b568
-Al-Hijrah,mitv://135.148.104.228:19806/60bd24b215194e9da92d1351e8fd8d87
-SUN TV,mitv://135.148.104.228:19806/3ed2665a56e145ddb274a80554eb9424
-愛奇藝,mitv://135.148.104.228:19806/5aef0df8fc5b4e56b185158d8833951f
-Astro小太陽,mitv://135.148.104.228:19806/42484e48715c4d92a6b98afa3e640f42
-Astro AEC(備),mitv://135.148.104.228:19806/cd1cf3c664a44822898e14d8025f2fc1
-Astro雙星,mitv://135.148.104.228:19806/7203f95771fc422e91a0b1385d90918b
-天映頻道,mitv://135.148.104.228:19806/4b5e8ec28cf24208baa663599d6cc1f5
-翡翠台(華麗台),mitv://135.148.104.228:19806/441f455bd3c04c628bf607b2e35f538e
-Astro AOD HD 311,mitv://135.148.104.228:19806/9050c1d0fefc4576aa6339fc2f338385
-中天亞洲台,mitv://135.148.104.228:19806/0ca9f16b087d4fe8bd97852c47a222b7
-天映經典,mitv://135.148.104.228:19806/c7cf6992ae514b7e9a92164e4cac30e2
-Astro歡喜台,mitv://135.148.104.228:19806/808f3ef554f34e559f91e005ef819803
-KBS World,mitv://135.148.104.228:19806/64c365ec000c405afd1b337051f04b9d
-TVS,mitv://135.148.104.228:19806/fc5a120a8cc0426d8d5c6bd316b8eed7
-tvN Movies HD,mitv://135.148.104.228:19806/e44fe8b971a04543a11e412959693f7a
-Astro Awani,mitv://135.148.104.228:19806/3a1a9a23587140a7bbc5734b00c03f52
-CGTN,mitv://135.148.104.228:19806/ab925b53dccb41ed850b9797e4b8732c
-Astro Ceria,mitv://135.148.104.228:19806/b3f53402401e49ff886522b1ca81179d
-Boomerang,mitv://135.148.104.228:19806/a7d1c6858f5845589fe59fea2e3a61a2
-KIX,mitv://135.148.104.228:19806/3f7be3ad31504c9fa358e3fe583fac0a
-Astro Arena,mitv://135.148.104.228:19806/c046c74b43184a9bac5b0e402944aca5
-Astro SuperSport,mitv://135.148.104.228:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,mitv://135.148.104.228:19806/6edae31caab6475cad76175fca389922
-Astro SuperSport 3,mitv://135.148.104.228:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,mitv://135.148.104.228:19806/c7f1be20958243f68c943016c446501e
-beIN Sports 3,mitv://135.148.104.228:19806/83bd4463c62048dea6aafba5e1a81b23
-WWE,mitv://135.148.104.228:19806/32e0838eeab84b3a96297dcceca27f5a
-Sky News,mitv://135.148.104.228:19806/004e34fc27b949339dc56c7dfc272f76
-八度空間(備),mitv://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d
-Nat Geo Wild,mitv://135.148.104.228:19806/0b98cfecbfe84fbf97566be470554831
-Drama Sangat,mitv://135.148.104.228:19806/62fe800319224400936810eafea81f2d
-Berita RTM,mitv://135.148.104.228:19806/d32a93840f444bd28b48f63b86f1a863
-SPOTV,mitv://135.148.104.228:19806/60ad67b765414b32882a24ce6c63808a
-beIN Sports,mitv://135.148.104.228:19806/eefa5931a750470d8a3267932e36c644
-Astro AEC,mitv://135.148.104.228:19806/42b050d4e8534ad0b1b3ede5b2aab501
-Awesome TV,mitv://135.148.104.228:19806/e19a1abfd23241e8b7c6a2f2bb55283b
-BOO,mitv://135.148.104.228:19806/bae5e94ab17846f09ab44d39ce6b162d
-ABC Australia,mitv://135.148.104.228:19806/94fa84e314d745669761bf70b2bac7e5
-Eurosport HD,mitv://135.148.104.228:19806/e76ddd61163e48bf8eda214d7d7ee91c
-Astro SuperSport 5,mitv://135.148.104.228:19806/d41f257d25e54a0aa09227bde87eccf5
-Star Vijay,mitv://135.148.104.228:19806/ea27ce5e4bfa4cb68f563ed400d3fe36
-Zee Tamil,mitv://135.148.104.228:19806/289039bf3e9a41088eb85329d603dc17
-TVBS亞洲,mitv://135.148.104.228:19806/3ee34cdd82744fb39ef758059e7d2704
-Astro AOD 352,mitv://135.148.104.228:19806/44c2369ea99a4be599c77f77d421d12c
-Astro AOD 354,mitv://135.148.104.228:19806/a4ecc595c3894c5bacfe3b7ae937f8c1
-Astro Tutor TV SK,mitv://135.148.104.228:19806/6491b419e7d24800b24e26538504db28
-Astro Tutor TV SPM,mitv://135.148.104.228:19806/f7ec2dd165db439f92d38fedb7bb3b37
-HITS Movies,mitv://135.148.104.228:19806/64dc6670000006135ec53c3042776c65
-beIN Sports 2,mitv://135.148.104.228:19806/0d857c6ac77d4cd58f0153c47a6804d5
-Golf Channel,mitv://135.148.104.228:19806/64c9fed20006029d16e0744a41d351cd
-Hub Sports 1,mitv://135.148.104.228:19806/64e44da9000b7d207da475c66db01a76
-Mediacorp 5,mitv://135.148.104.228:19806/7ecf2b27c2554eef87bb4b3603e82a4f
-Mediacorp 8,mitv://135.148.104.228:19806/02b0b2bfe7974369b811f418dcd4eddf
-Suria,mitv://135.148.104.228:19806/9ea5cf9604c545c88d5a634f5450204b
-Vasantham,mitv://135.148.104.228:19806/c59b3a242b644ec2ba2d3398ad14189b
-CNA,mitv://135.148.104.228:19806/52b67f21b37b4764a87c33dd46844fdb
-Mediacorp U,mitv://135.148.104.228:19806/1c7cdb0005764374ab173154f8418848
-Euronews,mitv://135.148.104.228:19806/5b3289dff2154e2c8e166cc3f081f326
-Fight Sports,mitv://135.148.104.228:19806/7375a5f151c047b294a8e8c6ddad178d
-GEM,mitv://135.148.104.228:19806/76f6e10887894d07bd5b225cc895e2a5
-Fox News,mitv://135.148.104.228:19806/e9305a82b75c42f5901c0594e063e999
-東森亞洲衛視,mitv://135.148.104.228:19806/8a43d9cb067b47aaa8fd5f550930be0c
-NBA,mitv://135.148.104.228:19806/6fcac440f84e4d6b8a6ebeed5d393dba
-Hub Sports 2,mitv://135.148.104.228:19806/64e44da90003af9c7da473c3237f3c1b
-Hub Sports 3,mitv://135.148.104.228:19806/64e44da8000bb15c7da471ee63963595
-Hub Premier 1,mitv://135.148.104.228:19806/64e452dd0004f5797db8c74074175650
-Hub Premier 2,mitv://135.148.104.228:19806/64e45a1800023c177dd504fd12b4749f
-Hub Premier 3,mitv://135.148.104.228:19806/64e45a0e000dcd087dd4e0eb0d3e42a1
-NHK-G綜合,mitv://135.148.104.228:19806/810050ee3b224cffbff84c07e53c499a
-NHK-E教育,mitv://135.148.104.228:19806/797e091247a14ad2a918c9cb2e95cca3
-日本テレビ,mitv://135.148.104.228:19806/e83c93ef5c914ed3826fe7856b81acf0
-TBSテレビ,mitv://135.148.104.228:19806/9376bfbc1275463dadf7d89cf5eebf6c
-テレビ東京,mitv://135.148.104.228:19806/df391d094cf243bda2d71eea2543f6a3
-フジテレビ,mitv://135.148.104.228:19806/54dd404db8674941a08958b36acf24a7
-読売テレビ,mitv://135.148.104.228:19806/67e4cf369c3041ae9df1aca8b83fecf8
-関西テレビ,mitv://135.148.104.228:19806/bfb58a0f01504914883d882ee3082053
-KBS京都,mitv://135.148.104.228:19806/729ad31db2414a458905bbadb735bbae
-毎日放送,mitv://135.148.104.228:19806/ccac43e2944e468b91bcba848d34c3fd
-朝日放送,mitv://135.148.104.228:19806/b9fd3c1349444e5d8e73b51b2fd298f9
-テレビ大阪,mitv://135.148.104.228:19806/ad58b2a5a3554960a7cab3825097b6e6
-BS-1,mitv://135.148.104.228:19806/bb73b7a100954eb0a941586c172b75da
-BS日テレ,mitv://135.148.104.228:19806/15653a24109f412d8c13623fe3d8cbce
-BS朝日,mitv://135.148.104.228:19806/823835bf82b648b7b949cd6b10b9465f
-BS-TBS,mitv://135.148.104.228:19806/3158a94fbe3c43d0938fdbb5c727e3d7
-BS11,mitv://135.148.104.228:19806/a4be116db92743e1ac8dc4d6a86ebed1
-BSフジ,mitv://135.148.104.228:19806/ecd5225855164918853748cdf29fa61a
-WOWOWプライム,mitv://135.148.104.228:19806/b6120a213ab04f9f830e9435530eb905
-WOWOWライブ,mitv://135.148.104.228:19806/ff616330600e438d97cf03101ae7c3a1
-WOWOWシネマ,mitv://135.148.104.228:19806/e30a2709ee2c492495621bdd54db7294
-スター・チャンネル1,mitv://135.148.104.228:19806/8869813c1bfc46b3ba00e21e2cb35474
-スター・チャンネル2,mitv://135.148.104.228:19806/0293a4ec77f745f4be8700e6f3d8830f
-スター・チャンネル3,mitv://135.148.104.228:19806/0a8db2b6767948c1b4e1e7b86ac4c658
-BSアニマックス,mitv://135.148.104.228:19806/242df12175db458eaa4b56885dfe1ee3
-J Sports 1,mitv://135.148.104.228:19806/3bf47ad3b3514230bd24efe7178aee5e
-J Sports 2,mitv://135.148.104.228:19806/1dec0300cce54ba5853fd5aadc349595
-J Sports 3,mitv://135.148.104.228:19806/1a9fd30d67f8480490d1fe07440658b5
-J Sports 4,mitv://135.148.104.228:19806/f7915841f9c04692b3c336849b8ed00c
-BS12,mitv://135.148.104.228:19806/9a0e8e3bc32341738cd921467307e93e
-ゴルフネットワークHD,mitv://135.148.104.228:19806/df0994ae49fd4d138304ebcd700a9d1c
-時代劇専門チャンネル,mitv://135.148.104.228:19806/aaa4c8da4b0f4146a58012b64a9d1c06
-Music Japan TV,mitv://135.148.104.228:19806/7bbfd7a0233d4861943f8488dc21e075
-キッズステーションHD,mitv://135.148.104.228:19806/434d7c2079e341609cba49f816c81cf5
-ディスカバリーチャンネル,mitv://135.148.104.228:19806/c198ef50712d485d95ebf9c20935cfdb
-ナショナルジオグラフィック,mitv://135.148.104.228:19806/415d6f2939a74d34b80a151a959b1733
-日テレNEWS 24,mitv://135.148.104.228:19806/c7154b60dd934b43a1e42a0fc1b38734
-旅チャンネル,mitv://135.148.104.228:19806/bab71e3fb519479ea64543d006b8089f
-Arirang,mitv://135.148.104.228:19806/853704c2f9a442e7a1532038f14d8d00
-KBS1,mitv://135.148.104.228:19806/28676e413f2a477ababeae97e87ef855
-KBS2,mitv://135.148.104.228:19806/fa378d3829f643d2a87c4c754bbae507
-KBS Drama,mitv://135.148.104.228:19806/10263d570592484e864bf42334ba5a2f
-KBS Joy,mitv://135.148.104.228:19806/0a9a842f13284e848e7aa72af382c176
-SBS,mitv://135.148.104.228:19806/c8f25b3b0185407792640de06e8781df
-SBS Biz,mitv://135.148.104.228:19806/a99ade867d304779a5ac84ab89228575
-JTBC,mitv://135.148.104.228:19806/4e234cda667b42a8bc3081db3b08bfce
-EBS,mitv://135.148.104.228:19806/257252e5e0f749beb160af97e36d15d1
-YTN,mitv://135.148.104.228:19806/37e575278e574bc9a9fc598c733de125
-Mnet,mitv://135.148.104.228:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
-OCN,mitv://135.148.104.228:19806/0fae247ef984444d9149e2c20be2c8b3
-OCN Movies,mitv://135.148.104.228:19806/328994e1d61946198d921e2fe2bbc1a0
-TV Chosun,mitv://135.148.104.228:19806/f2bbdada428d45c298a039f3bdf0f12e
-MBC,mitv://135.148.104.228:19806/36faab63fc2e4983b559a7e8f2002e30
-MBN,mitv://135.148.104.228:19806/09dbf5da37f9450c9bca9c7dabadf2bd
-Tooniverse,mitv://135.148.104.228:19806/3c1da427c435451fa526abe4d1c5d446
-SPOTV,mitv://135.148.104.228:19806/d270398d5c9d4358a1fab94773d6b8d1
-JTBC GOLF,mitv://135.148.104.228:19806/7c397fb18c154c5f91e41a48fd3ab95c
-Channel 5,mitv://135.148.104.228:19806/68798aed16c6475180d6239acdecd888
-NBT,mitv://135.148.104.228:19806/4977f52edbae4d41b28fa28fb4bb8eb7
-TNN 16,mitv://135.148.104.228:19806/5fa63eddc30543879c96b0a0a08ea60d
-JKN 18,mitv://135.148.104.228:19806/5fa4254f665e421688ac293bd1dd1d59
-Voice TV,mitv://135.148.104.228:19806/565ee6db091d4f5eb249d8cfd88ff392
-Nation TV,mitv://135.148.104.228:19806/9006192061234d3abc002c9df98617a3
-Workpoint TV,mitv://135.148.104.228:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
-true4U,mitv://135.148.104.228:19806/70d07d9bf1594d1aafa109803f097fd5
-GMM 25,mitv://135.148.104.228:19806/7202eeef804f4338bcd118210a39a66b
-Channel 8,mitv://135.148.104.228:19806/3564da7fb0ea488cba5f0179145e0394
-Mono 29,mitv://135.148.104.228:19806/a8da70ef841f4aa29be21f4123b1e0a6
-MCOT,mitv://135.148.104.228:19806/84419b9f1d144bd687913e3739c10011
-ONE,mitv://135.148.104.228:19806/bbed53ec33024bafae4696ba4d589e2c
-Thairath TV,mitv://135.148.104.228:19806/c1db5ee1e01048bc9f7319cda9a530c6
-Channel 3,mitv://135.148.104.228:19806/9f2ed619044e4208b64ba52f7a8c0a80
-Amarin TV,mitv://135.148.104.228:19806/74f013c77d3b43bf875702f7177dba68
-Channel 7,mitv://135.148.104.228:19806/377bbd391f744a86a07d3d46e28db730
-PPTV,mitv://135.148.104.228:19806/46ff90c62cbb4bdfbccd3033a9268dcb
-Boomerang,mitv://135.148.104.228:19806/98ded4efebe2480fa7538e6bec832b7a
-Thai Parliament TV,mitv://135.148.104.228:19806/139a4607a0d24095a17ff2745cb2141d
-Thai PBS,mitv://135.148.104.228:19806/aeb8c0b2981e4f0fb69383eea64f5deb
-News 1,mitv://135.148.104.228:19806/4d7a0f009ed44250b371cf1a3b10c4b3
-Channel 4050,mitv://135.148.104.228:19806/03f62b6c560745a69e3580aaa3a32294
-TVB Thai,mitv://135.148.104.228:19806/7cf6f4e9806f4b6389d3a89af43cc256
-Bluesky,mitv://135.148.104.228:19806/c6490fe262bd4cf9a6bb3a3b82870495
-Top News,mitv://135.148.104.228:19806/8a46eec67bfa42f6abd4032f91d304bf
-ESPN,mitv://135.148.104.228:19806/2436baa9e481444fa785298d5931bdba
-600TV,mitv://135.148.104.228:19806/64c36a1900089f29fd2b824d6b4b65c1
-CBSN,mitv://135.148.104.228:19806/697a642115f74499aafe783d34690381
-新時代1(西部),mitv://135.148.104.228:19806/a3d06a9ecf30410582ad64ed15cdf6fd
-新時代2,mitv://135.148.104.228:19806/9bec2c434de742be96f4dcaeb6eb7c8f
-新時代1(東部),mitv://135.148.104.228:19806/28d014f7982c4041ab7197218b9c1284
-城市電視,mitv://135.148.104.228:19806/a18fbea7eddd4079b3e2e684d19df5c4
-Fox News,mitv://135.148.104.228:19806/5cdbb62f542843da8d140520a0a966bc
-BBC World News,mitv://135.148.104.228:19806/416eca57b45148398865fc4dabf40b72
-CNN USA,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CBC News,mitv://135.148.104.228:19806/7fbe49af6e5a4041ad124362351e4b20
-MSNBC,mitv://135.148.104.228:19806/27c4d56058c44a4e9c41a98a99a7bc13
-CTV News,mitv://135.148.104.228:19806/c48d5139ac954dbaa49a8b0e23af6e16
-Business News Network,mitv://135.148.104.228:19806/dc5be6cec9ba4284900e5670cbcae0bb
-CP24,mitv://135.148.104.228:19806/6186394bd1ff4b8b9757d542a9ca2e4b
-The Weather Network,mitv://135.148.104.228:19806/c556ed82dcc2453dabd398273651d952
-The Weather Channel,mitv://135.148.104.228:19806/499917ffa94444328d65744d929c1eb3
-KOMO 4 TV,mitv://135.148.104.228:19806/d09839dc0ae84712bb24938c634626fe
-NDTV,mitv://135.148.104.228:19806/3cfc82296d36480c90b721984f6f0e43
-CNN,mitv://135.148.104.228:19806/64e312b4000a495878d628702a9c2b2e
-Sky Sports Golf,mitv://135.148.104.228:19806/502e2c431333474a9bda98a37b5152f0
-Sky Sports Premier League,mitv://135.148.104.228:19806/89decf25269a434db9dd2d273ec8ce20
-Skynet Sports HD,mitv://135.148.104.228:19806/bed46bf659104994bce4af2689d0f33f
-Skynet Sports 2,mitv://135.148.104.228:19806/718e269958b34c50b0002287a141b4a1
-Skynet Sports 5,mitv://135.148.104.228:19806/27322e39817c464ea78d30ec736a843a
-Skynet Sports 6,mitv://135.148.104.228:19806/c93ca4c1b3894bc8b28d1d6f8e2516a6
-Sky Sports F1,mitv://135.148.104.228:19806/5c3a147369fb49bdb0a97859aef87b78
-Sky Sports Arena,mitv://135.148.104.228:19806/8519ae1db7da40149a83069cbfd48d23
-Sky Sports Main Event,mitv://135.148.104.228:19806/d80cfc5272f14b4bb675b1c8644ad4c7
-Sky Sports Cricket,mitv://135.148.104.228:19806/d342ec6589c24499b5f806408bea4ae8
-Sky Sports Action,mitv://135.148.104.228:19806/d627b2c21c264a13afa935d214060989
-
-港臺電視31,mitv://135.148.104.228:19806/46b5d17a4a76433fa3c8844ea592f1a4
-港臺電視32,mitv://135.148.104.228:19806/bf27a990692d464287ecbc83a985d4e8
-HOY TV,mitv://135.148.104.228:19806/66ae283536404e0fa8b242fdfc01fd6f
-﻿翡翠台(備),mitv://135.148.104.228:19806/24dc638011e14bd89916a5c771d27672
-J2,mitv://135.148.104.228:19806/83317d6eb99b446d95e359d676f16f36
-無線新聞台(備),mitv://135.148.104.228:19806/7c5dd5c227254e398d53ca1f86859340
-無線新聞台,mitv://135.148.104.228:19806/358bb32c3a944c65bbdf4d0aac3c3e10
-無線財經體育資訊台,mitv://135.148.104.228:19806/dca078faa0094424b00018fec18ef970
-ViuTVsix,mitv://135.148.104.228:19806/58d17467e46d4423bdfcb646eb8ac2f3
-ViuTV,mitv://135.148.104.228:19806/e6f715d7d15f4aa2bd3c9257aa7b95e3
-鳳凰中文台,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰信息台,mitv://135.148.104.228:19806/f793ad2fdd964b9d9018896a85234600
-鳳凰香港台,mitv://135.148.104.228:19806/cf189b4823b84184bae60783da5a1db3
-TVB星河(粵),mitv://135.148.104.228:19806/8c81917b79d247f3a60857411973d9a5
-澳門-MACAU,mitv://135.148.104.228:19806/17321a79191445889d2a718375d76471
-澳門蓮花,mitv://135.148.104.228:19806/eb6f04e66d8d46b7ab11bc2d38cae6f9
-now新聞台,mitv://135.148.104.228:19806/4ff1faddfb8a44829404ef27aaf0be35
-鳳凰電影台,mitv://135.148.104.228:19806/2f87c74949904bf5b59b0090ea24a86b
-HKC 18,mitv://135.148.104.228:19806/140377dc9e0848678d614d451d69af9e
-戲曲台,mitv://135.148.104.228:19806/64e1e6030000081f743f926825ac558c
-TVB娛樂新聞台,mitv://135.148.104.228:19806/86fe6741d7da4c59919680e5d9857450
-翡翠台,mitv://135.148.104.228:19806/220b49a6000a434b9ee6771a35c14f67
-千禧經典台,mitv://135.148.104.228:19806/82237250e487405d87030dd69457ddd8
-Thrill,mitv://135.148.104.228:19806/46537ab6e0be4f6384a750a856a1c045
-明珠台,mitv://135.148.104.228:19806/dbd02adcc2f54d85be7fff6f5c465b85
-香港國際財經台,mitv://135.148.104.228:19806/f09ac5d51854497593cf989f16dd97fc
-18台,mitv://135.148.104.228:19806/3fb4bcf94b124e15961f49dcde926da9
-now財經台,mitv://135.148.104.228:19806/b9f91cc1cb2543b0a4da323effe673e8
-美亞電影台(粵語),mitv://135.148.104.228:19806/6eac4ae393a34f7ca2da2a053a558ebb
-Hands Up,mitv://135.148.104.228:19806/e78b4e2900154414a93f2ccd57a18d04
-粵語片台,mitv://135.148.104.228:19806/887df0bf0d8d492d95b9c2fdf6cc9694
-亞洲劇台,mitv://135.148.104.228:19806/ddd1f7ef6ccc486eb861a1215115d7d2
-功夫台,mitv://135.148.104.228:19806/4c3f27dd7eb44be289557ccfb7c410b3
-HOY信息台,mitv://135.148.104.228:19806/415368ba86e14ffcbfb8eb75955909b6
-黃金翡翠台,mitv://135.148.104.228:19806/22725782a38d437cb56a92eede2d8c3b
-
-
-
 
 
 日本,#genre#
