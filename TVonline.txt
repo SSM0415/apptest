@@ -9100,7 +9100,7 @@ ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:ar
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
-MOVIE繁中院線_6677,#genre#
+Mov院線繁中_6677,#genre#
 沙贊-眾神之怒2023,https://111.253.137.206/share.cgi?ssid=91319ba61bf541ec8d80a0048ef304f6&ep=&fid=91319ba61bf541ec8d80a0048ef304f6&open=normal
 阿凡達-水之道2022,https://111.253.137.206/share.cgi?ssid=c1e2af329f9444b5b60577684e7fce7d&ep=&fid=c1e2af329f9444b5b60577684e7fce7d&open=normal
 鬼滅之刃劇場版 無限列車篇,https://nashongyu.myqnapcloud.com/share.cgi?ssid=4521521e9c904a41897e10828163f4fa&ep=&fid=4521521e9c904a41897e10828163f4fa&open=normal
