@@ -5,6 +5,7 @@
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"FOX資源","name":"FOX資源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"快車資源","name":"快車資源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"看看資源","name":"看看資源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"影圖資源","name":"影圖資源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -17,15 +18,6 @@
 {"key":"韓劇資源","name":"韓劇資源","type":1,"api":"http://www.hanjuzy.com/inc/api.php","searchable":0,"quickSearch":0},
 {"key":"愛追劇","name":"愛追劇","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/"},
 {"key":"飛速資源","name":"飛速資源","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{
-      "key": "非凡資源",
-      "name": "非凡資源🔪",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {"key":"天堂資源","name":"天堂資源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {"key":"橘貓資源","name":"橘貓資源","type":1,"api": "http://119.29.1.173/api.php/provide/vod/"},
 {"key":"夢憶影視","name":"夢憶影視","type":1,"api":"http://anltv.cn/api.php/provide/vod/"},
