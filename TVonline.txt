@@ -8881,53 +8881,20 @@ GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
-台深夜不穩定_8899,#genre#
-彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
-彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
-JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
+台深夜VIP_543,#genre#
 奥視1,http://125.227.210.55:20845/VideoInput/play.ts
 奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 奥視3,http://125.227.210.55:62697/VideoInput/play.ts
 驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
 香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
-🌲️松視1臺,P2p://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
-🌲️松視2臺,P2p://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
-🌲️松視3臺,P2p://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
-🍌️香蕉臺Banana,P2p://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
-🌈️彩虹e臺,P2p://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
-🌈️彩虹電影,P2p://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
-♥️潘朵啦玩美Perfec,P2p://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
-♥️驚豔電影臺Amazing,P2p://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
-💘️JSᴴᴰ極限臺,P2p://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
-💘️HAPPY,P2p://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
-♨️K 頻道,P2p://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
-🏴‍️Look HD,P2p://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
-♥️PLAYBOY,P2p://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
-彩虹e台,mitv://generationnexxxt.com:19806/a4300561216446a19f5961ee3ef2a86b
-彩虹電影台,mitv://generationnexxxt.com:19806/dcca7a3ec8544bc99a653ed5e197166f
-LOOK TV,mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/b00cc08302d742cf90f8934c6aff4922
-驚艷成人電影台,mitv://generationnexxxt.com:19806/ee2b6fde117b490d97f08b8cccb53b2b
-松視1台,mitv://generationnexxxt.com:19806/72e49275ae31449bb02e5e5267f5b11d
-松視2台,mitv://generationnexxxt.com:19806/7cdd5c5cb4504303a20c29777ab92ddb
-PLAYBOY,mitv://generationnexxxt.com:19806/ff05e3399b5f475aa01eaa69701bdf12
-香蕉台,mitv://generationnexxxt.com:19806/57247aea7c954ff590c5b3c2cc401071
-松視3台,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
-JStar極限台,mitv://generationnexxxt.com:19806/a2f3132a2bac4397bdf6b78321c5ed90
-HAPPY,mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e
-K,mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8
-
-
+94,http://220.135.124.158:8088/live/94_h265.ts
+95,http://220.135.124.158:8088/live/95_h265.ts
+96,http://220.135.124.158:8088/live/96_h265.ts
+97,http://220.135.124.158:8088/live/97_h265.ts
+98,http://220.135.124.158:8088/live/98_h265.ts
+99,http://220.135.124.158:8088/live/99_h265.ts
 
 歐美深夜_6677,#genre#
-BANG,http://qxtv.alwaysdata.net/ml.php?id=31
-vivid,http://94.156.59.247:8899/udp/224.2.1.115:1234
-PassionXXX,http://94.156.59.247:8899/udp/224.2.1.80:1234
-PinkOTV,http://94.156.59.247:8899/udp/224.2.1.33:1234
-PRIVETV,http://94.156.59.247:8899/udp/239.10.3.199:30000
-PinkOTV,http://94.156.59.247:8899/udp/224.2.1.33:1234
-EvilAngel,http://94.156.59.247:8899/udp/224.2.1.114:1234
-Penthouse,http://94.156.59.247:8899/udp/224.2.1.113:1234
 直播teen,http://live.mycamtv.com/teen.m3u8
 直播anal,http://live.mycamtv.com/anal.m3u8
 直播arab,http://live.mycamtv.com/arab.m3u8
