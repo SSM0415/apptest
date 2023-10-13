@@ -17,8 +17,20 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 澳門蓮花,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
+優視頻道,http://107.151.203.111:2209/135/hk.php?id=uchanneltv
+鳳凰中文HD,http://107.151.203.111:2209/135/hk.php?id=fhzw
+鳳凰資訊HD,http://107.151.203.111:2209/135/hk.php?id=fhzx
+香港衛視文旅,http://107.151.203.111:2209/135/hk.php?id=hk6
+耀才財經,http://107.151.203.111:2209/135/hk.php?id=bs
+有線新聞台,http://107.151.203.111:2209/135/hk.php?id=cable37h
+有線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=cable38h
+香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
+香港開電視,http://107.151.203.111:2209/135/hk.php?id=cable77h
 
 新聞,#genre#
+三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 三立新聞,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立LIVE,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
@@ -26,10 +38,11 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 民視新聞,http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
 非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 中天新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
-TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
-TVBS NEWS,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
-TVBS HD,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/tvbs/playlist.m3u8
+中天新聞,http://211.72.65.236:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
+中天新聞,http://103.45.68.47/gy/gy422/yg.php?id=WPfPjbOLNfE&p=720p
+TVBS新聞,http://220.135.124.158:8088/live/55_h265.ts
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS HD,http://220.135.124.158:8088/live/56_h265.ts
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
 東森新聞,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
@@ -38,19 +51,19 @@ TVBS HD,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/tvbs/pla
 三立iNEW+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-台視新聞,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-中視新聞,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
-壹新聞,mitv://generationnexxxt.com:19806/a84b87402809424bb947aea015bd6f34
+壹新聞,http://220.135.124.158:8088/live/23_h265.ts
+壹新聞,http://211.72.65.236:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-
+年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新聞,http://220.135.124.158:8088/live/50_h265.ts
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-鏡新聞Mnews,https://epg.pw/stream/495154de63dcea2a3028c43323b8c41fcba189c3de87d1d8232e7edd6b5e9856.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+鏡新聞Mnews,https://epg.pw/stream/495154de63dcea2a3028c43323b8c41fcba189c3de87d1d8232e7edd6b5e9856.m3u8
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 
-戲劇知識綜合,#genre#
+戲劇知識綜合_543,#genre#
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
@@ -65,7 +78,10 @@ NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 幸福空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 台灣戲劇,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+國家地理,http://220.135.124.158:8088/live/18_h265.ts
 Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+Discovery,http://220.135.124.158:8088/live/19_h265.ts
+TCL,http://220.135.124.158:8088/live/21_h265.ts
 動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 動物星球,http://211.23.114.106:8512/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
@@ -74,10 +90,14 @@ Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_1/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_1/chunklist.m3u8*~hmac=89f79f6442fed7c3b4bc9388123ebb72802d3aa1a6129f24d1a6d59f4fad72dd
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_2/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_2/chunklist.m3u8*~hmac=4d5a5a64d3a2099102a144761bc8c65b0f79b9b0421e984cbba7dde5dec1ccd3
+三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立都會,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
+緯來日本,http://220.135.124.158:8088/live/77_h265.ts
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 緯來育樂,http://211.23.114.106:8527/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+緯來育樂,http://220.135.124.158:8088/live/70_h265.ts
+國興衛視,http://220.135.124.158:8088/live/73_h265.ts
 八大電視,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
 八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
@@ -86,35 +106,46 @@ Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
-東森綜合,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8
+東森綜合,http://220.135.124.158:8088/live/32_h265.ts
+東森超視,http://220.135.124.158:8088/live/33_h265.ts
+衛視中文,http://220.135.124.158:8088/live/31_h265.ts
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
+中天綜合,http://220.135.124.158:8088/live/36_h265.ts
+東風37,http://220.135.124.158:8088/live/37_h265.ts
+Jet綜合,http://220.135.124.158:8088/live/45_h265.ts
+TVBS歡樂,http://220.135.124.158:8088/live/42_h265.ts
+年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 公視台語台,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
 大愛,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛2,http://gg.gg/HeNeiIPTV-Da_Ai_Er_Tai_HD
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 美國中文,https://jpts.sinovision.net/livestream.m3u8
 
 
-電影,#genre#
+
+電影_543,#genre#
 衛視電影,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
-HBO原創,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8
+HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-東森電影,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/ettvmovie/playlist.m3u8
 東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-龍祥時代,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8
+緯來電影,http://220.135.124.158:8088/live/63_h265.ts
+HBO,http://220.135.124.158:8088/live/65_h265.ts
+AXN,http://220.135.124.158:8088/live/67_h265.ts
+好萊塢電影,http://220.135.124.158:8088/live/68_h265.ts
+Star Movie,http://220.135.124.158:8088/live/69_h265.ts
+CINEMAX,http://220.135.124.158:8088/live/71_h265.ts
+StarWorld,http://220.135.124.158:8088/live/79_h265.ts
 
 體育,#genre#
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 緯來體育,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-緯來體育,rtmp://9sv2.mine.nu:1935/sat/tv721
-ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md041
-ELTA體育2,rtmp://9sv2.mine.nu/sat/md051
+ELEVEN1,http://220.135.124.158:8088/live/20_h265.ts
+ELEVEN2,http://220.135.124.158:8088/live/52_h265.ts
 
 兒童,#genre#
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
@@ -126,6 +157,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 親子動畫-DAVE&AVA(英),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 CN卡通,http://125.227.210.55:46493/VideoInput/play.ts
 ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+東森幼幼,http://220.135.124.158:8088/live/25_h265.ts
 
 港台測試1,#genre#
 民視,rtmp://9sv2.mine.nu:1935/sat/tv051
@@ -169,17 +201,146 @@ TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 嘉有總鋪師,http://61.58.60.230:9319/live/101.m3u8
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
-蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
-優視頻道,http://107.151.203.111:2209/135/hk.php?id=uchanneltv
-鳳凰中文HD,http://107.151.203.111:2209/135/hk.php?id=fhzw
-鳳凰資訊HD,http://107.151.203.111:2209/135/hk.php?id=fhzx
-香港衛視文旅,http://107.151.203.111:2209/135/hk.php?id=hk6
-耀才財經,http://107.151.203.111:2209/135/hk.php?id=bs
-有線新聞台,http://107.151.203.111:2209/135/hk.php?id=cable37h
-有線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=cable38h
-香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
-香港開電視,http://107.151.203.111:2209/135/hk.php?id=cable77h
+
+
+日本,#genre#
+TokyoMX1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+TokyoMX2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+MXLive,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+ShopChannel,https://stream3.shopch.jp/HLS/master.m3u8
+Jsport,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本購物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本購物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本購物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+
+
+韓國,#genre#
+SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+KNNSBS綜藝,http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w762151441.m3u8
+KBCSBS綜藝,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+TJBSBS綜藝,http://1.245.74.5:1935/live/tv/.m3u8
+MBC綜藝頻道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+EBS第一頻道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBS第二頻道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS加一頻道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS加二頻道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韓國EBS兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+朝鮮中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韓國阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+LuxuryWorld,http://nano.teleservice.su:8080/hls/luxury.m3u8
+韓國KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
+BBS불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+Korea:arirang1,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+Korea:arirang3,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+Arirang(KR)(Opt-2),http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+中國衛視,#genre#
+浙江衛視,http://61.219.170.95:18534/.m3u8
+湖南衛視,http://61.219.170.95:18536/.m3u8
+
+
+
+Mov院線繁中_6677,#genre#
+捍衛任務4 2023,https://111.253.137.206/share.cgi?ssid=989025c3fe96431782e171572bfd2988&ep=&fid=989025c3fe96431782e171572bfd2988&open=normal
+沙贊-眾神之怒2023,https://111.253.137.206/share.cgi?ssid=91319ba61bf541ec8d80a0048ef304f6&ep=&fid=91319ba61bf541ec8d80a0048ef304f6&open=normal
+阿凡達-水之道2022,https://111.253.137.206/share.cgi?ssid=c1e2af329f9444b5b60577684e7fce7d&ep=&fid=c1e2af329f9444b5b60577684e7fce7d&open=normal
+鬼滅之刃劇場版 無限列車篇,https://nashongyu.myqnapcloud.com/share.cgi?ssid=4521521e9c904a41897e10828163f4fa&ep=&fid=4521521e9c904a41897e10828163f4fa&open=normal
+秘境探險2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=586e0b60ef72426f85224861c6e321db&ep=&fid=586e0b60ef72426f85224861c6e321db&open=normal
+明日戰記2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=626b2bd25515423eb59d2782e19a6ae2&ep=&fid=626b2bd25515423eb59d2782e19a6ae2&open=normal
+黑豹2-瓦干達萬歲2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=522f80e7ade8421d8d8f2a32c2b09588&ep=&fid=522f80e7ade8421d8d8f2a32c2b09588&open=normal
+侏羅紀世界3-統霸天下2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=013c35f4824246a7a4cce05e13be56cc&ep=&fid=013c35f4824246a7a4cce05e13be56cc&open=normal
+小小兵2：格魯的崛起2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=aab41233ac2b476488dfae7ce8561e34&ep=&fid=aab41233ac2b476488dfae7ce8561e34&open=normal
+雷神索爾4-愛與雷霆2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=271c0af39c824989920ae9dc8a56f5b7&ep=&fid=271c0af39c824989920ae9dc8a56f5b7&open=normal
+奇異博士2-失控多重宇宙2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=d7c60563d07448a384c0031381389c92&ep=&fid=d7c60563d07448a384c0031381389c92&open=normal
+DC超級寵物軍團2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=8f8a320fb583445baea76cd98639ce88&ep=&fid=8f8a320fb583445baea76cd98639ce88&open=normal
+黑亞當,https://nashongyu.myqnapcloud.com/share.cgi?ssid=62e1d3c1498c42c686825b60fc6beb34&ep=&fid=62e1d3c1498c42c686825b60fc6beb34&open=normal
+怪獸與鄧不利多的秘密2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=69ed5d718982454588c4116f9b123c9c&ep=&fid=69ed5d718982454588c4116f9b123c9c&open=normal
+永恆族2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=c1f0322826b841d89946e13622627190&ep=&fid=c1f0322826b841d89946e13622627190&open=normal
+咒術迴戰0劇場版2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aba89a41c3244c3b735c485b8a19a31&ep=&fid=0aba89a41c3244c3b735c485b8a19a31&open=normal
+叢林奇航2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0lwJs46&ep=&fid=0lwJs46&open=normal
+路卡的夏天2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0aIX5X0&ep=&fid=0aIX5X0&open=normal
+黑寡婦2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0ZgeVir&ep=&fid=0ZgeVir&open=normal
+自殺突擊隊-集結2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=0oJdZpf&ep=&fid=0oJdZpf&open=normal
+猛毒2-血蜘蛛2021,https://nashongyu.myqnapcloud.com/share.cgi?ssid=01c759aa17934c6eaefa3d99bc588212&ep=&fid=01c759aa17934c6eaefa3d99bc588212&open=normal
+冰雪奇緣2 2019,https://nashongyu.myqnapcloud.com/share.cgi?ssid=792975685a2f4d1885ab10f4bd0bdf14&ep=&fid=792975685a2f4d1885ab10f4bd0bdf14&open=normal
+
+
+MOVIE簡中,#genre#
+扶桑花女孩,https://vip.lz-cdn7.com/20230223/14473_34758120/index.m3u8
+醜女大翻身,https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
+聊齋畫壁,https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
+
+
+GOOD系列,#genre#
+GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD共享觀點,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD經典音樂,http://live.streamingfast.net/osmflivech6.m3u8
+GOOD禱告大軍,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD幸福學堂,http://live.streamingfast.net/osmflivech8.m3u8
+GOOD愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
+GOOD孫叔唱副歌,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD真情之夜,http://live.streamingfast.net/osmflivech15.m3u8
+GOOD葉光明,http://live.streamingfast.net/osmflivech16.m3u8
+GOOD大衛鮑森,http://live.streamingfast.net/osmflivech17.m3u8
+GOOD國際講員,http://live.streamingfast.net/osmflivech18.m3u8
+GOOD共享觀點,http://live.streamingfast.net/osmflivech19.m3u8
+GOOD恩典時分,http://live.streamingfast.net/osmflivech20.m3u8
+GOOD華語講員,http://live.streamingfast.net/osmflivech21.m3u8
+GOOD職場新視野,http://live.streamingfast.net/osmflivech22.m3u8
+GOOD空中主日學生活,http://live.streamingfast.net/osmflivech23.m3u8
+GOOD劉三講古,http://live.streamingfast.net/osmflivech24.m3u8
+GOOD福氣人生,http://live.streamingfast.net/osmflivech25.m3u8
+GOOD空中主日學查經,http://live.streamingfast.net/osmflivech26.m3u8
+GOOD空中聖經學院,http://live.streamingfast.net/osmflivech27.m3u8
+GOOD詩歌精選,http://live.streamingfast.net/osmflivech28.m3u8
+GOOD經典音樂河,http://live.streamingfast.net/osmflivech29.m3u8
+GOOD敬拜讚美音樂,http://live.streamingfast.net/osmflivech30.m3u8
+GOOD福音佈道音樂會,http://live.streamingfast.net/osmflivech31.m3u8
+GOOD特會系列：禱告與轉化,http://live.streamingfast.net/osmflivech32.m3u8
+GOOD特會系列：研經培靈,http://live.streamingfast.net/osmflivech33.m3u8
+GOOD天國文化特會,http://live.streamingfast.net/osmflivech34.m3u8
+GOOD天父的心,http://live.streamingfast.net/osmflivech35.m3u8
+GOOD特會系列：醫治釋放,http://live.streamingfast.net/osmflivech36.m3u8
+GOOD特會系列：以色列專題,http://live.streamingfast.net/osmflivech37.m3u8
+GOOD特會系列：末世信息,http://live.streamingfast.net/osmflivech38.m3u8
+GOOD全家歸主有良方,http://live.streamingfast.net/osmflivech39.m3u8
+GOOD轉轉發現愛,http://live.streamingfast.net/osmflivech40.m3u8
+GOOD幸福學堂,http://live.streamingfast.net/osmflivech41.m3u8
+GOOD愛+醫生,http://live.streamingfast.net/osmflivech42.m3u8
+GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech43.m3u8
+GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech44.m3u8
+GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
+GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
+GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
+GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
+
+台深夜VIP_543,#genre#
+奥視1,http://125.227.210.55:20845/VideoInput/play.ts
+奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+奥視3,http://125.227.210.55:62697/VideoInput/play.ts
+驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
+香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
+94,http://220.135.124.158:8088/live/94_h265.ts
+95,http://220.135.124.158:8088/live/95_h265.ts
+96,http://220.135.124.158:8088/live/96_h265.ts
+97,http://220.135.124.158:8088/live/97_h265.ts
+98,http://220.135.124.158:8088/live/98_h265.ts
+99,http://220.135.124.158:8088/live/99_h265.ts
 
 🌙月光寶盒,#genre#
 鳳凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
