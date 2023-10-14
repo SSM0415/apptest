@@ -35,16 +35,14 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 三立新聞,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立LIVE,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 民視新聞,http://211.23.114.106:8516/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-民視新聞,http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
+民視新聞,http://tv.redrainl.site:9500/live.m3u8?c=01
 非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 中天新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 中天新聞,http://211.72.65.236:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
-中天新聞,http://103.45.68.47/gy/gy422/yg.php?id=WPfPjbOLNfE&p=720p
 TVBS新聞,http://220.135.124.158:8088/live/55_h265.ts
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS HD,http://220.135.124.158:8088/live/56_h265.ts
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-東森新聞,http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
 東森新聞,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
 東森財經,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經,rtmp://9sv2.mine.nu:1935/sat/tv571
@@ -139,6 +137,12 @@ AXN,http://220.135.124.158:8088/live/67_h265.ts
 Star Movie,http://220.135.124.158:8088/live/69_h265.ts
 CINEMAX,http://220.135.124.158:8088/live/71_h265.ts
 StarWorld,http://220.135.124.158:8088/live/79_h265.ts
+HBO,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/hbohd_twn/playlist.m3u8
+HBO強檔巨獻,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/hbohead_twn/playlist.m3u8
+HBO原創巨獻,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8
+美亞電影,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8
+緯來電影,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/videolandmovie/playlist.m3u8
+龍祥時代,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8
 
 體育,#genre#
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
@@ -146,6 +150,9 @@ StarWorld,http://220.135.124.158:8088/live/79_h265.ts
 緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 ELEVEN1,http://220.135.124.158:8088/live/20_h265.ts
 ELEVEN2,http://220.135.124.158:8088/live/52_h265.ts
+ELTA體育1台,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+ELTA體育2台,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
+ELTA體育3台,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 
 兒童,#genre#
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
