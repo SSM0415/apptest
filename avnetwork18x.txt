@@ -22,6 +22,7 @@
 {"key":"JAV資源","name":"JAV資源🔪","type":0,"api":"http://mygzycj.com/api.php?ac=list"},
 {"key":"久久資源","name":"久久資源🔪","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist"},
 {"key":"樂播資源","name":"樂播資源🔪","type":1,"api":"https://lbapi9.com/api.php/provide/vod/"},
+{"key":"色猫資源", "name":"色猫資源", "type": 1, "api": "https://api.maozyapi.com/inc/apijson_vod.php", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key":"樂","name":"懷🔪","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"速","name":"GGMM🔪","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"番","name":"番🔪","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
