@@ -39,8 +39,6 @@
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"zp024","name":"🔞BT天堂-倫理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"皇冠資源","name":"🔪皇冠資源","type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"🐛黄色倉庫","quickSearch":1,"searchable":1,"playerType":2,"type":3,"jar":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/xxx.jar"},
-{"key": "csp_xf_18av","name": "️🐛18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2,"ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/18av.json"},
 {"key":"色貓","name":"色貓🔪","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
 {"key":"蛋蛋視頻","name":"蛋蛋視頻🔪","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"番號資源","name":"番號資源🔪","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
