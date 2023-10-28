@@ -6267,13 +6267,9 @@ EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
 dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿裡郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿裡郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
-💞密碼獲取,#genre#
-公眾號,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
-寶盒沒寶,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
-回復VIP,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
-獲取密碼,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 
-🌙彎彎測試_8,#genre#
+
+🌙彎彎測試_007,#genre#
 民視,http://193.233.206.48:8090/live/rx4/26/0bb68afaa2010b3b0dc639873b9695b8/index.m3u8
 民視,http://193.233.206.48:8090/live/rx1/336/c600ea75e49a4f280d11cbcc7b38b94d/index.m3u8
 民視,http://193.233.206.48:8090/live/rx1/2805/bc0da2ab74f7a07b823c24a1a854926c/index.m3u8
@@ -6430,7 +6426,7 @@ MOMO親子,http://193.233.206.48:8090/live/rx3/1126/232e20e0b408e834ae054f7b0092
 CN卡通,http://193.233.206.48:8090/live/rx1/107/cd327321ac4444c8d1a0a76dea0c0817/index.m3u8
 靖洋卡通,http://193.233.206.48:8090/live/rx1/348/3aedbbe263e6b67f2b37b113cdbd7577/index.m3u8
 靖天卡通,http://193.233.206.48:8090/live/rx1/344/0dcc5f284d5eb8f401c8c5673f3b187c/index.m3u8
-🌈GA測試_8,#genre#
+🌈GA測試_007,#genre#
 TVB翡翠,http://193.233.206.48:8090/live/rx1/390/bb0d36677c7a291adf9a430758ce4ac7/index.m3u8
 TVB翡翠,http://193.233.206.48:8090/live/rx1/30/d2dcaf311a9a473d75a340cfcda170cb/index.m3u8
 TVB明珠,http://193.233.206.48:8090/live/rx1/2437/60f6d630f969e14ada0c4ff4e424733e/index.m3u8
@@ -6477,7 +6473,7 @@ TVB經典,http://193.233.206.48:8090/live/rx3/1083/3fc3db238b48101adf0398e72c424
 TVB E-NEWS,http://193.233.206.48:8090/live/rx4/2462/2af285d41656b3bb7474356a97088c6a/index.m3u8
 TVB星河··備,http://193.233.206.48:8090/live/rx4/2463/d360c4ac7b08f30fe5ca678416d79009/index.m3u80990
 
-🐼馬來西亞測試_8,#genre#
+🐼馬來西亞測試_007,#genre#
 AEC,http://193.233.206.48:8090/live/rx3/433/db48d556332da4b451b5d2b98daf23ea/index.m3u8
 AEC,http://193.233.206.48:8090/live/rx3/2745/8bae758332371b30653ed5c57f228bc1/index.m3u8
 TV2,http://193.233.206.48:8090/live/rx3/436/f1ff90d329e477714846702758c62f68/index.m3u8
@@ -6511,7 +6507,7 @@ Vasantham,http://193.233.206.48:8090/live/rx3/1078/358bdb9d6cfabdca43eea1ff6c902
 Suria,http://193.233.206.48:8090/live/rx3/1076/8a6380cde65b41ddfe1630aeb29cf7ba/index.m3u8
 AXN,http://193.233.206.48:8090/live/rx3/1044/ff482c79fc7e979751d5a33dda280d52/index.m3u8
 BNC,http://193.233.206.48:8090/live/rx3/1045/d0289987867740ee3877a25df9344d1c/index.m3u8
-💘新加坡測試_8,#genre#
+💘新加坡測試_007,#genre#
 ASTRO OASIS,http://193.233.206.48:8090/live/rx4/2440/1726565a6d1f656594fc10f46753a070/index.m3u8
 TV ALHIJRAH,http://193.233.206.48:8090/live/rx4/2442/8f74ae74506df0b71462afd78e61074d/index.m3u8
 ADITHYA,http://193.233.206.48:8090/live/rx4/2445/a34daf879647c58aca41314708c70faf/index.m3u8
@@ -6573,7 +6569,7 @@ BBC Lifestyle,http://193.233.206.48:8090/live/rx4/2534/32c90e3c77071491a3d9ee548
 BOO,http://193.233.206.48:8090/live/rx4/2538/995ac91738d95ba890b370b3025562e1/index.m3u8
 PrimeTime,http://193.233.206.48:8090/live/rx4/2539/0997469f1416c6ad50ad9beeeb1a301e/index.m3u8
 Astro Aura,http://193.233.206.48:8090/live/rx4/2542/e24636c1fe5f56c6c5e5f69aa50b02dc/index.m3u8
-☁️新聞測試_8,#genre#
+☁️新聞測試_007,#genre#
 無線新聞台(備),mitv://generationnexxxt.com:19806/dfe0352f4325442ab92e283086c52a96
 無線新聞台,mitv://generationnexxxt.com:19806/2053db4a28a84a93b2dd5927fab6fa06
 無線財經體育資訊台,mitv://generationnexxxt.com:19806/7c9b0ce146db431f89f88eabee58918c
@@ -6627,7 +6623,7 @@ CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
 The Weather Network,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
 The Weather Channel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 
-電影_8,#genre#
+電影_007,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/417e410840104cf8bd50480fcf2d7bf7
 天映頻道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 天映經典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
@@ -6678,10 +6674,7 @@ EYE TV戲劇台,mitv://generationnexxxt.com:19806/f0de2ebba97c423fb1346753af8284
 亞洲劇台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 
 
-
-
-
-💞GA測試1_007,#genre#
+GA測試1_007,#genre#
 thai3,http://198.16.100.90:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
 itv 2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
 iNews 新聞台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
@@ -8536,48 +8529,6 @@ DE Penthouse Passion HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20025
 DE Playboy Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20026/index.m3u8
 CineMan ExExEx,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20089/index.m3u8
 CineMan ExExEx TWO,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20090/index.m3u8
-
-
-
-日本,#genre#
-TokyoMX1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-TokyoMX2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-MXLive,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-ShopChannel,https://stream3.shopch.jp/HLS/master.m3u8
-Jsport,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
-日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日本購物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-日本購物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-日本購物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-
-
-韓國,#genre#
-SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-KNNSBS綜藝,http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w762151441.m3u8
-KBCSBS綜藝,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-TJBSBS綜藝,http://1.245.74.5:1935/live/tv/.m3u8
-MBC綜藝頻道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-NBS農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-EBS第一頻道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-EBS第二頻道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-EBS加一頻道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS加二頻道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-韓國EBS兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-朝鮮中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韓國阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-LuxuryWorld,http://nano.teleservice.su:8080/hls/luxury.m3u8
-韓國KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
-BBS불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-Korea:arirang1,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-Korea:arirang3,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-Arirang(KR)(Opt-2),http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
-ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
 GOOD系列,#genre#
