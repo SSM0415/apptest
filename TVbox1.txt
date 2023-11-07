@@ -24,7 +24,7 @@
 //{"key":"聚合资源","name":"聚合资源(切)","type":1,"api":"https://ziyuan.juhesys.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hpbnlpMTk4NC9zaG9ydF9seXN0di9tYWluLyVFNSVCRCVCMSVFOCVBNyU4Ni90dmIvbGZfbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/SunAwy/1/826cbb02500db3e275a117545bbac628806ee910/lf_live.txt"]}]}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
