@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/xTVbox2.txt",
             "name": "自用線路1-TV"
         },    
         {
@@ -13,7 +13,7 @@
             "name": "資源線路2"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/xavnetwork18x.txt",
             "name": "線路2-AV"
         },
         {
