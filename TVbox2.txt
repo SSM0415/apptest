@@ -4,7 +4,7 @@
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "MV_vod","name": "🎧明星MV","type": 1,"api": "https://mv.饭太硬.ml/mv/vod","searchable": 1,"quickSearch": 0,"changeable": 0},
+{"key": "MV_vod","name":"🎧明星MV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"快車資源","name":"快車資源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"看看資源","name":"看看資源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
