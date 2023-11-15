@@ -1,6 +1,7 @@
 {
 "spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider": "https://raw.fgit.cf/bluefriendCN/bin/main/Yoursmile.jar;md5;282C31437FAD9E7959CC2E06E7705930",
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
