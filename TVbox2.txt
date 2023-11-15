@@ -36,6 +36,7 @@
 {"key":"魚樂資源","name":"魚樂資源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快播資源","name":"快播資源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"紅牛資源","name":"紅牛資源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 {"key": "csp_xpath_kuqimv","name": "🌈經典MV","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%BB%8F%E5%85%B8MV.json"},
 {"key": "演唱会","name": "演唱會","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
 {"key":"南國影源","name":"南國影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1}
