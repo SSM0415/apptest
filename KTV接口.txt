@@ -1,9 +1,10 @@
 {
 "spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider": "https://raw.fgit.cf/bluefriendCN/bin/main/Yoursmile.jar;md5;282C31437FAD9E7959CC2E06E7705930",
 "sites": [ 
-{"key":"U酷資源","name":"ktv1資源","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1},
-{"key":"量子資源","name":"k2資源","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":1}
+{"key":"U酷資源","name":"KTV1資源","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1},
+{"key":"量子資源","name":"KTV2備資源","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":1}
   ]
 }
 "parses":[
