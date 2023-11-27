@@ -283,6 +283,7 @@
         "type": "rect",
         "ratio": 1.33
     }
+    },
 {
       "key": "push_agent",
       "name": "推送",
@@ -291,7 +292,6 @@
       "searchable": 1,
       "changeable": 0
     }
-    },
   ],
 
   "rules": [
