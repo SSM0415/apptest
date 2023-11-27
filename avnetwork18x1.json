@@ -277,13 +277,14 @@
       "name": "afasu",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 1,
+     "searchable": 1,
       "recordable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }
+    }
   ],
+
   "rules": [
     {
       "name": "量子廣告",
