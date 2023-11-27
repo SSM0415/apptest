@@ -94,7 +94,7 @@
     },
     {
       "key": "apilj.com",
-      "name": "成人01",
+      "name": "辣椒",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -106,7 +106,7 @@
     },
     {
       "key": "dadiapi.com",
-      "name": "成人02",
+      "name": "大地",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
@@ -118,7 +118,7 @@
     },
     {
       "key": "91md.me",
-      "name": "成人03",
+      "name": "91麻豆",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -130,7 +130,7 @@
     },
     {
       "key": "bttcj.com",
-      "name": "成人05",
+      "name": "博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -142,7 +142,7 @@
     },
     {
       "key": "cjmygzy.com",
-      "name": "成人06",
+      "name": "JAV",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -154,7 +154,7 @@
     },
     {
       "key": "api.sexnguon.com",
-      "name": "成人07",
+      "name": "sexnguon",
       "type": 1,
       "api": "http://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
@@ -166,7 +166,7 @@
     },
     {
       "key": "feifei67.com",
-      "name": "成人08",
+      "name": "CK",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,
@@ -178,7 +178,7 @@
     },
      {
       "key": "ggmmzy.com",
-      "name": "成人11",
+      "name": "ggmmzy",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
@@ -190,7 +190,7 @@
     },
     {
       "key": "madouse.la",
-      "name": "成人13",
+      "name": "麻豆",
       "type": 1,
       "api": "http://madouse.la/api.php/provide/vod/",
       "searchable": 1,
@@ -202,7 +202,7 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "成人15",
+      "name": "色貓",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -214,7 +214,7 @@
     },
     {
       "key": "msnii.com",
-      "name": "成人16",
+      "name": "msnii",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -226,7 +226,7 @@
     },
     {
       "key": "gdlsp.com",
-      "name": "成人17",
+      "name": "gdlsp",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -238,7 +238,7 @@
     },
     {
       "key": "kxgav.com",
-      "name": "成人19",
+      "name": "kxgav",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -250,7 +250,7 @@
     },
     {
       "key": "xrbsp.com",
-      "name": "成人20",
+      "name": "xrbsp",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -262,7 +262,7 @@
     },
     {
       "key": "pgxdy.com",
-      "name": "成人21",
+      "name": "pgxdy",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -274,7 +274,7 @@
     },
     {
       "key": "afasu.com",
-      "name": "成人22",
+      "name": "afasu",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
       "searchable": 1,
