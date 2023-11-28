@@ -1,5 +1,6 @@
 {
 "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;f4fa24d313b7290001db8ef49bd8ae0b",
+"spider": "https://raw.fgit.cf/bluefriendCN/bin/main/Yoursmile.jar;md5;282C31437FAD9E7959CC2E06E7705930",
 "wallpaper": "https://gao.chuqiuyu.tk",
 "sites": [
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
