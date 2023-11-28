@@ -1,9 +1,7 @@
 {
 "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;f4fa24d313b7290001db8ef49bd8ae0b",
-"spider": "https://raw.fgit.cf/bluefriendCN/bin/main/Yoursmile.jar;md5;282C31437FAD9E7959CC2E06E7705930",
 "wallpaper": "https://gao.chuqiuyu.tk",
 "sites": [
-{"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"ext": "1"},
 {"key": "量子","name": "量子","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key": "非凡","name": "非凡","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
