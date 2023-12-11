@@ -1,8 +1,7 @@
 調整5/3開,#genre#
 港澳,#genre#
 澳視葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+鳳凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/.m3u8
 澳視澳門,http://61.244.22.4/ch1/ch1.live/index.m3u8
 澳視葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳門macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
@@ -11,21 +10,8 @@
 澳門Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳門蓮花衛視,http://nettvpro.live/hls/lotustv.php
 ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-鳳凰資訊,https://pull-l3-cny.douyincdn.com/live/stream-19882782023040423501.m3u8
-澳門蓮花,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
-翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
-J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
-優視頻道,http://107.151.203.111:2209/135/hk.php?id=uchanneltv
-鳳凰中文HD,http://107.151.203.111:2209/135/hk.php?id=fhzw
-鳳凰資訊HD,http://107.151.203.111:2209/135/hk.php?id=fhzx
-香港衛視文旅,http://107.151.203.111:2209/135/hk.php?id=hk6
-耀才財經,http://107.151.203.111:2209/135/hk.php?id=bs
-有線新聞台,http://107.151.203.111:2209/135/hk.php?id=cable37h
-有線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=cable38h
-香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
-香港開電視,http://107.151.203.111:2209/135/hk.php?id=cable77h
+鳳凰資訊,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/.m3u8
+
 
 新聞,#genre#
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -324,6 +310,76 @@ TVBS歡樂台,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262
 龍華戲劇,http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a36497920f95fd
 龍華戲劇,http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b
 
+台灣2,#genre#
+台視HD,http://47.242.38.45:9999/twjd678-1.php?id=1
+中視HD,http://47.242.38.45:9999/twjd678-1.php?id=2
+華視HD,http://47.242.38.45:9999/twjd678-1.php?id=3
+民視HD,http://47.242.38.45:9999/twjd678-1.php?id=4
+公視,http://47.242.38.45:9999/twjd678-1.php?id=5
+人間衛視,http://47.242.38.45:9999/twjd678-1.php?id=6
+大愛電視,http://47.242.38.45:9999/twjd678-1.php?id=7
+好消息GOOD TV,http://47.242.38.45:9999/twjd678-1.php?id=8
+國家地理HD,http://47.242.38.45:9999/twjd678-1.php?id=9
+DISCOVERY,http://47.242.38.45:9999/twjd678-1.php?id=10
+旅遊生活,http://47.242.38.45:9999/twjd678-1.php?id=11
+動物星球,http://47.242.38.45:9999/twjd678-1.php?id=12
+亞洲旅遊,http://47.242.38.45:9999/twjd678-1.php?id=13
+momo親子台,http://47.242.38.45:9999/twjd678-1.php?id=14
+東森幼幼HD,http://47.242.38.45:9999/twjd678-1.php?id=15
+龍華卡通台,http://47.242.38.45:9999/twjd678-1.php?id=16
+緯來綜合HD,http://47.242.38.45:9999/twjd678-1.php?id=17
+八大第一HD,http://47.242.38.45:9999/twjd678-1.php?id=18
+八大綜合HD,http://47.242.38.45:9999/twjd678-1.php?id=19
+三立台灣HD,http://47.242.38.45:9999/twjd678-1.php?id=20
+三立都會HD,http://47.242.38.45:9999/twjd678-1.php?id=21
+衛視中文HD,http://47.242.38.45:9999/twjd678-1.php?id=22
+東森綜合HD,http://47.242.38.45:9999/twjd678-1.php?id=23
+超視HD,http://47.242.38.45:9999/twjd678-1.php?id=24
+中天綜合HD,http://47.242.38.45:9999/twjd678-1.php?id=25
+中天娛樂HD,http://47.242.38.45:9999/twjd678-1.php?id=26
+東風衛視,http://47.242.38.45:9999/twjd678-1.php?id=27
+MUCH TV,http://47.242.38.45:9999/twjd678-1.php?id=28
+東森戲劇HD,http://47.242.38.45:9999/twjd678-1.php?id=29
+八大戲劇HD,http://47.242.38.45:9999/twjd678-1.php?id=30
+TVBS歡樂HD,http://47.242.38.45:9999/twjd678-1.php?id=31
+緯來戲劇,http://47.242.38.45:9999/twjd678-1.php?id=32
+龍華戲劇台,http://47.242.38.45:9999/twjd678-1.php?id=33
+龍華日韓劇,http://47.242.38.45:9999/twjd678-1.php?id=34
+龍華偶像劇,http://47.242.38.45:9999/twjd678-1.php?id=35
+緯來日本HD,http://47.242.38.45:9999/twjd678-1.php?id=36
+Taiwan Plus,http://47.242.38.45:9999/twjd678-1.php?id=37
+年代新聞,http://47.242.38.45:9999/twjd678-1.php?id=38
+東森新聞HD,http://47.242.38.45:9999/twjd678-1.php?id=39
+中天新聞,http://47.242.38.45:9999/twjd678-1.php?id=40
+民視新聞,http://47.242.38.45:9999/twjd678-1.php?id=41
+三立新聞HD,http://47.242.38.45:9999/twjd678-1.php?id=42
+TVBS新聞HD,http://47.242.38.45:9999/twjd678-1.php?id=43
+TVBS HD,http://47.242.38.45:9999/twjd678-1.php?id=44
+非凡新聞,http://47.242.38.45:9999/twjd678-1.php?id=45
+非凡商業,http://47.242.38.45:9999/twjd678-1.php?id=46
+東森財經HD,http://47.242.38.45:9999/twjd678-1.php?id=47
+寰宇新聞,http://47.242.38.45:9999/twjd678-1.php?id=48
+壹新聞,http://47.242.38.45:9999/twjd678-1.php?id=49
+Bloomberg News,http://47.242.38.45:9999/twjd678-1.php?id=50
+NHK世界HD,http://47.242.38.45:9999/twjd678-1.php?id=51
+衛視電影HD,http://47.242.38.45:9999/twjd678-1.php?id=52
+好萊塢電影HD,http://47.242.38.45:9999/twjd678-1.php?id=53
+緯來電影HD,http://47.242.38.45:9999/twjd678-1.php?id=54
+龍華電影台,http://47.242.38.45:9999/twjd678-1.php?id=55
+HBO,http://47.242.38.45:9999/twjd678-1.php?id=56
+AXN,http://47.242.38.45:9999/twjd678-1.php?id=57
+CINEMAX HD,http://47.242.38.45:9999/twjd678-1.php?id=58
+STAR MOVIES GOLD,http://47.242.38.45:9999/twjd678-1.php?id=59
+Star World,http://47.242.38.45:9999/twjd678-1.php?id=60
+緯來育樂HD,http://47.242.38.45:9999/twjd678-1.php?id=61
+緯來體育HD,http://47.242.38.45:9999/twjd678-1.php?id=62
+博斯運動一,http://47.242.38.45:9999/twjd678-1.php?id=63
+momo 綜合台,http://47.242.38.45:9999/twjd678-1.php?id=64
+ELEVEN SPORTS 1 HD,http://47.242.38.45:9999/twjd678-1.php?id=65
+ELEVEN SPORTS 2 HD,http://47.242.38.45:9999/twjd678-1.php?id=66
+鳯凰衛視資訊,http://47.242.38.45:9999/twjd678-1.php?id=67
+鳯凰衛視中文,http://47.242.38.45:9999/twjd678-1.php?id=68
+
 
 麒麟馬來新,#genre#
 TV1,mitv://generationnexxxt.com:19806/9e0eceaf93854a4eb3d9ae2dcf60141c
@@ -593,9 +649,30 @@ CCTV4,http://59.125.122.90:18633/.m3u8
 湖南衛視,http://gwtv.cnv8.tv:8097/hunan_twn/playlist.m3u8?tid=MC9C7618917276189172&ct=19226&tsum=2610487b0e9424def632889e
 廣西衛視,http://gwtv.cnv8.tv:8097/guangxi/playlist.m3u8?tid=MB5B3787443737874437&ct=19226&tsum=fff4886674a160d3d575159
 四川衛視,http://gwtv.cnv8.tv:8097/sichuan_twn/playlist.m3u8?tid=MD4D5174810351748103&ct=19226&tsum=dd620e398eb2b4fdcc3a06573d
+北京衛視,http://47.242.38.45:9999/ysp.php?id=bjws
+東方衛視,http://47.242.38.45:9999/ysp.php?id=dfws
+重慶衛視,http://47.242.38.45:9999/ysp.php?id=cqws
+黑龍江衛視,http://47.242.38.45:9999/ysp.php?id=hljws
+遼寧衛視,http://47.242.38.45:9999/ysp.php?id=lnws
+山東衛視,http://47.242.38.45:9999/ysp.php?id=sdws
+安徽衛視,http://47.242.38.45:9999/ysp.php?id=ahws
+河南衛視,http://47.242.38.45:9999/ysp.php?id=henws
+湖北衛視,http://47.242.38.45:9999/ysp.php?id=hubws
+湖南衛視,http://47.242.38.45:9999/ysp.php?id=hunws
+江西衛視,http://47.242.38.45:9999/ysp.php?id=jxws
+江蘇衛視,http://47.242.38.45:9999/ysp.php?id=jsws
+浙江衛視,http://47.242.38.45:9999/ysp.php?id=zjws
+東南衛視,http://47.242.38.45:9999/ysp.php?id=dnws
+廣東衛視,http://47.242.38.45:9999/ysp.php?id=gdws
+深圳衛視,http://47.242.38.45:9999/ysp.php?id=szws
+廣西衛視,http://47.242.38.45:9999/ysp.php?id=gxws
+貴州衛視,http://47.242.38.45:9999/ysp.php?id=gzws
+四川衛視,http://47.242.38.45:9999/ysp.php?id=scws
+海南衛視,http://47.242.38.45:9999/ysp.php?id=hinws
+天津衛視,http://47.242.38.45:9999/ysp.php?id=tjws
+新疆衛視,http://47.242.38.45:9999/ysp.php?id=xjws
 
-
-Mov院線繁中_6677,#genre#
+Mov院線繁中_7788,#genre#
 捍衛任務4 2023,https://nashongyu.myqnapcloud.com/share.cgi?ssid=989025c3fe96431782e171572bfd2988&ep=&fid=989025c3fe96431782e171572bfd2988&open=normal
 沙贊-眾神之怒2023,https://nashongyu.myqnapcloud.com/share.cgi?ssid=91319ba61bf541ec8d80a0048ef304f6&ep=&fid=91319ba61bf541ec8d80a0048ef304f6&open=normal
 阿凡達-水之道2022,https://nashongyu.myqnapcloud.com/share.cgi?ssid=c1e2af329f9444b5b60577684e7fce7d&ep=&fid=c1e2af329f9444b5b60577684e7fce7d&open=normal
@@ -1315,6 +1392,7 @@ TLC旅遊生活,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A59040822
 TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 TVBJ2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 緯來體育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+
 
 
 彩虹頻道_007,#genre#
