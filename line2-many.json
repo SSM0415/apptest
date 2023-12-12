@@ -1,24 +1,24 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/xTVbox2.txt",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
             "name": "自用線路1-TV"
         },    
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/line1-tvbox.json",
-            "name": "資源線路1"
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
+            "name": "自用線路1-AV"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
-            "name": "資源線路2"
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
+            "name": "自用線路2-AV"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/xavnetwork18x.txt",
-            "name": "線路2-AV"
+            "url": "https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h",
+            "name": "資源線路3-18+"
         },
         {
-            "url": "http://刚刚.live/猫",
-            "name": "💖刚刚〔多条线路〕"
+            "url": "https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
+            "name": "線路3-AV"
         },
         {
             "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
