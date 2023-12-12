@@ -24,6 +24,15 @@
 {"key":"色猫資源", "name":"色猫資源", "type": 1, "api": "https://api.maozyapi.com/inc/apijson_vod.php", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "155資源", "name": "155資源", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "雪豹資源", "name": "雪豹資源", "type": 1, "api": "https://api.xbapi.cc/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
+    {
+      "key": "博民資源",
+      "name": "💖博民資源🔪",
+      "type": 1,
+      "api": "https://www.bominzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {"key": "皇冠資源1", "name": "皇冠資源1", "type": 1, "api": "https://hghhh.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "伊人資源", "name": "伊人資源", "type": 1, "api": "https://api.yirenziyuan.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "好片資源", "name": "好片資源", "type": 1, "api": "https://haopianapi.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
