@@ -8,7 +8,7 @@
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "雨哥哥影视",
-      "name": "🎀雨哥哥影视(聚)",
+      "name": "🎀雨哥哥影視(聚)",
       "type": 1,
       "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
       "searchable": 1,
@@ -17,7 +17,7 @@
     },
     {
       "key": "金鹰资源",
-      "name": "🐲️金鹰┃资源🐲️",
+      "name": "🐲️金鹰┃資源🐲️",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "playUrl": "https://hd.iapijy.com/play?url=",
@@ -49,7 +49,7 @@
     },
     {
       "key": "百度资源",
-      "name": "🌟百度┃资源🌟",
+      "name": "🌟百度┃資源🌟",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://jx.jxbdzyw.com/m3u8/?url=",
@@ -85,7 +85,7 @@
     },
     {
       "key": "天空资源",
-      "name": "🍁天空┃资源🍁",
+      "name": "🍁天空┃資源🍁",
       "type": 1,
       "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
       "playUrl": "https://jx.huishij.com/yun/?url=",
@@ -124,7 +124,7 @@
     },
     {
       "key": "虎牙资源",
-      "name": "🐕虎牙┃资源🐕",
+      "name": "🐕虎牙┃資源🐕",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "playUrl": "https://huyajx.com/play/?url=",
@@ -156,7 +156,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "🍱索尼┃资源🍱",
+      "name": "🍱索尼┃資源🍱",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "playUrl": " https://www.snplayer.com/?url=",
@@ -197,7 +197,7 @@
     },
     {
       "key": "新浪资源",
-      "name": "🐞新浪┃资源🐞",
+      "name": "🐞新浪┃資源🐞",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
       "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
@@ -226,7 +226,7 @@
     },
     {
       "key": "49资源网",
-      "name": "💑49资┃源网💑",
+      "name": "💑49资┃資源💑",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://49zyplayerurl.com/?url=",
@@ -261,7 +261,7 @@
     },
     {
       "key": "光速资源",
-      "name": "✈光速┃资源✈",
+      "name": "✈光速┃資源✈",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "playUrl": "https://www.gszyv.com/m3u8/?url=",
@@ -292,7 +292,7 @@
     },
     {
       "key": "速播资源",
-      "name": "🗼速播┃资源🗼",
+      "name": "🗼速播┃資源🗼",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/json",
       "playUrl": "https://subojiexi.com/play/?url=",
@@ -325,7 +325,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "🐼️豪华┃资源🐼️",
+      "name": "🐼️豪华┃資源🐼️",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "playUrl": "https://hhjiexi.com/play/?url=",
@@ -363,7 +363,7 @@
     },
     {
       "key": "优质资源",
-      "name": "🎉优质┃资源🎉",
+      "name": "🎉优质┃資源🎉",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
       "playUrl": "https://vip.zykbf.com/?url=",
@@ -405,7 +405,7 @@
     },
     {
       "key": "快云资源",
-      "name": "☁️快云┃资源☁️",
+      "name": "☁️快云┃資源☁️",
       "type": 1,
       "api": "https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/",
       "playUrl": "https://www.kuaiyunplayer.com/dplayer/?url=",
@@ -451,7 +451,7 @@
     },
     {
       "key": "夸克资源",
-      "name": "🔷夸克┃资源🔷",
+      "name": "🔷夸克┃資源🔷",
       "type": 1,
       "api": "http://kuakezy1.com/api.php/provide/vod/from/M3U8kuake/ ",
       "playUrl": "https://www.kuakejx.com/kk/index.html?url=",
@@ -494,7 +494,7 @@
     },
     {
       "key": "iKun资源",
-      "name": "🍎iKun┃资源🍎",
+      "name": "🍎iKun┃資源🍎",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "playUrl": "https://bofang.ikdmjx.com/?url=",
@@ -540,7 +540,7 @@
     },
     {
       "key": "极速资源",
-      "name": "🎇极速┃资源🎇",
+      "name": "🎇極速┃資源🎇",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
       "playUrl": "https://jsjiexi.com/play/?url=",
@@ -578,7 +578,7 @@
     },
     {
       "key": "影院",
-      "name": "🍱蓝光2K|影院🍱",
+      "name": "🍱藍光2K|影院🍱",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -682,7 +682,7 @@
     },
     {
       "key": "忆梦",
-      "name": "🎀忆梦(官)",
+      "name": "🎀憶夢(官)",
       "type": 1,
       "api": "http://anltv.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -691,7 +691,7 @@
     },
     {
       "key": "优酷",
-      "name": "🎀优酷(官)",
+      "name": "🎀優酷(官)",
       "type": 1,
       "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
       "searchable": 1,
@@ -700,7 +700,7 @@
     },
     {
       "key": "优质资源库",
-      "name": "💖优质资源库(切)",
+      "name": "💖優質資源(切)",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "searchable": 1,
@@ -709,7 +709,7 @@
     },
     {
       "key": "xgapp",
-      "name": "🍁西瓜┃采集🍁",
+      "name": "🍁西瓜┃資源🍁",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
