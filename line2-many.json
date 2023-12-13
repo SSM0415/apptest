@@ -5,19 +5,23 @@
             "name": "自用線路1-TV"
         },    
         {
+            "url": "http://tv.nxog.top",
+            "name": "✨菜妮絲2-TV〔20231212〕"
+        },               
+        {
             "url": "https://wds.ecsxs.com/230989.json",
-            "name": "☃螞蟻線路2-TV〔20231212〕"
+            "name": "☃螞蟻線路3-TV〔20231212〕"
         },
         {
             "url": "http://w.longba123.top/app/api.json",
-            "name": "✨龍霸線路3-TV〔20231212〕"
+            "name": "✨龍霸線路4-TV〔20231212〕"
         },                      
         {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
             "name": "自用線路1-AV"
         },
         {
-            "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/6af0c22d4b452c95e2575bfcd66756b8ba1a5ef9/json/adult.json",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
             "name": "自用線路2-AV"
         },
         {
