@@ -1,5 +1,6 @@
 {
-"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;f4fa24d313b7290001db8ef49bd8ae0b",
+"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
+"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 "wallpaper": "https://gao.chuqiuyu.tk",
 "sites": [
 {"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"ext": "1"},
