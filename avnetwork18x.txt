@@ -1,5 +1,4 @@
 {
-"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 "sites":[
