@@ -20,13 +20,9 @@
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
             "name": "自用線路1-AV"
         },
-       {
-            "url": "https://raw.githubusercontent.com/yescopys/box/825da80f57a48f181c0a91d67ea1ae2bec298126/ah/18cn.json",
-            "name": "自用線路2-AV"
-        },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
-            "name": "自用線路3-AV"
+            "url": "https://raw.githubusercontent.com/yescopys/box/main/ah/18cn.json",
+            "name": "自用線路2-AV"
         },
         {
             "url": "https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h",
