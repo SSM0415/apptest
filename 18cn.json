@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "转点",
-      "name": "❌ 直点播",
+      "name": "❌ 直點播",
       "type": 3,
       "api": "./lib/apiv2542直转点.js",
       "ext": "./lib/直转点.txt"
@@ -44,7 +44,7 @@
     },
     {
       "key": "kxgav",
-      "name": "❤️开心果",
+      "name": "❤️開心果",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "kxgav.com",
-      "name": "💖开心果采集",
+      "name": "💖開心果采集",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "quickSearch": 1,
@@ -61,7 +61,7 @@
     },
     {
       "key": "鸡坤资源",
-      "name": "💓鸡坤采集",
+      "name": "💓雞坤采集",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "苹果小电影",
-      "name": "💚苹果采集",
+      "name": "💚蘋果采集",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -89,7 +89,7 @@
 
     {
       "key": "老鸭",
-      "name": "❤️老杨采集",
+      "name": "❤️老鴨采集",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "playUrl": "",
@@ -137,7 +137,7 @@
     },
     {
       "key": "bttcj.com",
-      "name": "❤️伦理采集",
+      "name": "❤️倫理采集",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "quickSearch": 1,
@@ -173,7 +173,7 @@
     },
     {
       "key": "wmcj8.com",
-      "name": "💚无码采集",
+      "name": "💚無碼采集",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "quickSearch": 1,
@@ -200,7 +200,7 @@
     },
     {
       "key": "api.apilyzy.com",
-      "name": "💚乐渔采集",
+      "name": "💚樂渔采集",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "quickSearch": 1,
