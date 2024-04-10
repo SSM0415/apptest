@@ -3,6 +3,10 @@
         {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
             "name": "自用線路1-TV"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json",
+            "name": "發現線路2-TV〔20240410〕"
         },    
         {
             "url": "https://wds.ecsxs.com/230989.json",
