@@ -1,12 +1,8 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
-            "name": "自用線路1-TV"
-        },
-        {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox4.txt",
-            "name": "自用線路2-TV"
+            "name": "自用線路1-TV-有直播"
         },
         {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json",
@@ -25,7 +21,7 @@
             "name": "自用線路1-AV"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.txt",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
             "name": "自用線路2-AV"
         },
         {
