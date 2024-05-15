@@ -728,8 +728,32 @@
 {"key":"紅牛資源","name":"紅牛資源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0}
 ],
-
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt"]}]}],
+  "lives": [
+    {
+      "name": "♻️live",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/2wDyCx/%E6%81%92%E6%98%9F%E7%9B%B4%E6%92%AD.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️TV",
+      "type": 0,
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/zhibo.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "💕MTV",
+      "type": 0,
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/MTV.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
 
 
 "parses":[
