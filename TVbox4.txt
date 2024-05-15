@@ -729,21 +729,17 @@
 {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0}
 ],
 
-  "lives": [
+ "lives": [
 
     {
       "name": "live",
       "type": 0,
       "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
       //"url": "https://wds.ecsxs.com/230864.json",
-      //"url":"https://pan.shangui.cc/f/xXRnFZ/230864.json",
-     // "url":"http://120.24.204.74:1888/?explorer/share/file&hash=3be3r5g8wMVSMyi1qGAwJg3GnhOkvkaLpf4gRV8BF06WZIdoTB7o0Yg6kiXzejFadA&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E6%96%B0ds.css",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
-    }
-  ]
-}
+]}]}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
