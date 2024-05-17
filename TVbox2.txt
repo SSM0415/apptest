@@ -4,8 +4,6 @@
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"一起看 ","name":"一起看|無廣信","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"种子短剧","name":"短劇|專用","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/种子短剧.js","playerType":2},
 {"key":"Lib","name":"立播|影劇","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
     {
       "key": "雨哥哥影视",
