@@ -23,6 +23,20 @@
 {"key":"四圈资源","name":"🔴四圈資源","type":1,"api": "https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"私密影院","name":"🔴私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"IKUN","name":"🔴IKUN","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+{
+      "key": "csp_XBPQ_vstv",
+      "name": "💚VS影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/dj3.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
     {
       "key": "雨哥哥影视",
       "name": "🎀雨哥哥影視(聚)",
