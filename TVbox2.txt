@@ -7,7 +7,7 @@
 {"key":"360资源","name":"🟡360資 源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"Lib","name":"立播|影劇","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 {"key": "yingmi", "name": "🟡映迷", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
-{"key": "haiwaikan", "name": "🟡海外看", "type": 1, "api": "https://haiwaikan.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
+{"key": "haiwaikan", "name": "🟡華為吧資源", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
 {"key": "四九资源", "name": "🔴四九資源🔪", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
 {"key":"索尼资源","name":"🔴索尼資源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"39影視","name":"🔴三九影視","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
