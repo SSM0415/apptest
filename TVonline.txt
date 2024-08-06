@@ -1,4 +1,224 @@
-調整4/11開,#genre#
+0806UP,#genre#
+中信test,#genre#
+LOVE NATURE,udp://@224.1.4.1:11111
+TVBS歡樂台,udp://@224.1.4.2:11111
+INULTRA,udp://@224.1.4.3:11111
+好消息衛星電視台,udp://@224.1.4.4:11111
+博斯運動二台,udp://@224.1.4.5:11111
+民視,udp://@224.1.4.6:11111/
+愛爾達體育4台,udp://@224.1.4.7:11111
+台視,udp://@224.1.4.8:11111
+ROCK action,udp://@224.1.4.9:11111/
+中視,udp://@224.1.4.10:11111
+TechStorm,udp://@224.1.4.11:11111
+華視,udp://@224.1.4.12:11111
+TVBS新聞台,udp://@224.1.4.13:11111
+ROCK Entertainment,udp://@224.1.4.14:11111
+CARTOONITO,udp://@224.1.4.15:11111
+TV5MONDE,udp://@224.1.4.16:11111
+客家電視,udp://@224.1.4.17:11111
+udp://@224.1.4.18:11111
+美食星球頻道,udp://@224.1.4.19:11111
+MAGELLAN TV,udp://@224.1.4.20:11111/
+udp://@224.1.4.21:11111/
+Smart知識台,udp://@224.1.4.22:11111
+靖洋卡通台Nice Bingo,udp://@224.1.4.23:11111
+TVBS,udp://@224.1.4.24:11111
+靖天卡通台,udp://@224.1.4.25:11111
+Medici-arts,udp://@224.1.4.26:11111
+udp://@224.1.4.27:11111/
+靖天育樂台,udp://@224.1.4.28:11111
+天天電視台,udp://@224.1.4.29:11111
+靖天資訊台,udp://@224.1.4.30:11111
+台視綜合台,udp://@224.1.4.31:11111
+台視財經台,udp://@224.1.4.32:11111
+中視經典台,udp://@224.1.4.33:11111
+亞洲旅遊台,udp://@224.1.4.34:11111
+富立電視台,udp://@224.1.4.35:11111
+龍華電影,udp://@224.1.4.36:11111
+龍華洋片,udp://@224.1.4.37:11111
+靖天映畫,udp://@224.1.4.38:11111/
+龍華偶像,udp://@224.1.4.39:11111
+靖天戲劇台,udp://@224.1.4.40:11111
+龍華戲劇,udp://@224.1.4.41:11111 
+靖天電影台,udp://@224.1.4.42:11111
+amc電影台,udp://@224.1.4.43:11111
+龍華經典,udp://@224.1.4.44:11111
+Nick Jr.,udp://@224.1.4.45:11111
+博斯無限台,udp://@224.1.4.46:11111
+博斯高球二台,udp://@224.1.4.47:11111
+博斯運動一台,udp://@224.1.4.48:11111
+博斯高球一台,udp://@224.1.4.49:11111
+中視新聞台,udp://@224.1.4.50:11111
+寰宇新聞台,udp://@224.1.4.51:11111
+BBC World News,udp://@224.1.4.52:11111
+公視,udp://@224.1.4.53:11111
+大愛電視,udp://@224.1.4.54:11111
+華視新聞資訊台,udp://@224.1.4.55:11111
+寰宇財經台,udp://@224.1.4.56:11111
+Food Network 美食台頻道,udp://@224.1.4.57:11111
+Nick Jr.,udp://@224.1.4.58:11111
+ETtoday綜合台,udp://@224.1.4.59:11111
+EYE TV戲劇台,udp://@224.1.4.60:11111
+EYE TV旅遊台,udp://@224.1.4.192:11111
+台灣電視劇,udp://@224.1.4.62:11111
+
+
+博斯網球台,udp://@224.1.4.66:11111
+美好1台,udp://@224.1.4.67:11111
+華藝台灣台,udp://@224.1.4.71:11111/
+大立電視台,udp://@224.1.4.73:11111
+CLASSICA HD,udp://@224.1.4.74:11111
+CBeebies,udp://@224.1.4.75:11111
+原民台,udp://@224.1.4.76:11111/
+民視第一台,udp://@224.1.4.77:11111
+亞洲綜合台,udp://@224.1.4.78:11111
+Bloomberg TV,udp://@224.1.4.79:11111
+HGTV 居家樂活頻道,udp://@224.1.4.80:11111
+Global Trekker,udp://@224.1.4.82:11111
+佛衛慈悲台,udp://@224.1.4.84:11111/
+罪案偵緝頻道,udp://@224.1.4.85:11111
+八大優頻道,udp://@224.1.4.86:11111
+寰宇HD綜合台,udp://@224.1.4.87:11111
+人間衛視,udp://@224.1.4.89:11111
+華藏衛視,udp://@224.1.4.90:11111
+美亞電影台,udp://@224.1.4.91:11111
+Arirang TV,udp://@224.1.4.92:11111
+生命電視台,udp://@224.1.4.93:11111
+愛爾達亞運1台,udp://@224.1.4.94:11111
+正德電視台,udp://@224.1.4.95:11111
+華視教育體育文化台,udp://@224.1.4.96:11111/
+民視新聞台,udp://@224.1.4.97:11111
+MOD影劇推薦內容,udp://@224.1.4.98:11111
+ROCK Extreme,udp://@224.1.4.99:11111
+寰宇新聞台灣台,udp://@224.1.4.101:11111
+MOD影劇推薦內容,udp://@224.1.4.102:11111
+靖天日本台,udp://@224.1.4.103:11111
+靖天綜合台,udp://@224.1.4.104:11111
+靖天歡樂台,udp://@224.1.4.105:11111
+靖天國際台,udp://@224.1.4.106:11111
+靖洋戲劇台,udp://@224.1.4.107:11111
+STYLE,udp://@224.1.4.108:11111/
+龍華動畫,udp://@224.1.4.109:11111
+博斯魅力網,udp://@224.1.4.110:11111
+tvN,udp://@224.1.4.111:11111
+愛爾達體育1台,udp://@224.1.4.112:11111
+愛爾達影劇台,udp://@224.1.4.113:11111
+愛爾達綜合台,udp://@224.1.4.114:11111
+ELEVEN SPORTS PLUS,udp://@224.1.4.115:11111
+頻道總表,udp://@224.1.4.116:11111
+世界羽球雜誌,udp://@224.1.4.117:11111
+CNBC Asia Channel,udp://@224.1.4.118:11111
+Euronews,udp://@224.1.4.119:11111
+德國之聲電視台,udp://@224.1.4.120:11111
+DreamWorks,udp://@224.1.4.121:11111
+GOOD TV 2,udp://@224.1.4.122:11111
+幸福空間居家台,udp://@224.1.4.123:11111
+PET CLUB TV,udp://@224.1.4.124:11111
+鏡電視新聞台,udp://@224.1.4.126:11111
+中信兄弟4K多視角,udp://@224.1.4.127:11111
+愛爾達亞運1台,udp://@224.1.4.129:11111
+華藝MBC綜合台,udp://@224.1.4.130:11111
+ROCK Entertainment,udp://@224.1.4.131:11111
+EUROSPORT,udp://@224.1.4.135:11111
+HITS,udp://@224.1.4.136:11111
+NHK新聞資訊台,udp://@224.1.4.137:11111
+富立電視台,udp://@224.1.4.138:11111
+Channel NewsAsia頻道,udp://@224.1.4.139:11111
+CNBC Asia Channel,udp://@224.1.4.140:11111
+大立電視台,udp://@224.1.4.142:11111
+udp://@224.1.4.143:11111/
+NBA動態,udp://@224.1.4.144:11111
+美好2台,udp://@224.1.4.145:11111
+ROCK Extreme,udp://@224.1.4.146:11111
+德國之聲電視台,udp://@224.1.4.147:11111
+TV5MONDE,udp://@224.1.4.148:11111
+udp://@224.1.4.150:11111/
+udp://@224.1.4.151:11111/
+TVBS新聞台,udp://@224.1.4.152:11111
+TVBS,udp://@224.1.4.153:11111
+TVBS歡樂台,udp://@224.1.4.154:11111
+udp://@224.1.4.155:11111/
+ELEVEN SPORTS 2,udp://@224.1.4.156:11111
+udp://@224.1.4.157:11111/
+非凡新聞台,udp://@224.1.4.158:11111
+CMusic,udp://@224.1.4.159:11111
+MOD影劇推薦內容,udp://@224.1.4.160:11111
+CARTOONITO,udp://@224.1.4.161:11111
+Global Trekker,udp://@224.1.4.162:11111
+東森購物1台,udp://@224.1.4.163:11111
+新唐人亞太台,udp://@224.1.4.165:11111
+FRANCE24(English),udp://@224.1.4.166:11111
+美好1台,udp://@224.1.4.167:11111
+東森購物2台,udp://@224.1.4.168:11111
+東森購物3台,udp://@224.1.4.169:11111
+台視綜合台,udp://@224.1.4.170:11111
+Smart知識台,udp://@224.1.4.171:11111
+龍華經典,udp://@224.1.4.172:11111
+國會頻道1,udp://@224.1.4.173:11111
+國會頻道2,udp://@224.1.4.174:11111
+東森購物4台,udp://@224.1.4.176:11111
+DreamWorks,udp://@224.1.4.121:11111
+佛衛電視慈悲台,udp://@224.1.4.178:11111
+Nick Jr.,udp://@224.1.4.179:11111
+龍華動畫,udp://@224.1.4.180:11111
+華藏衛視,udp://@224.1.4.181:11111
+LOVE NATURE,udp://@224.1.4.182:11111
+HGTV 居家樂活頻道,udp://@224.1.4.183:11111
+Arirang TV,udp://@224.1.4.184:11111
+華藝台灣台,udp://@224.1.4.185:1111
+ELEVEN SPORTS PLUS,udp://@224.1.4.115:11111
+世界羽球雜誌,udp://@224.1.4.191:11111
+EYE TV旅遊台,udp://@224.1.4.192:11111
+愛爾達體育3台,udp://@224.1.4.193:11111
+udp://@224.1.4.194:11111/
+正德電視台,udp://@224.1.4.195:11111
+MOD電影推薦內容,udp://@224.1.4.196:11111
+Bloomberg TV,udp://@224.1.4.197:11111
+udp://@224.1.4.198:11111/
+靖天綜合台,udp://@224.1.4.199:11111
+唯心電視台,udp://@224.1.4.200:11111
+客家電視,udp://@224.1.4.201:11111
+視納華仁紀實台,udp://@224.1.4.206:11111
+博斯無限二台,udp://@224.1.4.207:11111
+STYLE,udp://@224.1.4.208:11111
+亞洲綜合台,udp://@224.1.4.209:11111
+
+Food Network 美食台頻道,udp://@224.1.4.211:11111
+ETtoday綜合台,udp://@224.1.4.212:11111
+CBeebies,udp://@224.1.4.213:11111
+台視新聞台,udp://@224.1.4.215:11111
+ELTV生活英語台,udp://@224.1.4.216:11111
+momo2台,udp://@224.1.4.217:11111
+民視第一台,udp://@224.1.4.218:11111
+中視經典台,udp://@224.1.4.219:11111
+靖天國際台,udp://@224.1.4.220:11111
+采昌影劇台,udp://@224.1.4.221:11111
+緯來精采台,udp://@224.1.4.222:11111
+華視教育體育文化台,udp://@224.1.4.223:11111
+冠軍電視台,udp://@224.1.4.224:11111
+FGM GOLD電影,udp://@224.1.4.225:11111
+影迷數位紀實台,udp://@224.1.4.226:11111
+民視台灣台,udp://@224.1.4.227:11111
+公視3台,udp://@224.1.4.228:11111
+momo1台,udp://@224.1.4.229:11111
+Lifetime,udp://@224.1.4.230:11111
+韓國娛樂台,udp://@224.1.4.232:11111
+達文西頻道,udp://@224.1.4.233:11111
+Warner TV,udp://@224.1.4.234:11111
+CNN International,udp://@224.1.4.235:11111
+滾動力 rollor,udp://@224.1.4.236:11111
+Animax,udp://@224.1.4.237:11111
+智林體育台,udp://@224.1.4.238:11111
+Mezzo Live HD,udp://@224.1.4.240:11111
+TRACE Urban,udp://@224.1.4.241:11111
+TRACE Sport Stars,udp://@224.1.4.242:11111
+台視財經,udp://@224.1.4.248:11111
+尼克兒童頻道,udp://@224.1.4.249:11111
+博斯魅力網,udp://@224.1.4.250:11111
+龍華電影,udp://@224.1.4.251:11111
+中視新聞台,udp://@224.1.4.252:11111
+
 港澳,#genre#
 澳視葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 鳳凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/.m3u8
@@ -34,17 +254,14 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 年代新聞,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+民視新聞,http://125.227.210.55:8157/VideoInput/play.ts
 
 戲劇知識綜合,#genre#
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-華視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-台灣連續劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 原民台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 幸福空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
@@ -64,6 +281,7 @@ TVBS歡樂,http://125.227.210.55:50619/VideoInput/play.ts
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 美國中文,https://jpts.sinovision.net/livestream.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+台視,http://125.227.210.55:8158/VideoInput/play.ts
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -125,6 +343,26 @@ SPOTIFY MUSIC,http://61.221.215.25:8800/hls/1/index.m3u8
 AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+DISCOVE ASIA,http://125.227.210.55:8154/VideoInput/play.ts
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+華視,http://125.227.210.55:8163/VideoInput/play.ts
+公視,http://125.227.210.55:8164/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+RRI NET,http://125.227.210.55:8172/VideoInput/play.ts
+NTV,http://125.227.210.55:8173/VideoInput/play.ts
+中視,http://125.227.210.55:8174/VideoInput/play.ts
+http://125.227.210.55:8175/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 
 
 兒童,#genre#
@@ -138,11 +376,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 電影,#genre#
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
-HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-
-
-
-
 
 
 4GTV0806,#genre#
@@ -312,6 +545,9 @@ TechStorm,https://gat.zhoujie218.top/4gtv/181
 智林體育台,https://gat.zhoujie218.top/litv/4gtv-4gtv101
 TraceSports,https://gat.zhoujie218.top/litv/4gtv-4gtv077
 
+
+
+
 輪播,#genre#
 輪播電影1,http://epg.112114.xyz/douyu/20415
 輪播電影3,http://epg.112114.xyz/douyu/122402
@@ -376,6 +612,7 @@ TraceSports,https://gat.zhoujie218.top/litv/4gtv-4gtv077
 粵語版電影三,https://www.goodiptv.club/douyu/1226741
 
 0727mitvTW,#genre#
+中天新聞台,P2p://generationnexxxt.com:19806/1180a44e6cefea
 東森新聞台,P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4#P2p://generationnexxxt.com:19806/311e31668d7045788a
 TVBS新聞台,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1#P2p://generationnexxxt.com:19806/53f80a10fb054d5ab98025a5a
 三立新聞台,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d#P2p://generationnexxxt.com:19806/27c4d09b970a447dae.com:19806/27c4d09b970a447dae0
@@ -642,6 +879,8 @@ MOVIE簡中,#genre#
 聊齋畫壁,https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
 
 
+
+
 GOOD系列,#genre#
 GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
@@ -783,12 +1022,6 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
 Sex ?Girl,http://125.227.210.55:62698/VideoInput/play.ts
-精艷臺(型男),http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-潘多拉完美臺(型男),http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-香蕉臺(型男),http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-松視1臺(型男),http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-松視2臺(型男),http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-松視3臺(型男),http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 Adult 01,http://streamsy.online:2999/coachj88/N93DPKS9pJ/750
 Adult 02,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1035
 Adult 03,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1036
@@ -1327,6 +1560,121 @@ EYE TV戲劇台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 亞洲劇台,P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
 東森戲劇台(B),P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 
+
+
+
+
+三級測試_996,#genre#
+蜜桃成熟時33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
+蜜桃成熟時3個蜜桃仙子,https://v5.jindangao.com/jj/j4/13/hls/index.m3u8
+燕婦轉世1,https://v5.jindangao.com/fff/ff9/23/hls/index.m3u8
+燕婦轉世2,https://v5.jindangao.com/fff/ff9/24/hls/index.m3u8
+獸生秀惑之赤果生遊戲2000,https://v6.jindangao.com/hj/hj2/hj23/25/hls/index.m3u8
+屠夫,https://v6.jindangao.com/hj/hj2/hj24/38/hls/index.m3u8
+貼身保鑣,https://v6.jindangao.com/hj/hj2/hj24/31/hls/index.m3u8
+舒淇早期激青合集,https://v6.jindangao.com/hj/hj2/hj25/36/hls/index.m3u8
+燕鬼冤魂,https://v6.jindangao.com/hj/hj2/hj27/34/hls/index.m3u8
+夜半思孚時,https://v6.jindangao.com/hj/hj2/hj28/1/hls/index.m3u8
+越軌之狼完整版,https://v6.jindangao.com/hj/hj2/hj29/12/hls/index.m3u8
+外文初夜青,https://v6.jindangao.com/hj/hj1/hj3/22/hls/index.m3u8
+我為卿狂,https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
+水滸傳之英雄好攝,https://v5.jindangao.com/gg/g9/23/hls/index.m3u8
+玉火狂蜜,https://v6.jindangao.com/hj/hj2/hj28/44/hls/index.m3u8
+滿清十大酷刑,https://v5.jindangao.com/jj/j1/46/hls/index.m3u8
+劍奴,https://v5.jindangao.com/ff/f4/4/hls/index.m3u8
+婚前試愛,https://v5.jindangao.com/ff/f2/7/hls/index.m3u8
+我來自北京,https://v5.jindangao.com/fff/ff7/8/hls/index.m3u8
+竹本玉蒲團,https://v5.jindangao.com/fff/ff0/38/hls/index.m3u8
+人肉叉燒包,https://v6.jindangao.com/v26/26/600kb/hls/index.m3u8
+生氣功之探秘,https://v5.jindangao.com/hh/h2/17/hls/index.m3u8
+青樓十二戶國粵雙語,https://v5.jindangao.com/nn/n9/51/hls/index.m3u8
+與蛇共舞,https://v5.jindangao.com/hh/h6/27/hls/index.m3u8
+聊齋花弄月,https://v5.jindangao.com/eee/ee10/14/hls/index.m3u8
+風月奇譚,https://v5.jindangao.com/ll/l5/38/hls/index.m3u8
+唐朝禁宮風月,https://v5.jindangao.com/gg/g10/26/hls/index.m3u8
+攝玉怪談之魔姦贏者,https://v5.jindangao.com/gg/g5/21/hls/index.m3u8
+贏魔暴行,https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
+櫻花劫,https://v5.jindangao.com/hh/h7/24/hls/index.m3u8
+茅山鬥降頭,https://v5.jindangao.com/ff/f10/31/hls/index.m3u8
+生的厲鬼,https://v5.jindangao.com/eee/ee1/23/hls/index.m3u8
+降頭2007,https://v5.jindangao.com/ff/f4/8/hls/index.m3u8
+五行鬼屍,https://v5.jindangao.com/oo/o8/19/hls/index.m3u8
+香帥傳奇之天一神油,https://v5.jindangao.com/kk/k1/28/hls/index.m3u8
+愉青寶鑑生愛三十六戶,https://v5.jindangao.com/fff/ff0/32/hls/index.m3u8
+浮世風青繪,https://v5.jindangao.com/xx/x2/22/hls/index.m3u8
+武松1982,https://v5.jindangao.com/ee/e1/12/hls/index.m3u8
+邪鬥邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
+催花神龍教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
+攝咒邪靈燕降勾魂,https://v5.jindangao.com/oo/o7/1/hls/index.m3u8
+被犧牲的妻子,https://8xi78.xyz/assets/10199a8bfd134675b8456e92fcbe9b27.mp4
+獸性陷阱,https://v6.jindangao.com/hj/hj2/hj23/24/hls/index.m3u8
+狼吻十四日,https://v6.jindangao.com/hj/hj1/hj8/5/hls/index.m3u8
+迷情司機,https://v6.jindangao.com/hj/hj1/hj9/19/hls/index.m3u8
+色魔玩處女,https://v6.jindangao.com/hj/hj2/hj22/33/hls/index.m3u8
+滅門慘案之虐殺,https://v5.jindangao.com/yy/y1/18/hls/index.m3u8
+三姦,https://v5.jindangao.com/gg/g4/33/hls/index.m3u8
+驚變,https://v5.jindangao.com/ff/f6/7/hls/index.m3u8
+蜈蚣咒,https://v6.jindangao.com/bb/b16/30/500kb/hls/index.m3u8
+香港屠夫,https://v6.jindangao.com/dd/d2/39/500kb/hls/index.m3u8
+屯門色魔,https://v6.jindangao.com/aa/a8/25/600kb/hls/index.m3u8
+魔鬼天使徐若瑄,https://v6.jindangao.com/aa/a8/13/600kb/hls/index.m3u8
+極度牆間,https://v6.jindangao.com/aa/a7/18/600kb/hls/index.m3u8
+戴錯貞操帶,https://v6.jindangao.com/aa/a17/16/500kb/hls/index.m3u8
+強間3之oL誘惑,https://v6.jindangao.com/aa/a14/22/600kb/hls/index.m3u8
+赤裸毒藥,https://v6.jindangao.com/dd/d10/13/500kb/hls/index.m3u8
+強間4終極篇最後羔羊,https://v6.jindangao.com/aa/a23/31/500kb/hls/index.m3u8
+香港奇案之四廟街皇后,https://v6.jindangao.com/dd/d3/33/500kb/hls/index.m3u8
+山狗2003獸性陷阱,https://v6.jindangao.com/dd/d1/28/500kb/hls/index.m3u8
+香港奇案之兇殺,https://v6.jindangao.com/dd/d3/31/500kb/hls/index.m3u8
+香港奇案之老爺車縱火謀殺案,https://v6.jindangao.com/dd/d3/32/500kb/hls/index.m3u8
+色欲檔案之性,https://v6.jindangao.com/dd/d1/27/500kb/hls/index.m3u8
+新羔羊醫生,https://v6.jindangao.com/dd/d3/38/500kb/hls/index.m3u8
+盲女72小時,https://v6.jindangao.com/dd/d3/40/500kb/hls/index.m3u8
+滿床春水,https://v6.jindangao.com/aa/a21/18/500kb/hls/index.m3u8
+西環浮屍,https://v6.jindangao.com/dd/d1/42/500kb/hls/index.m3u8
+妖怪都市,https://v6.jindangao.com/dd/d6/19/500kb/hls/index.m3u8
+香港奇案之吸血貴利王,https://v6.jindangao.com/v14/18/600kb/hls/index.m3u8
+人肉天婦羅,https://v6.jindangao.com/dd/d19/40/700kb/hls/index.m3u8
+誘人犯罪,https://v6.jindangao.com/bb/b1/27/500kb/hls/index.m3u8
+監獄不設防,https://v6.jindangao.com/dd/d7/42/500kb/hls/index.m3u8
+鬼話成真,https://v6.jindangao.com/dd/d7/22/500kb/hls/index.m3u8
+黑獄聖女,https://v6.jindangao.com/bb/b14/9/500kb/hls/index.m3u8
+猛鬼舞廳,https://v6.jindangao.com/dd/d7/56/500kb/hls/index.m3u8
+猛鬼出籠②艷鬼發狂,https://v6.jindangao.com/dd/d7/55/500kb/hls/index.m3u8
+蒸夫,https://v6.jindangao.com/v13/4/600kb/hls/index.m3u8
+隱形淫魔,https://v6.jindangao.com/bb/b15/38/500kb/hls/index.m3u8
+人間蒸發,https://v5.jindangao.com/gg/g3/33/hls/index.m3u8
+殺人工廠,https://v5.jindangao.com/gg/g6/34/hls/index.m3u8
+人肉玩具,https://v5.jindangao.com/gg/g3/36/hls/index.m3u8
+銀魔暴行,https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
+山狗1999,https://v5.jindangao.com/gg/g6/42/hls/index.m3u8
+
+
+台彩虹頻道_996,#genre#
+奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+奧視3,http://125.227.210.55:8917/VideoInput/play.ts
+驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+Sex ?Girl,http://125.227.210.55:62698/VideoInput/play.ts
+Adult 01,http://streamsy.online:2999/coachj88/N93DPKS9pJ/750
+Adult 02,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1035
+Adult 03,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1036
+Adult 04,http://streamsy.online:2999/coachj88/N93DPKS9pJ/276
+Adult 05,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1037
+Adult 06,http://streamsy.online:2999/coachj88/N93DPKS9pJ/751
+Adult 07,http://streamsy.online:2999/coachj88/N93DPKS9pJ/479
+Adult 08,http://streamsy.online:2999/coachj88/N93DPKS9pJ/468
+Adult 09,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1297
+Adult 10,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1298
+松视1台,https://z02.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
+松视2台,https://z02.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
+彩虹E,https://z02.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+彩虹K,https://z02.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+Banana香蕉,https://z02.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
+Redlight HD,https://z02.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
+SEX ATION HD,https://z02.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+極限電影,https://z02.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+PLAYBOY HD,https://z02.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 
 
 彩虹頻道_007,#genre#
