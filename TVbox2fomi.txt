@@ -3,17 +3,6 @@
 "qcode_url": "",
     "login_url": "http://vvip.tv6868.com/CODE/PASS/EID/MAC/UUID/login",
     "vip_title": "Free",
-    "sites": [
-        {
-            "key": "bfa101f4d8a61b23240d05343b173551",
-            "name": "ETH TV",
-            "type": 1,
-            "api": "http://videos.web6868.com/cinema/babd627fea9f0eb256fd2d04689a9a85422d18cb7ebe3a0627dd1e5b22f49207/66323a32653a33633a32613a36393a6661/1c8c47becf333f1a2e51404bd5ed3fcb805ae7eef235a1b8d9ea5fda872b7c78/",
-            "searchable": 1,
-            "quickSearch": 0,
-            "playsearch": 0,
-            "filterable": 0
-        },
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -41,6 +30,16 @@
     "filterable": 1,
     "changeable": 0
 },
+        {
+            "key": "bfa101f4d8a61b23240d05343b173551",
+            "name": "ETH TV",
+            "type": 1,
+            "api": "http://videos.web6868.com/cinema/babd627fea9f0eb256fd2d04689a9a85422d18cb7ebe3a0627dd1e5b22f49207/66323a32653a33633a32613a36393a6661/1c8c47becf333f1a2e51404bd5ed3fcb805ae7eef235a1b8d9ea5fda872b7c78/",
+            "searchable": 1,
+            "quickSearch": 0,
+            "playsearch": 0,
+            "filterable": 0
+        },
 {"key": "haiwaikan", "name": "🟡華為吧資源", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
 {"key": "四九资源", "name": "🔴四九資源🔪", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
 {"key":"索尼资源","name":"🔴索尼資源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
