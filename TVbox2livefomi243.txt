@@ -1,12 +1,14 @@
 台灣新聞YT,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立新聞網,https://www.youtube.com/watch?v=K_0VvqtzZu8
+三立LIVE,https://www.youtube.com/watch?v=RAGztpLGPoY
+三立INEW,https://www.youtube.com/watch?v=pF507BLtbqU
 三立財經,https://www.youtube.com/watch?v=1mbhK0xfohY
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
+中天新聞,https://www.youtube.com/watch?v=G5O2e7sVgV8
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
