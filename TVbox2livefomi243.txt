@@ -1,8 +1,4 @@
 台灣新聞YT,#genre#
-Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-Decoder=3
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
