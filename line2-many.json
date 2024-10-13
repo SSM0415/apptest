@@ -5,13 +5,21 @@
             "name": "自用線路1-TV"
         },
         {
+            "url": "http://ttkx.live:55/天天开心",
+            "name": "☃天天開心線路-TV〔20241013〕"
+        },
+        {
             "url": "http://tvbox.王二小放牛娃.xyz",
             "name": "☃放牛娃KTV線路-TV〔20240529〕"
         },
         {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json",
             "name": "發現線路2-TV〔20240410〕"
-        },    
+        },  
+        {
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "💎多多┃天微線路"
+        },     
         {
             "url": "http://yingshi.fongmi.eu.org/",
             "name": "☃螞蟻線路3-TV〔20240513〕"
