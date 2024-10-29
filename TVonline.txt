@@ -1,227 +1,7 @@
 1003UP,#genre#
 
-中信test,#genre#
-LOVE NATURE,udp://@224.1.4.1:11111
-TVBS歡樂台,udp://@224.1.4.2:11111
-INULTRA,udp://@224.1.4.3:11111
-好消息衛星電視台,udp://@224.1.4.4:11111
-博斯運動二台,udp://@224.1.4.5:11111
-民視,udp://@224.1.4.6:11111/
-愛爾達體育4台,udp://@224.1.4.7:11111
-台視,udp://@224.1.4.8:11111
-ROCK action,udp://@224.1.4.9:11111/
-中視,udp://@224.1.4.10:11111
-TechStorm,udp://@224.1.4.11:11111
-華視,udp://@224.1.4.12:11111
-TVBS新聞台,udp://@224.1.4.13:11111
-ROCK Entertainment,udp://@224.1.4.14:11111
-CARTOONITO,udp://@224.1.4.15:11111
-TV5MONDE,udp://@224.1.4.16:11111
-客家電視,udp://@224.1.4.17:11111
-udp://@224.1.4.18:11111
-美食星球頻道,udp://@224.1.4.19:11111
-MAGELLAN TV,udp://@224.1.4.20:11111/
-udp://@224.1.4.21:11111/
-Smart知識台,udp://@224.1.4.22:11111
-靖洋卡通台Nice Bingo,udp://@224.1.4.23:11111
-TVBS,udp://@224.1.4.24:11111
-靖天卡通台,udp://@224.1.4.25:11111
-Medici-arts,udp://@224.1.4.26:11111
-udp://@224.1.4.27:11111/
-靖天育樂台,udp://@224.1.4.28:11111
-天天電視台,udp://@224.1.4.29:11111
-靖天資訊台,udp://@224.1.4.30:11111
-台視綜合台,udp://@224.1.4.31:11111
-台視財經台,udp://@224.1.4.32:11111
-中視經典台,udp://@224.1.4.33:11111
-亞洲旅遊台,udp://@224.1.4.34:11111
-富立電視台,udp://@224.1.4.35:11111
-龍華電影,udp://@224.1.4.36:11111
-龍華洋片,udp://@224.1.4.37:11111
-靖天映畫,udp://@224.1.4.38:11111/
-龍華偶像,udp://@224.1.4.39:11111
-靖天戲劇台,udp://@224.1.4.40:11111
-龍華戲劇,udp://@224.1.4.41:11111 
-靖天電影台,udp://@224.1.4.42:11111
-amc電影台,udp://@224.1.4.43:11111
-龍華經典,udp://@224.1.4.44:11111
-Nick Jr.,udp://@224.1.4.45:11111
-博斯無限台,udp://@224.1.4.46:11111
-博斯高球二台,udp://@224.1.4.47:11111
-博斯運動一台,udp://@224.1.4.48:11111
-博斯高球一台,udp://@224.1.4.49:11111
-中視新聞台,udp://@224.1.4.50:11111
-寰宇新聞台,udp://@224.1.4.51:11111
-BBC World News,udp://@224.1.4.52:11111
-公視,udp://@224.1.4.53:11111
-大愛電視,udp://@224.1.4.54:11111
-華視新聞資訊台,udp://@224.1.4.55:11111
-寰宇財經台,udp://@224.1.4.56:11111
-Food Network 美食台頻道,udp://@224.1.4.57:11111
-Nick Jr.,udp://@224.1.4.58:11111
-ETtoday綜合台,udp://@224.1.4.59:11111
-EYE TV戲劇台,udp://@224.1.4.60:11111
-EYE TV旅遊台,udp://@224.1.4.192:11111
-台灣電視劇,udp://@224.1.4.62:11111
-
-
-博斯網球台,udp://@224.1.4.66:11111
-美好1台,udp://@224.1.4.67:11111
-華藝台灣台,udp://@224.1.4.71:11111/
-大立電視台,udp://@224.1.4.73:11111
-CLASSICA HD,udp://@224.1.4.74:11111
-CBeebies,udp://@224.1.4.75:11111
-原民台,udp://@224.1.4.76:11111/
-民視第一台,udp://@224.1.4.77:11111
-亞洲綜合台,udp://@224.1.4.78:11111
-Bloomberg TV,udp://@224.1.4.79:11111
-HGTV 居家樂活頻道,udp://@224.1.4.80:11111
-Global Trekker,udp://@224.1.4.82:11111
-佛衛慈悲台,udp://@224.1.4.84:11111/
-罪案偵緝頻道,udp://@224.1.4.85:11111
-八大優頻道,udp://@224.1.4.86:11111
-寰宇HD綜合台,udp://@224.1.4.87:11111
-人間衛視,udp://@224.1.4.89:11111
-華藏衛視,udp://@224.1.4.90:11111
-美亞電影台,udp://@224.1.4.91:11111
-Arirang TV,udp://@224.1.4.92:11111
-生命電視台,udp://@224.1.4.93:11111
-愛爾達亞運1台,udp://@224.1.4.94:11111
-正德電視台,udp://@224.1.4.95:11111
-華視教育體育文化台,udp://@224.1.4.96:11111/
-民視新聞台,udp://@224.1.4.97:11111
-MOD影劇推薦內容,udp://@224.1.4.98:11111
-ROCK Extreme,udp://@224.1.4.99:11111
-寰宇新聞台灣台,udp://@224.1.4.101:11111
-MOD影劇推薦內容,udp://@224.1.4.102:11111
-靖天日本台,udp://@224.1.4.103:11111
-靖天綜合台,udp://@224.1.4.104:11111
-靖天歡樂台,udp://@224.1.4.105:11111
-靖天國際台,udp://@224.1.4.106:11111
-靖洋戲劇台,udp://@224.1.4.107:11111
-STYLE,udp://@224.1.4.108:11111/
-龍華動畫,udp://@224.1.4.109:11111
-博斯魅力網,udp://@224.1.4.110:11111
-tvN,udp://@224.1.4.111:11111
-愛爾達體育1台,udp://@224.1.4.112:11111
-愛爾達影劇台,udp://@224.1.4.113:11111
-愛爾達綜合台,udp://@224.1.4.114:11111
-ELEVEN SPORTS PLUS,udp://@224.1.4.115:11111
-頻道總表,udp://@224.1.4.116:11111
-世界羽球雜誌,udp://@224.1.4.117:11111
-CNBC Asia Channel,udp://@224.1.4.118:11111
-Euronews,udp://@224.1.4.119:11111
-德國之聲電視台,udp://@224.1.4.120:11111
-DreamWorks,udp://@224.1.4.121:11111
-GOOD TV 2,udp://@224.1.4.122:11111
-幸福空間居家台,udp://@224.1.4.123:11111
-PET CLUB TV,udp://@224.1.4.124:11111
-鏡電視新聞台,udp://@224.1.4.126:11111
-中信兄弟4K多視角,udp://@224.1.4.127:11111
-愛爾達亞運1台,udp://@224.1.4.129:11111
-華藝MBC綜合台,udp://@224.1.4.130:11111
-ROCK Entertainment,udp://@224.1.4.131:11111
-EUROSPORT,udp://@224.1.4.135:11111
-HITS,udp://@224.1.4.136:11111
-NHK新聞資訊台,udp://@224.1.4.137:11111
-富立電視台,udp://@224.1.4.138:11111
-Channel NewsAsia頻道,udp://@224.1.4.139:11111
-CNBC Asia Channel,udp://@224.1.4.140:11111
-大立電視台,udp://@224.1.4.142:11111
-udp://@224.1.4.143:11111/
-NBA動態,udp://@224.1.4.144:11111
-美好2台,udp://@224.1.4.145:11111
-ROCK Extreme,udp://@224.1.4.146:11111
-德國之聲電視台,udp://@224.1.4.147:11111
-TV5MONDE,udp://@224.1.4.148:11111
-udp://@224.1.4.150:11111/
-udp://@224.1.4.151:11111/
-TVBS新聞台,udp://@224.1.4.152:11111
-TVBS,udp://@224.1.4.153:11111
-TVBS歡樂台,udp://@224.1.4.154:11111
-udp://@224.1.4.155:11111/
-ELEVEN SPORTS 2,udp://@224.1.4.156:11111
-udp://@224.1.4.157:11111/
-非凡新聞台,udp://@224.1.4.158:11111
-CMusic,udp://@224.1.4.159:11111
-MOD影劇推薦內容,udp://@224.1.4.160:11111
-CARTOONITO,udp://@224.1.4.161:11111
-Global Trekker,udp://@224.1.4.162:11111
-東森購物1台,udp://@224.1.4.163:11111
-新唐人亞太台,udp://@224.1.4.165:11111
-FRANCE24(English),udp://@224.1.4.166:11111
-美好1台,udp://@224.1.4.167:11111
-東森購物2台,udp://@224.1.4.168:11111
-東森購物3台,udp://@224.1.4.169:11111
-台視綜合台,udp://@224.1.4.170:11111
-Smart知識台,udp://@224.1.4.171:11111
-龍華經典,udp://@224.1.4.172:11111
-國會頻道1,udp://@224.1.4.173:11111
-國會頻道2,udp://@224.1.4.174:11111
-東森購物4台,udp://@224.1.4.176:11111
-DreamWorks,udp://@224.1.4.121:11111
-佛衛電視慈悲台,udp://@224.1.4.178:11111
-Nick Jr.,udp://@224.1.4.179:11111
-龍華動畫,udp://@224.1.4.180:11111
-華藏衛視,udp://@224.1.4.181:11111
-LOVE NATURE,udp://@224.1.4.182:11111
-HGTV 居家樂活頻道,udp://@224.1.4.183:11111
-Arirang TV,udp://@224.1.4.184:11111
-華藝台灣台,udp://@224.1.4.185:1111
-ELEVEN SPORTS PLUS,udp://@224.1.4.115:11111
-世界羽球雜誌,udp://@224.1.4.191:11111
-EYE TV旅遊台,udp://@224.1.4.192:11111
-愛爾達體育3台,udp://@224.1.4.193:11111
-udp://@224.1.4.194:11111/
-正德電視台,udp://@224.1.4.195:11111
-MOD電影推薦內容,udp://@224.1.4.196:11111
-Bloomberg TV,udp://@224.1.4.197:11111
-udp://@224.1.4.198:11111/
-靖天綜合台,udp://@224.1.4.199:11111
-唯心電視台,udp://@224.1.4.200:11111
-客家電視,udp://@224.1.4.201:11111
-視納華仁紀實台,udp://@224.1.4.206:11111
-博斯無限二台,udp://@224.1.4.207:11111
-STYLE,udp://@224.1.4.208:11111
-亞洲綜合台,udp://@224.1.4.209:11111
-
-Food Network 美食台頻道,udp://@224.1.4.211:11111
-ETtoday綜合台,udp://@224.1.4.212:11111
-CBeebies,udp://@224.1.4.213:11111
-台視新聞台,udp://@224.1.4.215:11111
-ELTV生活英語台,udp://@224.1.4.216:11111
-momo2台,udp://@224.1.4.217:11111
-民視第一台,udp://@224.1.4.218:11111
-中視經典台,udp://@224.1.4.219:11111
-靖天國際台,udp://@224.1.4.220:11111
-采昌影劇台,udp://@224.1.4.221:11111
-緯來精采台,udp://@224.1.4.222:11111
-華視教育體育文化台,udp://@224.1.4.223:11111
-冠軍電視台,udp://@224.1.4.224:11111
-FGM GOLD電影,udp://@224.1.4.225:11111
-影迷數位紀實台,udp://@224.1.4.226:11111
-民視台灣台,udp://@224.1.4.227:11111
-公視3台,udp://@224.1.4.228:11111
-momo1台,udp://@224.1.4.229:11111
-Lifetime,udp://@224.1.4.230:11111
-韓國娛樂台,udp://@224.1.4.232:11111
-達文西頻道,udp://@224.1.4.233:11111
-Warner TV,udp://@224.1.4.234:11111
-CNN International,udp://@224.1.4.235:11111
-滾動力 rollor,udp://@224.1.4.236:11111
-Animax,udp://@224.1.4.237:11111
-智林體育台,udp://@224.1.4.238:11111
-Mezzo Live HD,udp://@224.1.4.240:11111
-TRACE Urban,udp://@224.1.4.241:11111
-TRACE Sport Stars,udp://@224.1.4.242:11111
-台視財經,udp://@224.1.4.248:11111
-尼克兒童頻道,udp://@224.1.4.249:11111
-博斯魅力網,udp://@224.1.4.250:11111
-龍華電影,udp://@224.1.4.251:11111
-中視新聞台,udp://@224.1.4.252:11111
-
 港澳,#genre#
-澳視葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
 鳳凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/.m3u8
 澳視澳門,http://61.244.22.4/ch1/ch1.live/index.m3u8
 澳視葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
@@ -241,7 +21,11 @@ CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新聞,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
@@ -257,7 +41,7 @@ TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 東森新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv152
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 年代新聞,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 民視新聞,http://125.227.210.55:8157/VideoInput/play.ts
 
@@ -343,6 +127,7 @@ SPOTIFY MUSIC,http://61.221.215.25:8800/hls/1/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+三立臺灣臺,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
 AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
@@ -367,19 +152,23 @@ http://125.227.210.55:8175/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-
+韓國台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
 
 兒童,#genre#
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
-東森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-親子動畫-DAVE&AVA(英),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+YOYO台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+兒童台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+兒童台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+兒童台3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+兒童台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+兒童台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 電影,#genre#
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+
 
 
 4GTV1003,#genre#
@@ -574,216 +363,337 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 粵語版電影二,https://www.goodiptv.club/douyu/6566671
 粵語版電影三,https://www.goodiptv.club/douyu/1226741
 
-0727mitvTW,#genre#
-東森新聞台,P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4#P2p://generationnexxxt.com:19806/311e31668d7045788a
-TVBS新聞台,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1#P2p://generationnexxxt.com:19806/53f80a10fb054d5ab98025a5a
-三立新聞台,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d#P2p://generationnexxxt.com:19806/27c4d09b970a447dae.com:19806/27c4d09b970a447dae0
-年代新聞台,P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc#P2p://generationnexxxt.com:19806/f8c807d770a8429daxxxt.com:19806/f8c807d770a8429da9d058b51690295179d
-非凡新聞台,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09#P2p://generationnexxxt.com:19806/a404066e65af4569315ed
-民視新聞台,P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
-中視新聞台,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
-寰宇新聞台,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
-華視新聞台,P2p://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
-TVBSHD台,P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0#P2p://generationnexxxt.com:19806/9e185dd6c7dd46edb5a7d675e
-BBC-HD台,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
-民視-HD台,P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
-台視-HD台,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
-中視-HD台,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
-公視-HD台,P2p://generationnexxxt.com:19806/345c7e0b5a7545cfacafed5319da0351
-華視-HD台,P2p://generationnexxxt.com:19806/2ebe6c2c5cfd454ebdc30acc44e683d7
-超視-HD台,P2p://generationnexxxt.com:19806/9cf45ab03b744e3696aeeb3aec844fa9
-Lifetime台,P2p://generationnexxxt.com:19806/7d5e25a5a50c47c3b6853d45f9f54d63
-大愛-HD台,P2p://generationnexxxt.com:19806/3a1fb2af7f384a148c57899bb1b50dfb
-靖天國際台,P2p://generationnexxxt.com:19806/924e7a65eec84eddade5f03c3d5ebb37
-霹靂台灣台,P2p://generationnexxxt.com:19806/0e3ab414dfb34fccb76d20665cd03da4
-居家樂活台,P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176
-食交子頻道,P2p://generationnexxxt.com:19806/95909f6c10614748a8d824e33bdfaad0
-美食星球檯,P2p://generationnexxxt.com:19806/02a89e372e1344d0b74c5b288d4d1cea
-亞洲美食台,P2p://generationnexxxt.com:19806/ac7e749ef27c4f2c8775ecaae5cd2206
-好消息頻道,P2p://generationnexxxt.com:19806/4d0ca895f6d94917a6d24019ab13bd5a
-亞洲旅遊台,P2p://generationnexxxt.com:19806/409459f958a04a5fa3609250df421445
-EYE-旅遊台,P2p://generationnexxxt.com:19806/49931b62c0b34671af7cce9d0842ede8
-原民電視台,P2p://generationnexxxt.com:19806/97025f4b61624e4498cf89ac22dc2120
-好消息二,P2p://generationnexxxt.com:19806/75d2c136059342dca8535905bdbd3c19
-三立綜合台,P2p://generationnexxxt.com:19806/a29710ab6188439f8cfaf83e5268ac06
-靖天資訊台,P2p://generationnexxxt.com:19806/f412c238a0594d74a72da81118a27f98
-靖天綜合台,P2p://generationnexxxt.com:19806/9617767eac9b4ce792a24a442e821b13
-靖天育樂台,P2p://generationnexxxt.com:19806/056c144c71cc4b58be94ec2b1bc6409d
-中視經典台,P2p://generationnexxxt.com:19806/b0fa86c1552742ffb1e5b79fcc2a9f5e
-中視菁採台,P2p://generationnexxxt.com:19806/abf4b02e6c7d408ebc9947ae5b2e11c3
-客家電視台,P2p://generationnexxxt.com:19806/12c8600cdaec420b96693e6cf2e37f67
-tvbs精採台,P2p://generationnexxxt.com:19806/0af9c12ec2a347b9b626002b0d10f37c
-壹電視綜合,P2p://generationnexxxt.com:19806/cf21d5f3323f485b81fd561e01ddb505
-緯來精採台,P2p://generationnexxxt.com:19806/28427e22e6804e4a8ebd65671e789376
-ETto綜合台,P2p://generationnexxxt.com:19806/760bcd80b88c4fefa052bef73e87c234
-台視綜合台,P2p://generationnexxxt.com:19806/b8121a70de4c4ce1aa94361a1689297a
-民視第一台,P2p://generationnexxxt.com:19806/c29c4ad3a69749f4908e9ae4cab91032
-民視台灣台,P2p://generationnexxxt.com:19806/38f827cbd65f4fd8af9c173dc13f6cc7
-靖天歡樂台,P2p://generationnexxxt.com:19806/292ac060fb694ab6bab52a705abd0444
-探索頻道台,P2p://generationnexxxt.com:19806/c7afe2fe39a04c1dada51462430dce8a
-八大優頻道,P2p://generationnexxxt.com:19806/108382b44b1d4a45ae635297d23a4b61
-三立戲劇台,P2p://generationnexxxt.com:19806/3e3919a7f09443d1b07bdea99f22e42f
-龍華戲劇台,P2p://generationnexxxt.com:19806/b3526dee03424c8090e6d4d5e787c56b
-靖天戲劇台,P2p://generationnexxxt.com:19806/08786346511f4fbbbbfe0c4e72ad9409
-靖洋戲劇台,P2p://generationnexxxt.com:19806/0089fb08f1b448b99c18ce438a9f7fc5
-靖天日本台,P2p://generationnexxxt.com:19806/a3d3573d8c2543bd81a38c0cf885f56d
-iFun動漫台,P2p://generationnexxxt.com:19806/5e4556e2a12846c5bedb721c6b5ff1c3
-TLC旅遊台,P2p://generationnexxxt.com:19806/32000d7eec2049c6b1de2eb8cd3c9348
-韓國娛樂台,P2p://generationnexxxt.com:19806/8f28b72b74e64314b3b36973f682d021
-達文西頻道,P2p://generationnexxxt.com:19806/170c28c8132b4ce183b4fbf61537dcff
-動物星球檯,P2p://generationnexxxt.com:19806/b165132a770741bcac023d15750067d3
-ROCK-頻道,P2p://generationnexxxt.com:19806/337165af094e40b48fb6db958ffd1cdc
-卡通頻道台,P2p://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0
-NHK新聞台,P2p://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
-龍華電影台,P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
-Smart-知識,P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
-靖天映畫台,P2p://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
-MO-親子台,P2p://generationnexxxt.com:19806/e15e61548a2b4ff792b3dd6620be8139
-靖天電影台,P2p://generationnexxxt.com:19806/37bdc9a3001d4081a0f0885b317d7221
-WARNER台,P2p://generationnexxxt.com:19806/3565510269ca47e2b0183ec1cdeca375
-公視台語台,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
-amc電影台,P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf
-東森幼台,P2p://generationnexxxt.com:19806/f426ffd2f2744109aedcfaa04fed3a6e
-HBOFamily,P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64
-Catc電影台,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15
-Cinema-台,P2p://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
-壹電視頻道,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d
-緯來綜合台,P2p://generationnexxxt.com:19806/9ca438ac1af6416087c98ee06bb3e512
-採昌影劇台,P2p://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
-八大第一台,P2p://generationnexxxt.com:19806/ef3ddf51945a48beabd3f79eeafe8ac0
-佛衛慈悲台,P2p://generationnexxxt.com:19806/61d88141c1fe4dccac7b23e365606290
-八大綜合台,P2p://generationnexxxt.com:19806/5bc105affae344648b1b19d46233e6e6
-三立台灣台,P2p://generationnexxxt.com:19806/82c3325594cc42bcb28b18426623428e
-三立都會台,P2p://generationnexxxt.com:19806/d246662584364ea6aad39cb2c7767eec
-東森綜合台,P2p://generationnexxxt.com:19806/96888fe237044e2e97823cc5e215e1a3
-中天綜合台,P2p://generationnexxxt.com:19806/3e0f75883e414bb98765c2eab11991be
-中天娛樂台,P2p://generationnexxxt.com:19806/4ec900f6e5c0468db4b5f6743efa6508
-東森戲劇台,P2p://generationnexxxt.com:19806/d6863286fa4a40cbbf9f93bd5c1e5733
-八大戲劇台,P2p://generationnexxxt.com:19806/a5393bab3516410fb2bd81ea2329f7b3
-tvbs歡樂台,P2p://generationnexxxt.com:19806/115a1e134813400abd3e49bad3af517c
-緯來戲劇台,P2p://generationnexxxt.com:19806/8a65b7456abb49f0bd564d6741cd4542
-高點綜合台,P2p://generationnexxxt.com:19806/87ef49531c3c4f70b86874445d32ff0d
-CNBC-頻道,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-Bloomberg,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-HITs頻道台,P2p://generationnexxxt.com:19806/512347b10e364e9bb4d436f495b1a8be
-壹電視新聞,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
-年代新聞備,P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
-東森財經台,P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
-MO-綜合台,P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c
-東森電影台,P2p://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
-緯來電影台,P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983
-龍祥電影台,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
-HBO頻道台,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
-東森洋片台,P2p://generationnexxxt.com:19806/29384d5c65734485903a3e592c9ef54f
-AXN電影台,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
-好萊塢電影,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
-CINE-MAX,P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e
-緯來育樂台,P2p://generationnexxxt.com:19806/5c2e47cfcc864451b73783def36674bb
-緯來體育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
-ELEVEN-台,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
-JET綜合台,P2p://generationnexxxt.com:19806/834c314a8ff844b0a9c3ea729ad8516b
-國興衛視台,P2p://generationnexxxt.com:19806/341ef44c383e42aabb387120e1dade1c
-Z--頻道台,P2p://generationnexxxt.com:19806/70f52ed474e541f78682604ce0330bf2
-Animax-台,P2p://generationnexxxt.com:19806/7c6f8a583fc24b298779528c07b8c66d
-人間衛視台,P2p://generationnexxxt.com:19806/6c97041f5da4437597c4f045b19b28c0
-尼克頻道台,P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c
-八大娛樂台,P2p://generationnexxxt.com:19806/5ca416b9a3564813893dc1033310b6ba
-三立iNEWS,P2p://generationnexxxt.com:19806/6ec25b8c951a47cfb921435fb1968c16
-龍華偶像台,P2p://generationnexxxt.com:19806/a7b822eb3c86487b960d27a273d5e0b6
-tvN-頻道台,P2p://generationnexxxt.com:19806/45cb5d3ff4f842178bd262ac32891a0c
-France24,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
-非凡商業台,P2p://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d
-公視三台,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
-大愛二,P2p://generationnexxxt.com:19806/c549d8292cd14ac6a77bf310fba08b65
-ELTV生活台,P2p://generationnexxxt.com:19806/1a430b38978a4a0698ede6f842b3a265
-靖洋卡通台,P2p://generationnexxxt.com:19806/c7d3153e13894863a8d735c907971efd
-靖天卡通台,P2p://generationnexxxt.com:19806/f55c325d0f8b4cac938804f090c50b5c
-Nick頻道台,P2p://generationnexxxt.com:19806/0fdb4f78ab6f498f88c12ca5a34fffc2
-Mezzo Live,P2p://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4
-CLA-古典樂,P2p://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb
-愛爾達一台,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
-愛爾達兩台,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
-TRACSport,P2p://generationnexxxt.com:19806/771e966a825d4e7e8280601cb8cc1227
-博斯高球檯,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
-博斯高球二,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
-博斯網球檯,P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd
-博斯魅力網,P2p://generationnexxxt.com:19806/e8db82c6084a4ae2b114ea7c5403b7a2
-博斯無限台,P2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf
-博斯無限二,P2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
-博斯運動台,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
-ELEVE第二台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
-智林體育台,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
-博斯運動二,P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170
-HBO強檔台,P2p://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06
-HBO原創台,P2p://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e
-BBC Earth,P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a
-Discovery,P2p://generationnexxxt.com:19806/6d031b7fba864255a10992d86da402ca
-科學頻道台,P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668
-DMAX頻道,P2p://generationnexxxt.com:19806/9fcdb313900f49c4b0236628fd939870
-EVE頻道台,P2p://generationnexxxt.com:19806/958f90533a3f4857bd1ea3f6610f45e5
-歷史頻道台,P2p://generationnexxxt.com:19806/b43ae6d6c7264673901171201610d68c
-罪案偵緝台,P2p://generationnexxxt.com:19806/33eb3b21b71b469f9a9e0b780c615230
-EYE戲劇台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40f
-台視新聞台,P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
-寰宇台灣台,P2p://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e
-台視財經台,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
-緯來日本台,P2p://generationnexxxt.com:19806/f975f456c2124eb78e6afaad3a9db300
-愛爾達影劇,P2p://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5
-民視HD_備,P2p://generationnexxxt.com:19806/710b3fa51d9746d982e51411e5a49400
-三立台灣備,P2p://generationnexxxt.com:19806/82fb76c0b7d7487cb42604a970c4d2da
-影迷數位台,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b
-愛爾達一台,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
-愛爾達三台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
-愛爾達四台,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
-台視HD_備,P2p://generationnexxxt.com:19806/4f26385653f04516a9f205e141fa77b2
-中視HD_備,P2p://generationnexxxt.com:19806/185127a48ab34a0dad54ab6e003ddeb3
-華視HD_備,P2p://generationnexxxt.com:19806/f2790dcfba0d4f479db8ec97095579af
-鏡新聞頻道,P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
-東森購物一,P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9
-東森購物二,P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527
-TechStorm,P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f
-緯來育樂台,P2p://generationnexxxt.com:19806/582d689b3362424fbf99541335e57ba2
-緯來電影台,P2p://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
-緯來綜合台,P2p://generationnexxxt.com:19806/b936f6c565994dc88e2143be7af35c25
-CINE--MAX,P2p://generationnexxxt.com:19806/d559fe6e91584b87bff1eaeb0660c6ef
-亞洲美食台,P2p://generationnexxxt.com:19806/081793e8697647e5af4c70b9265cab70
-美食星球檯,P2p://generationnexxxt.com:19806/603ff2b4a3b34834bbe7bbc04b6b8d78
-EYE-旅遊台,P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6cf94
-Anima頻道,P2p://generationnexxxt.com:19806/4913cc8e4b7e490eaebbb4a081bf02b8
-CinemaWo,P2p://generationnexxxt.com:19806/023f59ea320a4c6e92921cefdbaa56fa
-愛爾達一台,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
-亞洲旅遊台,P2p://generationnexxxt.com:19806/bc0c6c9782004039b1220b4faa8a3abf
-tvbs歡樂台,P2p://generationnexxxt.com:19806/2f5899dbb41e4f798ef5d21862533392
-高點綜合台,P2p://generationnexxxt.com:19806/434410dec739471d9743acce6fa7db63
-HBOFamily,P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980
-HBO強檔台,P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242
-HBO原創台,P2p://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede
-amc電影台,P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
-Discover台,P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
-探索頻道台,P2p://generationnexxxt.com:19806/03803dbb35eb4e78a332b2b421b770c8
-動物星球檯,P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
-三立iNEWS,P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
-霹靂台灣台,P2p://generationnexxxt.com:19806/28662f792e3745e6893da9c2f2f94575
-BBCEarth台,P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
-BBCLifestyl,P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
-影迷數位台,P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
-愛爾達四台,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-博斯高球檯,P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
-博斯網球檯,P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4
-博斯運動台,P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
-博斯無限台,P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
-中天亞洲台,P2p://generationnexxxt.com:19806/1279f4aaa3ea4f958ed26b14f1ffeb7e
-中天娛樂台,P2p://generationnexxxt.com:19806/ef92e3e69b334eaca20f0e2a26bf0f31
-WARNERtv,P2p://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee
-iFun動漫台,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
-八大優頻道,P2p://generationnexxxt.com:19806/18013a59708946259a859??b90d07b8aa??c
-民視第一台,P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
-東森戲劇台,P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
-歷史頻道台,P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
-愛爾達兩台,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
-愛爾達三台,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
+1029,#genre#
+P央衛,#genre#
+CCTV-1,p3p://173.208.176.178:31809/62c200310006b7b2a8c4dade0fd02231
+CCTV-2,p3p://173.208.176.178:31809/5fe15a4400093f55773aac0c576366b8
+CCTV-3,p3p://173.208.176.178:31809/62be83ea0001dbed9b27d7bb43427d30
+CCTV-4,p3p://173.208.176.178:31809/61244d9c0006885d64b1b7591f6c12a0
+CCTV-5,p3p://173.208.176.178:31809/62c2e10a000954acac332b30611a0e9d
+CCTV5+,p3p://173.208.176.178:31809/6323522b0000ad5c24e892c57ad041c7
+CCTV-6,p3p://173.208.176.178:31809/62c1fdfa0006353aa8bc33e5054a54db
+CCTV-7,p3p://173.208.176.178:31809/5fe3e41800087c1581251001631763fa
+CCTV-8,p3p://173.208.176.178:31809/5ff866900007a9fbd141d26a26c3200d
+CCTV-9,p3p://173.208.176.178:31809/600b6ba2000d52801b8cbfda6cd319a2
+CCTV-10,p3p://173.208.176.178:31809/600b6e71000738431b97b6e5675e67a4
+CCTV-11,p3p://173.208.176.178:31809/600b70950000f68f1ba011e06e003057
+CCTV-12,p3p://173.208.176.178:31809/5fe3e42d00068cbf812561891e0e6b52
+CCTV-13,p3p://173.208.176.178:31809/632351570006042224e55806316a7512
+CCTV-14,p3p://173.208.176.178:31809/600b718b0006dd9f1ba3d45468b1762e
+CCTV-15,p3p://173.208.176.178:31809/63235101000d828724e40a062bb62592
+CTV國際,p3p://173.208.176.178:31809/61244d9c0006885d64b1b7591f6c12a0
+CTV美洲,p3p://173.208.176.178:31809/602f0bd2000b47fda6b4b7f96224105e
+CGT阿語,p3p://173.208.176.178:31809/60e647e200033b4a726e736d14e93334
+動作影片,http://58.59.47.242:8180/TV00000000000000000030@HHZT
+動作電影,p3p://173.208.176.178:31809/63ec4d4200074d64e44790cb67ae7b20
+家庭劇院,http://58.59.47.242:8180/TV00000000000000000029@HHZT
+家庭劇院,p3p://173.208.176.178:31809/63ec4d000006b5ebe4468ed8604807ac
+影迷電影,http://58.59.47.242:8180/TV00000000000000000031@HHZT
+影迷電影,p3p://173.208.176.178:31809/63ec4caf00020428e445513c2d902fdb
+中國電影,p3p://173.208.176.178:31809/63fe69a800089af82b062bc65bb57f67
+新視覺hd,p3p://173.208.176.178:31809/63ec4d870003e9f2e4489d7821254fbb
+五星體育,p3p://173.208.176.178:31809/63ec4dc200075675e44984ca52f86245
+北京衛視,p3p://173.208.176.178:31809/5fe1591b000dc3b377362512452546e3
+東方衛視,p3p://173.208.176.178:31809/62d4a9f2000909c9f1ab0ea900607a3c
+浙江衛視,p3p://173.208.176.178:31809/62c1fc2a0002c3eba8b51e81055b25b3
+江蘇衛視,p3p://173.208.176.178:31809/62ebe68a000867fa4c6ed916192911b0
+湖南衛視,p3p://173.208.176.178:31809/62c2e1e3000b6afaac367b6247e40f8a
+廣東衛視,p3p://173.208.176.178:31809/5fedd54600018ac3a7fab8e83f1073c3
+深圳衛視,p3p://173.208.176.178:31809/5fe21c150008cdc67a2fc45c52c03e7b
+安徽衛視,p3p://173.208.176.178:31809/5fe21da0000a8d6d7a35cbbc30667835
+天津衛視,p3p://173.208.176.178:31809/5fe21dfd000e7aa37a37380658302908
+山東衛視,p3p://173.208.176.178:31809/5fe2208a000bb11e7a412e17132544de
+吉林衛視,p3p://173.208.176.178:31809/5fe220ab000694027a41adb200196608
+遼寧衛視,p3p://173.208.176.178:31809/5fe2162b000d828b7a18ab7f6c8368be
+河北衛視,p3p://173.208.176.178:31809/5fe15c48000a991c77428bff7b2b59ed
+四川衛視,p3p://173.208.176.178:31809/5fe21e1a0007f53d7a37a7a91f1171d7
+東南衛視,p3p://173.208.176.178:31809/61396ab50001b07bb72a7a3c04304523
+江西衛視,p3p://173.208.176.178:31809/5fe21ab1000e4e987a2a57190bf705fd
+廈門衛視,p3p://173.208.176.178:31809/63ec4617000ea493e42b92ae132b3883
+海峽衛視,p3p://173.208.176.178:31809/63ec47390001586de42ffc1a7e1856a6
+貴州衛視,p3p://173.208.176.178:31809/6022140a000e0258740d440853d209b9
+河南衛視,p3p://173.208.176.178:31809/5fe21fb6000ae57d7a3df1c35db55753
+山西衛視,p3p://173.208.176.178:31809/63ec47dd000dba0fe4327fe92f826ca7
+湖北衛視,p3p://173.208.176.178:31809/5fe15c7d00087e2377435a84444d3ac4
+重慶衛視,p3p://173.208.176.178:31809/5fe22070000a826a7a40c843077f6b68
+廣西衛視,p3p://173.208.176.178:31809/602210560009472773fecbad4efa370f
+雲南衛視,p3p://173.208.176.178:31809/63ec497c00058741e438d2e90a5c74a9
+新疆衛視,p3p://173.208.176.178:31809/63ec49c6000efa45e439f6607d261a01
+西藏衛視,p3p://173.208.176.178:31809/63ec4ab500052d07e43d99727879092e
+青海衛視,p3p://173.208.176.178:31809/63ec4bd00007d193e441eb97059d6779
+海南衛視,p3p://173.208.176.178:31809/63ec4c2d000a249be4435773000226af
+內蒙古視,p3p://173.208.176.178:31809/63ec4a1f0006a1c8e43b4fe45f4007c7
+黑龍江視,p3p://173.208.176.178:31809/6323b2350007630d265fbb91230b76bb
+廣東珠江,p3p://173.208.176.178:31809/63ec48e000076bf6e43672044d3841bb
+廣東珠江,p3p://173.208.176.178:31809/63fa66de000b08831b5b475e54e67ef1
+廣東體育,p3p://173.208.176.178:31809/63ec4b8400036b28e440c19a1b512b44
+神州新聞,p3p://173.208.176.178:31809/655e74f7000953678a2be18968661f5f
+戲曲名段,p3p://173.208.176.178:31809/63ec4f4e0008eb5de44f9010114b61da
+金鷹卡通,p3p://173.208.176.178:31809/63ec4f9b000752c3e450bc6d341d5c72
 
+P香港頻道,#genre#
+無線翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+無線翡翠台,p3p://173.208.176.178:31809/653e4c02000ea0440c8c63fd3e5d709d
+無線新聞台,p3p://173.208.176.178:31809/653e4818000b73240c7d19181340415e
+now新聞台,p3p://173.208.176.178:31809/653e4f3d0003bdbf0c98ffaf583a6e3a
+鳳凰美洲台,p3p://173.208.176.178:31809/5fe00fca0004e627722fbe5a480a642f
+鳳凰資訊台,p3p://173.208.176.178:31809/5fffbf860003807cedf4e1016c3c3ed2
+鳳凰資訊台,http://171.213.137.173:8088/udp/239.93.1.4:2191
+鳳凰衛視台,p3p://173.208.176.178:31809/602c73500002f4d29c90fa1270f21160
+鳳凰衛視台,http://171.213.137.173:8088/udp/239.93.1.9:2192
+鳳凰香港台,p3p://173.208.176.178:31809/5fe0b82c000cac9774c17f262e43314d
+香港衛視台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港衛視台,p3p://173.208.176.178:31809/655f9ff5000f136f8ebbd33f2f097512
+星空衛視台,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東珠江台,http://14.19.179.71:4022/udp/239.77.0.1:5146
+廣東珠江台,p3p://173.208.176.178:31809/63fa66de000b08831b5b475e54e67ef1
+廣東體育台,http://14.19.179.71:4022/udp/239.77.0.112:5146
+廣東體育台,p3p://173.208.176.178:31809/63ec4b8400036b28e440c19a1b512b44
+中天新聞台,p3p://173.208.176.178:31809/613dba64000abeb1c801c02934bb45fc
+有線電視新聞台,p3p://173.208.176.178:31809/655bd22c000147307fdff68936807320
+無線華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+無線Plus台,p3p://173.208.176.178:31809/6649bce20008d56453eeebfc022701f1
+無線Plus台,p3p://173.208.176.178:31809/653e4d3e000b344f0c91357e73163f82
+無線Plus台,p3p://173.208.176.178:31809/5ffbee4900066c0ddf0b8b84423c06f3
+無線Plus台,p3p://173.208.176.178:31809/611d989d0005244a4a7f24d111282ffb
+無線明珠台,p3p://173.208.176.178:31809/611d99f3000116024a845bb9627404c9
+無線明珠台,p3p://173.208.176.178:31809/602f1ba9000814efa6f2970333d309d9
+無線賽馬台,p3p://173.208.176.178:31809/6506d591000d6d7733e6bdfb4725689e
+now賽馬台,p3p://173.208.176.178:31809/6318b7730000b372fb7ca7e170c66e54
+有線賽馬台,p3p://173.208.176.178:31809/64db58eb000d759e8a08afbc7bd65062
+有線綜合台,p3p://173.208.176.178:31809/62184bc3000cd48f11e47b06202b7e18
+有線綜合台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+popc電影國,p3p://173.208.176.178:31809/663e9212000a54b4285005cd59217563
+龍祥電影粵,p3p://173.208.176.178:31809/63375cce0008451773313a26199f3191
+美亞電影粵,p3p://173.208.176.178:31809/655f8ccc0007d2578e70f934113a2428
+美亞電影國,p3p://173.208.176.178:31809/64c3653f0007f6812c7970122ff43531
+天映頻道粵,p3p://173.208.176.178:31809/65bf577300077e84049eb5316df2149c
+天映頻道粵,p3p://173.208.176.178:31809/6533b684000931d9e334c45b064e2833
+天映頻道國,p3p://173.208.176.178:31809/65bf5a9a0005aa9d04ab0515203f3b8b
+天映頻道國,p3p://173.208.176.178:31809/6471b0bb00011e09ed51d397629e4f55
+天映頻道閩,p3p://173.208.176.178:31809/6471b17d00006ecded54c93b1ea4486b
+天映經典台,p3p://173.208.176.178:31809/5fded422000d0eb46d5f29815c1d4155
+now星影台,p3p://173.208.176.178:31809/65423b7b00047dbb1bebd20b45f374d2
+now爆谷台,p3p://173.208.176.178:31809/65423beb00082fd01bed887e0ae23bbf
+now爆谷台,p3p://173.208.176.178:31809/65bf60df000777a004c3831b56247b8e
+now紫金台,p3p://173.208.176.178:31809/6427e42c00084703cd0c176f58dd37f1
+now華劇台,p3p://173.208.176.178:31809/6519bc200001e7b37dbb01f124075086
+now劇集台,p3p://173.208.176.178:31809/63ed3e1500077d30e7f449055a0846ce
+now直播台,p3p://173.208.176.178:31809/655fa52d000c3fc98ed0353c0e327e63
+now英超粵,p3p://173.208.176.178:31809/65acf008000b26e4bcbb1adc24476b3f
+now體育一,p3p://173.208.176.178:31809/63ed464b000b911be8145d035c4e0f21
+now體育二,p3p://173.208.176.178:31809/63ed46be0002b99be8161bfd62d87e90
+now體育三,p3p://173.208.176.178:31809/63ed4715000c1bffe81772386f5b27f7
+now體育四,p3p://173.208.176.178:31809/63ed478e000a98f2e8194a7c2bdc7fe6
+now體育五,p3p://173.208.176.178:31809/63ed98c2000122f4e9567b333a74077a
+now體育六,p3p://173.208.176.178:31809/63ed98d90002f8f6e956d5822ff208b1
+now體育七,p3p://173.208.176.178:31809/63ed990600010efde95784d4529f16d2
+nowplus台,p3p://173.208.176.178:31809/65a442ed000e5f029ad7146558606385
+nowPrime,p3p://173.208.176.178:31809/644edbcc0004d5a765428da71f967a86
+TVB-1 US,p3p://173.208.176.178:31809/63efe07e000c1db2f23eb46a4e00518a
+TVB-J1US,p3p://173.208.176.178:31809/63efe0de000858baf2402a646c573e1b
+TVB-E US,p3p://173.208.176.178:31809/63efe2e2000d23b5f2480b4125294b9a
+TVBdrama,p3p://173.208.176.178:31809/63efe252000a7658f245d81113e44b34
+TVB-news,p3p://173.208.176.178:31809/63efe2a100034c82f2470ad419e43975
+VIUtv台粵,p3p://173.208.176.178:31809/5fed3234000c7a49a57dbd6e14af358f
+VIUtv台粵,p3p://173.208.176.178:31809/611d99820007a67c4a82a3fe3cc749de
+VIUtv台英,p3p://173.208.176.178:31809/5fed31e7000736e2a57c8f4c14d55d36
+Astr劇集台,p3p://173.208.176.178:31809/5fdeca140004e52a6d37e0be49f64a69
+Astr劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+Astr綜合台,p3p://173.208.176.178:31809/64bbb99f0005fdbf0e8331dd6a6f10a1
+Astr歡喜台,p3p://173.208.176.178:31809/620f05bb0000b01ff985bb62369741c0
+Astr愛奇藝,p3p://173.208.176.178:31809/5fe07bb800090e1173d5591b2d87144a
+Hub都會國,p3p://173.208.176.178:31809/64bbb7fc0000f99e0e7ccbda6e527811
+Hub娛家國,p3p://173.208.176.178:31809/64bbb85e0009c5db0e7e4ceb66ad5c17
+8-度空間國,p3p://173.208.176.178:31809/64bce778000d4c1f131e20196db7116d
+緯來電影台,p3p://173.208.176.178:31809/62c860e50008ea96c1ae9a96599c6947
+東森電影國,p3p://173.208.176.178:31809/62c103a5000b5a66a4eacca77822079a
+龍華電影國,p3p://173.208.176.178:31809/621471310004d28d02d6aeb471c265ec
+龍翔電影國,p3p://173.208.176.178:31809/60115453000a238d32a1418142be77f7
+數位電影台,p3p://173.208.176.178:31809/6223ae1b0007136f3e5c44280e3300fa
+映畫電影台,p3p://173.208.176.178:31809/63a9b86700096c986a8c8a557cd37007
+極限電影台,p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+採昌劇集國,p3p://173.208.176.178:31809/621de2ed000a255d27ba994346c66a7c
+好萊塢電影,p3p://173.208.176.178:31809/62cee8b3000ea6aedb30a55616047866
+無線星河粵,p3p://173.208.176.178:31809/5fdee23d000b670a6d96428e4c334643
+無線星河國,p3p://173.208.176.178:31809/6563174f0002ffaf9c45dd927c7d6df1
+無線功夫台,p3p://173.208.176.178:31809/653e4a3f000b1abb0c85815c35fa0803
+無線娛樂台,p3p://173.208.176.178:31809/5fe7f68d000e73d9910d2a86341258f7
+無線綜藝台,p3p://173.208.176.178:31809/63108c86000a543bdb95705579fa26ad
+無線綜藝台,p3p://173.208.176.178:31809/6506d285000b06bd33dad67a652e2bfd
+黃金翡翠台,p3p://173.208.176.178:31809/653e49c20006c60f0c8397f7771b1b7b
+黃金華劇台,p3p://173.208.176.178:31809/652970de00011277bb14dcd76e301cc0
+無線亞劇台,p3p://173.208.176.178:31809/6284685e00039b52b82eeeca7a785fda
+無線粵片台,p3p://173.208.176.178:31809/653e4b8d00001a450c8a973c06325101
+無線戲曲台,p3p://173.208.176.178:31809/63108bd0000e4a9cdb92aa6820e833d5
+千禧經典台,p3p://173.208.176.178:31809/5fdee1a2000b5fba6d93e51308cb7ddf
+千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+重溫經典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+RTHK-31台,p3p://173.208.176.178:31809/6109ec88000eed44fda7d8ff6e487ce1
+RTHK-32台,p3p://173.208.176.178:31809/6109eca300044552fda83fbc4a2f6a1b
+RTHK-33台,p3p://173.208.176.178:31809/6649b63b0005235553d4eeaa04665f78
+RTHK-34台,p3p://173.208.176.178:31809/6649b6c000029bce53d6f58d6f880e70
+RTHK-35台,p3p://173.208.176.178:31809/6649b7100008096b53d82f711ddb55de
+香港麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+澳視澳門台,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳視葡語台,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳門資訊台,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳門mac台,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+澳門mac台,p3p://173.208.176.178:31809/64c2611000018873288116d70e04175d
+澳門蓮花台,http://php.jdshipin.com:8880/amlh.php
+澳門蓮花台,p3p://173.208.176.178:31809/60b977ed000ba538c36458471a9d6772
+Now財經台,p3p://173.208.176.178:31809/6256e47a0007a6bb0665fa1971252f50
+東森經財台,p3p://173.208.176.178:31809/61468bd70005123dea7373f226636dba
 
+P台灣頻道,#genre#
+中天新聞台,http://211.72.65.236:8541/.m3u8
+中天新聞台,p3p://173.208.176.178:31809/613dba64000abeb1c801c02934bb45fc
+中天新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=1
+tvbs新聞台,p3p://173.208.176.178:31809/621858e3000e70ad1217c0700d576ad0
+東森新聞台,p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
+三立新聞台,p3p://173.208.176.178:31809/6014c896000c7101401f67cc5477681b
+三立-inews,p3p://173.208.176.178:31809/644f81c10003ba2367cad2610d3a2ab5
+寰宇新聞台,p3p://173.208.176.178:31809/653cd4a900049a4206d258a92e941b10
+寰宇閩南台,p3p://173.208.176.178:31809/612d7c11000c9faf888ebf9f3276784e
+閩壹新聞台,p3p://173.208.176.178:31809/621dbb640001cb2b272027f74da62753
+閩鏡新聞台,p3p://173.208.176.178:31809/63ebd33c0003c437e26ae87279d061f1
+年代新聞台,p3p://173.208.176.178:31809/5fe09fec000ac0127462c4ac6b1f16a3
+華視新聞台,p3p://173.208.176.178:31809/632c706b0009d57248864b64705a59a0
+台視新聞台,p3p://173.208.176.178:31809/62caf1dc000525b3cbb4de6e3c0e2af8
+中視新聞台,p3p://173.208.176.178:31809/61ff2b9d0004cfe6bb9a99f71e1c4c92
+民視新聞台,p3p://173.208.176.178:31809/602f1f4a000aa86fa700c49817387f81
+民視閩南台,p3p://173.208.176.178:31809/6001ba8400051d89f5b151a63fa96419
+民視第一台,p3p://173.208.176.178:31809/5fe0a665000c49bf747c0dbd57ec09a3
+民視台灣台,p3p://173.208.176.178:31809/6388b888000de54e5f4c698049f16f53
+民視旅遊台,p3p://173.208.176.178:31809/61769f2d000d84d7a63c4df74f4f24c4
+華視閩南台,p3p://173.208.176.178:31809/61eff95c000bcf35803ebfe7426e2914
+中視閩南台,p3p://173.208.176.178:31809/621dab720008820a26e1e06b75653395
+公視閩南台,p3p://173.208.176.178:31809/63ebf0b7000e7d27e2de13a9113e7096
+台視閩南台,p3p://173.208.176.178:31809/612ee2240008f3db8e0578dc59406f9e
+台視財經台,p3p://173.208.176.178:31809/6223b571000a13023e78ece5030b5b05
+中視青採台,p3p://173.208.176.178:31809/621db1fb0006fbf526fb672712522a46
+中視經典台,p3p://173.208.176.178:31809/621db24e000d4a9726fcacfd58c400a2
+中天亞洲台,p3p://173.208.176.178:31809/5fe6fce400011e568d3deaf35a511da9
+中天娛樂台,p3p://173.208.176.178:31809/5ffae39100029825dafa1d03520571ac
+tvbs精彩台,p3p://173.208.176.178:31809/61efd0a100047e1a7f9fa38d29f5746d
+tvbs歡樂台,p3p://173.208.176.178:31809/61e831a60008c7d761db13151abe16ae
+tvbs-HD台,p3p://173.208.176.178:31809/612ee5ef000f06f58e144b6727ec3efb
+三立台灣台,p3p://173.208.176.178:31809/5fe2947f000c58a57c0623474ae64e07
+三立綜合台,p3p://173.208.176.178:31809/6233dc940004f17a7d90e7c364b93c82
+三立都會台,p3p://173.208.176.178:31809/5fe29458000eb9287c058b8b2e5806e8
+三立國際台,p3p://173.208.176.178:31809/5fe95e150003dbe09689221a68d3215e
+靖洋戲劇台,p3p://173.208.176.178:31809/626104d8000627c22df3f662158708fa
+人間衛視台,p3p://173.208.176.178:31809/64bbd61c0005f2d80ef27a2574246048
+MO_親子台,p3p://173.208.176.178:31809/61e0ffbf000c4e3545c098666cb76c2d
+龍華偶像台,p3p://173.208.176.178:31809/609bb1b0000732744f174daa791d3b43
+龍華戲劇台,p3p://173.208.176.178:31809/6214c295000a5fa204149eb30d3c30b4
+龍華經典台,p3p://173.208.176.178:31809/6223b9d8000ef67e3e8a2073190e36d5
+龍華洋片台,p3p://173.208.176.178:31809/64c0e1af000875f522a785c0570b06ae
+龍華電影台,p3p://173.208.176.178:31809/621471310004d28d02d6aeb471c265ec
+東森電影台,p3p://173.208.176.178:31809/62c103a5000b5a66a4eacca77822079a
+東森幼台,p3p://173.208.176.178:31809/62c9a6bb000ac34dc6a767036c5f3878
+東森綜合台,p3p://173.208.176.178:31809/5fe8c5570001412994347b4506da6ebb
+東森洋片台,p3p://173.208.176.178:31809/64c62c06000d1cf03751bf246ed813e7
+緯來戲劇台,p3p://173.208.176.178:31809/5fe29426000330687c04c55011370c91
+緯來育樂台,p3p://173.208.176.178:31809/6214bdc7000061300401d77e20cc43d8
+緯來體育台,p3p://173.208.176.178:31809/5fe16e4c000e45c17788ec964e9c5564
+智林體育台,p3p://173.208.176.178:31809/62148d7e000079c103453a521daa6e9f
+八大第一台,p3p://173.208.176.178:31809/5fea93070007b1939b3ff46f17b905c7
+八大戲劇台,p3p://173.208.176.178:31809/6224f676000aef1a435e76c619855b4e
+八大娛樂台,p3p://173.208.176.178:31809/5fe293b60007594a7c0310e05b6a27ac
+八大綜合台,p3p://173.208.176.178:31809/61a57c52000cc2015d49e9e91be106b6
+八大綜藝台,p3p://173.208.176.178:31809/621e16570009521a28836f1b4c052719
+八大精彩台,p3p://173.208.176.178:31809/6223beb7000542db3e9d251558fb45b1
+Eleven一台,p3p://173.208.176.178:31809/6027f40400042e0d8b002a1b0af27e77
+Eleven二台,p3p://173.208.176.178:31809/6025f1d0000440c783278efb13a4147e
+愛爾達綜合,p3p://173.208.176.178:31809/644f9341000c1001680f3089032174aa
+愛爾達影劇,p3p://173.208.176.178:31809/644f91780000980d6808346f494d7ec1
+愛爾達一台,p3p://173.208.176.178:31809/623a8d50000c965397b2d5b26c7b25bd
+愛爾達二台,p3p://173.208.176.178:31809/623a8d8d0001570d97b3c11a65640b68
+愛爾達三台,p3p://173.208.176.178:31809/622e99e60004026169046fd918be6ed7
+博斯魅力台,p3p://173.208.176.178:31809/612ee43d000c84ea8e0dab707a8b2e0d
+博斯網球檯,p3p://173.208.176.178:31809/6275f21d000aeb447fb1e83c30d60273
+博斯運動一,p3p://173.208.176.178:31809/61f02576000b2c0a80eb0552388d145e
+博斯運動二,p3p://173.208.176.178:31809/62639c49000784a03813882a6f5c7e5d
+博斯無限一,p3p://173.208.176.178:31809/647cba27000a6f78186e481d11013645
+博斯無限二,p3p://173.208.176.178:31809/6146901b0006875bea841df772893d7b
+亞洲旅遊台,p3p://173.208.176.178:31809/61e4f963000c710c55474e4e1e2273d9
+亞洲美食台,p3p://173.208.176.178:31809/62c9a44500000cd3c69dc74b77c62c82
+動物星球檯,p3p://173.208.176.178:31809/6214894b0007e3120334d50a59d03689
+Hbo原創台,p3p://173.208.176.178:31809/623a6e38000091d497395ce957b27132
+Hbo家庭台,p3p://173.208.176.178:31809/623a706d0003edf59741fcc023dc0089
+Hbo巨獻台,p3p://173.208.176.178:31809/623a700000069676974053b555b700d4
+Hbo巨獻備,p3p://173.208.176.178:31809/6233e648000735057db6cf734adf440d
+AXN電影台,p3p://173.208.176.178:31809/6258ddc5000ee8a40e1bc8f50dec545c
+KTSF-26台,p3p://173.208.176.178:31809/653e4cda0007743f0c8fade86d132b26
+BOO電影台,p3p://173.208.176.178:31809/5fded40700033e036d5ebd8604bf417b
+THrill-電影,p3p://173.208.176.178:31809/630c2b9400044df5ca7abd7159677c41
+Cinemaxhk,p3p://173.208.176.178:31809/65b1767d00058cdcce68527c3131148e
+Cinemaxhk,p3p://173.208.176.178:31809/64ce039d0009f00b55f3e422778f3af3
+Lovenature,p3p://173.208.176.178:31809/655fa9280009c6278edfc1176731425f
+Lovenature,p3p://173.208.176.178:31809/6233fcfa000be8f27e0f78035e656379
+OneTV綜合,p3p://173.208.176.178:31809/64d5c5550007c4d9744057ea09db782a
+創世電視台,p3p://173.208.176.178:31809/65ac3ff5000d8862ba0b51494dc3254e
+AnimaxHK,p3p://173.208.176.178:31809/6506d1a00000a99a33d7555a4b747caa
+EYE-戲劇台,p3p://173.208.176.178:31809/64c62f0c000d47c0375d8ea3081775da
+EYE-旅遊台,p3p://173.208.176.178:31809/64c105a500023b4e2333fd1453e42393
+罪案追緝CI,p3p://173.208.176.178:31809/623baf7a0004e5d79c2047cd46107be2
+彩昌影劇台,p3p://173.208.176.178:31809/621de2ed000a255d27ba994346c66a7c
+尼克JR頻道,p3p://173.208.176.178:31809/6233e05300064fcf7d9f8a39563b6c75
+達文西頻道,p3p://173.208.176.178:31809/62011f820008c9f3c33ae0231cf86a05
+CN-卡通台,p3p://173.208.176.178:31809/61ded38e000d52023d43f93e0ee00012
+靖天卡通台,p3p://173.208.176.178:31809/625b6d3800022fe9181c1ee5362c159d
+探索亞洲台,p3p://173.208.176.178:31809/623bc4f4000da3919c742e942bdb3571
+bbc-eart台,p3p://173.208.176.178:31809/6444eb2e000921503e6ecfe873cd10b1
+中旺電視台,p3p://173.208.176.178:31809/5fe09c570001addf7454c44e021f76be
+壹電影頻道,p3p://173.208.176.178:31809/651c3a7e00035f9e8778a18d0aeb27f1
+靖天國際台,p3p://173.208.176.178:31809/612db8220006940e897960753ab534e9
+龍華日韓台,p3p://173.208.176.178:31809/621e1d0e00085766289da9bb1d7120af
+靖天戲劇台,p3p://173.208.176.178:31809/612db70e000298f98975294e4645098b
+影迷數位台,p3p://173.208.176.178:31809/6223ae1b0007136f3e5c44280e3300fa
+WarnerTV,p3p://173.208.176.178:31809/623a7c43000859b0977039e0175b0470
+靖天綜合台,p3p://173.208.176.178:31809/6223bd68000c7a903e980a5524d66f67
+靖天映畫台,p3p://173.208.176.178:31809/6258eae500040fd80e4f0b2311754279
+美食星球檯,p3p://173.208.176.178:31809/62c9a5620009f165c6a22320701370b6
+History-台,p3p://173.208.176.178:31809/6233e1a30007e08d7da4ab21717b3e79
+JET-綜合台,p3p://173.208.176.178:31809/621e14f2000381b7287dfb1557135ff8
+靖天歡樂台,p3p://173.208.176.178:31809/6258f7e400070ac10e81d00831393e97
+靖天育樂台,p3p://173.208.176.178:31809/6223be04000a57323e9a6b2919b21d76
+影迷紀實台,p3p://173.208.176.178:31809/62c9a2fe00025fc4c698ca952e9711cb
+amc電影台,p3p://173.208.176.178:31809/625bbd49000d7c0d1954e42d45bc3182
+靖天電影台,p3p://173.208.176.178:31809/61ed0469000059af74b25aa267531e5a
+Mtv閩南台,p3p://173.208.176.178:31809/621e1827000d7a3a288a84ae70c44b0d
+Lifetime韓,p3p://173.208.176.178:31809/623a91f0000d3ab297c4e6e2101d46b4
+歷史頻道一,p3p://173.208.176.178:31809/6233e1a30007e08d7da4ab21717b3e79
+歷史頻道二,p3p://173.208.176.178:31809/6233e2240002d3af7da6a1bf693a1ed5
+Trace-體育,p3p://173.208.176.178:31809/644faccf000c7b6368730354764b17ed
+韓國娛樂台,p3p://173.208.176.178:31809/621e16b0000ec4772884cc295a1614a8
+Catch-電影,p3p://173.208.176.178:31809/6258e5c9000dd0d00e3b184c1b9c4f4c
+Cinem電影,p3p://173.208.176.178:31809/6233e8f1000112b17dc1320c7d1c4049
+MyCin電影,p3p://173.208.176.178:31809/6233fc79000a0ea07e0d7fa1125015d0
+LifeTime台,p3p://173.208.176.178:31809/623a91f0000d3ab297c4e6e2101d46b4
+Boomerang,p3p://173.208.176.178:31809/621e313f0005594c28ec88582a49029c
+原住民電視,p3p://173.208.176.178:31809/64450b180002b23d3eeb784a0aa62e20
+公視戲劇台,p3p://173.208.176.178:31809/64450cdd000b67ea3ef2640f773a7ec7
+EVE -HD台,p3p://173.208.176.178:31809/6445172e000920783f1aafee754f43e4
+HGTV頻道,p3p://173.208.176.178:31809/644518fd0002d5953f21bedc56b6465f
+Cl古典音樂,p3p://173.208.176.178:31809/6452b4f1000c38e8744ac80744c33d67
+Mezzolive,p3p://173.208.176.178:31809/6452bcb000039d52746907f4476f5e7b
+豬哥亮歌廳,p3p://173.208.176.178:31809/6452bbf2000d02457466242b0e5c5ea2
+Universetv,p3p://173.208.176.178:31809/644fbb7c0004a5e968ac550c11f72df5
+GlobalTrek,p3p://173.208.176.178:31809/644fb34f000f396e688c67ff6b147338
+霹靂南台,p3p://173.208.176.178:31809/644507280004aa433edc17562e211a38
+Baby TV台,p3p://173.208.176.178:31809/64bea3f00002bdf919e6522520650b26
+國會頻道一,p3p://173.208.176.178:31809/64ce0646000722d755fe479603e64ba8
+國會頻道 二,p3p://173.208.176.178:31809/64ce06980008b4f755ff884d646a56da
+SMART頻道,p3p://173.208.176.178:31809/64e367a800053465a982145d191f168f
+CMUSIC-台,p3p://173.208.176.178:31809/64e368dc000e5b23a986c9d62f9604df
+寰宇財經台,p3p://173.208.176.178:31809/64e36edf00052681a99e432a601547f5
+RockA電影,p3p://173.208.176.178:31809/65ad274400000b46bd92da681fce74f2
+RockE電影,p3p://173.208.176.178:31809/65ad27c7000dfceebd94ddb20bec19f4
+視華仁紀實,p3p://173.208.176.178:31809/62c9a3be00088219c69bba2111fd091e
+大立電視台,p3p://173.208.176.178:31809/64c4d2ba00051d1d320d17d218503f93
+番薯頻道台,p3p://173.208.176.178:31809/64c27b030001a1b728e6741548c32c95
 
 日本,#genre#
 TokyoMX1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
@@ -893,524 +803,414 @@ GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 
-港澳,#genre#
-港臺電視31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
-港臺電視32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
-HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
-?翡翠台(備),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
-J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-無線新聞台(備),mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
-無線新聞台,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
-無線財經體育資訊台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
-ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
-ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
-鳳凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰資訊台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-鳳凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-TVB星河(粵),mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
-澳門-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
-澳門蓮花,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
-now新聞台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
-HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-TVB娛樂新聞台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
-千禧經典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
-Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
-明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
-香港國際財經台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
-18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
-now財經台,mitv://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
-美亞電影台(粵語),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
-粵語片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
-亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
-功夫台,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
-HOY資訊台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-黃金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+松視CR_7878,#genre#
+松視1,p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
+松視2,p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
+松視3,p3p://173.208.176.178:31809/6109e9590001f40bfd9b661109395f3b
+松視4台,https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%992.mp4
+潘朵拉完美,p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
+香蕉,p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
+驚艷,p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
+LOOK,p3p://173.208.176.178:31809/606271190002a1266f75aaee0463186a
+HAPPY,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
+彩虹e,p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
+彩虹電影,p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
+彩虹頻道,p3p://173.208.176.178:31809/63fd589300099ff426db7203798a21f9
+極限電影,p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+西方OFFICE場景,p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253
+西方黑白大戰,p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3
+中字有碼1,p3p://173.208.176.178:31809/5fe790790005783d8f7e6a1d2f8774e6
+中字有碼2,p3p://173.208.176.178:31809/5fea645500007b7e9a898b3d6ea244cf
+日本j-girl,p3p://173.208.176.178:31809/5fe6d5ab000d6dc38ca4b77276be2f75
+上原亞衣,p3p://173.208.176.178:31809/5fed670a00074c56a64c200b26e62c10
+日本PPV-1,p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950
+奧體金絲雀,p3p://173.208.176.178:31809/5febb68d000c74979fb2b90c461f0bfb
+日本VR精品,p3p://173.208.176.178:31809/5fea649900057d369a8a9626665058f0
+日本加勒比海無碼,p3p://173.208.176.178:31809/5fe6d4c0000ea3178ca121c83d4b0a39
+日本東京熱無碼,p3p://173.208.176.178:31809/5fe6d4f10006c6ec8ca1df2d4bd07a2d
+韓國演藝圈潛規則,p3p://173.208.176.178:31809/5fe6d643000a32ae8ca7085f68304b38
+日本一本道無碼,p3p://173.208.176.178:31809/5fe6d4d8000a01508ca17e596611121f
+日本CATWALK POISON,p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706
+日本J-Girl,p3p://173.208.176.178:31809/5fe6d5ab000d6dc38ca4b77276be2f75
+Playboy KR,p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077
+Midnight KR,p3p://173.208.176.178:31809/646fa5d10004a256e557326f0b8b5682
+Miami TV,p3p://173.208.176.178:31809/64eefc5700067df3d6beb4ce0b4d4a5d
+MiamiTVJennyForYou,p3p://173.208.176.178:31809/64ef02c100057c77d6d7c2942a8e0343
+大神貓先生,p3p://173.208.176.178:31809/5fed7efe000093e8a6a9af6f691c7583
+麻豆天美傳媒,p3p://173.208.176.178:31809/61bff85e00029535c4bd1c4f47fb5400
+七天極品探花,p3p://173.208.176.178:31809/62ca5692000275f2c95644b27e04396b
+蒼井空,p3p://173.208.176.178:31809/5fea6483000512cf9a8a401a24db1f4e
+波多野結衣,p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91
+Heyzo無碼,p3p://173.208.176.178:31809/5fe8014b0007228691371ed44a517e44
+人妻斬,p3p://173.208.176.178:31809/5fe7fd63000e253a9127de6a777d49b4
+貓步毒藥,p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706
+人妻熟女,p3p://173.208.176.178:31809/5fe8019000071e4f91382c5b7fef4506
+素人動畫,p3p://173.208.176.178:31809/5fe7ff6e0001271f912fd60179236471
+XXXAV,p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434
+黑珍珠,p3p://fccsen.dyndns.tv:29706/5e17adad000be87d05e8384a1be757b6
+色情世界,p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
+妻子出軌,p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
+日本天熱素人,p3p://173.208.176.178:31809/5fe6d51e0009f6db8ca28fc66a750553
+FC2PPV-1,p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950
+Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
+古川伊織,p3p://173.208.176.178:31809/5ff7430900000f8fcccf091c30805ccb
+日本無碼破解,p3p://173.208.176.178:31809/5fef580000022fb6ade15fa160a61ae1
+迷姦無碼,p3p://173.208.176.178:31809/5ff201c40003b7e3b8481485121959a6
+經典三級片1,p3p://173.208.176.178:31809/62dac52e00087a70098570f12b7962e5
+日本情色動漫1,p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff
+麻豆大番,p3p://173.208.176.178:31809/5fee099a000e4a8da8c7244c6ff632e3
+麻豆導演,p3p://173.208.176.178:31809/5fee723900074e31aa5fcfa0561f1b95
+麻豆外番,p3p://173.208.176.178:31809/5fee86ee0006ce80aab0b2811d842258
+麻豆台灣,p3p://173.208.176.178:31809/5fef5ed40002a464adfc0be76180670f
+91沈先生,p3p://173.208.176.178:31809/5fee5d4500060214aa0df631581d3164
+鴨總探花,p3p://173.208.176.178:31809/5fee5d6300022e98aa0e6a660e9f6d9f
+金三角獵艷,p3p://173.208.176.178:31809/5fedf9d60007fb5ca8898d0b546620cc
+黑人乾翻天,p3p://173.208.176.178:31809/5fedfa1c00068347a88a9e1b1b517e42
+千人斬,p3p://173.208.176.178:31809/5fee93e80000c61aaae361853fd36c1f
+小寶尋花,p3p://173.208.176.178:31809/5fee940f000cad40aae3fce963f95891
+午夜尋花,p3p://173.208.176.178:31809/5ff22f59000ea2d6b8fa255a1d4c635c
+男爵探花,p3p://173.208.176.178:31809/62bf9f8c000c9a4c9f7bcb53499c786f
+大陸迷姦,p3p://173.208.176.178:31809/5ff395d60009ac7fbe727c5c77ee33a8
+SM西貢女,p3p://173.208.176.178:31809/5ff92d000005f07cd448f7774faa47bd
+PsychopornTW,p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d
+俄羅斯毛子,p3p://173.208.176.178:31809/5fef89a7000537fcaea354cc0cff353a
+美國家庭,p3p://173.208.176.178:31809/5ff7341b000bdc38cc94ba7e6b763297
+歐美藝術,p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
+果凍傳媒,p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915
+利哥探花 1,p3p://173.208.176.178:31809/61b4e9970009588e998c4b9532e01f5f
+利哥探花 2,p3p://173.208.176.178:31809/64ebf4ae0000f1c2cae8c73738a337d4
+精東影業,p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8
+香港三級2,p3p://173.208.176.178:31809/607e0dca0005cd6ddb506963435f6f5a
+中文有碼3,p3p://173.208.176.178:31809/5ff70064000178a1cbcab4ef4f5f0bd9
+天台素人約啪,p3p://173.208.176.178:31809/5fea646c000b95d79a89e7ed2c483b7a
+日本強姦迷姦無碼,p3p://173.208.176.178:31809/5ff201c40003b7e3b8481485121959a6
+Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
+sky angel blue,p3p://173.208.176.178:31809/6135967b0008b0e7a83579725d7b7ab3
+IBIZA 巨乳控,p3p://173.208.176.178:31809/644ecb5f000ca4ee650265db655d0248
+Dorcel XXX,p3p://fccsen.dyndns.tv:29706/5e5f0e09000182301cb87c94194b43d6
+Vivid red,p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
 
-馬來西亞,#genre#
-beIN Sports,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-TVB娛樂新聞台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
-TV1,P2p://generationnexxxt.com:19806/d7229d76e8624e8d872d94d081e9524e
-TV2,P2p://generationnexxxt.com:19806/265c61c5d7ad468e8e0e437d23797171
-TV3,P2p://generationnexxxt.com:19806/5d3a3f2fec3c413d87d0b349ef79951e
-NTV7,P2p://generationnexxxt.com:19806/e0c76b1ee7b84e2ea6cbf2ce2ee0c6d3
-八度空間,P2p://generationnexxxt.com:19806/008ee1a8a1bf4ab7bd90628a94f82910
-TV9,P2p://generationnexxxt.com:19806/ad929cc96e0e4461aa03d7a0a8e1e8c8
-Astro Oasis HD,P2p://generationnexxxt.com:19806/96f0df891f684d58a8d92054dcddc076
-Al-Hijrah,P2p://generationnexxxt.com:19806/fa90aca55f9847fa942617c76ad4ee50
-SUN TV,P2p://generationnexxxt.com:19806/e2f91d24ea26412292bd273186b41a0a
-愛奇藝,P2p://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f
-Astro小太陽,P2p://generationnexxxt.com:19806/3f9efc73e52f4cca99985de38ba0f28a
-Astro AEC(備),P2p://generationnexxxt.com:19806/affbd07abcc049638a0b5af3f2446ed8
-天映頻道,P2p://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
-翡翠台(華麗台),P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
-Astro AOD HD 311,P2p://generationnexxxt.com:19806/d0efbc512dd0465f9be6144fc53cc32a
-中天亞洲台,P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66
-TVB星河,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
-天映經典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
-Astro歡喜台,P2p://generationnexxxt.com:19806/bb11e8d4e30b40cf836fd8617ab85e8d
-KBS World,P2p://generationnexxxt.com:19806/d84c7baef30f41cf81e16569afec7d2a
-TVS,P2p://generationnexxxt.com:19806/4061655c06c8499680be50df7bbae42e
-tvN Movies HD,P2p://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b
-Astro Awani,P2p://generationnexxxt.com:19806/79faaed4beb040d8afb6e555c929b66a
-CGTN,P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
-BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
-CNBC,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-Bloomberg TV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-Astro Ceria,P2p://generationnexxxt.com:19806/aeb0f86165f24fda89427db290065d21
-Boomerang,P2p://generationnexxxt.com:19806/60a0b85c79af4aee89ca0d605cdfd7a3
-KIX,P2p://generationnexxxt.com:19806/e0df18c976d2448cae5e6dfe8b748fe4
-HITS,P2p://generationnexxxt.com:19806/512347b10e364e9bb4d436f495b1a8be
-Astro Arena,P2p://generationnexxxt.com:19806/8320c917bc6b48cea94601d851635400
-Astro SuperSport,P2p://generationnexxxt.com:19806/6b8163e5f6c24dd3b971c0d22add38dc
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/e9358d09c276404f91d27dca79e42b73
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a431
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/bbe6f81f82924b12b01218e84e081fd5
-beIN Sports 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
-WWE,P2p://generationnexxxt.com:19806/e3ac5937983b467197d0355d0bfaf53b
-Sky News,P2p://generationnexxxt.com:19806/82241dd85d9e4dad885f1c12b11e3d2e
-八度空間(備),P2p://generationnexxxt.com:19806/0f8c73716edd4446bc5ce8d9586c3fce
-SPOTV Stadia,P2p://generationnexxxt.com:19806/26198a4efb174a2c951ac835ac54aa97
-tvN,P2p://generationnexxxt.com:19806/45cb5d3ff4f842178bd262ac32891a0c
-France24,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
-SPOTV,P2p://generationnexxxt.com:19806/4644a6bafc344250b5feee6805553d42
-Astro AEC,P2p://generationnexxxt.com:19806/c1cd28c52536406f902f6cbab7cded05
-Awesome TV,P2p://generationnexxxt.com:19806/963a192209f6402e840b937485174c73
-BOO,P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6
-千禧經典台,P2p:// Generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
-ABC 澳大利亞，P2p:// Generationnexxxt.com:19806/cab3e899c937431f812c75c84b5cdf5f
-歐洲運動高清，P2p:// Generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
-明星維傑，P2p:// Generationnexxxt.com:19806/b2b5e74aad414e70934ac1a2f3e576ca
-Zee 泰米爾語，P2p:// Generationnexxxt.com:19806/7decd9aaaefe450697b03587dace9c9a
-TVBS亞洲,P2p:// Generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb
-熱門電影，P2p:// Generationnexxxt.com:19806/0ea3b9948f824611b4a575cc5a8b4c13
-拜因體育2，P2p:// Generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
-Berita RTM，P2p:// Generationnexxxt.com:19806/f3fb94168f044bbc9689c7f42f94ac4d
-高爾夫頻道，P2p:// Generationnexxxt.com:19806/d6d3302276514a79a289a45ec22d88f0
-電視好嗎，P2p:// Generationnexxxt.com:19806/5640c9c6b85e458a813d2b44d8f65ece
-迴旋鏢(B),P2p:// Generationnexxxt.com:19806/16af5143b3544fba92d3ea5e7539ee44
-高爾夫頻道(B),P2p:// Generationnexxxt.com:19806/1efa1c2e65614ce78d0c6a649fdee46a
-貝因體育2(B),P2p:// Generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-TVB娛樂新聞台(B),P2p:// Generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
-Astro AOD HD 311(B),P2p:// Generationnexxxt.com:19806/c453e6e3f2fe46c987b8f55587eb0ce7
-TVB星河(B),P2p:// Generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
-BBC世界新聞(B)，P2p:// Generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
-TV9(B),P2p:// Generationnexxxt.com:19806/2ded50bc29c04480aaad42823d1fc0f2
-TV3(B),P2p:// Generationnexxxt.com:19806/b0236f1ba51f4a70814d5806671dc028
-tvN 電影高清(B),P2p:// Generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c
+古裝三級_7878,#genre#
+青樓名女支之李香君,https://v6.jindangao.com/hj/hj2/hj21/10/hls/index.m3u8
+人細鬼大,https://v6.jindangao.com/hj/hj2/hj22/10/hls/index.m3u8
+獸生秀惑之赤果生遊戲2000,https://v6.jindangao.com/hj/hj2/hj23/25/hls/index.m3u8
+屠夫,https://v6.jindangao.com/hj/hj2/hj24/38/hls/index.m3u8
+舒淇早期激青合集,https://v6.jindangao.com/hj/hj2/hj25/36/hls/index.m3u8
+燕鬼冤魂,https://v6.jindangao.com/hj/hj2/hj27/34/hls/index.m3u8
+夜半思孚時,https://v6.jindangao.com/hj/hj2/hj28/1/hls/index.m3u8
+蕩女贏春,https://v5.jindangao.com/ak1/ak2/ak29/24/hls/index.m3u8
+外文初夜青,https://v6.jindangao.com/hj/hj1/hj3/22/hls/index.m3u8
+換七換上癮,https://v5.jindangao.com/ff/f1/38/hls/index.m3u8
+西遊記之八戒招親,https://v5.jindangao.com/jj/j10/22/hls/index.m3u8
+西遊記之生鹹白骨金,https://v5.jindangao.com/jj/j10/21/hls/index.m3u8
+西遊記之盤絲洞,https://v5.jindangao.com/jj/j10/19/hls/index.m3u8
+西遊記之反轉死亡寶塔,https://v5.jindangao.com/jj/j10/17/hls/index.m3u8
+西遊記之青迷女兒國,https://v5.jindangao.com/jj/j10/20/hls/index.m3u8
+新金瓶梅一,https://v6.jindangao.com/bb/b13/25/500kb/hls/index.m3u8
+新金瓶梅二,https://v6.jindangao.com/bb/b13/26/500kb/hls/index.m3u8
+新金瓶梅三,https://v6.jindangao.com/bb/b13/27/500kb/hls/index.m3u8
+新金瓶梅四,https://v6.jindangao.com/bb/b13/28/500kb/hls/index.m3u8
+新金瓶梅五,https://v6.jindangao.com/bb/b13/29/500kb/hls/index.m3u8
+艇妹,https://v6.jindangao.com/dd/d1/34/500kb/hls/index.m3u8
+我為卿狂,https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
+水滸傳之英雄好攝,https://v5.jindangao.com/gg/g9/23/hls/index.m3u8
+新金瓶梅,2008https://v5.jindangao.com/zz/z8/10/hls/index.m3u8
+玉蒲團II之玉女心經,https://v5.jindangao.com/yy/y10/18/hls/index.m3u8
+竹夫人,https://v5.jindangao.com/eee/ee2/20/hls/index.m3u8
+激青燕女,https://v6.jindangao.com/v20/13/600kb/hls/index.m3u8
+滿清十大酷刑,https://v5.jindangao.com/jj/j1/46/hls/index.m3u8
+劍奴,https://v5.jindangao.com/ff/f4/4/hls/index.m3u8
+婚前試愛,https://v5.jindangao.com/ff/f2/7/hls/index.m3u8
+愛的金靈,https://v5.jindangao.com/pp/p11/8/hls/index.m3u8
+卿本佳人,https://v5.jindangao.com/yy/y2/48/hls/index.m3u8
+蜜桃成熟時33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
+我來自北京,https://v5.jindangao.com/fff/ff7/8/hls/index.m3u8
+梁祝燕譚1集,https://v6.jindangao.com/dd/d16/2/1/700kb/hls/index.m3u8
+金瓶雙燕,https://v5.jindangao.com/zz/z8/12/hls/index.m3u8
+勾魂降頭,https://v5.jindangao.com/ll/l7/13/hls/index.m3u8
+風流才子俏佳人,https://v5.jindangao.com/pp/p11/11/hls/index.m3u8
+1992新美寶鑑,https://v5.jindangao.com/ee/e1/48/hls/index.m3u8
+竹本玉蒲團,https://v5.jindangao.com/fff/ff0/38/hls/index.m3u8
+96金瓶梅續集楊思雯版1,https://v5.jindangao.com/xx/x1/14/1000kb/hls/index.m3u8
+96金瓶梅續集楊思雯版2,https://v5.jindangao.com/xx/x1/15/1000kb/hls/index.m3u8
+96金瓶梅續集楊思雯版3,https://v5.jindangao.com/xx/x1/16/1000kb/hls/index.m3u8
+96金瓶梅續集楊思雯版4,https://v5.jindangao.com/xx/x1/17/1000kb/hls/index.m3u8
+96金瓶梅續集楊思雯版5,https://v5.jindangao.com/xx/x1/18/1000kb/hls/index.m3u8
+金瓶風月,https://v5.jindangao.com/ee/e1/6/hls/index.m3u8
+風月寶鑑之家花自有香,https://v5.jindangao.com/ll/l5/30/hls/index.m3u8
+半妖孚娘,https://v5.jindangao.com/zz/z3/2/hls/index.m3u8
+八仙飯店之人內叉燒包,https://v5.jindangao.com/zz/z2/37/hls/index.m3u8
+人皮高跟鞋,https://v5.jindangao.com/pp/p11/28/hls/index.m3u8
+聊齋誌異之孽玉孤鬼,https://v5.jindangao.com/ff/f8/28/hls/index.m3u8
+生氣功之探秘,https://v5.jindangao.com/hh/h2/17/hls/index.m3u8
+青樓十二戶國粵雙語,https://v5.jindangao.com/nn/n9/51/hls/index.m3u8
+與蛇共舞,https://v5.jindangao.com/hh/h6/27/hls/index.m3u8
+聊齋燕譚1之燕魔大戰,https://v5.jindangao.com/zz/z9/49/hls/index.m3u8
+齊天大鬧女兒國,https://v5.jindangao.com/gg/g1/13/hls/index.m3u8
+齊天大學生大破盤絲洞,https://v5.jindangao.com/gg/g1/14/hls/index.m3u8
+燕婦轉世1,https://v5.jindangao.com/fff/ff9/23/hls/index.m3u8
+燕婦轉世2,https://v5.jindangao.com/fff/ff9/24/hls/index.m3u8
+西廂燕譚,https://v5.jindangao.com/zz/z1/36/800kb/hls/index.m3u8
+雙姝燕A,https://v5.jindangao.com/gg/g9/9/hls/index.m3u8
+雙姝燕B,https://v5.jindangao.com/gg/g9/10/hls/index.m3u8
+聊齋系列之山中燕譚,https://v5.jindangao.com/yy/y4/16/hls/index.m3u8
+聊齋花弄月,https://v5.jindangao.com/eee/ee10/14/hls/index.m3u8
+猛鬼佳人,https://v5.jindangao.com/jj/j3/9/hls/index.m3u8
+金蠶降,https://v5.jindangao.com/ff/f5/15/hls/index.m3u8
+唐朝禁宮秘史,https://v5.jindangao.com/kk/k1/22/hls/index.m3u8
+羔羊醫師,https://v5.jindangao.com/ll/l6/22/hls/index.m3u8
+風月奇譚,https://v5.jindangao.com/ll/l5/38/hls/index.m3u8
+嬌七四燕鬼,https://v5.jindangao.com/pp/p11/18/hls/index.m3u8
+四大美人之西施,https://v5.jindangao.com/gg/g9/45/hls/index.m3u8
+山狗1999,https://v5.jindangao.com/gg/g6/42/hls/index.m3u8
+唐朝禁宮風月,https://v5.jindangao.com/gg/g10/26/hls/index.m3u8
+四大名女支之蘇小小,https://v5.jindangao.com/gg/g9/49/hls/index.m3u8
+四大名女支之李香君,https://v5.jindangao.com/gg/g9/48/hls/index.m3u8
+四大名女支陳圓圓,https://v5.jindangao.com/gg/g9/46/hls/index.m3u8
+攝中餓鬼,https://v5.jindangao.com/gg/g5/14/hls/index.m3u8
+我愛狐狸金,https://v5.jindangao.com/yy/y7/25/hls/index.m3u8
+香帥傳奇之胡鐵花與小贏猴,https://v5.jindangao.com/kk/k8/31/hls/index.m3u8
+新人內叉燒包,https://v5.jindangao.com/kk/k10/46/hls/index.m3u8
+生的厲鬼,https://v5.jindangao.com/eee/ee1/23/hls/index.m3u8
+新紅樓夢燕青版2,https://v5.jindangao.com/kk/k10/29/hls/index.m3u8
+人蛇鼠,https://v5.jindangao.com/gg/g4/1/hls/index.m3u8
+素女真經TheStoryofLadySue,https://v5.jindangao.com/yy/y5/39/hls/index.m3u8
+滅門慘案II借種,https://v5.jindangao.com/zz/z1/19/hls/index.m3u8
+四大美人之王昭君,https://v5.jindangao.com/yy/y5/31/hls/index.m3u8
+南洋十大邪術,https://v6.jindangao.com/v9/5/600kb/hls/index.m3u8
+極樂酷刑,https://v6.jindangao.com/v11/18/600kb/hls/index.m3u8
+聊齋燕譚1燕魔大戰,https://v6.jindangao.com/v22/18/600kb/hls/index.m3u8
+猛鬼出籠II燕鬼發狂,https://v6.jindangao.com/dd/d7/55/500kb/hls/index.m3u8
+唐伯虎點秋香乘仁版,https://v6.jindangao.com/bb/b3/32/500kb/hls/index.m3u8
+燕鬼兇靈,https://v6.jindangao.com/dd/d6/16/500kb/hls/index.m3u8
+燕鬼青未了,https://v6.jindangao.com/dd/d6/14/500kb/hls/index.m3u8
+香帥傳奇之贏教煞星,https://v6.jindangao.com/dd/d3/35/500kb/hls/index.m3u8
+玉蒲團之西廂燕談,https://v6.jindangao.com/v24/23/600kb/hls/index.m3u8
+聊齋燕譚之幽構,https://v6.jindangao.com/aa/a8/12/600kb/hls/index.m3u8
+漁夫荒贏燕史,https://v6.jindangao.com/dd/d11/35/500kb/hls/index.m3u8
+武松/潘金蓮,https://v6.jindangao.com/v36/9/600kb/hls/index.m3u8
+勾魂倩女_鬼叫春,https://v6.jindangao.com/dd/d21/18/700kb/hls/index.m3u8
+蜈蚣咒,https://v6.jindangao.com/bb/b16/30/500kb/hls/index.m3u8
+青樓名女支小桃花,https://v6.jindangao.com/bb/b25/10/500kb/hls/index.m3u8
+古裝四仔之秦淮才女,https://v6.jindangao.com/dd/d20/8/700kb/hls/index.m3u8
+紙盒藏屍之公審,https://v6.jindangao.com/dd/d9/40/500kb/hls/index.m3u8
+風月寶鑑-贏亂英雄傳,https://v6.jindangao.com/v21/4/600kb/hls/index.m3u8
 
-新加坡,#genre#
-beIN Sports,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-HGTV居家樂活頻道,P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176
-中天亞洲台,P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66
-天映經典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
-KBS World,P2p://generationnexxxt.com:19806/d84c7baef30f41cf81e16569afec7d2a
-CGTN,P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
-CNBC,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-Bloomberg TV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-HITS,P2p://generationnexxxt.com:19806/512347b10e364e9bb4d436f495b1a8be
-beIN Sports 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
-Mediacorp 5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f
-Mediacorp 8,P2p://generationnexxxt.com:19806/916b5919192c43d7afa4496e9ba6090b
-Suria,P2p://generationnexxxt.com:19806/ba543c5c308c44ad9cde7fbf4bc72171
-Vasantham,P2p://generationnexxxt.com:19806/cc7a8a329a9f4c2cac0bf4df02cb6b6e
-CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
-Mediacorp U,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7
-Euronews,P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692
-Fight Sports,P2p://generationnexxxt.com:19806/afba524c846148f98685fb42b776435c
-GEM,P2p://generationnexxxt.com:19806/fa0c81ad25f84ef5bdecb3745934a185
-Fox News,P2p://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e
-東森亞洲衛視,P2p://generationnexxxt.com:19806/7a269b8d3db44d3993876ad9ca3bd369
-Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
-TVBS亞洲,P2p://generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb
-NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
-Fox News(B),P2p://generationnexxxt.com:19806/95842d0c7228442a91d0e8a46a8ee1c9
-Mediacorp U(B),P2p://generationnexxxt.com:19806/56430c3beb8449ee94bd402c0860e524
-Mediacorp 8(B),P2p://generationnexxxt.com:19806/c73aecdd56e54263975801fb3af30ff5
-
-日本,#genre#
-NHK-G综合,P2p://generationnexxxt.com:19806/55cb7e54e0ce4a35be97e49669a2f8a8
-NHK-E教育,P2p://generationnexxxt.com:19806/8935e2b129e645e4af642f99cdc2de81
-日本テレビ,P2p://generationnexxxt.com:19806/85374777f40d44a785f17ab7912e267e
-TBSテレビ,P2p://generationnexxxt.com:19806/2de1ec1252694a31919a78131a24eb43
-テレビ東京,P2p://generationnexxxt.com:19806/1a823472c62148dd96e66a8a392c22db
-フジテレビ,P2p://generationnexxxt.com:19806/5cf652dff531434b8319a56b17739a1b
-読売テレビ,P2p://generationnexxxt.com:19806/ea67f8077183401b9cd427fe6c60ff43
-関西テレビ,P2p://generationnexxxt.com:19806/e6990969a8ff44d3a2393dc2740b199d
-KBS京都,P2p://generationnexxxt.com:19806/ec891c1f1f57494cbcd94e4244363bb1
-毎日放送,P2p://generationnexxxt.com:19806/89122299c61c47028e662cc5f18904a7
-朝日放送,P2p://generationnexxxt.com:19806/ecb1db90b25142f0a02ce3b2a252e9ee
-テレビ大阪,P2p://generationnexxxt.com:19806/730fd599b2c94f779bd17ff2976fbccb
-BS-1,P2p://generationnexxxt.com:19806/32b371c498764d679ba7de1a2881eb92
-BS日テレ,P2p://generationnexxxt.com:19806/1cc0f6a660864a0cbc62cc717f9be80c
-BS朝日,P2p://generationnexxxt.com:19806/66b44ed5654d450cac9c7f5218eae625
-BS-TBS,P2p://generationnexxxt.com:19806/9ad609502c5541e5b3ef94e241f505d4
-BS11,P2p://generationnexxxt.com:19806/485dfb484fd44679b4c282e65ce5d40e
-BSフジ,P2p://generationnexxxt.com:19806/d9ef0270b9284921846d422841f2690c
-WOWOWプライム,P2p://generationnexxxt.com:19806/0ffe438d9ca34c629ea1a2f438e00019
-WOWOWライブ,P2p://generationnexxxt.com:19806/32a0a3d3f1f54d50af14f2fb0d3597e1
-WOWOWシネマ,P2p://generationnexxxt.com:19806/118aac938d16456ab3eda2a9e259b3fa
-スター?チャンネル1,P2p://generationnexxxt.com:19806/6759e1454fc6454a97bb8deeccc4804a
-スター?チャンネル2,P2p://generationnexxxt.com:19806/ef090d23f7244bd09d2b132dd7b9fef0
-スター?チャンネル3,P2p://generationnexxxt.com:19806/8b63602b924c44af8008ff3b08db8c01
-BSアニマックス,P2p://generationnexxxt.com:19806/ce9598c90ce54c15bc00d894e3b4982f
-J Sports 1,P2p://generationnexxxt.com:19806/227ef9c657764acb9515e68d4e65bbea
-J Sports 2,P2p://generationnexxxt.com:19806/8b5d5bd857e649efa0b1e9263d8ca71f
-J Sports 3,P2p://generationnexxxt.com:19806/22f6f477f6f848b583541980c9f087bc
-J Sports 4,P2p://generationnexxxt.com:19806/6d125610fe1745e9b27ef5d6f88302fd
-Green Channel,P2p://generationnexxxt.com:19806/1adccd3fe34c45fca9a826b721586180
-ゴルフネットワークHD,P2p://generationnexxxt.com:19806/86401e099eda4c04bfa16fa6a9dce871
-時代劇専門チャンネル,P2p://generationnexxxt.com:19806/fbc6e4a583684e9f8bfcbd47f6fad03f
-Music Japan TV,P2p://generationnexxxt.com:19806/eac0fadf3f7e4242b1282d1b3d9b4b08
-キッズステーションHD,P2p://generationnexxxt.com:19806/aa92838de18447d8993403c0d1b19718
-ディスカバリーチャンネル,P2p://generationnexxxt.com:19806/c0cf323bc9804ebfb4dd3265f5fd4261
-ナショナルジオグラフィック,P2p://generationnexxxt.com:19806/6b99b001030a4c009a719ee6dccdf8ed
-日テレNEWS 24,P2p://generationnexxxt.com:19806/37099dee855448b0845c0bce833c9a14
-旅チャンネル,P2p://generationnexxxt.com:19806/0201dfaf0ccb4c9288fc56724a0bbffc
-
-韓國,#genre#
-Arirang,P2p://generationnexxxt.com:19806/5260ebd503c84b62bb0c9cd0d1e33223
-KBS1,P2p://generationnexxxt.com:19806/003ff31b09d841ad9775c0fd703d7ca4
-KBS2,P2p://generationnexxxt.com:19806/2738ccfca9bf478fabe58a315dcab4af
-KBS Drama,P2p://generationnexxxt.com:19806/3ad3967ac71b4ec1b5f386a38bb6feee
-KBS Joy,P2p://generationnexxxt.com:19806/4a47b40749c443c59faac0700e061129
-SBS,P2p://generationnexxxt.com:19806/52bdf003e484446f83ee00f00fd5b90f
-SBS Biz,P2p://generationnexxxt.com:19806/dd4877981b474b3489c649836727d355
-JTBC,P2p://generationnexxxt.com:19806/4ec82c36dd4043df9f31f0b2ee907277
-EBS,P2p://generationnexxxt.com:19806/4c8f9aabbe534d29890f7a2d75f8b3b0
-YTN,P2p://generationnexxxt.com:19806/0d09e3a2d01b42f7921db3ada4647b2b
-Mnet,P2p://generationnexxxt.com:19806/7cf860c0828a4e4181e5801a11306088
-tvN,P2p://generationnexxxt.com:19806/45cb5d3ff4f842178bd262ac32891a0c
-OCN,P2p://generationnexxxt.com:19806/4475e43ba7684b34acb1711ddd2cf347
-OCN Movies,P2p://generationnexxxt.com:19806/440567fb2e054f1d81e5e130c2b3b14a
-TV Chosun,P2p://generationnexxxt.com:19806/56da69a61ea04b729b08dd03f24f8dde
-MBC,P2p://generationnexxxt.com:19806/eeec1b536c6e4401866b819b9f9331d9
-MBN,P2p://generationnexxxt.com:19806/231a17a181914f82a83bfa41c16fd683
-Tooniverse,P2p://generationnexxxt.com:19806/606e92a1a9484092ad790fe8ca7456d5
-SPOTV,P2p://generationnexxxt.com:19806/db790c95c4d34c02b9a280e4b4889af3
-JTBC GOLF,P2p://generationnexxxt.com:19806/31e1f7cc5d2b451683419f3842920201
-
-泰國,#genre#
-Channel 5,P2p://generationnexxxt.com:19806/017fd55e92854a829db7f5c8c3150376
-NBT,P2p://generationnexxxt.com:19806/6a9f6eb4f975417398c793903dc83e40
-TNN 16,P2p://generationnexxxt.com:19806/7462454333594bef83cd252fa653d14e
-JKN 18,P2p://generationnexxxt.com:19806/5e7619bcc3d648419a7be15d55b0a6df
-Voice TV,P2p://generationnexxxt.com:19806/410f7c30bf2c462da325f3e92aa87770
-Nation TV,P2p://generationnexxxt.com:19806/81cc25cf74bf4b7da0c9808eb71bbabd
-Workpoint TV,P2p://generationnexxxt.com:19806/7853aa1dfbce427ca19bca36ecc637d7
-true4U,P2p://generationnexxxt.com:19806/190b17acdeb249199f6d98b67c4e2cb2
-GMM 25,P2p://generationnexxxt.com:19806/f5027310387c484abc5ae165814af37c
-Channel 8,P2p://generationnexxxt.com:19806/057c93df99e844a18f1b9ccbfba9fb08
-Mono 29,P2p://generationnexxxt.com:19806/3cbbe1465cca4024abf9fe23377b579b
-MCOT,P2p://generationnexxxt.com:19806/b1128d0cfda64cf3b23cf9e57a0df8a4
-ONE,P2p://generationnexxxt.com:19806/542965f139384bafaeb797727b4a5240
-Thairath TV,P2p://generationnexxxt.com:19806/ad23d38f6a18443286cf0aeb1bb10f05
-Channel 3,P2p://generationnexxxt.com:19806/707caac6181641ec843aab24cc5193b1
-Amarin TV,P2p://generationnexxxt.com:19806/8624367116444cd984a9c2d62397fb56
-Channel 7,P2p://generationnexxxt.com:19806/ae06a3f04cd647fab63393ac3ba43692
-PPTV,P2p://generationnexxxt.com:19806/7bceb6a1351c4f538546eed405ec8ed4
-Thai Parliament TV,P2p://generationnexxxt.com:19806/da7d300585c943c4ba12762f1d1c0dcf
-Thai PBS,P2p://generationnexxxt.com:19806/32e2c08660124d7dae8c93085d5e82c7
-News 1,P2p://generationnexxxt.com:19806/ed92062ce02e4f978d104a3e1a94b850
-TVB Thai,P2p://generationnexxxt.com:19806/99c848d8d2b947348da447495b7f2c42
-Bluesky,P2p://generationnexxxt.com:19806/6c091bd3b2614d4a9244d0d1ea9720fc
-Top News,P2p://generationnexxxt.com:19806/2583f8f3552a4881ae24c14412298a42
-
-北美,#genre#
-CNBC,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-Bloomberg TV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
-600TV,P2p://generationnexxxt.com:19806/cc580b16770e42c081a08a4ee737b28b
-CBSN,P2p://generationnexxxt.com:19806/3d6d0c5a24e847369695ae867576a4e9
-NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
-新時代1(西),P2p://generationnexxxt.com:19806/977f1634589e4a7395f16cb7fd7427f7
-新時代2,P2p://generationnexxxt.com:19806/fad292ccc0c8437fb2298e8292ab8061
-新時代1(東部),P2p://generationnexxxt.com:19806/5f4a12c22b034d9ba0e25a25fb608dbe
-城市電視,P2p://generationnexxxt.com:19806/a776c5e7c2da439392d6b3594656029a
-Fox News,P2p://generationnexxxt.com:19806/f8b4af1fac554568956d500f533ed0cf
-BBC World News,P2p://generationnexxxt.com:19806/f666946be06f45e8a2e08ebf1136d385
-CNN USA,P2p://generationnexxxt.com:19806/2c9b8717e3bc4b01b2a76d8ae7ad9776
-CBC News,P2p://generationnexxxt.com:19806/fda21da704634e48b989ed9d33807e01
-MSNBC,P2p://generationnexxxt.com:19806/81bf2e7056d94f06a8efb784036f8d38
-CTV News,P2p://generationnexxxt.com:19806/236beb5caf9a4a66afcca1d7cc0a104d
-Business News Network,P2p://generationnexxxt.com:19806/0634014988a34226a3a034b527309099
-CP24,P2p://generationnexxxt.com:19806/1e461dd783af47a395e0bb79180148d2
-The Weather Network,P2p://generationnexxxt.com:19806/95294525f47d423081bec37b4a5f1537
-The Weather Channel,P2p://generationnexxxt.com:19806/118d5553ab4e4acc946d08c9d2299949
-KOMO 4 TV,P2p://generationnexxxt.com:19806/7d79fd423049423e8337aeac5a1eb9a0
-
-新聞,#genre#
-中視新聞台,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
-寰宇新聞台,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
-華視新聞,P2p://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
-NHK新聞資訊台,P2p://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
-無線新聞台(備),P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
-無線新聞台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-CGTN,P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
-BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
-CNBC,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
-Bloomberg TV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
-CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
-壹電視新聞台,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
-年代新聞(備),P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
-東森新聞台,P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
-中天新聞台,P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
-民視新聞台,P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
-三立新聞台,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
-TVBS新聞台,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
-東森財經新聞台,P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
-非凡新聞台,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09
-TNN 16,P2p://generationnexxxt.com:19806/7462454333594bef83cd252fa653d14e
-JKN 18,P2p://generationnexxxt.com:19806/5e7619bcc3d648419a7be15d55b0a6df
-三立iNEWS,P2p://generationnexxxt.com:19806/6ec25b8c951a47cfb921435fb1968c16
-Sky News,P2p://generationnexxxt.com:19806/82241dd85d9e4dad885f1c12b11e3d2e
-Euronews,P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692
-France24,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
-600TV,P2p://generationnexxxt.com:19806/cc580b16770e42c081a08a4ee737b28b
-非凡商業台,P2p://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d
-CBSN,P2p://generationnexxxt.com:19806/3d6d0c5a24e847369695ae867576a4e9
-Fox News,P2p://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e
-NDTV,P2p://generationnexxxt.com:19806/ed51f8ce798c4eb6b1d55d499370d722
-ABC Australia,P2p://generationnexxxt.com:19806/cab3e899c937431f812c75c84b5cdf5f
-台視新聞台,P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
-寰宇新聞台灣台,P2p://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e
-台視財經台,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
-CNN,P2p://generationnexxxt.com:19806/88e503d015b54c75866ce86732601017
-now財經台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
-東森新聞台(備),P2p://generationnexxxt.com:19806/f848bf771436495b9ce252af20bea6e2
-鏡新聞,P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
-now新聞台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
-Fox News,P2p://generationnexxxt.com:19806/f8b4af1fac554568956d500f533ed0cf
-BBC World News,P2p://generationnexxxt.com:19806/f666946be06f45e8a2e08ebf1136d385
-CNN USA,P2p://generationnexxxt.com:19806/2c9b8717e3bc4b01b2a76d8ae7ad9776
-CBC News,P2p://generationnexxxt.com:19806/fda21da704634e48b989ed9d33807e01
-MSNBC,P2p://generationnexxxt.com:19806/81bf2e7056d94f06a8efb784036f8d38
-CTV News,P2p://generationnexxxt.com:19806/236beb5caf9a4a66afcca1d7cc0a104d
-Business News Network,P2p://generationnexxxt.com:19806/0634014988a34226a3a034b527309099
-CP24,P2p://generationnexxxt.com:19806/1e461dd783af47a395e0bb79180148d2
-The Weather Network,P2p://generationnexxxt.com:19806/95294525f47d423081bec37b4a5f1537
-The Weather Channel,P2p://generationnexxxt.com:19806/118d5553ab4e4acc946d08c9d2299949
-香港國際財經台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
-年代新聞,P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
-中天新聞台(B),P2p://147.135.39.171:9906/668829a300087a07bea90b34300003a6
-無線新聞台(B),P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
-now財經台(B),P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
-Fox News(B),P2p://generationnexxxt.com:19806/95842d0c7228442a91d0e8a46a8ee1c9
-三立iNEWS(B),P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
-香港國際財經台(B),P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
-BBC World News(B),P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
-now新聞台(B),P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
-三立新聞台(B),P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
-東森新聞台(B),P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4
-TVBS新聞台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
-年代新聞(B),P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
-非凡新聞台(B),P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
-
-音樂,#genre#
-音樂日本電視，P2p:// Generationnexxxt.com:19806/eac0fadf3f7e4242b1282d1b3d9b4b08
-梅佐直播，P2p:// Generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4
-經典古典樂,P2p:// Generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb
-頻道[V],P2p:// Generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
-
-體育,#genre#
-beIN Sports,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
-CCTV5,P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
-CCTV5+,P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
-快樂釣魚,P2p://generationnexxxt.com:19806/eaa3539d812f45878c95f848a77cfaea
-魅力足球,P2p://generationnexxxt.com:19806/c414fe01cc5d4df6ab33665b5bfa0aff
-新視覺體育,P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
-廣東體育,P2p://generationnexxxt.com:19806/95d8daecca5748ba879dc56358503f84
-Sky Sports Golf,P2p://generationnexxxt.com:19806/190b680d86a54d0bba8af38ccfed15c2
-Sky Sports Football,P2p://generationnexxxt.com:19806/1697ddb1977b42e6b6e31a6e27fa04ac
-Astro Arena,P2p://generationnexxxt.com:19806/8320c917bc6b48cea94601d851635400
-Astro SuperSport,P2p://generationnexxxt.com:19806/6b8163e5f6c24dd3b971c0d22add38dc
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/e9358d09c276404f91d27dca79e42b73
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a431
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/bbe6f81f82924b12b01218e84e081fd5
-beIN Sports 3,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f
-WWE,P2p://generationnexxxt.com:19806/e3ac5937983b467197d0355d0bfaf53b
-緯來育樂台,P2p://generationnexxxt.com:19806/5c2e47cfcc864451b73783def36674bb
-緯來體育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99
-ELEVEN體育1台,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
-Z頻道,P2p://generationnexxxt.com:19806/70f52ed474e541f78682604ce0330bf2
-SPOTV Stadia,P2p://generationnexxxt.com:19806/26198a4efb174a2c951ac835ac54aa97
-J Sports 1,P2p://generationnexxxt.com:19806/227ef9c657764acb9515e68d4e65bbea
-J Sports 2,P2p://generationnexxxt.com:19806/8b5d5bd857e649efa0b1e9263d8ca71f
-J Sports 3,P2p://generationnexxxt.com:19806/22f6f477f6f848b583541980c9f087bc
-J Sports 4,P2p://generationnexxxt.com:19806/6d125610fe1745e9b27ef5d6f88302fd
-Skynet Sports HD,P2p://generationnexxxt.com:19806/f23aa792094744f29bb547e2636fc9e5
-Skynet Sports 2,P2p://generationnexxxt.com:19806/947b4bfc9a464c7b99294b1d550ab225
-Skynet Sports 5,P2p://generationnexxxt.com:19806/4f5693515c4a4d048680db3e2a9565da
-Skynet Sports 6,P2p://generationnexxxt.com:19806/7b987466e58b42f8ac62bc5b805a265c
-Fight Sports,P2p://generationnexxxt.com:19806/afba524c846148f98685fb42b776435c
-ESPN,P2p://generationnexxxt.com:19806/55e3380104b04f598347c35220189f7a
-HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
-愛爾達體育1台(備),P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
-愛爾達體育2台,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
-TRACE Sport Stars,P2p://generationnexxxt.com:19806/771e966a825d4e7e8280601cb8cc1227
-博斯高球,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e
-博高球二台,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
-博斯網球檯,P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd
-博斯魅力網,P2p://generationnexxxt.com:19806/e8db82c6084a4ae2b114ea7c5403b7a2
-博斯無限台,P2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf
-博斯無限二,P2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
-SPOTV,P2p://generationnexxxt.com:19806/4644a6bafc344250b5feee6805553d42
-博斯運動,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
-ELEVEN體育2台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
-智林體育台,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118
-博斯運動二,P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170
-Eurosport HD,P2p://generationnexxxt.com:19806/54e02c4e806047c68c75ac2a325c17d2
-FOX Sports,P2p://generationnexxxt.com:19806/5155654699e54b0d9d991cfa61d1ffaa
-NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
-beIN Sports 2,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f
-愛爾達體育1台,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
-愛爾達體育3台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
-愛爾達體育4台,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
-Sky Sports F1,P2p://generationnexxxt.com:19806/40da6ffe24c64429b68ecbb1ba7391e9
-Sky Sports Arena,P2p://generationnexxxt.com:19806/8af96f851dff4de3bc20f74d1c279e20
-Sky Sports Main Event,P2p://generationnexxxt.com:19806/ef8f88e5ae3a466dab2bd1d312183f0b
-Sky Sports Cricket,P2p://generationnexxxt.com:19806/5ca24cd53f8a4833b81a223e59727c68
-Sky Sports Mix,P2p://generationnexxxt.com:19806/bfdd62d08ea9487ab560a16d2e2cf690
-Golf Channel,P2p://generationnexxxt.com:19806/d6d3302276514a79a289a45ec22d88f0
-五星體育,P2p://generationnexxxt.com:19806/f8ad64b9615d47ea9ab01611bd20933a
-TechStorm,P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f
-緯來育樂台(B),P2p://generationnexxxt.com:19806/582d689b3362424fbf99541335e57ba2
-Golf Channel(B),P2p://generationnexxxt.com:19806/1efa1c2e65614ce78d0c6a649fdee46a
-愛爾達體育1台(B),P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
-beIN Sports 2(B),P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
-新視覺體育(B),P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be
-愛爾達體育4台(B),P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-博斯高球(B),P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
-博斯網球檯(B),P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4
-博斯運動(B),P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70
-博斯無限台(B),P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
-愛爾達體育2台(B),P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
-愛爾達體育3台(B),P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
-TSN1,P2p://generationnexxxt.com:19806/bcf284d14b5f48d4979e980170ff7787
-TSN2,P2p://generationnexxxt.com:19806/fdbe70a4515c4cb38b3a1fa72d76d425
-TSN3,P2p://generationnexxxt.com:19806/2b173ec56c6648349d43145a63a33fc1
-TSN4,P2p://generationnexxxt.com:19806/3482e37f8ed7484ba78e7f4cc3d7733e
-TSN5,P2p://generationnexxxt.com:19806/8e13a731470b435890b7056a2ed70993
-FOX Sports 2,P2p://generationnexxxt.com:19806/52a40b5ff52844a6b91af75499354c92
-ESPN2,P2p://generationnexxxt.com:19806/e58dbb92cfb64d6498e08f8b15e51dae
-
-知識,#genre#
-BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
-Lifetime,P2p://generationnexxxt.com:19806/7d5e25a5a50c47c3b6853d45f9f54d63
-KLT-靖天國際台,P2p://generationnexxxt.com:19806/924e7a65eec84eddade5f03c3d5ebb37
-HGTV居家樂活頻道,P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176
-Love Nature,P2p://generationnexxxt.com:19806/95909f6c10614748a8d824e33bdfaad0
-美食星球,P2p://generationnexxxt.com:19806/02a89e372e1344d0b74c5b288d4d1cea
-亞洲美食頻道,P2p://generationnexxxt.com:19806/ac7e749ef27c4f2c8775ecaae5cd2206
-亞洲旅遊台,P2p://generationnexxxt.com:19806/409459f958a04a5fa3609250df421445
-EYE TV旅遊台,P2p://generationnexxxt.com:19806/49931b62c0b34671af7cce9d0842ede8
-CCTV9,P2p://generationnexxxt.com:19806/b36c45df61324a349d67ee7408601031
-探索頻道,P2p://generationnexxxt.com:19806/c7afe2fe39a04c1dada51462430dce8a
-TLC旅遊生活,P2p://generationnexxxt.com:19806/32000d7eec2049c6b1de2eb8cd3c9348
-動物星球,P2p://generationnexxxt.com:19806/b165132a770741bcac023d15750067d3
-ELTV生活英語台,P2p://generationnexxxt.com:19806/1a430b38978a4a0698ede6f842b3a265
-BBC Earth,P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a
-Discovery Asia,P2p://generationnexxxt.com:19806/6d031b7fba864255a10992d86da402ca
-Discovery科學頻道,P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668
-DMAX,P2p://generationnexxxt.com:19806/9fcdb313900f49c4b0236628fd939870
-EVE,P2p://generationnexxxt.com:19806/958f90533a3f4857bd1ea3f6610f45e5
-歷史頻道,P2p://generationnexxxt.com:19806/b43ae6d6c7264673901171201610d68c
-罪案偵緝頻道,P2p://generationnexxxt.com:19806/33eb3b21b71b469f9a9e0b780c615230
-亞洲美食頻道(B),P2p://generationnexxxt.com:19806/081793e8697647e5af4c70b9265cab70
-美食星球(B),P2p://generationnexxxt.com:19806/603ff2b4a3b34834bbe7bbc04b6b8d78
-EYE TV旅遊台(B),P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6cf94
-亞洲旅遊台(B),P2p://generationnexxxt.com:19806/bc0c6c9782004039b1220b4faa8a3abf
-Discovery Asia(B),P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
-探索頻道(B),P2p://generationnexxxt.com:19806/03803dbb35eb4e78a332b2b421b770c8
-動物星球(B),P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
-BBC Earth(B),P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
-BBC Lifestyle(B),P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
-歷史頻道(B),P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
-
-兒少,#genre#
-CCTV14,P2p://generationnexxxt.com:19806/0170decf55974c7ca5439f8ae263aab4
-達文西頻道,P2p://generationnexxxt.com:19806/170c28c8132b4ce183b4fbf61537dcff
-CN卡通頻道,P2p://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0
-MOMO親子台,P2p://generationnexxxt.com:19806/e15e61548a2b4ff792b3dd6620be8139
-Astro小太陽,P2p://generationnexxxt.com:19806/3f9efc73e52f4cca99985de38ba0f28a
-Astro Ceria,P2p://generationnexxxt.com:19806/aeb0f86165f24fda89427db290065d21
-Boomerang,P2p://generationnexxxt.com:19806/60a0b85c79af4aee89ca0d605cdfd7a3
-Animax,P2p://generationnexxxt.com:19806/7c6f8a583fc24b298779528c07b8c66d
-尼克兒童頻道,P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c
-靖洋卡通Nice Bingo,P2p://generationnexxxt.com:19806/c7d3153e13894863a8d735c907971efd
-靖天卡通台,P2p://generationnexxxt.com:19806/f55c325d0f8b4cac938804f090c50b5c
-Nick Jr.,P2p://generationnexxxt.com:19806/0fdb4f78ab6f498f88c12ca5a34fffc2
-Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
-Boomerang(B),P2p://generationnexxxt.com:19806/16af5143b3544fba92d3ea5e7539ee44
-Animax(B),P2p://generationnexxxt.com:19806/4913cc8e4b7e490eaebbb4a081bf02b8
-
-電影,#genre#
-CCTV6,P2p://generationnexxxt.com:19806/bcd8bbb9c46540a98045c37dce48b29a
-美亞電影台HD,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
-龍華電影,P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
-Smart知識台,P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
-靖天映畫,P2p://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
-靖天電影台,P2p://generationnexxxt.com:19806/37bdc9a3001d4081a0f0885b317d7221
-WARNER TV,P2p://generationnexxxt.com:19806/3565510269ca47e2b0183ec1cdeca375
-amc電影台,P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf
-HBO Family,P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64
-CatchPlay電影台,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15
-CinemaWorld,P2p://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
-壹電視電影台,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d
-採昌影劇台,P2p://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
-天映頻道,P2p://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
-天映經典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
-tvN Movies HD,P2p://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b
-私人劇院,P2p://generationnexxxt.com:19806/1b0075d4c3324fcea02675e856556cd0
-東森電影台,P2p://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
-緯來電影台,P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983
-龍祥電影,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
-HBO,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
-東森洋片台,P2p://generationnexxxt.com:19806/29384d5c65734485903a3e592c9ef54f
-AXN,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
-好萊塢電影台,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
-CINEMAX,P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e
-HBO強檔巨獻,P2p://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06
-HBO原創巨獻,P2p://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e
-BOO,P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6
-Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
-HITS Movies,P2p://generationnexxxt.com:19806/0ea3b9948f824611b4a575cc5a8b4c13
-影迷數位電影台,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b
-美亞電影台(粵語),P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
-CHC動作電影,P2p://generationnexxxt.com:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b
-CHC高清電影,P2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
-CHC家庭劇院,P2p://generationnexxxt.com:19806/9151cec1ea824240b5ee3be1a48ae2c9
-緯來電影台(B),P2p://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
-CINEMAX(B),P2p://generationnexxxt.com:19806/d559fe6e91584b87bff1eaeb0660c6ef
-CinemaWorld(B),P2p://generationnexxxt.com:19806/023f59ea320a4c6e92921cefdbaa56fa
-HBO Family(B),P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980
-HBO強檔巨獻(B),P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242
-HBO原創巨獻(B),P2p://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede
-amc電影台(B),P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
-影迷數位電影台(B),P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
-WARNER TV(B),P2p://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee
-tvN Movies HD(B),P2p://generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c
-CHC高清電影(B),P2p://generationnexxxt.com:19806/71dc6da8b03a42059dae9204b5395a89
-CHC家庭劇院(B),P2p://generationnexxxt.com:19806/8083b7def9404a41808df7039034cac8
-CHC動作電影(B),P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db55156032
-
-戲劇,#genre#
-三立戲劇台,P2p://generationnexxxt.com:19806/3e3919a7f09443d1b07bdea99f22e42f
-龍華戲劇,P2p://generationnexxxt.com:19806/b3526dee03424c8090e6d4d5e787c56b
-靖天戲劇台,P2p://generationnexxxt.com:19806/08786346511f4fbbbbfe0c4e72ad9409
-靖洋戲劇台,P2p://generationnexxxt.com:19806/0089fb08f1b448b99c18ce438a9f7fc5
-東森戲劇台,P2p://generationnexxxt.com:19806/d6863286fa4a40cbbf9f93bd5c1e5733
-八大戲劇台,P2p://generationnexxxt.com:19806/a5393bab3516410fb2bd81ea2329f7b3
-緯來戲劇台,P2p://generationnexxxt.com:19806/8a65b7456abb49f0bd564d6741cd4542
-EYE TV戲劇台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40f
-愛爾達影劇台,P2p://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5
-亞洲劇台,P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
-東森戲劇台(B),P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
-
-
-
+國際傳媒_7878,#genre#
+SA國際傳媒SAQP001外送員復仇送上比薩屌打,https://t21.cdn2020.com/video/m3u8/2023/01/24/15830caa/index.m3u8
+SA國際傳媒SAQP002清純女友的另一個人格竟然是蕩婦,https://t21.cdn2020.com/video/m3u8/2023/01/24/56c2775d/index.m3u8
+SA國際傳媒SAQP003美女銷售產品附送人肉飛機杯,https://t21.cdn2020.com/video/m3u8/2023/01/26/08df1759/index.m3u8
+SA國際傳媒SAQP004國考生性慾爆發逆襲繼母,https://t21.cdn2020.com/video/m3u8/2023/01/27/380032fa/index.m3u8
+SA國際傳媒SAQP005調皮女外圍開腿要我幹,https://t21.cdn2020.com/video/m3u8/2023/01/29/e582ed94/index.m3u8
+SA國際傳媒SAQP006強欲女老師主動獻身還債,https://t21.cdn2020.com/video/m3u8/2023/02/01/37f3c116/index.m3u8
+SA國際傳媒SAQP007陽痿霸總切換雙重人格爆操淫娃,https://t21.cdn2020.com/video/m3u8/2023/02/05/bc251671/index.m3u8
+SA國際傳媒SAQP008爸爸新交的狼系黑絲女友,https://t21.cdn2020.com/video/m3u8/2023/02/07/e8a96d68/index.m3u8
+SA國際傳媒SAQP009人魔外送員羞辱富家高貴千金,https://t21.cdn2020.com/video/m3u8/2023/02/08/50d482e2/index.m3u8
+SA國際傳媒SAQP010輕熟女繼姊的性愛成年禮,https://t21.cdn2020.com/video/m3u8/2023/02/11/d299255f/index.m3u8
+SA國際傳媒SAQP011飢渴妹子肉償討債集團,https://t21.cdn2020.com/video/m3u8/2023/02/13/4e6297b8/index.m3u8
+SA國際傳媒SAQP019與青梅竹馬激情相遇,https://t21.cdn2020.com/video/m3u8/2023/03/12/524487a7/index.m3u8
+SA國際媒體SAQP020在辦公室與妻子職員偷情,https://t21.cdn2020.com/video/m3u8/2023/03/12/c34cc754/index.m3u8
+SA國際傳媒SAT0056玩大老二輸了脫一件,https://t21.cdn2020.com/video/m3u8/2023/01/20/7b288399/index.m3u8
+SA國際傳媒SAT0057十二星座的性愛開關,https://t21.cdn2020.com/video/m3u8/2023/01/24/2b78ff6b/index.m3u8
+SA國際傳媒SAT0058在交友APP配對到公司女同事EP1,https://t21.cdn2020.com/video/m3u8/2023/01/26/bf345dba/index.m3u8
+SA國際傳媒SAT0059想上游泳課卻帶錯泳裝,https://t21.cdn2020.com/video/m3u8/2023/01/27/6b677b3a/index.m3u8
+SA國際傳媒SAT0060十二星座的性愛開關EP3巨蠍座,https://t21.cdn2020.com/video/m3u8/2023/01/29/aebbec14/index.m3u8
+SA國際傳媒SAT0061在交友app配對到公司女同事EP2,https://t21.cdn2020.com/video/m3u8/2023/02/01/71e81cce/index.m3u8
+SA國際傳媒SAT0062新年聚會的目的,https://t21.cdn2020.com/video/m3u8/2023/01/26/c9fd522d/index.m3u8
+SA國際傳媒SAT0063民初淫亂密醫,https://t21.cdn2020.com/video/m3u8/2023/01/26/8f66558f/index.m3u8
+SA國際傳媒SAT0064閔家啪啪慶團賀EP1,https://t21.cdn2020.com/video/m3u8/2023/02/08/f4aef37a/index.m3u8
+SA國際傳媒SAT0064十二星座的性愛開關EP4,https://t21.cdn2020.com/video/m3u8/2023/02/13/639ae6d3/index.m3u8
+SA國際媒體SAT0065女優私密景點EP1,https://t21.cdn2020.com/video/m3u8/2023/02/11/ccf8fe39/index.m3u8
+SA國際傳媒SAT0067閔家啪啪慶團圓EP2,https://t21.cdn2020.com/video/m3u8/2023/02/15/1538ff4b/index.m3u8
+SA國際傳媒SAT0069狗眼看人低的高傲妻子,https://t21.cdn2020.com/video/m3u8/2023/02/19/86daab65/index.m3u8
+SA國際傳媒SAT0070在捷運車廂跟美女清潔工做愛,https://t21.cdn2020.com/video/m3u8/2023/02/23/b1e74160/index.m3u8
+SA國際傳媒SAT0071狗眼看人低的高傲妻子EP2,https://t21.cdn2020.com/video/m3u8/2023/02/23/b858fe1a/index.m3u8
+SA國際傳媒SAT0072香車美人輕鬆GOEP1,https://t21.cdn2020.com/video/m3u8/2023/02/19/b1f4a92a/index.m3u8
+SA國際傳媒SAT0073香車美人輕鬆GOEP2,https://t21.cdn2020.com/video/m3u8/2023/02/23/e5290fc9/index.m3u8
+SA國際傳媒SAT0074辦公室瘋狂01,https://t21.cdn2020.com/video/m3u8/2023/03/12/7bb96950/index.m3u8
+SA國際傳媒SAT0075辦公室瘋狂02,https://t21.cdn2020.com/video/m3u8/2023/03/27/c29a7ec2/index.m3u8
+SA國際傳媒SAT0076超級公務人員01,https://t21.cdn2020.com/video/m3u8/2023/04/04/85d27716/index.m3u8
+SA國際傳媒SAT0077超級公務員02,https://t21.cdn2020.com/video/m3u8/2023/04/11/7cf68ef0/index.m3u8
+SA國際傳媒SAT0080十二星座的性愛開關05獅子座,https://t21.cdn2020.com/video/m3u8/2023/04/18/bd786364/index.m3u8
+SA國際傳媒SAT0081十二星座的性愛開關06處女座,https://t21.cdn2020.com/video/m3u8/2023/04/24/a29cfeb1/index.m3u8
+SA國際傳媒SAT0087狂飆之正義警官深陷大嫂桃色陷阱,https://t21.cdn2020.com/video/m3u8/2023/03/19/87d8a962/index.m3u8
+SA國際傳媒SAT0088凡人修仙傳,https://t21.cdn2020.com/video/m3u8/2023/03/31/021de17c/index.m3u8
+SA國際傳媒SATX006約炮約到以前學校暗戀對象,https://t21.cdn2020.com/video/m3u8/2023/01/31/d059ee38/index.m3u8
+WTB-059對客人表妹最深入的歉意,https://t21.cdn2020.com/video/m3u8/2023/03/02/6d985c34/index.m3u8
+WTB064親臨到府的房屋女業,https://t21.cdn2020.com/video/m3u8/2023/03/03/f7095191/index.m3u8
+阿珍愛上了阿強在一個借浴室洗澡的夜晚,https://t21.cdn2020.com/video/m3u8/2023/02/26/746f866a/index.m3u8
+愛豆傳媒id5201隔壁美人妻成了我的言聽計從性奴隸,https://t21.cdn2020.com/video/m3u8/2023/01/24/a6752a0a/index.m3u8
+愛豆媒體id5202凌辱下屬美人妻-妍希,https://t21.cdn2020.com/video/m3u8/2023/01/24/fe483832/index.m3u8
+愛豆媒體id5203飢渴獸父強上回家過年的女兒,https://t21.cdn2020.com/video/m3u8/2023/01/24/dc422585/index.m3u8
+愛豆媒體id5204女研究生的性趣調查-心萱,https://t21.cdn2020.com/video/m3u8/2023/01/24/f8c27e34/index.m3u8
+愛豆傳媒id5205哥哥性愛霸凌妹妹,https://t21.cdn2020.com/video/m3u8/2023/01/24/e53444e9/index.m3u8
+愛豆傳媒id5206乖女兒幫爸爸幹一下-可比,https://t21.cdn2020.com/video/m3u8/2023/01/24/3e1d7ff1/index.m3u8
+愛豆媒體id5207辦公室偷情強上老闆的小情人-夏露,https://t21.cdn2020.com/video/m3u8/2023/01/24/85b1be01/index.m3u8
+愛豆媒體id5208溫泉老闆娘火熱勾引健身教練-姚茜,https://t21.cdn2020.com/video/m3u8/2023/01/24/526f1fc9/index.m3u8
+愛豆傳媒id5209美艷護士凌辱學長反被操-夏露,https://t21.cdn2020.com/video/m3u8/2023/01/24/09e47c7a/index.m3u8
+愛豆媒體ID5210醉酒妹夫強上小姑-芯怡,https://t21.cdn2020.com/video/m3u8/2023/02/05/98cc4c7c/index.m3u8
+愛豆媒體ID5211咖啡館搭訕服務員調製濃情蜜液,https://t21.cdn2020.com/video/m3u8/2023/02/05/e94cc84a/index.m3u8
+愛豆傳媒ID5212白衣天使化生性愛奴隸,https://t21.cdn2020.com/video/m3u8/2023/02/05/9ddc2866/index.m3u8
+愛豆傳媒ID5213放蕩欲女-季研希,https://t21.cdn2020.com/video/m3u8/2023/02/05/2a9fb633/index.m3u8
+愛豆傳媒ID5214兄弟爭房手足相殘倒黴弟媳遭強姦,https://t21.cdn2020.com/video/m3u8/2023/02/13/c1c86c9d/index.m3u8
+愛豆媒體ID5215主治醫生迷姦,https://t21.cdn2020.com/video/m3u8/2023/02/05/05bf6d9e/index.m3u8
+愛豆媒體ID5216開車老司機潛規則美女汔車銷售員,https://t21.cdn2020.com/video/m3u8/2023/02/13/a29d5a5a/index.m3u8
+愛豆媒體ID5217公司酒會女祕書與老闆私密偷情,https://t21.cdn2020.com/video/m3u8/2023/02/13/5e6eefb4/index.m3u8
+愛豆媒體ID5218妹妹裸聊接單風騷勾引親哥哥,https://t21.cdn2020.com/video/m3u8/2023/02/13/851c372d/index.m3u8
+愛豆傳媒ID5219包養的女大學生,https://t21.cdn2020.com/video/m3u8/2023/02/13/98375cd9/index.m3u8
+愛豆媒體ID5220姪女偷拿舅舅私人金錢被肉棒教育,https://t21.cdn2020.com/video/m3u8/2023/02/19/c366b5d2/index.m3u8
+愛豆媒體ID5221變態BOSS捆綁調教新人女員工,https://t21.cdn2020.com/video/m3u8/2023/02/19/92af400c/index.m3u8
+愛豆傳媒ID5222初戀的淫水最清澈,https://t21.cdn2020.com/video/m3u8/2023/02/19/380e6253/index.m3u8
+愛豆媒體ID5223溫泉館風騷人妻欠人插,https://t21.cdn2020.com/video/m3u8/2023/02/19/3262abe3/index.m3u8
+愛豆媒體ID5224懷孕渣女慘遭備胎男友們輪姦報復,https://t21.cdn2020.com/video/m3u8/2023/02/26/7c9a11d5/index.m3u8
+愛豆媒體ID5225自慰婚戒掉陰道粗屌摯友來相助,https://t21.cdn2020.com/video/m3u8/2023/02/26/04c0ae50/index.m3u8
+愛豆傳媒ID5226狂飆之高齊強與陳書婷的風花雪月,https://t21.cdn2020.com/video/m3u8/2023/02/26/5350068c/index.m3u8
+愛豆媒體ID5227田徑教練性侵女運動員,https://t21.cdn2020.com/video/m3u8/2023/02/26/e16539c8/index.m3u8
+愛豆傳媒ID5228實習女僕為了透過考核用身體滿足顧客,https://t21.cdn2020.com/video/m3u8/2023/03/04/0df7e946/index.m3u8
+愛豆媒體ID5229頂級時間管理老婆閨蜜極限偷情,https://t21.cdn2020.com/video/m3u8/2023/03/04/3a564435/index.m3u8
+愛豆媒體ID5230激情遊戲硬上娘炮男閨蜜,https://t21.cdn2020.com/video/m3u8/2023/03/04/da41783d/index.m3u8
+愛豆傳媒ID5231乾上司捅兄弟都是放蕩人妻惹的禍,https://t21.cdn2020.com/video/m3u8/2023/03/09/fbe2c085/index.m3u8
+愛豆媒體ID5232公公爆操騷媳婦,https://t21.cdn2020.com/video/m3u8/2023/03/04/149b36c4/index.m3u8
+愛豆媒體ID5233妻子爬上同事床綠奴老公喜得娃,https://t21.cdn2020.com/video/m3u8/2023/03/22/66f6e4a6/index.m3u8
+愛豆媒體ID5234風騷妻子趁老公醉酒淫亂居酒屋,https://t21.cdn2020.com/video/m3u8/2023/03/19/2f597e06/index.m3u8
+愛豆媒體ID5235風騷小富婆駕馭男寵爭風吃醋,https://t21.cdn2020.com/video/m3u8/2023/03/12/0a3c4a6b/index.m3u8
+愛豆媒體ID5236禽獸繼父雙飛母女,https://t21.cdn2020.com/video/m3u8/2023/03/09/eacfddac/index.m3u8
+愛豆傳媒ID5237女作家的放蕩綺想-芳情,https://t21.cdn2020.com/video/m3u8/2023/03/16/3c04e813/index.m3u8
+愛豆媒體ID5238突襲蜜桃臀性感小姨,https://t21.cdn2020.com/video/m3u8/2023/03/12/389c8d8f/index.m3u8
+愛豆媒體ID5239綠奴房東的極品人妻,https://t21.cdn2020.com/video/m3u8/2023/03/12/7bd76f6f/index.m3u8
+愛豆傳媒ID5240性感護士乳交取精-雯茜,https://t21.cdn2020.com/video/m3u8/2023/03/19/ad262fbe/index.m3u8
+愛豆媒體ID5241新婚前夜偷情前男友-茜茜,https://t21.cdn2020.com/video/m3u8/2023/03/14/a40ac052/index.m3u8
+愛豆媒體ID5242精蟲上腦迷姦媽媽的性感閨蜜,https://t21.cdn2020.com/video/m3u8/2023/03/14/c70717d2/index.m3u8
+愛豆傳媒ID5243合租學姊的性福生理課-劉小珊,https://t21.cdn2020.com/video/m3u8/2023/03/16/47064852/index.m3u8
+愛豆媒體ID5244風騷女上司色誘醉酒男同事,https://t21.cdn2020.com/video/m3u8/2023/03/25/0181fea6/index.m3u8
+愛豆媒體ID5245一日特派員之人氣女優初體驗,https://t21.cdn2020.com/video/m3u8/2023/03/22/2d5053e6/index.m3u8
+愛豆媒體ID5246血衣天使之性愛復仇-姚茜,https://t21.cdn2020.com/video/m3u8/2023/03/31/27ccdf8b/index.m3u8
+愛豆媒體ID5247舔狗的逆襲黑絲學姊主動投懷抱,https://t21.cdn2020.com/video/m3u8/2023/03/19/4696e6d8/index.m3u8
+愛豆媒體ID5248黑絲女租客兼職外圍肉償房租,https://t21.cdn2020.com/video/m3u8/2023/03/22/e42e8bc7/index.m3u8
+愛豆媒體ID5249富二代強上巨乳按摩師,https://t21.cdn2020.com/video/m3u8/2023/03/22/77680922/index.m3u8
+愛豆媒體ID5250爛賭老公賤賣人妻-琪琪,https://t21.cdn2020.com/video/m3u8/2023/03/31/f2c82163/index.m3u8
+愛豆傳媒ID5251瑜珈老師的性愛課程-夏篕,https://t21.cdn2020.com/video/m3u8/2023/04/11/8d2b08c1/index.m3u8
+愛豆媒體ID5252幫朋友勾引的少婦竟是自己老婆,https://t21.cdn2020.com/video/m3u8/2023/03/25/9fd751ea/index.m3u8
+愛豆傳媒ID5252美女客服上門售後慘遭調教,https://t21.cdn2020.com/video/m3u8/2023/04/04/2e7c1b2d/index.m3u8
+愛豆傳媒ID5253社恐宅男的援交伴侶,https://t21.cdn2020.com/video/m3u8/2023/03/25/966e2709/index.m3u8
+愛豆傳媒ID5254包月情婦無限次數極限性愛,https://t21.cdn2020.com/video/m3u8/2023/03/25/b09b2c58/index.m3u8
+愛豆傳媒ID5256越獄逃犯淪為性愛奴隸-芯萱,https://t21.cdn2020.com/video/m3u8/2023/04/11/057726f2/index.m3u8
+愛豆媒體ID5257心機人妻的肉慾計畫-詩琪,https://t21.cdn2020.com/video/m3u8/2023/04/06/fe19b1fe/index.m3u8
+愛豆媒體ID5258全裸家政婦浪蕩護理-舒嵐,https://t21.cdn2020.com/video/m3u8/2023/03/31/01086a62/index.m3u8
+愛豆媒體ID5259師生亂倫寂寞女教師約炮自己的學生,https://t21.cdn2020.com/video/m3u8/2023/04/04/1f108802/index.m3u8
+愛豆媒體ID5260我和兄弟把姊姊給輪姦了-張琪琪,https://t21.cdn2020.com/video/m3u8/2023/03/31/0b7ec432/index.m3u8
+愛豆傳媒ID5261狂飆之先親程程後摸腿我是莽村李宏偉,https://t21.cdn2020.com/video/m3u8/2023/04/04/a63b88d9/index.m3u8
+愛豆傳媒ID5262哥哥請上我,https://t21.cdn2020.com/video/m3u8/2023/04/04/97c5e95a/index.m3u8
+愛豆傳媒ID5263替入獄哥哥照顧性感嫂子,https://t21.cdn2020.com/video/m3u8/2023/04/11/523a1609/index.m3u8
+愛豆傳媒ID5264我的砲友竟是我的嫂嫂,https://t21.cdn2020.com/video/m3u8/2023/04/06/e95a4b7c/index.m3u8
+愛豆媒體ID5265塑膠姊妹勾引閨蜜男友,https://t21.cdn2020.com/video/m3u8/2023/04/14/02122b72/index.m3u8
+愛豆媒體ID5266性感模特兒遭遇色魔攝影師誘姦,https://t21.cdn2020.com/video/m3u8/2023/04/06/b380a84e/index.m3u8
+愛豆媒體ID5267禽獸哥哥們趁妹妹熟睡強上3P,https://t21.cdn2020.com/video/m3u8/2023/04/11/60ac9521/index.m3u8
+愛豆傳媒ID5268隔壁老王廚房強上豐腴人妻-姨珍,https://t21.cdn2020.com/video/m3u8/2023/04/06/12733b8e/index.m3u8
+愛豆媒體ID5270淫亂主播一女侍二男-詩琪,https://t21.cdn2020.com/video/m3u8/2023/04/18/6b1c0800/index.m3u8
+愛豆媒體ID5271變態主人偽裝癱瘓強姦居家保母,https://t21.cdn2020.com/video/m3u8/2023/04/14/fb06e93e/index.m3u8
+愛豆媒體ID5272上班約嫖援交女郎是同事,https://t21.cdn2020.com/video/m3u8/2023/04/14/48e49328/index.m3u8
+愛豆媒體ID5273扶弟魔爆乳姊姊肉身還債,https://t21.cdn2020.com/video/m3u8/2023/04/14/f58eb228/index.m3u8
+愛豆傳媒ID5275性感大嫂復仇不成反被操-瑤瑤,https://t21.cdn2020.com/video/m3u8/2023/04/18/0022b450/index.m3u8
+愛豆傳媒ID5276載客順風車老婆失身被賣人財兩空,https://t21.cdn2020.com/video/m3u8/2023/04/21/2d4fe525/index.m3u8
+愛豆媒體ID5277性慾旺盛的小姨勾引姐夫內射,https://t21.cdn2020.com/video/m3u8/2023/04/21/cee0d481/index.m3u8
+愛豆傳媒ID5279性感空服員被迫下海援交,https://t21.cdn2020.com/video/m3u8/2023/04/21/3ecef40b/index.m3u8
+愛神傳媒EMG001旗袍下女淫逼獻身,https://t21.cdn2020.com/video/m3u8/2023/03/05/6a86a527/index.m3u8
+愛神媒體EMG002變態哥哥強上妹妹止火,https://t21.cdn2020.com/video/m3u8/2023/03/05/c2b3b860/index.m3u8
+愛神傳媒EMG003美團外送員猛操抖音直播主,https://t21.cdn2020.com/video/m3u8/2023/03/05/a5715258/index.m3u8
+愛神傳媒EMG004黑絲OL肉穴求上位,https://t21.cdn2020.com/video/m3u8/2023/03/05/bd46b427/index.m3u8
+愛神媒體EMG005禽獸師迷姦美女病患,https://t21.cdn2020.com/video/m3u8/2023/03/05/8585b44a/index.m3u8
+愛神傳媒EMG006強欲SM女王強上親弟,https://t21.cdn2020.com/video/m3u8/2023/03/05/83c0e710/index.m3u8
+愛神傳媒EMG009巨乳女職員被潛規則,https://t21.cdn2020.com/video/m3u8/2023/03/24/08712aca/index.m3u8
+愛神傳媒EMG011守寡大嫂汗我的越線感情,https://t21.cdn2020.com/video/m3u8/2023/04/02/c72aa02e/index.m3u8
+愛神媒體EMG012肉棒導正做黃播的教師小妹,https://t21.cdn2020.com/video/m3u8/2023/04/06/d406e0ba/index.m3u8
+愛神傳媒EMG013貧賤姊夫狠操小姨,https://t21.cdn2020.com/video/m3u8/2023/04/11/0b9fa22a/index.m3u8
+愛神傳媒EMX-001護士想被病人巨屌塞滿,https://t21.cdn2020.com/video/m3u8/2023/03/23/010d67f3/index.m3u8
+按摩女為報復出軌老公跟客人發生關係被內射,https://t21.cdn2020.com/video/m3u8/2023/03/22/b71d6b77/index.m3u8
+暗黑樂園RS-023-AV1調教部屋性愛篇,https://t21.cdn2020.com/video/m3u8/2023/02/15/69f47ae2/index.m3u8
+暗黑性樂園RS-023-AV2吊縛體驗SM性奴養成,https://t21.cdn2020.com/video/m3u8/2023/02/23/cb1e7f74/index.m3u8
+暗黑性樂園RS-023-EP2支配的快感奴役的樂趣,https://t21.cdn2020.com/video/m3u8/2023/02/19/5a249781/index.m3u8
+暗黑楊丞琳大戰嘻哈歌手,https://t21.cdn2020.com/video/m3u8/2023/04/21/24abf134/index.m3u8
+暗戀的女神真TM騷今天就把她幹了,https://t21.cdn2020.com/video/m3u8/2023/02/15/18c2bd0d/index.m3u8
+把剛大學畢業的女家教操到床上,https://t21.cdn2020.com/video/m3u8/2023/03/12/c81d8842/index.m3u8
+將小母狗的小穴灌滿精液-小敏兒,https://t21.cdn2020.com/video/m3u8/2023/03/23/e39ffa9d/index.m3u8
+白嫩蘿莉的肉棒侍奉,https://t21.cdn2020.com/video/m3u8/2023/03/01/ab98c29b/index.m3u8
+白絲JK騷蘿莉口活一流-冉冉學姊,https://t21.cdn2020.com/video/m3u8/2023/03/05/ce9913e5/index.m3u8
+白絲情趣淫蕩小姐騷穴被肉棒瘋狂抽插,https://t21.cdn2020.com/video/m3u8/2023/02/08/574dd00a/index.m3u8
+白絲性感女傭線上榨精-Cola醬,https://t21.cdn2020.com/video/m3u8/2023/03/25/fb45739e/index.m3u8
+拜金女代替閨蜜相親主動獻身富二代,https://t21.cdn2020.com/video/m3u8/2023/03/29/d92aea0d/index.m3u8
+半套店女郎決定用小穴親自教授還是處男的我,https://t21.cdn2020.com/video/m3u8/2023/03/02/a2f4fc0f/index.m3u8
+幫忙補習的清純表姐被我強上,https://t21.cdn2020.com/video/m3u8/2023/03/10/342ab001/index.m3u8
+保潔員小姐兼職推銷保險套,https://t21.cdn2020.com/video/m3u8/2023/02/21/3b31ff23/index.m3u8
+報復前女友-琪琪,https://t21.cdn2020.com/video/m3u8/2023/01/20/5e20a6ce/index.m3u8
+報復嚴厲女上司-娜娜,https://t21.cdn2020.com/video/m3u8/2023/03/23/1dbc996f/index.m3u8
+鮑魚的呼吸,https://t21.cdn2020.com/video/m3u8/2023/02/17/5a9788cf/index.m3u8
+暴力調教白絲嫩蘿莉-小二先生,https://t21.cdn2020.com/video/m3u8/2023/01/26/6255511e/index.m3u8
+爆操白絲美艷學姊淫語不斷-cola醬,https://t21.cdn2020.com/video/m3u8/2023/03/20/ed0fa303/index.m3u8
+爆操白絲雙馬尾蘿莉白漿流出-牛奶泡芙,https://t21.cdn2020.com/video/m3u8/2023/01/29/37e92ce2/index.m3u8
+爆操內射剛同居偷自慰的學妹,https://t21.cdn2020.com/video/m3u8/2023/03/23/0c62df4d/index.m3u8
+爆操內射研究生,https://t21.cdn2020.com/video/m3u8/2023/04/18/6d3984ab/index.m3u8
+爆操中出網襪巨乳騷妹妹-91xx君,https://t21.cdn2020.com/video/m3u8/2023/01/29/f5f1cc81/index.m3u8
+爆草00後綠茶小秘書,https://t21.cdn2020.com/video/m3u8/2023/03/29/1117a76b/index.m3u8
+爆乳姊姊親自教導弟弟如何留住女孩的芳心,https://t21.cdn2020.com/video/m3u8/2023/03/20/fbfec0ae/index.m3u8
+爆乳姊姊浴缸手淫被放學回家弟弟偷拍威脅,https://t21.cdn2020.com/video/m3u8/2023/02/21/b98b09ef/index.m3u8
+爆乳強欲小妹迷姦親哥哥-安娜,https://t21.cdn2020.com/video/m3u8/2023/03/02/aa8c0f4d/index.m3u8
+爆乳實習生為了能升職加薪主動獻出身體供上司玩,https://t21.cdn2020.com/video/m3u8/2023/02/15/0baa28aa/index.m3u8
+爆竹聲中一歲除實現懷孕意願-糖糖,https://t21.cdn2020.com/video/m3u8/2023/01/29/7f256280/index.m3u8
+北漂女學生拖欠房租肉嚐抵租,https://t21.cdn2020.com/video/m3u8/2023/02/26/6935f786/index.m3u8
+被報復的女孩強上前女友,https://t21.cdn2020.com/video/m3u8/2023/03/10/3cfeedb7/index.m3u8
+被春藥徹底控制慾望的美乳人妻,https://t21.cdn2020.com/video/m3u8/2023/03/10/b0dd7394/index.m3u8
+被巨屌後入的極品騷母,https://t21.cdn2020.com/video/m3u8/2023/03/01/da34ef1c/index.m3u8
+被強姦內射的八重神子-橋本香菜,https://t21.cdn2020.com/video/m3u8/2023/03/05/0ec16f5c/index.m3u8
+被小妹舔濕的肉棒可以滑進她的小穴,https://t21.cdn2020.com/video/m3u8/2023/03/07/fff93f40/index.m3u8
+被學姊極品身材榨乾最後一滴精液-粉紅情人,https://t21.cdn2020.com/video/m3u8/2023/01/27/9c932739/index.m3u8
+本想挑戰3P結果人找多了連飯店服務生都加入,https://t21.cdn2020.com/video/m3u8/2023/04/20/44b85490/index.m3u8
+變態巴士美容師小波多野結衣,https://t21.cdn2020.com/video/m3u8/2023/03/16/210ace03/index.m3u8
+變態巴士之披薩店的癡女店長,https://t21.cdn2020.com/video/m3u8/2023/03/16/a7217fd6/index.m3u8
+變態房東強硬收租失業女租客以身抵租,https://t21.cdn2020.com/video/m3u8/2023/01/19/814d9c36/index.m3u8
+變態哥哥調教爆乳妹妹扳穴採精液,https://t21.cdn2020.com/video/m3u8/2023/03/04/29b1c9f0/index.m3u8
+變態胸部G點乳房開發診所,https://t21.cdn2020.com/video/m3u8/2023/03/14/0f3256f6/index.m3u8
+變態瑜珈學生緊身褲外顯陰溝,https://t21.cdn2020.com/video/m3u8/2023/02/21/19e65f80/index.m3u8
+便利商店偶遇18歲長腿辣妹並且成功帶回家打砲,https://t21.cdn2020.com/video/m3u8/2023/02/16/4a674093/index.m3u8
+表妹送給我的新年禮物,https://t21.cdn2020.com/video/m3u8/2023/01/26/d79b49f3/index.m3u8
+表妹心甘情願成為我的性奴,https://t21.cdn2020.com/video/m3u8/2023/03/01/770fc2cc/index.m3u8
+不是車震是我的屁屁在震啦,https://t21.cdn2020.com/video/m3u8/2023/02/21/a9a90d4a/index.m3u8
+彩色比基尼樓頂露天泳池-櫻花小貓,https://t21.cdn2020.com/video/m3u8/2023/01/27/b4abfdf8/index.m3u8
+超沉浸性愛迎接冬天的溫存抽插,https://t21.cdn2020.com/video/m3u8/2023/02/08/61f12a63/index.m3u8
+超敏感尤物難以置信的快樂-玩偶姊姊,https://t21.cdn2020.com/video/m3u8/2023/04/13/6b00abe1/index.m3u8
+超有氣質的巨乳少婦被人下藥操到極限高潮,https://t21.cdn2020.com/video/m3u8/2023/03/10/87f38486/index.m3u8
+趁老公不在家找個小哥哥一起上王者,https://t21.cdn2020.com/video/m3u8/2023/04/07/614178dd/index.m3u8
+城市獵人EP1射精馬拉鬆自拍對決,https://t21.cdn2020.com/video/m3u8/2023/04/18/0a2f134f/index.m3u8
+城市獵人MTVQ22-AV4群交6P盛宴,https://t21.cdn2020.com/video/m3u8/2023/04/24/70b6a068/index.m3u8
+城市獵人MTVQ22-EP2小穴狩獵最後衝刺,https://t21.cdn2020.com/video/m3u8/2023/04/24/009e9b63/index.m3u8
+城市獵人性愛篇2試衣間禁止呻吟,https://t21.cdn2020.com/video/m3u8/2023/04/20/a2996a87/index.m3u8
+城市獵人性愛篇AV1無人山區野外交合,https://t21.cdn2020.com/video/m3u8/2023/04/18/dceb5d41/index.m3u8
+城市獵人性愛篇MTVQ22-AV3網約金髮妹直衝湯屋,https://t21.cdn2020.com/video/m3u8/2023/04/24/f596f437/index.m3u8
+癡漢援交高中製服的完全佔有,https://t21.cdn2020.com/video/m3u8/2023/03/29/ade554ba/index.m3u8
+癡男尾隨入室迷姦空姐,https://t21.cdn2020.com/video/m3u8/2023/01/29/a09a6b51/index.m3u8
+出差老公偷襲回家撞到老婆在自慰-半雪,https://t21.cdn2020.com/video/m3u8/2023/03/10/b68380e4/index.m3u8
+出來度假約個女生竟然還是個網黃,https://t21.cdn2020.com/video/m3u8/2023/02/08/0f2cb673/index.m3u8
+計程車司機見色起意下藥迷姦睡熟女乘客-半雪,https://t21.cdn2020.com/video/m3u8/2023/01/27/3caab803/index.m3u8
+初戀要結婚對像不是我,https://t21.cdn2020.com/video/m3u8/2023/03/07/c629ea20/index.m3u8
+廚房巨乳嬌娘做菜做愛二選一,https://t21.cdn2020.com/video/m3u8/2023/04/14/091e7c5e/index.m3u8
+傳媒公司美乳員工與5猛男群P,https://t21.cdn2020.com/video/m3u8/2023/03/31/d780c3e3/index.m3u8
+春節前夕穿著乾爹最喜歡的絲襪-嘉琪,https://t21.cdn2020.com/video/m3u8/2023/01/27/de4cb2b4/index.m3u8
+春節貼完對聯就是輸出蘿莉妹妹的時間,https://t21.cdn2020.com/video/m3u8/2023/01/31/9417e842/index.m3u8
+春節淫亂室友的慰汁-橋本香菜,https://t21.cdn2020.com/video/m3u8/2023/02/08/b9184551/index.m3u8
+打開傻白甜妹的潮吹開關,https://t21.cdn2020.com/video/m3u8/2023/03/12/95974c76/index.m3u8
+大波禦姐網紅6P多人混戰,https://t21.cdn2020.com/video/m3u8/2023/03/25/1ba5d8cb/index.m3u8
+大二學姊被灌醉猥褻,https://t21.cdn2020.com/video/m3u8/2023/02/01/df1278f9/index.m3u8
+大漠公主的成年禮-橋本香菜,https://t21.cdn2020.com/video/m3u8/2023/02/16/6151a036/index.m3u8
+大年三十操小媽-舒舒,https://t21.cdn2020.com/video/m3u8/2023/01/28/e33a4745/index.m3u8
+大象傳媒da-004年假後期待見到火辣的女同事,https://t21.cdn2020.com/video/m3u8/2023/02/11/df15e7ef/index.m3u8
+大胸職員的瘋狂上位史,https://t21.cdn2020.com/video/m3u8/2023/02/13/68eb6200/index.m3u8
+大一清純學妹下海兼職外圍賺外快-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/571a8455/index.m3u8
+長腿女下屬黑絲情趣制服向老闆拜年,https://t21.cdn2020.com/video/m3u8/2023/01/27/84db0260/index.m3u8
+代替閨蜜去相親卻意外鉤上凱子,https://t21.cdn2020.com/video/m3u8/2023/03/24/6eaee016/index.m3u8
+代孕媽媽的播種流程-桃桃妹,https://t21.cdn2020.com/video/m3u8/2023/01/31/1c9e924f/index.m3u8
+帶清純女友爬山不小心被金國公主上身-糖糖,https://t21.cdn2020.com/video/m3u8/2023/03/09/0acee4a2/index.m3u8
+帶著女友閨蜜出來度假露天泳池差點幹起來,https://t21.cdn2020.com/video/m3u8/2023/03/04/e18cedde/index.m3u8
 
 
 三級測試_996,#genre#
