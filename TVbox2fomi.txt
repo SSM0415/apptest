@@ -1,9 +1,11 @@
 {
+"wallpaper":"https://cdn2.zzzmh.cn/wallpaper/origin/6931aa69219c47eea8991423b69d9ba3.jpg?response-content-disposition=attachment&auth_key=1730736000-50a3711e5f1c208d9d3f8d83c7765e38b2403c9e-0-e1f3f368c4a2272f335a840de7021154",
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"无尽资源","name":"🔴無盡資源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"360资源","name":"🟡360資 源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"Lib","name":"立播|影劇","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 {"key": "yingmi", "name": "🟡映迷", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
@@ -34,7 +36,6 @@
 {"key":"卧龙资源","name":"🔴卧龍資源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘花影院","name":"🔴飘花影院","type":1,"api":"http://www.ahjiuman.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"天翼资源","name":"🔴天翼資源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"无尽资源","name":"🔴無盡資源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速博资源","name":"🔴速博資源","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"魔都资源","name":"🔴魔都動漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"🔴最大資源","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
