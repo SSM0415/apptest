@@ -783,9 +783,17 @@
 
 
 "lives":[{
-"name":"自選",
+"name":"自選TV",
 "type":0,
 "url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2livefomi243.txt",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+}],
+"lives":[{
+"name":"18+TV",
+"type":0,
+"url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/34cdn.m3u",
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
