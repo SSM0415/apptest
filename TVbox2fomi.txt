@@ -6,8 +6,6 @@
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"无尽资源","name":"🔴無盡資源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"王二小放牛娃","name":"王二小放牛娃","type":1,"api":"http://tvbox.王二小放牛娃.top","searchable":1,"quickSearch":1},
-{"key":"天天開心","name":"天天開心","type":1,"api":"http://ttkx.live:55/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83","searchable":1,"quickSearch":1},
 {"key":"360资源","name":"🟡360資 源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"Lib","name":"立播|影劇","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 {"key": "yingmi", "name": "🟡映迷", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
