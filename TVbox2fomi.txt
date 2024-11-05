@@ -783,9 +783,25 @@
 
 
 "lives":[{
-"name":"自選TV",
+"name":"電視TV",
 "type":0,
 "url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2livefomi243.txt",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name":"王二小放牛娃",
+"type":0,
+"url":" http://tvbox.王二小放牛娃.top",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name":"天天開心",
+"type":0,
+"url":"http://ttkx.live:55/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83",
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
@@ -794,6 +810,22 @@
 "name":"18+TV",
 "type":0,
 "url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/34cdn.m3u",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name":"18+TV2",
+"type":0,
+"url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/avw.txt",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name":"18+TV1",
+"type":0,
+"url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/CH2406.txt",
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
