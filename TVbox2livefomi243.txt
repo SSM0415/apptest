@@ -20,6 +20,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+ELTA影劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
+
 
 港澳,#genre#
 澳視葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
@@ -337,6 +339,90 @@ VOA美國之音,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv0
 209超人力霸王整套看,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-live015?set=1&ch=278
 210花系列 經典劇場,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-live016?set=1&ch=279
 Smart知識台,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn19?set=2&ch=297
+
+1106,#genre#
+臺灣3,#genre#
+AXN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi&sp=chaojidianshi
+CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi&sp=chaojidianshi
+EYE戲劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn&sp=chaojidianshi&sp=chaojidianshi
+EYE旅遊,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn&sp=chaojidianshi&sp=chaojidianshi
+HBO,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd_twn&sp=chaojidianshi&sp=chaojidianshi
+HBO Family,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn&sp=chaojidianshi&sp=chaojidianshi
+好萊塢電影台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn&sp=chaojidianshi&sp=chaojidianshi
+MTV Live,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mtvhd_twn&sp=chaojidianshi&sp=chaojidianshi
+TLC旅遊生活,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tlc_twn&sp=chaojidianshi&sp=chaojidianshi
+東森新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
+TVBS HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs&sp=chaojidianshi
+TVBS新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi
+TVBS歡樂台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbshuanle_twn&sp=chaojidianshi&sp=chaojidianshi
+三立台灣台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan&sp=chaojidianshi
+三立戲劇台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn&sp=chaojidianshi&sp=chaojidianshi
+三立綜合台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe&sp=chaojidianshi
+中天亞洲台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn&sp=chaojidianshi&sp=chaojidianshi
+中天娱樂,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient&sp=chaojidianshi
+中天新聞HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
+中天綜合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe&sp=chaojidianshi
+亞洲旅遊台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn&sp=chaojidianshi&sp=chaojidianshi
+亞洲美食,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=afc_twn&sp=chaojidianshi&sp=chaojidianshi
+八大戲劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama&sp=chaojidianshi
+八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst&sp=chaojidianshi
+八大綜合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe&sp=chaojidianshi
+公視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
+民視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
+民視第一台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi&sp=chaojidianshi
+民視台灣台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn&sp=chaojidianshi&sp=chaojidianshi
+民視新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan
+台視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttv_taiwan	
+台視新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
+中視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
+中視新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
+中視經典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn&sp=chaojidianshi
+華視,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
+華藝綜合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn&sp=chaojidianshi
+大愛一台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=daai_twn&sp=chaojidianshi
+寰宇新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
+寰宇財經台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyutaiwan_twn&sp=chaojidianshi
+年代新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn&sp=chaojidianshi
+愛爾達影劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltayingju_twn&sp=chaojidianshi
+愛爾達體育 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn&sp=chaojidianshi
+愛爾達體育 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn&sp=chaojidianshi
+愛爾達體育 3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport3_twn&sp=chaojidianshi
+ELEVEN 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn&sp=chaojidianshi
+博斯網球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn&sp=chaojidianshi
+博斯運動1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn&sp=chaojidianshi
+博斯運動2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn&sp=chaojidianshi
+博斯高球1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn&sp=chaojidianshi
+博斯高球2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf2_twn&sp=chaojidianshi
+探索亞洲,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn&sp=chaojidianshi_twn&sp=chaojidianshi
+探索動力,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryturbo_twn&sp=chaojidianshi
+國家地理,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeohd_twn&sp=chaojidianshi
+野生動物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowild_twn&sp=chaojidianshi
+動物星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn&sp=chaojidianshi
+時尚,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn&sp=chaojidianshi
+Discovery Asia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn&sp=chaojidianshi_twn&sp=chaojidianshi
+Discovery HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn&sp=chaojidianshi
+東森戲劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvdrama
+東森洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern
+東森綜合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe
+東森財經新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn&sp=chaojidianshi
+東森電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
+緯來日本台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
+緯來體育台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandsport
+美亞電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn&sp=chaojidianshi
+BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
+Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
+Fox News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn&sp=chaojidianshi
+阿里郎,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn&sp=chaojidianshi
+CN卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn&sp=chaojidianshi
+靖天卡通台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
+靖天國際台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn&sp=chaojidianshi
+非凡新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn&sp=chaojidianshi
+龍祥時代,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn&sp=chaojidianshi
+龍華偶像,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn&sp=chaojidianshi
+龍華戲劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn&sp=chaojidianshi
+龍華洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi
+龍華經典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
+龍華電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie
 
 輪播,#genre#
 輪播電影1,http://epg.112114.xyz/douyu/20415
