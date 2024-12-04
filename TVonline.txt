@@ -1121,8 +1121,10 @@ MOVIE簡中,#genre#
 醜女大翻身,https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
 聊齋畫壁,https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
 
+MOVIE繁中,#genre#
+驚奇隊長2,https://192-168-1-104.hongyunas.direct.quickconnect.to:5001/fbdownload/%E9%A9%9A%E5%A5%87%E9%9A%8A%E9%95%B72-2023.mp4?tid=%22oJZ0o20KR9U4cTu-DwNOwf_fsPPmER3c5KFxjYjkUPp1djojYCVX3KMJHkCD1HZCCAlbsDB0DoNFsGXk%22&mode=open&dlink=%222fe5bdb1e8a6967573627368617265312f564944454f2f31e99bbbe5bdb14d4f5649452f3435302fe9a99ae5a587e99a8ae995b7322d323032332e6d7034%22&stdhtml=true&SynoToken=VDaeBVPXwuStQ
 
-
+阿凡達-水之道,https://192-168-1-104.hongyunas.direct.quickconnect.to:5001/fbdownload/%E9%98%BF%E5%87%A1%E9%81%94-%E6%B0%B4%E4%B9%8B%E9%81%932022.mp4?tid=%22oJZ0o20KR9U4cTu-DwNOwf_fsPPmER3c5KFxjYjkUPp1djojYCVX3KMJHkCD1HZCCAlbsDB0DoNFsGXk%22&mode=open&dlink=%222fe5bdb1e8a6967573627368617265312f564944454f2f31e99bbbe5bdb14d4f5649452f3435302fe998bfe587a1e981942de6b0b4e4b98be98193323032322e6d7034%22&stdhtml=true&SynoToken=VDaeBVPXwuStQ
 
 GOOD系列,#genre#
 GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
