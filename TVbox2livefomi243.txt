@@ -22,7 +22,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 ELTA影劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
 
-MOD-TEST,#genre#
+MOD TEST,#genre#
 amc電影台,udp://@224.1.4.43:11111
 amc電影台,udp://@230.1.2.157:11111
 Animax,udp://@224.1.4.237:11111
@@ -2837,55 +2837,6 @@ DE Playboy Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20026/index
 CineMan ExExEx,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20089/index.m3u8
 CineMan ExExEx TWO,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/20090/index.m3u8
 
-
-GOOD系列,#genre#
-GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
-GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
-GOOD真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
-GOOD共享觀點,http://live.streamingfast.net/osmflivech5.m3u8
-GOOD經典音樂,http://live.streamingfast.net/osmflivech6.m3u8
-GOOD禱告大軍,http://live.streamingfast.net/osmflivech7.m3u8
-GOOD幸福學堂,http://live.streamingfast.net/osmflivech8.m3u8
-GOOD愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
-GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
-GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
-GOOD孫叔唱副歌,http://live.streamingfast.net/osmflivech12.m3u8
-GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
-GOOD真情部落格,http://live.streamingfast.net/osmflivech14.m3u8
-GOOD真情之夜,http://live.streamingfast.net/osmflivech15.m3u8
-GOOD葉光明,http://live.streamingfast.net/osmflivech16.m3u8
-GOOD大衛鮑森,http://live.streamingfast.net/osmflivech17.m3u8
-GOOD國際講員,http://live.streamingfast.net/osmflivech18.m3u8
-GOOD共享觀點,http://live.streamingfast.net/osmflivech19.m3u8
-GOOD恩典時分,http://live.streamingfast.net/osmflivech20.m3u8
-GOOD華語講員,http://live.streamingfast.net/osmflivech21.m3u8
-GOOD職場新視野,http://live.streamingfast.net/osmflivech22.m3u8
-GOOD空中主日學生活,http://live.streamingfast.net/osmflivech23.m3u8
-GOOD劉三講古,http://live.streamingfast.net/osmflivech24.m3u8
-GOOD福氣人生,http://live.streamingfast.net/osmflivech25.m3u8
-GOOD空中主日學查經,http://live.streamingfast.net/osmflivech26.m3u8
-GOOD空中聖經學院,http://live.streamingfast.net/osmflivech27.m3u8
-GOOD詩歌精選,http://live.streamingfast.net/osmflivech28.m3u8
-GOOD經典音樂河,http://live.streamingfast.net/osmflivech29.m3u8
-GOOD敬拜讚美音樂,http://live.streamingfast.net/osmflivech30.m3u8
-GOOD福音佈道音樂會,http://live.streamingfast.net/osmflivech31.m3u8
-GOOD特會系列：禱告與轉化,http://live.streamingfast.net/osmflivech32.m3u8
-GOOD特會系列：研經培靈,http://live.streamingfast.net/osmflivech33.m3u8
-GOOD天國文化特會,http://live.streamingfast.net/osmflivech34.m3u8
-GOOD天父的心,http://live.streamingfast.net/osmflivech35.m3u8
-GOOD特會系列：醫治釋放,http://live.streamingfast.net/osmflivech36.m3u8
-GOOD特會系列：以色列專題,http://live.streamingfast.net/osmflivech37.m3u8
-GOOD特會系列：末世信息,http://live.streamingfast.net/osmflivech38.m3u8
-GOOD全家歸主有良方,http://live.streamingfast.net/osmflivech39.m3u8
-GOOD轉轉發現愛,http://live.streamingfast.net/osmflivech40.m3u8
-GOOD幸福學堂,http://live.streamingfast.net/osmflivech41.m3u8
-GOOD愛+醫生,http://live.streamingfast.net/osmflivech42.m3u8
-GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech43.m3u8
-GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech44.m3u8
-GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
-GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
-GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
-GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 
 
 歐美深夜_6677,#genre#
