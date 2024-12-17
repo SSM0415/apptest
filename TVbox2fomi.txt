@@ -781,39 +781,15 @@
 {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0}
 ],
 
+"lives":[{"group":"redirect","channels":[{"name":"電視TVfomi243","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NTTTA0MTUvYXBwdGVzdC9yZWZzL2hlYWRzL21haW4vVFZib3gybGl2ZWZvbWkyNDMudHh0"]}]}],
 
-"lives":[{
-"name":"電視TVfomi243",
-"type":2,
-"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2livefomi243.txt",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{
-"name":"18+TV",
-"type":2,
-"url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/x1pd",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{
-"name":"18+TV2",
-"type":2,
-"url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/blue.txt",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{
-"name":"18+TV1",
-"type":2,
-"url":"https://raw.githubusercontent.com/ddhola/file/refs/heads/main/CH2406.txt",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-}],
+
+"lives":[{"group":"redirect","channels":[{"name":"18+TV","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RkaG9sYS9maWxlL3JlZnMvaGVhZHMvbWFpbi94MXBk"]}]}],
+
+
+"lives":[{"group":"redirect","channels":[{"name":"18+TV2","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RkaG9sYS9maWxlL3JlZnMvaGVhZHMvbWFpbi9ibHVlLnR4dA=="]}]}],
+
+"lives":[{"group":"redirect","channels":[{"name":"18+TV3","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RkaG9sYS9maWxlL3JlZnMvaGVhZHMvbWFpbi9DSDI0MDYudHh0"]}]}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
