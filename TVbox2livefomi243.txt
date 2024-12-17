@@ -22,7 +22,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 ELTA影劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
 
-MOD TEST,#genre#
+MODTEST,#genre#
 amc電影台,udp://@224.1.4.43:11111
 amc電影台,udp://@230.1.2.157:11111
 Animax,udp://@224.1.4.237:11111
