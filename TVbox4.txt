@@ -4,6 +4,9 @@
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子資源","name":"量子資源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"无尽资源","name":"🔴無盡資源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"最大资源","name":"🔴最大資源","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"360资源","name":"🟡360資 源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"Lib","name":"立播|影劇","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
     {
       "key": "雨哥哥影视",
@@ -738,17 +741,33 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "♻️TV",
+      "name": "♻️fomiTV",
       "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/zhibo.txt",
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "💕MTV",
+      "name": "♻️jableAV2",
       "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/MTV.txt",
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/CH2406.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️missAV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/x1pd.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "💕jableAV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/blue.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
