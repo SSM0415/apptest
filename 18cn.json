@@ -1662,9 +1662,9 @@
 
 
 "lives":[{
-"name":"live",
+"name":"blue",
 "type":0,
-"url":"./lib/RTV.txt",
+"url":"https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/blue.txt",
 "playerType":1,
 "ua": "okhttp/3.15",
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
