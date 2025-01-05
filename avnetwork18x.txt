@@ -4,7 +4,14 @@
 "sites":[
 {"key":"U酷資源","name":"U酷資源🔪","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",   "searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"麻豆網","name":"色色虎資源🔪","type":1,"api":"https://sesehuzy1.com/api.php/provide/vod/at/xml/"},
+{
+      "key": "老色逼",
+      "name": "老色逼資源|AV",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
 {"key":"91麻豆","name":"91麻豆🔪","type":1,"api":"https://91md.me/api.php/provide/vod/"},
 {"key":"森林資源","name":"森林資源🔪","type":0,"api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml"},
 {"key":"AIvin","name":"🟣AIvin🔪","type":1,"api":"http://lbapiby.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
@@ -64,7 +71,48 @@
 {"key":"色窩資源","name":"色窩資源🔪","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
 ],
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NTTTA0MTUvYXBwdGVzdC9tYWluL2Rzam1pZG5pZ2h0VFYudHh0"]}]}],
+  "lives": [
+    {
+      "name": "♻️live",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "nightTV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/dsjmidnightTV.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️jableAV2",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/CH2406.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️missAV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/x1pd.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "💕jableAV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/blue.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
 
 
 "parses":[
