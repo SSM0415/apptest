@@ -329,7 +329,8 @@ VOA美國之音,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv0
 210花系列 經典劇場,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-live016?set=1&ch=279
 Smart知識台,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn19?set=2&ch=297
 
-💝Litv頻道👉全網,#genre#
+💝0105,#genre#
+💝Litv頻道,#genre#
 民視,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv002
 民視第一台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv003
 民視新聞台,https://4gtv.mytvsuper.xyz/?id=litv-ftv13
@@ -702,87 +703,6 @@ CN卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_t
 龍華洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi
 龍華經典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
 龍華電影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie
-馬來西亞 Malaysia,#genre#
-TV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV1
-TV1(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV1_backup
-TV2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV2
-TV3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV3
-TV3(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tv3_twn&sp=chaojidianshi
-NTV7,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=NTV7
-TV8,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV8
-TV9,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV9
-Warna,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Warna-O
-Warna(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Warna
-Ria,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ria-0
-Ria(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ria49
-Ria-3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ria_quanjia
-Al-Hijrah,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Alhijrah
-Al-Hijrah(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Alhijrah_backup
-Awani,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Awani
-Bernama,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bernama
-Prima,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Prima-0
-Prima(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Prima49
-Ceria,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Ceria
-Astro MTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AstroMTV
-Mecca Live HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=quran_mido
-Madinah HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunnah_mido
-Oasis,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Oasis
-HBO HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbo
-HBO Signature,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbosignature
-HBO Hits,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Hbohits
-NatGeo Wild HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Natgeowild
-Cartoon Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Cn
-Nickelodeon,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickelodeon
-Nick Jr,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickjr
-Citra,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Citra
-Sensasi,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sensasi
-Aura,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Aura
-Rania,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rania
-Boo,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Boo
-Awesome TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Awesome_mega
-Sony HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=SetOne
-KBS World,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=KBS
-TvN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVN
-Astro Premier,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Astropremier
-AEC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AEC
-華麗台 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt
-歡喜台 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Huahee
-歡喜台(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Huahee_backup
-Astro QJ,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Quanjia
-TVB Jade,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbjade
-TVBS Asia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbasia
-TVB Entertainment,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbentertainment
-TVB Classic,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbclassic
-AOD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AodHD
-One,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One_mega
-TVB 星河台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
-愛奇藝,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Qiyi
-Animal Planet (Eng),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AnimalPlanet
-tvN Movie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie
-CNN(備用),http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnn_twn&sp=chaojidianshi
-Celestial Classic,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial2
-CNBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnbc_twn&sp=chaojidianshi
-RTM Sports HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rtmsport
-TLC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc
-CNA,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna
-AFC 亞洲旅遊台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn&sp=chaojidianshi
-BBC World News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
-Foodnetwork Hd,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Foodnetwork_mega
-HGTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=HGTV
-Arena,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Arena
-Goshop,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Goshop
-Celestial Movies HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial_mega
-Arena 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Arena2
-Axn HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn
-Paramount Network,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Paramountnetwork
-BolaArena 1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bolaarena1
-Astrol Kplus,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Kplus
-Rock Actions,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockaction
-Bloomberg News,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
-Al-Jazeera,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=aljazeera_twn&sp=chaojidianshi
-Rock Entertainment,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rockentertain
-Showcase,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Showcase_mega
-BolaArena 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Bolaarena2
 
 
 日本,#genre#
