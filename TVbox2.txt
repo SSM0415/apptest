@@ -782,10 +782,9 @@
 {"key":"MV_vod","name":"明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1,"changeable":0}
 ],
 
-
   "lives": [
     {
-      "name": "TVonlive",
+      "name": "💕TVonlive",
       "type": 0,
       "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVonline.txt",
       "playerType": 1,
