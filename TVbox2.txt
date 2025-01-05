@@ -783,7 +783,16 @@
 ],
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NTTTA0MTUvYXBwdGVzdC9tYWluL1RWb25saW5lLnR4dA=="]}]}],
+  "lives": [
+    {
+      "name": "TVonlive",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVonline.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
