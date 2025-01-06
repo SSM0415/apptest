@@ -784,9 +784,41 @@
 
   "lives": [
     {
-      "name": "💕TVonlive",
+      "name": "♻️TVonlive",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVonline.txt",
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️fomiTV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️jableAV2",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/CH2406.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️missAV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/x1pd.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "💕jableAV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/blue.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
