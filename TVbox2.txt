@@ -800,7 +800,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "♻️jableAV2",
+      "name": "💕jableAV2",
       "type": 0,
       "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/CH2406.txt",
       "playerType": 1,
@@ -808,7 +808,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "♻️missAV",
+      "name": "💕missAV",
       "type": 0,
       "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/x1pd.txt",
       "playerType": 1,
