@@ -47,7 +47,51 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{"key": "皇冠資源1", "name": "皇冠資源1", "type": 1, "api": "https://hghhh.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
+    {
+      "key": "pgxdy",
+      "name": "PGX電影",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KpgxdyE",
+      "name": "黄AV资源(已修复)",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ms4nii",
+      "name": "美少女资源(已修复)",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KxrbspE",
+      "name": "淫水机资源(已修复)",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gdlsE",
+      "name": "香奶儿资源(已修复)",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key": "伊人資源", "name": "伊人資源", "type": 1, "api": "https://api.yirenziyuan.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "好片資源", "name": "好片資源", "type": 1, "api": "https://haopianapi.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "雞坤資源", "name": "雞坤資源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
