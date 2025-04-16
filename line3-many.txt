@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox4.txt",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox4.txt",
             "name": "自用線路1-TV-有直播"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox3.json",
             "name": "發現線路2-TV〔20240410〕"
         },    
         {
@@ -27,10 +27,6 @@
         {
             "url": "https://raw.githubusercontent.com/yescopys/box/main/ah/18cn.json",
             "name": "自用線路3-AV"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h",
-            "name": "更新中3-18+"
         },
         {
             "url": "https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
