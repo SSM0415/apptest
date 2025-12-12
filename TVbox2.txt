@@ -6,39 +6,13 @@
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",     "searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"无尽资源","name":"🔴無盡資源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"🔴最大資源","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{
-      "key": "Wexduanjuvop",
-      "name": "🍉短劇┃秒播🍉",
-      "type": 3,
-      "api": "csp_WexduanjuvopGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-{"key":"360资源","name":"🟡360資 源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"360资源","name":"🟡360資 源","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"Lib","name":"立播|影劇","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 {"key": "yingmi", "name": "🟡映迷", "type": 1, "api": "https://www.inmi.app/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
-{
-    "key": "T4-heimuer",
-    "name": "黑木耳(T4)",
-    "type": 4,
-    "api": "https://tang.hz.cz/power/hme?token=ab9f85a8",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-},
-{
-    "key": "T4-安博",
-    "name": "安博(T4)",
-    "type": 4,
-    "api": "https://tang.hz.cz/power/ub18?token=ab9f85a8",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-},
-{"key": "haiwaikan", "name": "🟡華為吧資源", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
-{"key": "四九资源", "name": "🔴四九資源🔪", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
+{"key": "yingmi", "name": "🟡如意資源", "type": 1, "api": "https://cj.rycjapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+{"key": "yingmi", "name": "🟡金鹰資源", "type": 1, "api": "https://jyzyapi.com/provide/vod/at/xml", "searchable": 1, "quickSearch": 1},
+{"key": "haiwaikan", "name": "🟡茅台資源", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/", "searchable": 1, "quickSearch": 1},
+{"key": "豆瓣资源", "name": "🔴豆瓣資源🔪", "type": 1, "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/", "searchable": 1, "quickSearch": 1},
 {"key":"索尼资源","name":"🔴索尼資源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"39影視","name":"🔴三九影視","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"🔴卧龍資源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -51,20 +25,7 @@
 {"key":"四圈资源","name":"🔴四圈資源","type":1,"api": "https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"私密影院","name":"🔴私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"IKUN","name":"🔴IKUN","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
-{
-      "key": "csp_XBPQ_vstv",
-      "name": "💚VS影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/dj3.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },
+{"key":"I71","name":"🔴愛奇藝","type":1,"api":"https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
     {
       "key": "雨哥哥影视",
       "name": "🎀雨哥哥影視(聚)",
