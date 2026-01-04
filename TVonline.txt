@@ -1652,7 +1652,8 @@ MOVIE簡中,#genre#
 聊齋畫壁,https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
 
 MOVIE繁中,#genre#
-蜘蛛夫人2024,https://192-168-1-104.hongyunas.direct.quickconnect.to:5001/fbdownload/%E8%9C%98%E8%9B%9B%E5%A4%AB%E4%BA%BA2024.mp4?tid=%220uuI-pAD8tQju7raz67T3_ewsSH89NPzYRgWvACLUitLBsmjSKCtYe5UKGP1I4ntty3yFrY07BpyLvpn%22&mode=open&dlink=%222fe5bdb1e8a6967573627368617265312f564944454f2f31e99bbbe5bdb14d4f5649452f3435302fe89c98e89b9be5a4abe4baba323032342e6d7034%22&stdhtml=true&SynoToken=lo93f4nQ5MO7A
+創-戰紀2025,https://hongyunas.direct.quickconnect.to:5001/fsdownload/i9mDYBNyd/%E5%89%B5-%E6%88%B0%E7%A5%9E2025.mp4
+
 
 GOOD系列,#genre#
 GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
