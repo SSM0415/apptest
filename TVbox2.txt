@@ -1,5 +1,5 @@
 {
-"wallpaper":"https://cdn2.zzzmh.cn/wallpaper/origin/6931aa69219c47eea8991423b69d9ba3.jpg?response-content-disposition=attachment&auth_key=1730736000-50a3711e5f1c208d9d3f8d83c7765e38b2403c9e-0-e1f3f368c4a2272f335a840de7021154",
+"wallpaper":"https://api.xsot.cn/bing?jump=true",
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
 "sites": [ 
 {"key":"U酷資源","name":"U酷資源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
