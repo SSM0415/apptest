@@ -1436,9 +1436,6 @@ MOVIE簡中,#genre#
 醜女大翻身,https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
 聊齋畫壁,https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
 
-MOVIE繁中,#genre#
-創-戰紀2025,https://192-168-1-104.hongyunas.direct.quickconnect.to:5001/fbdownload/%E5%89%B5-%E6%88%B0%E7%A5%9E2025.mp4?tid=%22oAtYE3G9sI3usV4hEphl3mWOgJTG888BUCSdFRekzWVlcDQtStzKPqfBGAExcbVi7lYRhJlTigKLypsh%22&mode=open&dlink=%222f7573627368617265312d322f4d4f5649452f3035302fe589b52de688b0e7a59e323032352e6d7034%22&stdhtml=true&SynoToken=kYcUOf6JyCrfs
-
 
 GOOD系列,#genre#
 GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
