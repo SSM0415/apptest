@@ -4,6 +4,29 @@
 任何內容廣告,#genre#
 251011UP,#genre#
 
+台灣新聞YT,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://www.youtube.com/watch?v=iNIy3lMuljU
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立新聞網,https://www.youtube.com/watch?v=XtllcS--JCs
+三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立INEW,https://www.youtube.com/watch?v=pF507BLtbqU
+三立財經,https://www.youtube.com/watch?v=1mbhK0xfohY
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森財經,https://www.youtube.com/watch?v=AEBeWMM1atA
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0K
+
 新聞,#genre#
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 民視新聞,http://125.227.210.55:8157/VideoInput/play.ts
