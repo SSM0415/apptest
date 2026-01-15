@@ -787,7 +787,7 @@
     {
       "name": "💕jableAV",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/blue.txt",
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"

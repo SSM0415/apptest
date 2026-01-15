@@ -4,6 +4,18 @@
 "sites":[
 {"key":"U酷資源","name":"U酷資源🔪","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",   "searchable": 1,"quickSearch": 1,"filterable": 1},
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
 {
       "key": "老色逼",
       "name": "老色逼資源|AV",
@@ -146,7 +158,7 @@
     {
       "name": "💕jableAV",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/blue.txt",
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
