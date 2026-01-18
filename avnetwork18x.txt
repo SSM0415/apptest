@@ -24,7 +24,15 @@
       "searchable": 1,
       "changeable": 1
     },
-{"key":"91麻豆","name":"91精品🔪","type":1,"api":"https://91jpzyw.com/api.php/provide/vod/at/json"},
+    {
+      "key": "91md",
+      "name": "91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "tag": "qb,tj,rm",
+      "categories": []
+    },
+{"key":"91md","name":"91精品🔪","type":1,"api":"https://91jpzyw.com/api.php/provide/vod/at/json"},
 {"key":"森林資源","name":"森林資源🔪","type":0,"api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml"},
 {"key":"AIvin","name":"🟣AIvin🔪","type":1,"api":"http://lbapiby.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"黄瓜资源","name":"🟣幸资源站🔪","type":1,"api":"https://xzybb1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
@@ -104,6 +112,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "老鸭2",
+      "name": "老鸭2",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {"key": "jkun资源", "name": "jkun资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "精品X资源", "name": "精品X资源", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "雞坤資源", "name": "雞坤資源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
@@ -142,7 +160,7 @@
     {
       "name": "♻️jableAV2",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/CH2406.txt",
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV2.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
