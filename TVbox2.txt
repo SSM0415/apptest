@@ -771,7 +771,7 @@
     {
       "name": "💕jableAV2",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/CH2406.txt",
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV2.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
