@@ -25,7 +25,7 @@
       "changeable": 1
     },
     {
-      "key": "91md",
+      "key": "91麻豆",
       "name": "91麻豆",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
