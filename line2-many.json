@@ -2,11 +2,11 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2.txt",
-            "name": "自用線路1-TV〔20251230〕"
+            "name": "自用線路1-TV250118"
         },
         {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2fomi.txt",
-            "name": "自用線路2-fomiTV〔20241108〕"
+            "name": "自用線路2-TV241108"
         },
         {
             "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox4.txt",
