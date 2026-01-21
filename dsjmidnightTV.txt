@@ -37,8 +37,6 @@ Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
 Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
 
-
-
 麻豆電影,#genre#
 補新01,https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 補新03,https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
@@ -710,7 +708,11 @@ Two beauties,http://ovhv40.twincdn.com/videos/prime/00/01/94/69.mp4
 
 
 
-18porn,#genre#
+18porn分類⬇,#genre#
+parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+
+18porn分類⬇,https://iwant-sex.com/video/34156.html
 人妻熟女,#genre#
 parse=1
 ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
