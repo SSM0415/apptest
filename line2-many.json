@@ -13,11 +13,11 @@
             "name": "自用線路3-TV〔20250104〕"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/avnetwork18x.txt",
             "name": "自用線路1-AV"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/avnetwork18x1.json",
             "name": "自用線路2-AV"
         },
         {
