@@ -1,7 +1,7 @@
 #iptv
 1
 
-#♻️live
+#随机电影
 https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt
 
 #玉兔
@@ -10,16 +10,15 @@ http://lzo.xh.sd/lives/玉兔.txt
 #18+直播
 http://lzo.xh.sd/lives/18TV.txt
 
-#💓nightTV
+#18+影视
 https://raw.githubusercontent.com/SSM0415/apptest/main/dsjmidnightTV.txt
 
-#💕jableAV
+#一本道
 https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV.txt
 
-#💕jableAV2
+#麻豆传媒
 https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV2.txt
-
-#🔥Youjizz
+#秒播LIST
 https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/Youjizz.txt
 
 #一本正经道
@@ -28,8 +27,10 @@ http://lzo.xh.sd/lives/一本正经道.txt
 #大洋马国际
 http://lzo.xh.sd/lives/大洋马国际.txt
 
+
 #秒播91LIST
 https://mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt
-
+#岛国 4K
+https://www.jsonav.xyz/v.txt
 #美女直播
 https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt
