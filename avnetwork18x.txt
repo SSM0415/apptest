@@ -11,18 +11,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
+{"name":"jable","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV2.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"key":"森林資源","name":"森林資源🔪","type":0,"api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml"},
 {"key":"AIvin","name":"🟣AIvin🔪","type":1,"api":"http://lbapiby.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"黄瓜资源","name":"🟣幸资源站🔪","type":1,"api":"https://xzybb1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
@@ -40,7 +29,7 @@
 {"key":"色猫資源", "name":"色猫資源", "type": 1, "api": "https://caiji.semaozy.net/inc/apijson_vod.php", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "155資源", "name": "155資源", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 
-{"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.js","ext":"https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/golive.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]}, {"key": "js_madou","name": "🔞麻豆(js)","type": 3, "api": "https://c.cxics.com/fc/madou.js"}, {"key": "🔞91q采集","name": "🔞91q(采集)", "api": "https://19q.cc/api.php/provide/vod","type": 1}, {"key": "naixiangxiang","name": "🔞奶香香","type": 1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","categories":[ "国产自拍","主播诱惑","探花约炮","偷拍偷窥","网曝吃瓜","抖阴短片","传媒剧情","日韩主播","日韩无码","中文字幕","AV解说","换脸明星","强奸乱伦","女优明星","欧美激情","重口激情","三级伦理","剧情动漫","SM调教","女同性恋","VR视角"]}, {"key": "妖娥娥","name": "🔞妖娥娥资源","type": 1,"api": "https://155api.com/api.php/provide/vod/","searchable": 1,"changeable":1}, {"key": "红桃🍑","name": "🔞红桃视频","type": 1,"api": "https://apidanaizi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable":1}, {"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","jar": "https://gh.clun.top/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
+{"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.js","ext":"https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/golive.txt}, {"key": "js_madou","name": "🔞麻豆(js)","type": 3, "api": "https://c.cxics.com/fc/madou.js"}, {"key": "🔞91q采集","name": "🔞91q(采集)", "api": "https://19q.cc/api.php/provide/vod","type": 1}, {"key": "naixiangxiang","name": "🔞奶香香","type": 1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","categories":[ "国产自拍","主播诱惑","探花约炮","偷拍偷窥","网曝吃瓜","抖阴短片","传媒剧情","日韩主播","日韩无码","中文字幕","AV解说","换脸明星","强奸乱伦","女优明星","欧美激情","重口激情","三级伦理","剧情动漫","SM调教","女同性恋","VR视角"]}, {"key": "妖娥娥","name": "🔞妖娥娥资源","type": 1,"api": "https://155api.com/api.php/provide/vod/","searchable": 1,"changeable":1}, {"key": "红桃🍑","name": "🔞红桃视频","type": 1,"api": "https://apidanaizi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable":1}, {"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","jar": "https://gh.clun.top/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
     {
       "key": "优优资源",
       "name": "💖优优资源🔪",
