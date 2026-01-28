@@ -11,7 +11,7 @@
       "searchable": 1,
       "changeable": 1
     },
-{"name":"jable","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/JableAV2.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
+
 {"key":"森林資源","name":"森林資源🔪","type":0,"api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml"},
 {"key":"AIvin","name":"🟣AIvin🔪","type":1,"api":"http://lbapiby.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"黄瓜资源","name":"🟣幸资源站🔪","type":1,"api":"https://xzybb1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
