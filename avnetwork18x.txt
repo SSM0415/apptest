@@ -29,12 +29,6 @@
 {"key":"色猫資源", "name":"色猫資源", "type": 1, "api": "https://caiji.semaozy.net/inc/apijson_vod.php", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "155資源", "name": "155資源", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 
-{"key": "js_madou","name": "🔞麻豆(js)","type": 3, "api": "https://c.cxics.com/fc/madou.js"},
-{"key": "🔞91q采集","name": "🔞91q(采集)", "api": "https://19q.cc/api.php/provide/vod","type": 1},
-{"key": "naixiangxiang","name": "🔞奶香香","type": 1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","categories":[ "国产自拍","主播诱惑","探花约炮","偷拍偷窥","网曝吃瓜","抖阴短片","传媒剧情","日韩主播","日韩无码","中文字幕","AV解说","换脸明星","强奸乱伦","女优明星","欧美激情","重口激情","三级伦理","剧情动漫","SM调教","女同性恋","VR视角"]},
-{"key": "妖娥娥","name": "🔞妖娥娥资源","type": 1,"api": "https://155api.com/api.php/provide/vod/","searchable": 1,"changeable":1},
-{"key": "红桃🍑","name": "🔞红桃视频","type": 1,"api": "https://apidanaizi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable":1},
-{"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","jar": "https://gh.clun.top/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
     {
       "key": "优优资源",
       "name": "💖优优资源🔪",
