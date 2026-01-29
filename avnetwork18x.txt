@@ -240,7 +240,7 @@
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
-]}],
+]},
 "ads":[
 "mimg.0c1q0l.cn",
 "www.googletagmanager.com",
