@@ -267,6 +267,33 @@
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24",
 "分类url":"https://www.0dzm3d.com/typegaokk/{cateId}_{catePg}.html[https://www.0dzm3d.com/typegaokk/{cateId}.html]"}},
 
+{
+      "key": "Doll",
+      "name": "🔞资源┃玩偶",
+      "type": 3,
+      "api": "csp_Doll",
+      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
+    },
+    {
+      "key": "Eighteen",
+      "name": "🔞资源┃18Av",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
+    },
+{
+      "key": "Miss",
+      "name": "🔞资源┃MissAv",
+      "type": 3,
+      "api": "csp_Miss",
+      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
+    },
+    {
+      "key": "XMVideo",
+      "name": "🔞熊猫视频┃珍惜",
+      "type": 3,
+      "api": "csp_XMVideo"
+    },
 
 {"key": "js_madou","name": "🔞麻豆(js)","type": 3, "api": "https://c.cxics.com/fc/madou.js"},
 {"key": "🔞91q采集","name": "🔞91q(采集)", "api": "https://19q.cc/api.php/provide/vod","type": 1},
