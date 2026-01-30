@@ -355,6 +355,16 @@
             "filterable": 1
         },
 
+{"key":"蕃茄","name":"18+蕃茄","type":1,"api":"https://fqzy.me//api.php/provide/vod/",  "playUrl":"","searchable":1,"quickSearch":0,"categories": ["偷拍自拍","乱伦毁三观","淫乱学生","女主播网红","欧美精品", "黑料网曝","动漫精选","中文字幕","高清无码","高清有码"]},
+
+{
+			"key": "精品资源站",
+			"name": "精品资源",
+			"type": 1,
+			"api": "https://www.jingpinx.com/api.php/provide/vod/",
+			"ext": "proxy"
+		},
+
 
 {"key": "js_madou","name": "🔞麻豆(js)","type": 3, "api": "https://c.cxics.com/fc/madou.js"},
 {"key": "🔞91q采集","name": "🔞91q(采集)", "api": "https://19q.cc/api.php/provide/vod","type": 1},
