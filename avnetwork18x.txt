@@ -1,8 +1,6 @@
 {
 "wallpaper":"https://api.xsot.cn/bing?jump=true",
-"spider": "./jar/xyq.jar",
-"logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
-"spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
 "spider": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662", 
 "sites":[
@@ -268,32 +266,95 @@
 "分类url":"https://www.0dzm3d.com/typegaokk/{cateId}_{catePg}.html[https://www.0dzm3d.com/typegaokk/{cateId}.html]"}},
 
 {
-      "key": "Doll",
-      "name": "🔞资源┃玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
+            "key": "奶香m",
+            "name": "🔞采集.奶香香",
+            "type": 1,
+            "api": "https://naixxzy4.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        }, 
+
+{"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
+
+{"key":"辣椒","name":"🍎辣椒(直连)","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","quickSearch":1,"searchable":1,"filterable":1},
+
+{
+      "key": "zp011",
+      "name": "🐝78资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
-    {
-      "key": "Eighteen",
-      "name": "🔞资源┃18Av",
+
+{
+            "key": "JAVSB",
+            "name": "🔞JAVSB",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "主页url": "https://jav.sb/",
+                "直接播放": "1",
+                "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
+                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur#欧美$Western_Porn"
+            }
+        },
+
+{
+      "key": "jap影網",
+      "name": "🔞6av┃影视",
       "type": 3,
-      "api": "csp_Eighteen",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.1av.shop/vodtype/25.html",
+        "播放数组":"mod play-list&&</ul",
+        "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+       "直接播放":"1",
+       "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
+        "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
+      }
     },
 {
-      "key": "Miss",
-      "name": "🔞资源┃MissAv",
+      "key": "11影網",
+      "name": "🔞112vv┃影视",
       "type": 3,
-      "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.112vv.me/vodtype/26.html",
+        "播放数组":"mod play-list&&</ul",
+        "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+       "直接播放":"1",
+       "分类url": "https://www.112vv.me/vodtype/{cateId}-{catePg}.html;;z",
+        "分类": "国产视频$6#欧美高清$24#日韩视频$23#熟女人妻$32#国产传媒$12#亚洲专区$22#中文字幕$25#三级电影$26#高清名优$38#日本素人$37#少女萝莉$31#强奸乱伦$29#制服丝袜$30#童颜巨乳$28"
+      }
     },
-    {
-      "key": "XMVideo",
-      "name": "🔞熊猫视频┃珍惜",
-      "type": 3,
-      "api": "csp_XMVideo"
-    },
+{
+            "key": "精东",
+            "name": "🚀精东",
+            "type": 1,
+            "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
 
 {"key": "js_madou","name": "🔞麻豆(js)","type": 3, "api": "https://c.cxics.com/fc/madou.js"},
 {"key": "🔞91q采集","name": "🔞91q(采集)", "api": "https://19q.cc/api.php/provide/vod","type": 1},
