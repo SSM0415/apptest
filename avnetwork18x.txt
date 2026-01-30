@@ -33,7 +33,6 @@
 {"key":"色猫資源", "name":"色猫資源", "type": 1, "api": "https://caiji.semaozy.net/inc/apijson_vod.php", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 {"key": "155資源", "name": "155資源", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": "1", "quickSearch": "1", "filterable": "0"},
 
-{"key":"91md","name":"🐞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "jable",
             "name": "💃jable| XBPQ💃",
             "type": 3,
@@ -268,99 +267,6 @@
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24",
 "分类url":"https://www.0dzm3d.com/typegaokk/{cateId}_{catePg}.html[https://www.0dzm3d.com/typegaokk/{cateId}.html]"}},
 
-{"key":"csp_XYQHiker_ggjav","name": "🔞GGJAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/ggjav.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_bad","name": "🔞Bad.news(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/bad.json","style": {"type": "rect","ratio": 1.8}},
-{"key":"csp_XYQHiker_bad搜索1","name": "🔞Bad.news搜索AV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/bad搜索1.json","style": {"type": "rect","ratio": 1.8}},
-
-{"key":"csp_XYQHiker_52av论坛","name": "🔞52av论坛(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/52av2.json","style": {"type": "rect","ratio": 1.8}},
-
-{"key":"csp_XYQHiker_小嫂子av","name": "🔞小嫂子AV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/小嫂子av.json","style": {"type": "rect","ratio": 1.6}},
-	{"key":"JAVDAYTV","name":"🔞JAVDAYTV(XYQHiker)","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javday.json","style": {"type": "rect","ratio": 1.6}},
-	//{"key":"csp_XYQHiker_兄弟","name": "🔞AV兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av兄弟.json","style": {"type": "rect","ratio": 1.6}},
-	 {"key":"csp_XYQHiker_18jtv🔞","name":"🔞18jtv(XYQHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/18jtv.json","style": {"type": "rect","ratio": 1.6}},
-	 
-	 //{"key":"csp_XYQHiker_rjav.com","name": "🔞Rjav.com(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/rjav.json","style": {"type": "rect","ratio": 1.6}},   
-	 
-	 {"key":"csp_XYQHiker_jieav","name": "🔞JieAV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/jieav.json","style": {"type": "rect","ratio": 1.8}},
-	 {"key":"csp_XYQHiker_xnxx","name": "🔞XNXX(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/xnxx.json","style": {"type": "rect","ratio": 1.6}},
-	  {"key":"csp_XYQHiker_njavtv.com","name": "🔞Njavtv(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/njavtv.json","style": {"type": "rect","ratio": 1.6}},
-	 //{"key":"csp_XYQHiker_njavtv.com","name": "🔞Njavtv.com(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/爱妻艺.json","style": {"type": "rect","ratio": 1.6}},
-	 
-	 
-	{"key":"csp_XYQHiker_missav","name": "🔞MissAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_missav.app","name": "🔞MissAV.app","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.app.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_netflav","name": "🔞Netflav①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/netflav.json","style": {"type": "rect","ratio": 1.6}},
-   // {"key": "csp_Netflav","name": "🔞Netflav②","type": 3,"api": "csp_Netflav","jar":"./jar/pg.jar","changeable": 1,"filterable": 0,"timeout": 60},
-
-{"key":"csp_XYQHiker_njav.com","name": "🔞Njav.com","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/njav.com.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_麻豆社","name": "🔞麻豆社","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/麻豆社.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_jable","name": "🔞Jable④","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/jable.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_supjav","name": "🔞SupJAV②","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/supjav.json","style": {"type": "rect","ratio": 1.6}},
-	
-    {"key":"csp_XYQHiker_av6k","name": "🔞JAV6K","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av6k.json","style": {"type": "rect","ratio": 1.6}},
-   
-    {"key":"csp_XYQHiker_javffm","name": "🔞JAVFFM","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javffm.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_javtsunami","name": "🔞javtsunami","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javtsunami.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_18av","name": "🔞18AV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/18av.json","style": {"type": "rect","ratio": 1.6}},
-   
-    {"key":"csp_XYQHiker_170av","name": "🔞170av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/170av.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_444咖啡","name": "🔞444咖啡","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/444咖啡.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_hohoj","name": "🔞HOHOJ","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/hohoj.json","style": {"type": "rect","ratio": 1.6}},
-    
-    {"key":"csp_XYQHiker_kanav","name": "🔞KANAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/kanav.json","style": {"type": "rect","ratio": 1.6}}, 
-   
-    {"key":"csp_XYQHiker_MOTV","name": "🔞MOTV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/motv.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_owoAV","name": "🔞OWOAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/owoav.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_porn87","name": "🔞porn87","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/porn87.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_pornhub","name": "🔞pornhub","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/pornhub.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_pornlulu","name": "🔞PornLuLu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/pornlulu.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_qinav","name": "🔞Qinav","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/qinav.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_tktube","name": "🔞Tktube","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/tktube.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_xHamster","name": "🔞xHamster","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/xHamster.json","style": {"type": "rect","ratio": 1.6}},
-   
-    {"key":"csp_XYQHiker_xvideos","name": "🔞Xvideos","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/xvideos.json","style": {"type": "rect","ratio": 1.6}},
-   
-    {"key": "vv001","name": "️🔞女優","type": 4,"api": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/00title05151.json","jar": "./jar/xc0126.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
-
-{"key":"csp_XYQHiker_18jav","name": "🔞18JAV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/18jav.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key": "hav6.beauty",  "name": "🔞黄AV",  "type": 0,  "api": "https://www.pgxdy.com/api/xml.php",  "searchable": 1,  "recordable": 0,  "style": {    "type": "rect",    "ratio": 1.6  }},
-
-{"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","filterable": 1,"jar": "./jar/182.jar"},
-
-{"key":"csp_XYQHiker_日日撸","name": "🔞日日撸","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/日日撸.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_台湾kiss","name": "🔞台湾kiss","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/台湾kiss.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_正妹AV","name": "🔞正妹AV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/正妹av.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_亚色影库","name": "🔞亚色影库","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/亚色影库.json","style": {"type": "rect","ratio": 1.8}},
-
-{"key":"csp_XYQHiker_亚洲色吧","name": "🔞亚洲色吧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/亚洲色吧.json","style": {"type": "rect","ratio": 1.6}},
-   
-   
-    {"key":"csp_XYQHiker_有爱爱uaa","name": "🔞有爱爱uaa","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/有爱爱.json","style": {"type": "rect","ratio": 1.75},"logo":"https://m.uaa.com/assets/logo-af49a8e2.svg"},
-    {"key":"csp_XYQHiker_朱古力","name": "🔞朱古力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/朱古力.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_杏吧视频","name": "🔞杏吧视频","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/杏吧视频.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_丽丽AV","name": "🔞丽丽AV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/丽丽av.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_黄色仓库123","name": "🔞黄色仓库123✈️🔗","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_紫色成人","name": "🔞紫色成人","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/紫色成人.json","style": {"type": "rect","ratio": 1.6}},
-
-{"key":"csp_XYQHiker_酷爱成人网>","name": "🔞酷爱成人网✈️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/酷爱成人网.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_鲨鱼av","name": "🔞鲨鱼av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/鲨鱼av.json","style": {"type": "rect","ratio": 1.6}},
 
 {"key": "js_madou","name": "🔞麻豆(js)","type": 3, "api": "https://c.cxics.com/fc/madou.js"},
 {"key": "🔞91q采集","name": "🔞91q(采集)", "api": "https://19q.cc/api.php/provide/vod","type": 1},
