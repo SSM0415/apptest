@@ -20,7 +20,15 @@
 {"key":"玉兔资源","name":"🟣玉兔資源🔪","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"奶香香","name":"🟣奶香香🔪","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"精品资源","name":"🟣精品資源🔪","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"小鸡资源","name":"🟣小鸡资源🔪","type":1,"api":"https://api.xiaojizy.live/provide/vod/","searchable":1,"quickSearch":1},
+{
+      "key": "醒吧",
+      "name": "杏吧",
+      "type": 0,
+      "api": "https://sex8zy7.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://xbww888.com/?url="
+    },
 {"key":"夜色资源","name":"🟣越南資源🔪","type":1,"api":"https://www.vnzyz.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"辣椒資源","name":"辣椒資源🔪","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/"},
 {"key":"桃花资源","name":"桃花资源🔪","type":1,"api":"https://thzy1.me/api.php/provide/vod/"},
