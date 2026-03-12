@@ -25,6 +25,10 @@
             "name": "自用線路3-AV"
         },
         {
+            "url": "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/Aries18x.json",
+            "name": "Aries18x-AV"
+        },
+        {
             "url": "https://raw.githubusercontent.com/zhangfdzr/se/refs/heads/main/ase.json",
             "name": "🆙友情19+"
         },
