@@ -1,11 +1,68 @@
 {
 "wallpaper":"https://api.xsot.cn/bing?jump=true",
+"spider": "./lib/xyq.jar",
 "spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
 "spider": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662", 
 "sites":[
 {"key":"U酷資源","name":"U酷資源🔪","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",   "searchable": 1,"quickSearch": 1,"filterable": 1},
+{
+    "id": "api.bwzyz.com",
+    "name": "百萬資源站",
+    "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+{
+            "key": "豆瓣",
+            "name": "🏰 豆瓣┃首页",
+            "type": 3,
+            "api": "csp_Douban",
+            "jar": "./lib/pg.jar",
+            "searchable": 0,
+            "changeable": 1,
+            "indexs": 1,
+            "ext": "./lib/douban.json"
+        },
+        {
+            "key": "✨水果派✨",
+            "name": "✨水果派✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/水果派.json"
+        },
+        {
+            "key": "推特APP",
+            "name": "✨Aries|推特APP✨",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv323推特APP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "精工厂",
+            "name": "✨Aries|精工厂✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/精工厂.json"
+        },
 {
       "key": "老色逼",
       "name": "老色逼資源|AV",
@@ -670,8 +727,7 @@
 
 {"key":"蕃茄","name":"18+蕃茄","type":1,"api":"https://fqzy.me//api.php/provide/vod/",  "playUrl":"","searchable":1,"quickSearch":0,"categories": ["偷拍自拍","乱伦毁三观","淫乱学生","女主播网红","欧美精品", "黑料网曝","动漫精选","中文字幕","高清无码","高清有码"]},
 
-{
-			"key": "精品资源站",
+{			"key": "精品资源站",
 			"name": "精品资源",
 			"type": 1,
 			"api": "https://www.jingpinx.com/api.php/provide/vod/",
