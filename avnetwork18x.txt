@@ -9,62 +9,7 @@
 "sites":[
 {"key":"U酷資源","name":"U酷資源🔪","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "非凡資源","name": "非凡資源🔪","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",   "searchable": 1,"quickSearch": 1,"filterable": 1},
-{
-    "id": "api.bwzyz.com",
-    "name": "百萬資源站",
-    "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
-    "nsfw": true,
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-{
-            "key": "豆瓣",
-            "name": "🏰 豆瓣┃首页",
-            "type": 3,
-            "api": "csp_Douban",
-            "jar": "./lib/pg.jar",
-            "searchable": 0,
-            "changeable": 1,
-            "indexs": 1,
-            "ext": "./lib/douban.json"
-        },
-        {
-            "key": "✨水果派✨",
-            "name": "✨水果派✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/水果派.json"
-        },
-        {
-            "key": "推特APP",
-            "name": "✨Aries|推特APP✨",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./lib/apiv323推特APP.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "精工厂",
-            "name": "✨Aries|精工厂✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/精工厂.json"
-        },
+
 {
       "key": "老色逼",
       "name": "老色逼資源|AV",
@@ -779,6 +724,14 @@
       "name": "♻️live",
       "type": 0,
       "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "💓xwll18TV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwll18.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
